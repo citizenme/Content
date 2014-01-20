@@ -1,0 +1,438 @@
+{
+  "alexa" : 80348,
+  "class" : false,
+  "links" : {
+    "privacy" : {
+      "last-archive" : {
+        "time" : "",
+        "uri" : ""
+      },
+      "name" : "Privacy Policy Agreement",
+      "url" : "http://store.steampowered.com/privacy_agreement/"
+    },
+    "terms" : {
+      "last-archive" : {
+        "time" : "",
+        "uri" : ""
+      },
+      "name" : "Steam Subscriber Agreement",
+      "url" : "http://store.steampowered.com/subscriber_agreement/"
+    }
+  },
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "steam",
+  "name" : "Steam",
+  "tosback2" : {
+    "privacy" : {
+      "last-archive" : {
+        "time" : "",
+        "uri" : ""
+      },
+      "name" : "Privacy Policy Agreement",
+      "url" : "http://store.steampowered.com/privacy_agreement/"
+    },
+    "sitename" : "steampowered.com",
+    "terms" : {
+      "last-archive" : {
+        "time" : "",
+        "uri" : ""
+      },
+      "name" : "Steam Subscriber Agreement",
+      "url" : "http://store.steampowered.com/subscriber_agreement/"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "store.steampowered.com",
+  "urls" : [ "store.steampowered.com" ],
+  "fileName" : "steam.json",
+  "jdm" : {
+    "name" : "Steam",
+    "url" : "https://support.steampowered.com/newticket.php",
+    "notes" : "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while."
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-transparency-data-no",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "https://www.eff.org/pages/who-has-your-back#transparency",
+    "title" : "No transparency on law enforcement requests",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "no transparency",
+      "point" : "bad",
+      "score" : 30,
+      "tldr" : "The service is not making clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+    },
+    "topics" : [ {
+      "description" : "",
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    }, {
+      "id" : "law-enforcement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law enforcement and due process",
+      "parent" : "law-gov",
+      "subtitle" : "What are the law enforcement standards followed by the service?",
+      "title" : "Law enforcement and due process",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/Q1oDK4mAvuw/discussion",
+    "id" : "x2OybdCClW0",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "title" : "Pseudonyms allowed",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "pseudonyms allowed",
+      "point" : "good",
+      "score" : 20,
+      "tldr" : "You do not have to provide your legal name (except for paid accounts for billing purposes) and you can use the service with a pseudonym."
+    },
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+    "id" : "rhykox7XUfs10",
+    "meta" : {
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "subscriber agreement" : "http://store.steampowered.com/subscriber_agreement/"
+    },
+    "title" : "No refund policy",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "no refund policy",
+      "point" : "neutral",
+      "score" : 50,
+      "tldr" : "“Your cancellation of an Account, or your cessation of use of any Subscription or request that access to a Subscription be terminated, will not entitle you to any refund, including of any Subscription fees.”"
+    },
+    "topics" : [ {
+      "id" : "guarantee",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Guarantee",
+      "subtitle" : "Some services will guarantee you certain features, or explicitly reject any guarantee.",
+      "title" : "Guarantee",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+    "id" : "rhykox7XUfs11",
+    "meta" : {
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "subscriber agreement" : "http://store.steampowered.com/subscriber_agreement/"
+    },
+    "title" : "A user can voluntarily cancel their account at any time.",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you can leave at any time",
+      "point" : "good",
+      "score" : 15,
+      "tldr" : "“You may cancel your Account at any time. You may cease use of a Subscription at any time or, if you choose, you may request that we terminate your access to a Subscription. However, Subscriptions are not transferable, and even if your access to a Subscription for a particular game or application is terminated, the original activation key will not be able to be registered to any other account, even if the game or application was purchased in a retail store. Access to Subscriptions purchased as a part of a pack or bundle cannot be terminated individually, termination of access to one game within the bundle will result in termination of access to all games purchased in the pack will be removed from the account.”"
+    },
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "id" : "leave",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+    "id" : "rhykox7XUfs12",
+    "meta" : {
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "subscriber agreement" : "http://store.steampowered.com/subscriber_agreement/"
+    },
+    "title" : "Valve can cancel your account at any time.",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "they can delete your account without prior notice and without a reason",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "Section 10:C “Valve may cancel your Account or any particular Subscription(s) at any time. In the event that your Account or a particular Subscription is terminated or cancelled by Valve for a violation of this Agreement or improper or illegal activity, no refund, including of any Subscription fees, will be granted.”"
+    },
+    "topics" : [ {
+      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
+      "id" : "suspension",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Suspension and Censorship",
+      "subtitle" : "Can they end your use of the service at any time?",
+      "title" : "Suspension and Censorship",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+    "id" : "rhykox7XUfs15",
+    "meta" : {
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "subscriber agreement" : "http://store.steampowered.com/subscriber_agreement/"
+    },
+    "title" : "Jurisdiction: Washington (for non-EU) and Luxembourg.",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "court of law is in location X",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "For non-EU subscribers: the jurisdiction and the law of Washington apply. For EU subscribers, the law of Luxembourg applies. “However, where the laws of Luxembourg provide a lower degree of consumer protection than the laws of your country of residence, the consumer protection laws of your country shall prevail.”."
+    },
+    "topics" : [ {
+      "category" : "governance",
+      "description" : "What is the jurisdiction, what laws govern the terms?",
+      "id" : "jurisdiction-law",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Jurisdiction and governing laws",
+      "subtitle" : "Where can you sue, or be sued, for breaching of the rules?",
+      "title" : "Jurisdiction and governing laws",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+    "id" : "rhykox7XUfs16",
+    "meta" : {
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "subscriber agreement" : "http://store.steampowered.com/subscriber_agreement/"
+    },
+    "title" : "Trial and class action waiver",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "class action waiver",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "Section 12 “YOU AND VALVE AGREE TO RESOLVE ALL DISPUTES AND CLAIMS BETWEEN US IN INDIVIDUAL BINDING ARBITRATION. THAT INCLUDES, BUT IS NOT LIMITED TO, ANY CLAIMS ARISING OUT OF OR RELATING TO: (i) ANY ASPECT OF THE RELATIONSHIP BETWEEN US; (ii) THIS AGREEMENT; OR (iii) YOUR USE OF STEAM, YOUR ACCOUNT OR THE SOFTWARE. IT APPLIES REGARDLESS OF WHETHER SUCH CLAIMS ARE BASED IN CONTRACT, TORT, STATUTE, FRAUD, UNFAIR COMPETITION, MISREPRESENTATION OR ANY OTHER LEGAL THEORY.<br /><br />However, this Section does not apply to the following types of claims or disputes, which you or Valve may bring in any court with jurisdiction: (i) claims of infringement or other misuse of intellectual property rights, including such claims seeking injunctive relief; and (ii) claims related to or arising from any alleged unauthorized use, piracy or theft.<br /><br />This Section does not prevent you from bringing your dispute to the attention of any federal, state, or local government agencies that can, if the law allows, seek relief from us for you.<br /><br />An arbitration is a proceeding before a neutral arbitrator, instead of before a judge or jury. Arbitration is less formal than a lawsuit in court, and provides more limited discovery. It follows different rules than court proceedings, and is subject to very limited review by courts. The arbitrator will issue a written decision and provide a statement of reasons if requested by either party. YOU UNDERSTAND THAT YOU AND VALVE ARE GIVING UP THE RIGHT TO SUE IN COURT AND TO HAVE A TRIAL BEFORE A JUDGE OR JURY.”"
+    },
+    "topics" : [ {
+      "id" : "waiver",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Waiving your right",
+      "parent" : "governance",
+      "subtitle" : "What kind of rights do you give up on?",
+      "title" : "Waiving your right",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+    "id" : "rhykox7XUfs2",
+    "meta" : {
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "http://store.steampowered.com/privacy_agreement/"
+    },
+    "title" : "May share aggregate and individual user information with other parties without restriction",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "personal data is given to third parties",
+      "point" : "bad",
+      "score" : 10,
+      "tldr" : "Aggregate information or individual information about a user or users' machine in a form that does not “personally identify” a user can be shared without restriction."
+    },
+    "topics" : [ {
+      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
+      "id" : "personal-data",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Personal Data",
+      "parent" : "ownership",
+      "subtitle" : "Can you control your privacy?",
+      "title" : "Personal Data",
+      "type" : "topic"
+    }, {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    }, {
+      "id" : "third",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+    "id" : "rhykox7XUfs4",
+    "meta" : {
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "http://store.steampowered.com/privacy_agreement/"
+    },
+    "title" : "Your personal information is not shared with third parties for marketing purposes",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "personal data is not sold",
+      "point" : "good",
+      "score" : 25,
+      "tldr" : "No “Personally identifiable information” is shared with third parties for marketing purposes."
+    },
+    "topics" : [ {
+      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
+      "id" : "personal-data",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Personal Data",
+      "parent" : "ownership",
+      "subtitle" : "Can you control your privacy?",
+      "title" : "Personal Data",
+      "type" : "topic"
+    }, {
+      "id" : "third",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+    "id" : "rhykox7XUfs6",
+    "meta" : {
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "http://store.steampowered.com/privacy_agreement/"
+    },
+    "title" : "Can request review and/or removal of personally identifiable info.",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you can request access and deletion of personal data",
+      "point" : "good",
+      "score" : 50,
+      "tldr" : "“If you are concerned about the accuracy of personally identifiable information maintained by Valve or wish to review, access, amend or correct it, or would like your personally identifiable information removed from Valve's records or otherwise deactivated, please contact us here. We may decline requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, or are extremely impractical.”"
+    },
+    "topics" : [ {
+      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
+      "id" : "personal-data",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Personal Data",
+      "parent" : "ownership",
+      "subtitle" : "Can you control your privacy?",
+      "title" : "Personal Data",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+    "id" : "rhykox7XUfs8",
+    "meta" : {
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "subscriber agreement" : "http://store.steampowered.com/subscriber_agreement/"
+    },
+    "title" : "Defend and indemnify Valve. Survives termination of the agreement.",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "defend, indemnify, hold harmless; survives termination",
+      "point" : "bad",
+      "score" : 80,
+      "tldr" : "You agree to defend, indemnify and hold harmless Valve, its licensors, and its and their affiliates from all liabilities, claims and expenses, including attorneys' fees, that arise from or in connection with breach of this Agreement or the use of Steam or any Subscription, ..."
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+    "id" : "rhykox7XUfs9",
+    "meta" : {
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "subscriber agreement" : "http://store.steampowered.com/subscriber_agreement/"
+    },
+    "title" : "Notifications 30 days before changes.",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "user is notified a month or more in advance",
+      "point" : "good",
+      "score" : 40,
+      "tldr" : "Changes to the agreement are notified by email or within the program 30 days in advance."
+    },
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ]
+  } ]
+}

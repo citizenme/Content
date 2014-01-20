@@ -1,0 +1,105 @@
+{
+  "alexa" : 129098,
+  "class" : "A",
+  "links" : {
+    "terms" : {
+      "name" : "Propriété intellectuelle",
+      "url" : "http://seenthis.net/fran%C3%A7ais/mentions/article/propri%C3%A9t%C3%A9-intellectuelle"
+    }
+  },
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "seenthis",
+  "name" : "SeenThis",
+  "related" : [ "twitter", "status-net" ],
+  "tosback2" : {
+    "terms" : {
+      "name" : "Propriété intellectuelle",
+      "url" : "http://seenthis.net/fran%C3%A7ais/mentions/article/propri%C3%A9t%C3%A9-intellectuelle"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "A",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "seenthis.net",
+  "urls" : [ "seenthis.net" ],
+  "fileName" : "seenthis.json",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/IPta_G2GTJk/",
+    "id" : "IPta_G2GTJk",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "http://seenthis.net/fran%C3%A7ais/mentions/article/propri%C3%A9t%C3%A9-intellectuelle",
+    "title" : "You can get your data back",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you can get your data back",
+      "point" : "good",
+      "score" : 40,
+      "tldr" : "You can get the totality of your messages at any time in an XML file."
+    },
+    "topics" : [ {
+      "description" : "It is essential that users who do not wish to continue using a service can get their data out of the service, and thus avoid lock-in.",
+      "id" : "data-export",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Data portability",
+      "parent" : "leave",
+      "subtitle" : "Can you get your data back?",
+      "title" : "Data portability",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/IPta_G2GTJk/",
+    "id" : "IPta_G2GTJk2",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "http://seenthis.net/fran%C3%A7ais/mentions/article/propri%C3%A9t%C3%A9-intellectuelle",
+    "title" : "Right to leave the service",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you can leave at any time",
+      "point" : "good",
+      "score" : 15,
+      "tldr" : "You can ask SeenThis to delete your account at any time, but you have to contact them."
+    },
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "id" : "leave",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/forum/?fromgroups#!topic/tosdr/kizrN7qb1Ck",
+    "id" : "kizrN7qb1Ck4",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "http://seenthis.net/fran%C3%A7ais/mentions/article/propri%C3%A9t%C3%A9-intellectuelle",
+    "title" : "You are free to choose your copyright license",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you have control over licensing options",
+      "point" : "good",
+      "score" : 100,
+      "tldr" : "The copyright license granted to SeenThis is limited for the purpose of running the service: you allow them to publish your content on the website and to add automatated data. You are free to choose your own copyright license for your content in your account settings: Public Domain, Creative Commons non commercial, or free licenses, but also classic copyright if you wish so."
+    },
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ]
+  } ]
+}

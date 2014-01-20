@@ -1,0 +1,326 @@
+{
+  "alexa" : 1496,
+  "class" : "D",
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.500px.com/privacy"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "http://500px.com/terms"
+    }
+  },
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "500px",
+  "name" : "500px",
+  "related" : [ "flickr" ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.500px.com/privacy"
+    },
+    "sitename" : "500px.com",
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "http://500px.com/terms"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "D",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "500px.com",
+  "urls" : [ "500px.com" ],
+  "fileName" : "500px.json",
+  "jdm" : {
+    "name" : "500px",
+    "url" : "https://500px.com/settings"
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/3uiIrLyj8Hw/discussion",
+    "id" : "3uiIrLyj8Hw",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : "http://500px.com/terms"
+    },
+    "title" : "Waiver of legal actions",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "class action waiver",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "“You shall not have any right to terminate the permissions granted herein, nor to seek, obtain, or enforce any injunctive or other equitable relief against 500px, all of which such rights are hereby expressly and irrevocably waived by you in favour of 500px.”"
+    },
+    "topics" : [ {
+      "id" : "waiver",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Waiving your right",
+      "parent" : "governance",
+      "subtitle" : "What kind of rights do you give up on?",
+      "title" : "Waiving your right",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/X99SUnV7RUs/discussion",
+    "id" : "X99SUnV7RUs",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : "http://500px.com/terms"
+    },
+    "title" : "Broad copyright license",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "broader than necessary",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "The copyright license you grant to 500px is transferable and sublicensable. The copyright license is limited for use “in connection with the Services” which includes promotional uses and redistribution “to other parties, web-sites, applications, and other entities” if you are credited properly. The license on your content terminates when you remove such content."
+    },
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/m4IRrxn4SOo/discussion",
+    "id" : "any-time-with-notice",
+    "meta" : {
+      "author" : "Hugo for “Terms of Service; Didn't Read”",
+      "contributors" : [ "Hugo Roy <hugo@tosdr.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "title" : "Terms may be changed at any time, but you will be notified.",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "user is notified on the day",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "They can change the terms of service any time they see fit, but they will notify the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."
+    },
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/ozS1etNH7ZA/discussion",
+    "id" : "ozS1etNH7ZA",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://500px.com/terms"
+    },
+    "title" : "500px Store: Authorship",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "sign away moral rights",
+      "point" : "blocker",
+      "score" : 50,
+      "tldr" : "“you hereby irrevocably waive all moral rights in your Store Images;”"
+    },
+    "topics" : [ {
+      "id" : "waiver",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Waiving your right",
+      "parent" : "governance",
+      "subtitle" : "What kind of rights do you give up on?",
+      "title" : "Waiving your right",
+      "type" : "topic"
+    }, {
+      "description" : "The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is <strong>your content, your data</strong>: you can decide.",
+      "example" : {
+        "bad" : "We get a license beyond the requirements to operate the service, so your data may be used for purposes you do not intend. We will still attribute ownership to you.",
+        "blocker" : "We become the owners of your data.",
+        "good" : "You license us to use your data only for the purpose of operating this service."
+      },
+      "id" : "ownership",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "name" : "Ownership",
+      "subtitle" : "What happens with the content you generate on the service?",
+      "title" : "Ownership",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/Q1oDK4mAvuw/discussion",
+    "id" : "x2OybdCClW0",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "title" : "Pseudonyms allowed",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "pseudonyms allowed",
+      "point" : "good",
+      "score" : 20,
+      "tldr" : "You do not have to provide your legal name (except for paid accounts for billing purposes) and you can use the service with a pseudonym."
+    },
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/wYFqcvOn7XY/discussion",
+    "id" : "wYFqcvOn7XY",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://500px.com/terms"
+    },
+    "title" : "The terms are easy to read",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "easy to read",
+      "point" : "good",
+      "score" : 10,
+      "tldr" : "500px provides an easy to read summary of the terms on the right side. This provides a pleaseant reading experience. However some of the summaries are a bit misleading and should not omit important details."
+    },
+    "topics" : [ {
+      "category" : "governance",
+      "id" : "readability",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Easy to read",
+      "subtitle" : "Are the terms easy to find and well written?",
+      "title" : "Easy to read",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/wYFqcvOn7XY/discussion",
+    "id" : "wYFqcvOn7XY2",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : "http://500px.com/terms"
+    },
+    "title" : "500px Store: your account can be terminated at any time",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "they can delete your account without prior notice and without a reason",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "“500px may terminate your store account at any time for any reason or no reason. All Store Images remaining in your Store account will be removed by 500px upon termination of your store account.”"
+    },
+    "topics" : [ {
+      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
+      "id" : "suspension",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Suspension and Censorship",
+      "subtitle" : "Can they end your use of the service at any time?",
+      "title" : "Suspension and Censorship",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/wYFqcvOn7XY/discussion",
+    "id" : "wYFqcvOn7XY3",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : "http://500px.com/terms"
+    },
+    "title" : "You are responsible for any claim and agree to indemnify them",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "responsible and indemnify",
+      "point" : "bad",
+      "score" : 40,
+      "tldr" : "You cannot hold 500px responsible for any claim or demand in law which you ever had, or may have. You agree to indemnify them for all claims related to your content or your account, including for any person using your username and password."
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/y7polYRKTN0/discussion",
+    "id" : "y7polYRKTN0",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : "http://500px.com/terms"
+    },
+    "title" : "Open only to individual photographers and graphic artists",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "only for your individual use",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "“Accounts may not be opened by galleries, agents and other market intermediaries and entities who represent photographers and graphic artists or sell their works.”"
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ]
+  } ]
+}

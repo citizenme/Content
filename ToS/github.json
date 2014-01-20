@@ -1,0 +1,380 @@
+{
+  "alexa" : 304,
+  "class" : "B",
+  "links" : {
+    "privacy" : {
+      "last-archive" : {
+        "time" : "",
+        "uri" : ""
+      },
+      "name" : "Privacy Policy",
+      "url" : "https://help.github.com/privacy-policy"
+    },
+    "security" : {
+      "last-archive" : {
+        "time" : "",
+        "uri" : ""
+      },
+      "name" : "Security",
+      "url" : "https://help.github.com/security/"
+    },
+    "terms" : {
+      "last-archive" : {
+        "time" : "",
+        "uri" : ""
+      },
+      "name" : "Terms of Service",
+      "url" : "https://github.com/site/terms"
+    }
+  },
+  "dataexport" : true,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "github",
+  "name" : "GitHub",
+  "related" : [ "gitorious" ],
+  "tosback2" : {
+    "privacy" : {
+      "last-archive" : {
+        "time" : "",
+        "uri" : ""
+      },
+      "name" : "Privacy Policy",
+      "url" : "https://help.github.com/privacy-policy"
+    },
+    "security" : {
+      "last-archive" : {
+        "time" : "",
+        "uri" : ""
+      },
+      "name" : "Security",
+      "url" : "https://help.github.com/security/"
+    },
+    "sitename" : "github.com",
+    "terms" : {
+      "last-archive" : {
+        "time" : "",
+        "uri" : ""
+      },
+      "name" : "Terms of Service",
+      "url" : "https://github.com/site/terms"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "B",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "github.com",
+  "urls" : [ "github.com" ],
+  "fileName" : "github.json",
+  "jdm" : {
+    "name" : "GitHub",
+    "url" : "https://github.com/settings/admin"
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/2vIh4l7sTnk/discussion",
+    "id" : "2vIh4l7sTnk",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "https://help.github.com/security"
+    },
+    "title" : "Transparent security practices",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "info given about security practices",
+      "point" : "good",
+      "score" : 15,
+      "tldr" : "GitHub gives a detailed overview of their own security practices and their service providers' practices and obligations."
+    },
+    "topics" : [ {
+      "category" : "governance",
+      "description" : "The level of information provided by the ‪service that is beneficial to the user.",
+      "id" : "user-info",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "User information",
+      "subtitle" : "Transparency and education",
+      "title" : "User information",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/8LDE2ZPXRW4/discussion",
+    "id" : "8LDE2ZPXRW4",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "https://github.com/site/terms"
+    },
+    "title" : "GitHub will notify you before transferring your information in the event of a merger or acquisition",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "will notify before merger",
+      "point" : "good",
+      "score" : 20,
+      "tldr" : "“We transfer information about you if GitHub is acquired by or merged with another company. In this event, GitHub will notify you before information about you is transferred and becomes subject to a different privacy policy. ”"
+    },
+    "topics" : [ {
+      "description" : "When you give your data to a company, you need to keep in mind that this company can get acquired by another company, with different policies. What happens in that case?",
+      "id" : "business-transfer",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Business Transfers",
+      "parent" : "third",
+      "subtitle" : "Is your data a business asset?",
+      "title" : "Business Transfers",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/9epXl7ZDb7c/discussion",
+    "id" : "9epXl7ZDb7c",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "https://help.github.com/privacy-policy"
+    },
+    "title" : "Changes can happen any time, sometimes without notice",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "user needs to check tosback.org",
+      "point" : "bad",
+      "score" : 70,
+      "tldr" : "“GitHub reserves the right to update and change the Terms of Service from time to time without notice.” Fortunately, the privacy policy benefits from a special clause: changes to the privacy policy will be notified to you, but there is no delay."
+    },
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/EpPNnYXBW_wk/discussion",
+    "id" : "EpPNnYXBW_wk",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "https://github.com/site/terms"
+    },
+    "title" : "You shall defend and indemnify GitHub",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "defend, indemnify, hold harmless",
+      "point" : "bad",
+      "score" : 60,
+      "tldr" : "“You shall defend GitHub against any claim, demand, suit or proceeding made or brought against GitHub by a third party alleging that Your Content, or Your use of the Service in violation of this Agreement, infringes or misappropriates the intellectual property rights of a third party or violates applicable law, and shall indemnify GitHub for any damages finally awarded against, and for reasonable attorney’s fees incurred by, GitHub in connection with any such claim, demand, suit or proceeding; provided, that GitHub (a) promptly gives You written notice of the claim, demand, suit or proceeding; (b) gives You sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that You may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability); and (c) provides to You all reasonable assistance, at Your expense. ”"
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/gyMiAkV5ZG0/discussion",
+    "id" : "gyMiAkV5ZG0",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "https://help.github.com/privacy-policy"
+    },
+    "title" : "GitHub requires cookies",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "requires first-party cookies",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "GitHub requires cookies to work and misleads you to believe that you remain anonymous while cookies contain “unique identifiers”. However, only session cookies are used, not persistent cookies."
+    },
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/hI5Too_uDVk/discussion",
+    "id" : "hI5Too_uDVk",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "https://github.com/site/terms"
+    },
+    "title" : "Your account can be suspended and your data deleted any time for any reason",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "they can delete your account without prior notice and without a reason",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "“GitHub, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Service, or any other GitHub service, for any reason at any time. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all Content in your Account. GitHub reserves the right to refuse service to anyone for any reason at any time. ” However, most of your data at GitHub can be exported with 'git clone' (for the wiki) and with the API (for the issues)."
+    },
+    "topics" : [ {
+      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
+      "id" : "suspension",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Suspension and Censorship",
+      "subtitle" : "Can they end your use of the service at any time?",
+      "title" : "Suspension and Censorship",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/lOG7XeUi-3E/discussion",
+    "id" : "lOG7XeUi-3E",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "https://github.com/site/terms"
+    },
+    "title" : "You don't grant any copyright license to github",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you publish under a free license, not a bilateral one",
+      "point" : "good",
+      "score" : 90,
+      "tldr" : "“We claim no intellectual property rights over the material you provide to the Service. Your profile and materials uploaded remain yours. However, by setting […] your repositories to be viewed publicly, you agree to allow others to view and fork your repositories.” "
+    },
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/lXPKuQU0mPI/discussion",
+    "id" : "lXPKuQU0mPI",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "https://github.com/site/terms"
+    },
+    "title" : "Choice of law: California",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "court of law is in location X",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "“You agree that these Terms of Service and Your use of the Service are governed under California law.”"
+    },
+    "topics" : [ {
+      "category" : "governance",
+      "description" : "What is the jurisdiction, what laws govern the terms?",
+      "id" : "jurisdiction-law",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Jurisdiction and governing laws",
+      "subtitle" : "Where can you sue, or be sued, for breaching of the rules?",
+      "title" : "Jurisdiction and governing laws",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/I_8sVP8J8WY/discussion",
+    "id" : "legal-name-registration",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted: Hugo",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "title" : "You must provide your legal name upon registration",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "pseudonym not allowed (not because of user-to-user trust)",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "You agree to provide your full legal name when you register to the service. It does not prevent you from using a pseudonym."
+    },
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/ymh8uR_j51A/discussion",
+    "id" : "ymh8uR_j51A",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "https://help.github.com/privacy-policy"
+    },
+    "title" : "Your personal information is used for limited purposes",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "your personal data is used for limited purposes",
+      "point" : "good",
+      "score" : 60,
+      "tldr" : "“The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, […] GitHub uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.”"
+    },
+    "topics" : [ {
+      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
+      "id" : "personal-data",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Personal Data",
+      "parent" : "ownership",
+      "subtitle" : "Can you control your privacy?",
+      "title" : "Personal Data",
+      "type" : "topic"
+    } ]
+  } ]
+}

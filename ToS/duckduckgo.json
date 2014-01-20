@@ -1,0 +1,56 @@
+{
+  "alexa" : 2095,
+  "class" : "A",
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://duckduckgo.com/privacy.html"
+    }
+  },
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "duckduckgo",
+  "keywords" : [ "search", "search engine" ],
+  "name" : "DuckDuckGo",
+  "related" : [ "google" ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://duckduckgo.com/privacy.html"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "A",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "duckduckgo.com",
+  "urls" : [ "duckduckgo.com" ],
+  "fileName" : "duckduckgo.json",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/g4RWiArs104",
+    "id" : "g4RWiArs104",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "http://donttrack.us/",
+    "title" : "No Tracking",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "no tracking",
+      "point" : "good",
+      "score" : 100,
+      "tldr" : "DuckDuckGo doesn't save <em>your</em> searches and doesn't send your searches to other sites. No personal information is saved either. No cookies are used by default, but cookies can be saved on your computer for some features (e.g. settings). “We also save searches, but again, not in a personally identifiable way, as we do not store IP addresses or unique User agent strings. We use aggregate, non-personal search data to improve things like misspellings.”"
+    },
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ]
+  } ]
+}

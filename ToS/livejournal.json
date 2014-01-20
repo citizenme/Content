@@ -1,0 +1,20 @@
+{
+  "alexa" : 1000000,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "livejournal",
+  "name" : "livejournal",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "livejournal.json",
+  "jdm" : {
+    "name" : "LiveJournal",
+    "url" : "http://www.livejournal.com/accountstatus.bml",
+    "notes" : "Once you delete your journal you have 30 days to undelete it, in case you change your mind. After 30 days, the journal will be permanently deleted and there will be no way to recover it."
+  }
+}

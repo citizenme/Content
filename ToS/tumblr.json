@@ -1,0 +1,132 @@
+{
+  "alexa" : 1000000,
+  "class" : false,
+  "links" : {
+    "privacy" : {
+      "name" : "Terms of Service",
+      "url" : "http://www.tumblr.com/policy/en/terms_of_service"
+    },
+    "terms" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.tumblr.com/policy/en/privacy"
+    }
+  },
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "tumblr",
+  "keywords" : [ "blog" ],
+  "name" : "Tumblr",
+  "related" : [ "wordpress-com", "facebook", "twitter" ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Terms of Service",
+      "url" : "http://www.tumblr.com/policy/en/terms_of_service"
+    },
+    "sitename" : "tumblr.com",
+    "terms" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.tumblr.com/policy/en/privacy"
+    }
+  },
+  "tosdr" : {
+    "alexa" : 1000000,
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "tumblr.com",
+  "urls" : [ "tumblr.com" ],
+  "fileName" : "tumblr.json",
+  "jdm" : {
+    "name" : "Tumblr",
+    "url" : "http://www.tumblr.com/account/delete"
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/m4IRrxn4SOo/discussion",
+    "id" : "any-time-with-notice",
+    "meta" : {
+      "author" : "Hugo for “Terms of Service; Didn't Read”",
+      "contributors" : [ "Hugo Roy <hugo@tosdr.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "title" : "Terms may be changed at any time, but you will be notified.",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "user is notified on the day",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "They can change the terms of service any time they see fit, but they will notify the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."
+    },
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-tell-user-no",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform",
+    "title" : "No promise to inform you about data requests from governments",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "no promise to inform/notify",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "The service has made no statement nor promised users to tell them about data sought by governments, thus not giving you a chance to defend yourself against government requests."
+    },
+    "topics" : [ {
+      "description" : "",
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-transparency-data",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "https://www.eff.org/pages/who-has-your-back#transparency",
+    "title" : "Transparency on law enforcement requests",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "transparency",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "The service is making clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+    },
+    "topics" : [ {
+      "description" : "",
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    }, {
+      "id" : "law-enforcement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law enforcement and due process",
+      "parent" : "law-gov",
+      "subtitle" : "What are the law enforcement standards followed by the service?",
+      "title" : "Law enforcement and due process",
+      "type" : "topic"
+    } ]
+  } ]
+}

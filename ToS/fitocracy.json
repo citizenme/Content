@@ -1,0 +1,19 @@
+{
+  "alexa" : 1000000,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "fitocracy",
+  "name" : "fitocracy",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "fitocracy.json",
+  "jdm" : {
+    "name" : "Fitocracy",
+    "url" : "https://www.fitocracy.com/account/deletion/"
+  }
+}

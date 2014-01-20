@@ -1,0 +1,20 @@
+{
+  "alexa" : 1000000,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "etsy",
+  "name" : "etsy",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "etsy.json",
+  "jdm" : {
+    "name" : "Etsy",
+    "url" : "http://www.etsy.com/help/article/53",
+    "notes" : "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file."
+  }
+}

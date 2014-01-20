@@ -1,0 +1,549 @@
+{
+  "class" : false,
+  "links" : { },
+  "alexa" : 1753,
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : "https://www.couchsurfing.org/terms.html?locale=en_US"
+    }
+  },
+  "id" : "couchsurfing",
+  "name" : "couchsurfing",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "https://www.couchsurfing.org/",
+  "urls" : [ "https://www.couchsurfing.org/" ],
+  "fileName" : "couchsurfing.json",
+  "jdm" : {
+    "name" : "Couchsurfing",
+    "url" : "https://www.couchsurfing.org/delete_profile.html?delete=1",
+    "notes" : "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'."
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/1wWcVuiCJ2Y/discussion",
+    "id" : "1wWcVuiCJ2Y",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Couchsurfing keeps the license on your content, even after you close your account",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "keep a license even after you close your account",
+      "point" : "bad",
+      "score" : 25,
+      "tldr" : "\"21.7 Survival. Sections 4.4 (Release), 5 (Member Conduct and \nContent), 6 (Submissions), 10 (Trademarks), 12 (Third-Party Content), \n15 (Member's Representations and Warranties), 16 (Disclaimer of \nWarranties), 17 (Limits on Liability), 18 (Indemnity), 20 (Disputes), \nand this Section 21 (Miscellaneous) shall survive any termination or \nexpiration of these Terms.\" \nsection 5 is the one that contains the license they get on your content."
+    },
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/5StVgew5VbE/discussion",
+    "id" : "5StVgew5VbE",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "You cannot blame CouchSurfing for disputes you have with other users",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "disputes with others",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "\"Because our Services are merely a platform, in the event \nthat you have a dispute with one or more members, you release us (and \nour officers, directors, members, employees, agents and affiliates) \nfrom claims, demands and damages [...]\""
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/BmzBPGyHGW0/discussion",
+    "id" : "BmzBPGyHGW0",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Couchsurfing may close your account at their sole discretion",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "they can delete your account without prior notice and without a reason",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "\"REPEAT INFRINGER POLICY \nIn accordance with the Digital Millennium Copyright Act (\"DMCA\") and \nother applicable law, CouchSurfing has adopted a policy of \nterminating, in appropriate circumstances and in CouchSurfing's sole \ndiscretion, members who are deemed to be repeat infringers. \nCouchSurfing may also, in our sole discretion, limit access to the \nServices and/or terminate the accounts of any members who we believe \nmay infringe any intellectual property rights of others, whether or \nnot there is any repeat infringement.\""
+    },
+    "topics" : [ {
+      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
+      "id" : "suspension",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Suspension and Censorship",
+      "subtitle" : "Can they end your use of the service at any time?",
+      "title" : "Suspension and Censorship",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/J3kmwLbA0rE/discussion",
+    "id" : "J3kmwLbA0rE",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "You are not allowed to use a nick name",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "pseudonym not allowed (user-to-user trust is relevant for service)",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "you have to provide accurate, truthful, current and complete \ninformation when creating an account on CouchSurfing."
+    },
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/ShwCMjNBd2o/discussion",
+    "id" : "ShwCMjNBd2o",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Couchsurfing becomes the owner of ideas you give them",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "they become the owner of ideas you give them",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "\"If you provide a \nSubmission, you agree that it is non-confidential (unless CouchSurfing \nstates otherwise in writing) and shall become the sole property of \nCouchSurfing.\""
+    },
+    "topics" : [ {
+      "description" : "The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is <strong>your content, your data</strong>: you can decide.",
+      "example" : {
+        "bad" : "We get a license beyond the requirements to operate the service, so your data may be used for purposes you do not intend. We will still attribute ownership to you.",
+        "blocker" : "We become the owners of your data.",
+        "good" : "You license us to use your data only for the purpose of operating this service."
+      },
+      "id" : "ownership",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "name" : "Ownership",
+      "subtitle" : "What happens with the content you generate on the service?",
+      "title" : "Ownership",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/UMyT4RKXjv0/discussion",
+    "id" : "UMyT4RKXjv0",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Couchsurfing tracks you",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "tracking pixels used in service-to-user communication",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "We \nmay automatically collect information using cookies, web beacons (also \nknown as \"gifs,\" \"pixel tags\" and \"tracking pixels\") and other \ntracking technologies to, among other things, improve our Services and \nyour experience, monitor user activity, count visits, understand usage \nand campaign effectiveness and tell if an email has been opened and \nacted upon. For information about removing or rejecting cookies, \nplease see \"Your Information Choices\" below.\""
+    },
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/YkJpj170Qts/discussion",
+    "id" : "YkJpj170Qts",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "You should follow the community guidelines",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "your use is subject to a policies, guidelines, etc.",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "The community guidelines are here: \nhttp://www.couchsurfing.org/guidelines \nyou agree to follow them."
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",
+    "id" : "any-time-without-notice",
+    "meta" : {
+      "author" : "Hugo for “Terms of Service; Didn't Read”",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "title" : "Terms may be changed any time at their discretion, without notice to the user",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "user needs to check tosback.org",
+      "point" : "bad",
+      "score" : 70,
+      "tldr" : "They can change the terms of service any time they see fit, even without notification to the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."
+    },
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/bYGefBK3R_I/discussion",
+    "id" : "bYGefBK3R_I",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Couchsurfing informs you about the fact that you can disable cookies",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "third-party cookies, but with opt-out instructions",
+      "point" : "bad",
+      "score" : 5,
+      "tldr" : "\"Cookies \nMost web browsers are set to accept cookies by default. If you prefer, \nyou can usually choose to set your browser to remove or reject browser \ncookies; however, our Services may not function properly if you do \nso.\""
+    },
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    }, {
+      "category" : "governance",
+      "description" : "The level of information provided by the ‪service that is beneficial to the user.",
+      "id" : "user-info",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "User information",
+      "subtitle" : "Transparency and education",
+      "title" : "User information",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/dQV8notmhfI/discussion",
+    "id" : "dQV8notmhfI",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "The copyright license on user data is broader than necessary",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "broader than necessary",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "\"5.3 Member Content License. If you post Member Content to our \nServices, you hereby grant us a perpetual, worldwide, irrevocable, \nnon-exclusive, royalty-free and fully sublicensable license to use, \nreproduce, display, perform, adapt, modify, create derivative works \nfrom, distribute, have distributed and promote such Member Content in \nany form, in all media now known or hereinafter created and for any \npurpose, including without limitation the right to use your name, \nlikeness, voice or identity.\""
+    },
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/e8kGDv4CIrQ/discussion",
+    "id" : "e8kGDv4CIrQ",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Promotional communications are opt-out",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "promotional communications are opt-out",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "\"You may opt out of receiving promotional emails from CouchSurfing by \nfollowing the instructions in those emails or by adjusting the \nappropriate settings in your profile.\" - this means the default is that they will send you\npromotional communications that you didn't ask them to send you."
+    },
+    "topics" : [ {
+      "category" : "governance",
+      "description" : "The level of choice that is left to the user.",
+      "id" : "user-choice",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "User choice",
+      "subtitle" : "How much can YOU decide?",
+      "title" : "User choice",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/izRoNcoGOww/discussion",
+    "id" : "izRoNcoGOww",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Couchsurfing clearly invites you to contact their volunteer help desk",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "free help desk is provided",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "They invite you to contact them, but their helpdesk is run by volunteers, so you might not get an answer or reply."
+    },
+    "topics" : [ {
+      "category" : "governance",
+      "description" : "The level of information provided by the ‪service that is beneficial to the user.",
+      "id" : "user-info",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "User information",
+      "subtitle" : "Transparency and education",
+      "title" : "User information",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/oZ1VvxnWoeM/discussion",
+    "id" : "oZ1VvxnWoeM",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Couchsurfing may retain your data after deactivation for legitimate business purposes",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "your content stays licensed",
+      "point" : "bad",
+      "score" : 25,
+      "tldr" : "\"may retain certain information as required by law, for legitimate \nbusiness purposes and to protect member safety.\" They say they will hold data from already \nclosed accounts in order to help them combat fraud on the platform. "
+    },
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "id" : "leave",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/rfLB9eDVNtk/discussion",
+    "id" : "rfLB9eDVNtk",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Couchsurfing will censor the content you upload at their sole discretion",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you are responsible for what you publish",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "\"You are solely responsible for any Member Content that you submit, \npost or transmit via our Services. You agree not to post, upload to, \ntransmit, distribute, store, create or otherwise publish through the \nServices, Member Content that we believe, in our sole discretion: \n(and then a list of reasons, like racism, nudity, drug use, copyright \ninfringement, etc)"
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    }, {
+      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
+      "id" : "suspension",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Suspension and Censorship",
+      "subtitle" : "Can they end your use of the service at any time?",
+      "title" : "Suspension and Censorship",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/wOhc-Lscy_0/discussion",
+    "id" : "wOhc-Lscy_0",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Couchsurfing may share aggregated or anonymized information that does not directly identify you.",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "personal data is aggregated into statistics",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "\"We may also share aggregated or anonymized information that does not \ndirectly identify you.\""
+    },
+    "topics" : [ {
+      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
+      "id" : "personal-data",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Personal Data",
+      "parent" : "ownership",
+      "subtitle" : "Can you control your privacy?",
+      "title" : "Personal Data",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/x9BDfg-SFqY/discussion",
+    "id" : "x9BDfg-SFqY",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Couchsurfing will pass your data on to the new company if they enter in a merger",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "may sell your data in merger",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "\"Sharing of Information \nWe do not share personal information about you with third parties \nexcept as follows: \n[...] \nIn connection with, or during negotiations of, any merger, sale of \ncompany assets, financing or acquisition of all or a portion of our \nbusiness to another company\". The consensus on this thread is that this is standard practice, so does not merit negative points."
+    },
+    "topics" : [ {
+      "description" : "When you give your data to a company, you need to keep in mind that this company can get acquired by another company, with different policies. What happens in that case?",
+      "id" : "business-transfer",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Business Transfers",
+      "parent" : "third",
+      "subtitle" : "Is your data a business asset?",
+      "title" : "Business Transfers",
+      "type" : "topic"
+    } ]
+  } ]
+}

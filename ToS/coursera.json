@@ -1,0 +1,20 @@
+{
+  "alexa" : 1000000,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "coursera",
+  "name" : "coursera",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "coursera.json",
+  "jdm" : {
+    "name" : "Coursera",
+    "url" : "https://www.coursera.org/about/contact",
+    "notes" : "Contact support and request they delete your account."
+  }
+}

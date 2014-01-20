@@ -1,0 +1,24 @@
+{
+  "alexa" : 865310,
+  "class" : "",
+  "date" : "",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : ""
+    }
+  },
+  "id" : "diasp-org",
+  "last-diff" : "",
+  "name" : "Diasporg",
+  "parent" : "diaspora",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "diasp.org",
+  "urls" : [ "diasp.org" ],
+  "fileName" : "diasp-org.json"
+}

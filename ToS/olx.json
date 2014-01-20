@@ -1,0 +1,42 @@
+{
+  "class" : false,
+  "links" : { },
+  "alexa" : 2660,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "olx",
+  "name" : "OLX",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "olx.json",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/T98obrJsjJA/w1Gp9SDABtkJ",
+    "id" : "account-killer-blacklist",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "http://www.accountkiller.com/en/Blacklist",
+    "title" : "You cannot delete your account",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "no right to leave the service",
+      "point" : "blocker",
+      "score" : 70,
+      "tldr" : "It is impossible to delete your account from this service, according to the <a href='http://www.accountkiller.com/en/Blacklist'>AccountKiller blacklist</a>."
+    },
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "id" : "leave",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category"
+    } ]
+  } ]
+}

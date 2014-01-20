@@ -1,0 +1,20 @@
+{
+  "alexa" : 1000000,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "craigslist",
+  "name" : "craigslist",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "craigslist.json",
+  "jdm" : {
+    "name" : "Craigslist",
+    "url" : "http://www.craigslist.org/about/help/user_accounts",
+    "notes" : "Send an email to abuse@craigslist.org and request deletion."
+  }
+}

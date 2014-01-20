@@ -1,0 +1,92 @@
+{
+  "class" : false,
+  "links" : { },
+  "alexa" : 12,
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "http://www.linkedin.com/static?key=privacy_policy"
+    },
+    "terms" : {
+      "url" : "http://www.linkedin.com/static?key=user_agreement"
+    }
+  },
+  "id" : "linkedin",
+  "keywords" : [ "professional", "jobs" ],
+  "name" : "LinkedIn",
+  "related" : [ "xing" ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "linkedin.com/",
+  "urls" : [ "linkedin.com/" ],
+  "fileName" : "linkedin.json",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "LinkedIn",
+    "url" : "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
+    "notes" : "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it."
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-tell-user",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform",
+    "title" : "Promise to inform you about data requests from governments",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "promise to inform/notify",
+      "point" : "good",
+      "score" : 50,
+      "tldr" : "A public commitment to inform users when their data is sought by the government, unless prohibited by law. This gives you a chance to defend yourself against overreaching government demands for their data. (cc-by eff)"
+    },
+    "topics" : [ {
+      "description" : "",
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-transparency-data",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "https://www.eff.org/pages/who-has-your-back#transparency",
+    "title" : "Transparency on law enforcement requests",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "transparency",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "The service is making clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+    },
+    "topics" : [ {
+      "description" : "",
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    }, {
+      "id" : "law-enforcement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law enforcement and due process",
+      "parent" : "law-gov",
+      "subtitle" : "What are the law enforcement standards followed by the service?",
+      "title" : "Law enforcement and due process",
+      "type" : "topic"
+    } ]
+  } ]
+}

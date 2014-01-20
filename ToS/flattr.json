@@ -1,0 +1,78 @@
+{
+  "class" : false,
+  "links" : { },
+  "alexa" : 22743,
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "https://flattr.com/privacy"
+    },
+    "terms" : {
+      "url" : "https://flattr.com/terms"
+    }
+  },
+  "id" : "flattr",
+  "name" : "Flattr",
+  "related" : [ "paypal" ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "flattr.com",
+  "urls" : [ "flattr.com" ],
+  "fileName" : "flattr.json",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/_ZNQ9J07ntI/aPGR2C_AkskJ",
+    "id" : "aPGR2C_AkskJ",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "https://flattr.com/terms",
+    "title" : "Age limit of 18",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "age limit",
+      "point" : "neutral",
+      "score" : 15,
+      "tldr" : "Flattr is available only to individuals who are at least 18 years old. "
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/m4IRrxn4SOo/discussion",
+    "id" : "any-time-with-notice",
+    "meta" : {
+      "author" : "Hugo for “Terms of Service; Didn't Read”",
+      "contributors" : [ "Hugo Roy <hugo@tosdr.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "title" : "Terms may be changed at any time, but you will be notified.",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "user is notified on the day",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "They can change the terms of service any time they see fit, but they will notify the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."
+    },
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ]
+  } ]
+}

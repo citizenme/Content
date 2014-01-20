@@ -1,0 +1,235 @@
+{
+  "alexa" : 10,
+  "class" : false,
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Notice",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496"
+    },
+    "security" : {
+      "name" : "Security, Privacy & Accessibility",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/?nodeId=551434"
+    },
+    "terms" : {
+      "name" : "Conditions of Use",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=508088"
+    }
+  },
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "amazon",
+  "keywords" : [ "commerce", "shop" ],
+  "name" : "Amazon",
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Notice",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496"
+    },
+    "security" : {
+      "name" : "Security, Privacy & Accessibility",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/?nodeId=551434"
+    },
+    "sitename" : "amazon.com",
+    "terms" : {
+      "name" : "Conditions of Use",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=508088"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "amazon.com",
+  "urls" : [ "amazon.com" ],
+  "fileName" : "amazon.json",
+  "jdm" : {
+    "name" : "Amazon",
+    "url" : "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
+    "notes" : "To close your account, contact Amazon by email (via this contact form) and request that your account be closed."
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/1zhceRPv3nM/discussion",
+    "id" : "1zhceRPv3nM",
+    "set" : "set+service+and+topic",
+    "title" : "Amazon may sell user data as part of a business transfer",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "may sell your data in merger",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "Amazon may sell user data as part of a business transfer"
+    },
+    "topics" : [ {
+      "description" : "When you give your data to a company, you need to keep in mind that this company can get acquired by another company, with different policies. What happens in that case?",
+      "id" : "business-transfer",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Business Transfers",
+      "parent" : "third",
+      "subtitle" : "Is your data a business asset?",
+      "title" : "Business Transfers",
+      "type" : "topic"
+    }, {
+      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
+      "id" : "personal-data",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Personal Data",
+      "parent" : "ownership",
+      "subtitle" : "Can you control your privacy?",
+      "title" : "Personal Data",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/E58aPtzP3jk/discussion",
+    "id" : "E58aPtzP3jk",
+    "set" : "set+service+and+topic",
+    "title" : "This service tracks you on other websites",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "tracks you on other websites",
+      "point" : "bad",
+      "score" : 60,
+      "tldr" : "This service uses cookies to track you even if you are not interacting with them directly. Amazon for instance, use <a href=\"http://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_cookies?nodeId=468496&amp;#cookies\">cookies</a> to track your device and serve targeted advertisements on other websites (Amazon associates, websites using Amazon Checkout). They “obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites”."
+    },
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    }, {
+      "id" : "third",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/OegfPmV8ugo/discussion",
+    "id" : "OegfPmV8ugo",
+    "set" : "set+service+and+topic",
+    "title" : "Amazon enables third-party advertisers to target you by default",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "targeted third-party advertising",
+      "point" : "bad",
+      "score" : 30,
+      "tldr" : "Although Amazon does not share your personal informaton to advertiers and other third-parties that display Amazon's ads, by default they enable third-party advertises to target you (IP, cookies or “other features”). However, you <a href=\"http://www.amazon.com/gp/dra/info\">can opt-out</a>."
+    },
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    }, {
+      "id" : "third",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",
+    "id" : "any-time-without-notice",
+    "meta" : {
+      "author" : "Hugo for “Terms of Service; Didn't Read”",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "title" : "Terms may be changed any time at their discretion, without notice to the user",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "user needs to check tosback.org",
+      "point" : "bad",
+      "score" : 70,
+      "tldr" : "They can change the terms of service any time they see fit, even without notification to the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."
+    },
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-tell-user-no",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform",
+    "title" : "No promise to inform you about data requests from governments",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "no promise to inform/notify",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "The service has made no statement nor promised users to tell them about data sought by governments, thus not giving you a chance to defend yourself against government requests."
+    },
+    "topics" : [ {
+      "description" : "",
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-transparency-data-no",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "https://www.eff.org/pages/who-has-your-back#transparency",
+    "title" : "No transparency on law enforcement requests",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "no transparency",
+      "point" : "bad",
+      "score" : 30,
+      "tldr" : "The service is not making clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+    },
+    "topics" : [ {
+      "description" : "",
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    }, {
+      "id" : "law-enforcement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law enforcement and due process",
+      "parent" : "law-gov",
+      "subtitle" : "What are the law enforcement standards followed by the service?",
+      "title" : "Law enforcement and due process",
+      "type" : "topic"
+    } ]
+  } ]
+}

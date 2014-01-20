@@ -1,0 +1,24 @@
+{
+  "alexa" : 6618,
+  "class" : "",
+  "date" : "",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : ""
+    }
+  },
+  "id" : "openstreetmap",
+  "last-diff" : "",
+  "name" : "OpenStreetMap",
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "openstreetmap.org",
+  "urls" : [ "openstreetmap.org" ],
+  "fileName" : "openstreetmap.json"
+}

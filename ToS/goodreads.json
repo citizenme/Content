@@ -1,0 +1,20 @@
+{
+  "alexa" : 1000000,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "goodreads",
+  "name" : "goodreads",
+  "tosdr" : {
+    "alexa" : 1000000,
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "goodreads.json",
+  "jdm" : {
+    "name" : "Goodreads",
+    "url" : "http://www.goodreads.com/user/destroy"
+  }
+}

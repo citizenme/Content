@@ -1,0 +1,42 @@
+{
+  "class" : false,
+  "links" : { },
+  "alexa" : 1000000,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "mint.com",
+  "name" : "mint",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "mint.com.json",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/GK59fJzcbu8/discussion",
+    "id" : "GK59fJzcbu8",
+    "set" : "set+service+and+topic",
+    "title" : "Mint.com may transfer your data as part of a business transfer",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "may sell your data in merger",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "Mint.com may transfer your data as part of a business transfer"
+    },
+    "topics" : [ {
+      "description" : "When you give your data to a company, you need to keep in mind that this company can get acquired by another company, with different policies. What happens in that case?",
+      "id" : "business-transfer",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Business Transfers",
+      "parent" : "third",
+      "subtitle" : "Is your data a business asset?",
+      "title" : "Business Transfers",
+      "type" : "topic"
+    } ]
+  } ]
+}

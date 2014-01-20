@@ -1,0 +1,398 @@
+{
+  "alexa" : 13949,
+  "class" : false,
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://alpha.app.net/legal/privacy/"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://alpha.app.net/legal/terms/"
+    }
+  },
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "app-net",
+  "keywords" : [ "tweet", "microblog" ],
+  "name" : "App.net",
+  "related" : [ "twitter", "seenthis", "identi-ca" ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://alpha.app.net/legal/privacy/"
+    },
+    "sitename" : "app.net",
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://alpha.app.net/legal/terms/"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "app.net",
+  "urls" : [ "app.net" ],
+  "fileName" : "app-net.json",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/6HDli9X01C8/discussion",
+    "id" : "6HDli9X01C8",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "You defend, indemnify, and hold app.net harmless in case of a claim related to your use of the service",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "defend, indemnify, hold harmless",
+      "point" : "bad",
+      "score" : 60,
+      "tldr" : "You agree to defend, indemnify and hold us harmless from and against\nany and all costs, damages, liabilities, and expenses (including\nattorneys' fees) we incur we in relation to, arising from, or for the\npurpose of avoiding, any claim or demand from a third party that your\nuse of the Service or the use of the Service by any person using your\naccount violates any applicable law or regulation, or the rights of\nany third party, and/or your violation of these Terms."
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/I7i-2EM0GVY",
+    "id" : "I7i-2EM0GVY",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://app.net/terms/"
+    },
+    "title" : "App.net provide archives of their terms",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "archives provided",
+      "point" : "good",
+      "score" : 10,
+      "tldr" : "their ToS versioning is public on github, at https://github.com/appdotnet/terms-of-service"
+    },
+    "topics" : [ {
+      "category" : "governance",
+      "id" : "readability",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Easy to read",
+      "subtitle" : "Are the terms easy to find and well written?",
+      "title" : "Easy to read",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-1/discussion",
+    "id" : "OqIkAS2uwmE-1",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "App.net request feedback from users",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "user feedback is invited",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "See https://github.com/appdotnet/terms-of-service/issues as well as the blue box at the top of their terms https://alpha.app.net/legal/terms/ ) "
+    },
+    "topics" : [ {
+      "description" : "The terms are a contract between two parties, and it should not be changed unilaterally without consultation of the other party. Services should listen to what their users say and care about, and give them a vote in each substantial change.",
+      "id" : "changes-involvement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "User Involvement in Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are changes proposed as a request for feedback, or imposed unilaterally as a take-it-or-leave-it deal?",
+      "title" : "User Involvement in Changing Terms",
+      "type" : "topic"
+    }, {
+      "category" : "governance",
+      "id" : "readability",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Easy to read",
+      "subtitle" : "Are the terms easy to find and well written?",
+      "title" : "Easy to read",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-11/discussion",
+    "id" : "OqIkAS2uwmE-11",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Court of law is California",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "court of law is in location X",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "Court of law is California."
+    },
+    "topics" : [ {
+      "category" : "governance",
+      "description" : "What is the jurisdiction, what laws govern the terms?",
+      "id" : "jurisdiction-law",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Jurisdiction and governing laws",
+      "subtitle" : "Where can you sue, or be sued, for breaching of the rules?",
+      "title" : "Jurisdiction and governing laws",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-2/discussion",
+    "id" : "OqIkAS2uwmE-2",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "App.net's terms are simple and easy to follow",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "easy to read",
+      "point" : "good",
+      "score" : 10,
+      "tldr" : "Terms are simple, not too long, and easy to follow."
+    },
+    "topics" : [ {
+      "category" : "governance",
+      "id" : "readability",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Easy to read",
+      "subtitle" : "Are the terms easy to find and well written?",
+      "title" : "Easy to read",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-4/discussion",
+    "id" : "OqIkAS2uwmE-4",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "You are responsible for what you upload",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you are responsible for what you publish",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "Some types of content are not allowed. specifically (the blog post mentions this further down under 'Copyright'), if you post copyrighted material to which you have no license, they will take it down and close your account"
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-6/discussion",
+    "id" : "OqIkAS2uwmE-6",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "You can delete your content",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you can delete your content",
+      "point" : "good",
+      "score" : 50,
+      "tldr" : "if you delete content, it is hidden from view immediately, and deleted entirely from their servers in max. 2 weeks. \"It is then gone forever.\""
+    },
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "id" : "leave",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category"
+    }, {
+      "description" : "The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is <strong>your content, your data</strong>: you can decide.",
+      "example" : {
+        "bad" : "We get a license beyond the requirements to operate the service, so your data may be used for purposes you do not intend. We will still attribute ownership to you.",
+        "blocker" : "We become the owners of your data.",
+        "good" : "You license us to use your data only for the purpose of operating this service."
+      },
+      "id" : "ownership",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "name" : "Ownership",
+      "subtitle" : "What happens with the content you generate on the service?",
+      "title" : "Ownership",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-8/discussion",
+    "id" : "OqIkAS2uwmE-8",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "You may not scrape the site",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you may not scrape",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "\"your rights do not include: (i) publicly performing or publicly displaying the Service, (ii) modifying or otherwise making any derivative uses of the Service or any portion thereof; (iii) using any data mining, robots or similar data gathering or extraction methods; (iv) downloading (other than page caching) of any portion of the Service or any information contained therein; (v) reverse engineering or accessing the Service in order to build a competitive product or service; or (vi) using the Service other than for its intended purposes.\". This seems to include content published on there by users other than yourself."
+    },
+    "topics" : [ {
+      "description" : "The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is <strong>your content, your data</strong>: you can decide.",
+      "example" : {
+        "bad" : "We get a license beyond the requirements to operate the service, so your data may be used for purposes you do not intend. We will still attribute ownership to you.",
+        "blocker" : "We become the owners of your data.",
+        "good" : "You license us to use your data only for the purpose of operating this service."
+      },
+      "id" : "ownership",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "name" : "Ownership",
+      "subtitle" : "What happens with the content you generate on the service?",
+      "title" : "Ownership",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-9/discussion",
+    "id" : "OqIkAS2uwmE-9",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "App.net does not take responsibility for what its users post",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you are responsible for what you publish",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "Whether on App.Net, or on website that have an inbound or outbound hyperlink with out."
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/Q1oDK4mAvuw/discussion",
+    "id" : "x2OybdCClW0",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "title" : "Pseudonyms allowed",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "pseudonyms allowed",
+      "point" : "good",
+      "score" : 20,
+      "tldr" : "You do not have to provide your legal name (except for paid accounts for billing purposes) and you can use the service with a pseudonym."
+    },
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/zqgg8oLZ_no/5hgyEqDCstwJ",
+    "id" : "zqgg8oLZ_no",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "https://alpha.app.net/legal/terms/"
+    },
+    "title" : "Changes can happen at any time and sometimes without notice.",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "user needs to rely on tosback.org",
+      "point" : "bad",
+      "score" : 70,
+      "tldr" : "Changes to the terms are considered accepted and effective <strong>either</strong> 5 days after they are published on the website, <em>or</em> when they notify you, <em>or</em> when you accept them."
+    },
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ]
+  } ]
+}

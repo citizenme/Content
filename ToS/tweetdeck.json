@@ -1,0 +1,19 @@
+{
+  "alexa" : 1000000,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "tweetdeck",
+  "name" : "tweetdeck",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "tweetdeck.json",
+  "jdm" : {
+    "name" : "Tweetdeck",
+    "url" : "https://www.tweetdeck.com/api/account-delete/"
+  }
+}

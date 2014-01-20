@@ -1,0 +1,147 @@
+{
+  "alexa" : 6,
+  "class" : false,
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy policy",
+      "url" : "https://wikimediafoundation.org/wiki/Privacy_policy"
+    },
+    "terms" : {
+      "name" : "Terms of use",
+      "url" : "https://wikimediafoundation.org/wiki/Terms_of_use"
+    }
+  },
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "https://wikimediafoundation.org/wiki/Privacy_policy"
+    },
+    "terms" : {
+      "url" : "https://wikimediafoundation.org/wiki/Terms_of_use"
+    }
+  },
+  "id" : "wikipedia",
+  "name" : "Wikipedia",
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy policy",
+      "url" : "https://wikimediafoundation.org/wiki/Privacy_policy"
+    },
+    "terms" : {
+      "name" : "Terms of use",
+      "url" : "https://wikimediafoundation.org/wiki/Terms_of_use"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "wikipedia.org",
+  "urls" : [ "wikipedia.org" ],
+  "fileName" : "wikipedia.json",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "Wikipedia",
+    "url" : "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
+    "notes" : "'A username cannot be deleted.' However, they do have some suggestions."
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/8muChbk0S-A/discussion",
+    "id" : "8muChbk0S-A",
+    "meta" : {
+      "author" : "Ian McGowan",
+      "contributors" : [ "Logomancer <logomancer@gmail.com> " ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "https://wikimediafoundation.org/wiki/Terms_of_use#7._Licensing_of_Content"
+    },
+    "title" : "You publish your contributions under free licenses",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "you publish under a free license, not a bilateral one",
+      "point" : "good",
+      "score" : 90,
+      "tldr" : "Wikipedia allows users to hold the copyright to any text that they submit under: Creative Commons Attribution-ShareAlike 3.0 Unported License (“CC BY-SA”), and GNU Free Documentation License (“GFDL”) (unversioned, with no invariant sections, front-cover texts, or back-cover texts). However, both of these allow your contributions to be used commercially."
+    },
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/NA_buKmTvoE/discussion",
+    "id" : "NA_buKmTvoE",
+    "meta" : {
+      "author" : "ToS;DR",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "https://wikimediafoundation.org/wiki/Terms_of_use#16._Modifications_to_these_Terms_of_Use"
+    },
+    "title" : "You can give comments before changes",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "user feedback is invited",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "Wikipedia has a requirement to give to the community the ability comment on a proposal to change the terms. The proposal is translated in at least three languages if it is a susbtantial revision. Wikipedia has traditionnally been very inclusive in the way they deal with participation from the community."
+    },
+    "topics" : [ {
+      "description" : "The terms are a contract between two parties, and it should not be changed unilaterally without consultation of the other party. Services should listen to what their users say and care about, and give them a vote in each substantial change.",
+      "id" : "changes-involvement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "User Involvement in Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are changes proposed as a request for feedback, or imposed unilaterally as a take-it-or-leave-it deal?",
+      "title" : "User Involvement in Changing Terms",
+      "type" : "topic"
+    }, {
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/qui-0ATIaX4",
+    "id" : "qui-0ATIaX4",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "source" : "https://wikimediafoundation.org/wiki/Privacy_policy#Cookies",
+    "title" : "Wikipedia uses temporary session cookies",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "only temporary session cookies",
+      "point" : "good",
+      "score" : 20,
+      "tldr" : "Wikipedia sets a temporary session cookie for not-logged-in users, which is deleted at the end of the browser's session."
+    },
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    } ]
+  } ]
+}
