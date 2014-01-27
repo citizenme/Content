@@ -183,13 +183,13 @@
       "faq" : "",
       "terms" : ""
     },
-    "title" : "Twitter provide archives of their terms",
+    "title" : "Partial archives of their terms are available",
     "tosdr" : {
       "binding" : true,
       "case" : "archives provided",
       "point" : "good",
       "score" : 10,
-      "tldr" : "At https://twitter.com/tos/previous you can see previous versions of Twitter's terms"
+      "tldr" : "At http://www.google.com/intl/en/policies/terms/archive/ you can see at least one previous versions of Google's terms"
     },
     "topics" : [ {
       "category" : "governance",
