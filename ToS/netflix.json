@@ -348,24 +348,35 @@
       "faq" : "",
       "terms" : ""
     },
-    "title" : "Terms and privacy policy pages are organized and formatted well.",
+    "title" : "Non-personal info can be disclosed in any way.",
     "tosdr" : {
       "binding" : true,
-      "case" : "easy to read",
-      "point" : "good",
+      "case" : "only aggregate data is given to third parties",
+      "point" : "neutral",
       "score" : 10,
-      "tldr" : "Index at the top with links to #anchors down the page. The pages are long, but the index helps alleviate that a lot."
+      "tldr" : "Non-personal information is information that does not permit direct association with you. We may collect, use, transfer and disclose non-personal information for any purpose.\n...\nWe also provide analysis of our users in the aggregate or otherwise in anonymous form to prospective partners, advertisers and other third parties."
     },
     "topics" : [ {
-      "category" : "governance",
-      "id" : "readability",
+      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
+      "id" : "personal-data",
       "meta" : {
         "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
       },
-      "name" : "Easy to read",
-      "subtitle" : "Are the terms easy to find and well written?",
-      "title" : "Easy to read",
+      "name" : "Personal Data",
+      "parent" : "ownership",
+      "subtitle" : "Can you control your privacy?",
+      "title" : "Personal Data",
       "type" : "topic"
+    }, {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
     } ]
   }, {
     "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",

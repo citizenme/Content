@@ -182,35 +182,6 @@
       "type" : "category"
     } ]
   }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/r7msSDkBDbA/discussion",
-    "id" : "r7msSDkBDbA",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "tos" : "https://mykolab.com/tos"
-    },
-    "title" : "Jurisdiction and law of Switzerland",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "court of law is in location X",
-      "point" : "neutral",
-      "score" : 0,
-      "tldr" : "“These terms are subject and governed by the substantial laws of Switzerland with the exclusion of the Vienna Convention on the International Sale of Goods dated April 11, 1980. Disputes arising under or in connection with this Agreement shall be exclusively subject to the jurisdiction of the courts of Zurich, Switzerland.”"
-    },
-    "topics" : [ {
-      "category" : "governance",
-      "description" : "What is the jurisdiction, what laws govern the terms?",
-      "id" : "jurisdiction-law",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Jurisdiction and governing laws",
-      "subtitle" : "Where can you sue, or be sued, for breaching of the rules?",
-      "title" : "Jurisdiction and governing laws",
-      "type" : "topic"
-    } ]
-  }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/0-UT7XiN4tg/discussion",
     "id" : "0-UT7XiN4tg",
     "meta" : {
@@ -308,14 +279,45 @@
       "tldr" : "“When we change terms or prices, we will notify you by email to your main account in this Service. After receiving that email you have 30 days to respond (a) by informing us that you agree to the new terms or prices, (b) by informing us that you disagree, in which case Kolab Systems AG may on a case to case basis agree to continue providing you with the Service under the previous terms and/or prices, or (c) by giving us notice that you terminate this agreement regardless of the remaining duration you had agreed to under the previous terms. Continuation of use after 30 days will constitute agreement to the new terms.”"
     },
     "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
       "id" : "changes",
       "meta" : {
         "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
       },
-      "name" : "Changes",
-      "subtitle" : "Changes to the Terms",
-      "title" : "Changes",
-      "type" : "category"
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ]
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/r7msSDkBDbA/discussion",
+    "id" : "r7msSDkBDbA",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "tos" : "https://mykolab.com/tos"
+    },
+    "title" : "Jurisdiction and law of Switzerland",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "court of law is in location X",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "“These terms are subject and governed by the substantial laws of Switzerland with the exclusion of the Vienna Convention on the International Sale of Goods dated April 11, 1980. Disputes arising under or in connection with this Agreement shall be exclusively subject to the jurisdiction of the courts of Zurich, Switzerland.”"
+    },
+    "topics" : [ {
+      "category" : "governance",
+      "description" : "What is the jurisdiction, what laws govern the terms?",
+      "id" : "jurisdiction-law",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Jurisdiction and governing laws",
+      "subtitle" : "Where can you sue, or be sued, for breaching of the rules?",
+      "title" : "Jurisdiction and governing laws",
+      "type" : "topic"
     } ]
   } ]
 }
