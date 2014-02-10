@@ -94,7 +94,7 @@
       "case" : "tracks you on other websites",
       "point" : "bad",
       "score" : 60,
-      "tldr" : "This service uses cookies to track you even if you are not interacting with them directly. Amazon for instance, use <a href=\"http://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_cookies?nodeId=468496&amp;#cookies\">cookies</a> to track your device and serve targeted advertisements on other websites (Amazon associates, websites using Amazon Checkout). They “obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites”."
+      "tldr" : "This service uses cookies to track you even if you are not interacting with them directly. Amazon for instance, use cookies to track your device and serve targeted advertisements on other websites (Amazon associates, websites using Amazon Checkout). They “obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites”."
     },
     "topics" : [ {
       "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
@@ -125,7 +125,7 @@
       "case" : "targeted third-party advertising",
       "point" : "bad",
       "score" : 30,
-      "tldr" : "Although Amazon does not share your personal informaton to advertiers and other third-parties that display Amazon's ads, by default they enable third-party advertises to target you (IP, cookies or “other features”). However, you <a href=\"http://www.amazon.com/gp/dra/info\">can opt-out</a>."
+      "tldr" : "Although Amazon does not share your personal informaton to advertiers and other third-parties that display Amazon's ads, by default they enable third-party advertises to target you (IP, cookies or “other features”). However, you can opt-out."
     },
     "topics" : [ {
       "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",

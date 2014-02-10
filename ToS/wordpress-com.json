@@ -33,7 +33,7 @@
       "case" : "no right to leave the service",
       "point" : "blocker",
       "score" : 70,
-      "tldr" : "It is impossible to delete your account from this service, according to the <a href='http://www.accountkiller.com/en/Blacklist'>AccountKiller blacklist</a>."
+      "tldr" : "It is impossible to delete your account from this service, according to the AccountKiller blacklist."
     },
     "topics" : [ {
       "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
@@ -143,7 +143,7 @@
       "case" : "limited for purpose of same service",
       "point" : "good",
       "score" : 80,
-      "tldr" : "You grant a copyright license to Automattic's Wordpress.com “<strong>solely for the purpose of</strong> displaying, distributing and promoting your blog.”"
+      "tldr" : "You grant a copyright license to Automattic's Wordpress.com “solely for the purpose of displaying, distributing and promoting your blog.”"
     },
     "topics" : [ {
       "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",

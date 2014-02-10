@@ -28,7 +28,7 @@
       "binding" : true,
       "point" : "good",
       "score" : 20,
-      "tldr" : "Cookies are only used in so far as they are required for the technical working of the system, and we never use them to track you on third party sites. The site also uses web analytics, but you can opt-out at <a href=\"https://mykolab.com/privacy\">https://mykolab.com/privacy</a>"
+      "tldr" : "Cookies are only used in so far as they are required for the technical working of the system, and we never use them to track you on third party sites. The site also uses web analytics, but you can opt-out at https://mykolab.com/privacy"
     },
     "topics" : [ {
       "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
@@ -195,7 +195,7 @@
       "binding" : true,
       "point" : "good",
       "score" : 20,
-      "tldr" : "Cookies are only used in so far as they are required for the technical working of the system, and we never use them to track you on third party sites. The site also uses web analytics, but you can opt-out at <a href=\"https://mykolab.com/privacy\">https://mykolab.com/privacy</a>"
+      "tldr" : "Cookies are only used in so far as they are required for the technical working of the system, and we never use them to track you on third party sites. The site also uses web analytics, but you can opt-out at https://mykolab.com/privacy"
     },
     "topics" : [ {
       "description" : "Cookies are files stored locally in your web browser containing identifiable information.",

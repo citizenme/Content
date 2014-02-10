@@ -57,7 +57,7 @@
     "meta" : "popular",
     "name" : "Twitter",
     "url" : "https://twitter.com/settings/accounts/confirm_deactivation",
-    "notes" : "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. <a href='https://support.twitter.com/articles/15358-deactivating-your-account'>More details</a>"
+    "notes" : "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. More details"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/-B4iO-9xHvg/0yoWGoEISrEJ",
@@ -125,7 +125,7 @@
       "case" : "tracking data deleted after 10 days and opt-out",
       "point" : "good",
       "score" : 80,
-      "tldr" : "Twitter widgets on third-party websites collect <a href='https://support.twitter.com/articles/20169421#' title='Tailored Suggestions'>data about you</a>. The data is kept a maximum of 10 days. Also, <strong>you can opt-out completely</strong> by enabling “Do-Not-Track”. <a href='https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#'>See how</a>."
+      "tldr" : "Twitter widgets on third-party websites collect See how."
     },
     "topics" : [ {
       "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
