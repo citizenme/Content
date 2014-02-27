@@ -1,7 +1,7 @@
 {
   "alexa" : 8,
   "class" : false,
-  deepLinks": [
+  "deepLinks": [
     {
         "description": "Change Bio",
         "url": "https://twitter.com/settings/profile"
