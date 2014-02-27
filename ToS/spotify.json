@@ -25,6 +25,12 @@
   },
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Spotify-icon-colour.png",
+    "icon-colour-2x" : "/i/Spotify-icon-colour@2x.png",
+    "icon-grey" : "/i/Spotify-icon-grey.png",
+    "icon-grey-2x" : "/i/Spotify-icon-grey@2x.png"
+  },
   "id" : "spotify",
   "name" : "Spotify",
   "related" : [ "soundcloud" ],

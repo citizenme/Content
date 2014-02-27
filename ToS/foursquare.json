@@ -20,6 +20,12 @@
       "url" : "https://foursquare.com/legal/terms"
     }
   },
+  "icons" : {
+    "icon-colour" : "/i/Foursquare-icon-colour.png",
+    "icon-colour-2x" : "/i/Foursquare-icon-colour@2x.png",
+    "icon-grey" : "/i/Foursquare-icon-grey.png",
+    "icon-grey-2x" : "/i/Foursquare-icon-grey@2x.png"
+  },
   "id" : "foursquare",
   "last-diff" : "",
   "name" : "Foursquare",

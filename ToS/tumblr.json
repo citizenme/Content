@@ -13,6 +13,12 @@
   },
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Tumblr-icon-colour.png",
+    "icon-colour-2x" : "/i/Tumblr-icon-colour@2x.png",
+    "icon-grey" : "/i/Tumblr-icon-grey.png",
+    "icon-grey-2x" : "/i/Tumblr-icon-grey@2x.png"
+  },
   "id" : "tumblr",
   "keywords" : [ "blog" ],
   "name" : "Tumblr",

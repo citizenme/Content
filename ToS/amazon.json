@@ -17,6 +17,12 @@
   },
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/amazon-icon-colour.png",
+    "icon-colour-2x" : "/i/amazon-icon-colour@2x.png",
+    "icon-grey" : "/i/amazon-icon-grey.png",
+    "icon-grey-2x" : "/i/amazon-icon-grey@2x.png"
+  },
   "id" : "amazon",
   "keywords" : [ "commerce", "shop" ],
   "name" : "Amazon",

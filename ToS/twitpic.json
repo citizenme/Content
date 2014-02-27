@@ -21,6 +21,12 @@
   },
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/twitpic-icon-colour.png",
+    "icon-colour-2x" : "/i/twitpic-icon-colour@2x.png",
+    "icon-grey" : "/i/twitpic-icon-grey.png",
+    "icon-grey-2x" : "/i/twitpic-icon-grey@2x.png"
+  },
   "id" : "twitpic",
   "name" : "Twitpic",
   "related" : [ "identi-ca", "twitter", "flickr" ],

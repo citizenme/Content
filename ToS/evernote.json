@@ -11,6 +11,12 @@
       "url" : "http://evernote.com/legal/tos.php"
     }
   },
+  "icons" : {
+    "icon-colour" : "/i/Evernote-icon-colour.png",
+    "icon-colour-2x" : "/i/Evernote-icon-colour@2x.png",
+    "icon-grey" : "/i/Evernote-icon-grey.png",
+    "icon-grey-2x" : "/i/Evernote-icon-grey@2x.png"
+  },
   "id" : "evernote",
   "name" : "Evernote",
   "tosdr" : {

@@ -30,6 +30,12 @@
   "dataexport" : true,
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/SoundCloud-icon-colour.png",
+    "icon-colour-2x" : "/i/SoundCloud-icon-colour@2x.png",
+    "icon-grey" : "/i/SoundCloud-icon-grey.png",
+    "icon-grey-2x" : "/i/SoundCloud-icon-grey@2x.png"
+  },
   "id" : "soundcloud",
   "name" : "SoundCloud",
   "related" : [ "spotify" ],

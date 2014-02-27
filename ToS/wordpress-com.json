@@ -9,6 +9,12 @@
       "url" : ""
     }
   },
+  "icons" : {
+    "icon-colour" : "/i/Wordpress-icon-colour.png",
+    "icon-colour-2x" : "/i/Wordpress-icon-colour@2x.png",
+    "icon-grey" : "/i/Wordpress-icon-grey.png",
+    "icon-grey-2x" : "/i/Wordpress-icon-grey@2x.png"
+  },
   "id" : "wordpress-com",
   "last-diff" : "",
   "name" : "Wordpress.com",

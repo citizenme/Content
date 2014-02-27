@@ -13,6 +13,12 @@
   },
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/facebook-icon-colour.png",
+    "icon-colour-2x" : "/i/facebook-icon-colour@2x.png",
+    "icon-grey" : "/i/facebook-icon-grey.png",
+    "icon-grey-2x" : "/i/facebook-icon-grey@2x.png"
+  },
   "id" : "facebook",
   "keywords" : [ "social network" ],
   "name" : "Facebook",

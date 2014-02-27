@@ -18,6 +18,12 @@
       "url" : "https://www.dropbox.com/terms"
     }
   },
+  "icons" : {
+    "icon-colour" : "/i/Dropbox-icon-colour.png",
+    "icon-colour-2x" : "/i/Dropbox-icon-colour@2x.png",
+    "icon-grey" : "/i/Dropbox-icon-grey.png",
+    "icon-grey-2x" : "/i/Dropbox-icon-grey@2x.png"
+  },
   "id" : "dropbox",
   "last-diff" : "",
   "name" : "Dropbox",

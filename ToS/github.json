@@ -30,6 +30,12 @@
   "dataexport" : true,
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/GitHub-icon-colour.png",
+    "icon-colour-2x" : "/i/GitHub-icon-colour@2x.png",
+    "icon-grey" : "/i/GitHub-icon-grey.png",
+    "icon-grey-2x" : "/i/GitHub-icon-grey@2x.png"
+  },
   "id" : "github",
   "name" : "GitHub",
   "related" : [ "gitorious" ],

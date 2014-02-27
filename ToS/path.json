@@ -1,0 +1,27 @@
+{
+  "alexa" : 100,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Path-icon-colour.png",
+    "icon-colour-2x" : "/i/Path-icon-colour@2x.png",
+    "icon-grey" : "/i/Path-icon-grey.png",
+    "icon-grey-2x" : "/i/Path-icon-grey@2x.png"
+  },
+  "id" : "path",
+  "name" : "Path",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "path.json",
+  "jdm" : {
+    "name": "Path",
+    "url": "https://path.com",
+    "difficulty": "medium",
+    "notes": "You cannot delete your account from the website. Open the iOS/Android app, go to settings ? about ? disable account ? delete account.",
+  }
+}

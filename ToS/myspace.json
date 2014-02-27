@@ -18,6 +18,12 @@
       "url" : "https://new.myspace.com/pages/terms"
     }
   },
+  "icons" : {
+    "icon-colour" : "/i/MySpace-icon-colour.png",
+    "icon-colour-2x" : "/i/MySpace-icon-colour@2x.png",
+    "icon-grey" : "/i/MySpace-icon-grey.png",
+    "icon-grey-2x" : "/i/MySpace-icon-grey@2x.png"
+  },
   "id" : "myspace",
   "last-diff" : "",
   "name" : "myspace",

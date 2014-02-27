@@ -61,6 +61,12 @@
   },
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Skype-icon-colour.png",
+    "icon-colour-2x" : "/i/Skype-icon-colour@2x.png",
+    "icon-grey" : "/i/Skype-icon-grey.png",
+    "icon-grey-2x" : "/i/Skype-icon-grey@2x.png"
+  },
   "id" : "skype",
   "name" : "Skype",
   "tosback2" : {
