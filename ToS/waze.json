@@ -17,4 +17,54 @@
     "url" : "http://www.waze.com/support/",
     "notes" : "Send in a support ticket via the Quick Help form at Waze Support. Enter 'Delete Waze account' as the subject/question, then click the Email link. Complete filling out the form with your Waze username and registered email address."
   }
+, "deepLinks": [
+    {
+        "description": "Change Bio",
+        "url": ""
+    },
+    {
+        "description": "Change Password",
+        "url": ""
+    },
+    {
+        "description": "Change Username",
+        "url": ""
+    },
+    {
+        "description": "Change Email",
+        "url": ""
+    },
+    {
+        "description": "Change Email Settings",
+        "url": ""
+    },
+    {
+        "description": "Delete Account",
+        "url": ""
+    },
+    {
+        "description": "Change Mobile Settings",
+        "url": ""
+    },
+    {
+        "description": "Recover Password",
+        "url": ""
+    },
+    {
+        "description": "Change Profile Picture",
+        "url": ""
+    },
+    {
+        "description": "Change Design",
+        "url": ""
+    },
+    {
+        "description": "Change Connected Accounts",
+        "url": ""
+    },
+    {
+        "description": "Change 3rd Party Permissions",
+        "url": ""
+    }
+  ]
 }

@@ -18,4 +18,54 @@
     "url" : "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
     "notes" : "A few survey questions will be asked prior to account deletion."
   }
+, "deepLinks": [
+    {
+        "description": "Change Bio",
+        "url": ""
+    },
+    {
+        "description": "Change Password",
+        "url": ""
+    },
+    {
+        "description": "Change Username",
+        "url": ""
+    },
+    {
+        "description": "Change Email",
+        "url": ""
+    },
+    {
+        "description": "Change Email Settings",
+        "url": ""
+    },
+    {
+        "description": "Delete Account",
+        "url": ""
+    },
+    {
+        "description": "Change Mobile Settings",
+        "url": ""
+    },
+    {
+        "description": "Recover Password",
+        "url": ""
+    },
+    {
+        "description": "Change Profile Picture",
+        "url": ""
+    },
+    {
+        "description": "Change Design",
+        "url": ""
+    },
+    {
+        "description": "Change Connected Accounts",
+        "url": ""
+    },
+    {
+        "description": "Change 3rd Party Permissions",
+        "url": ""
+    }
+  ]
 }

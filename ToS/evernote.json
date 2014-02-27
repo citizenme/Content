@@ -2,56 +2,6 @@
   "class" : false,
   "links" : { },
   "alexa" : 1249,
-  "deepLinks": [
-    {
-        "description": "Change Bio",
-        "url": ""
-    },
-    {
-        "description": "Change Password",
-        "url": ""
-    },
-    {
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "description": "Change Email Settings",
-        "url": ""
-    },
-    {
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "description": "Recover Password",
-        "url": ""
-    },
-    {
-        "description": "Change Profile Picture",
-        "url": ""
-    },
-    {
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ],
   "freesoftware" : false,
   "fulltos" : {
     "privacy" : {
@@ -108,4 +58,54 @@
       "type" : "category"
     } ]
   } ]
+, "deepLinks": [
+    {
+        "description": "Change Bio",
+        "url": ""
+    },
+    {
+        "description": "Change Password",
+        "url": ""
+    },
+    {
+        "description": "Change Username",
+        "url": ""
+    },
+    {
+        "description": "Change Email",
+        "url": ""
+    },
+    {
+        "description": "Change Email Settings",
+        "url": ""
+    },
+    {
+        "description": "Delete Account",
+        "url": ""
+    },
+    {
+        "description": "Change Mobile Settings",
+        "url": ""
+    },
+    {
+        "description": "Recover Password",
+        "url": ""
+    },
+    {
+        "description": "Change Profile Picture",
+        "url": ""
+    },
+    {
+        "description": "Change Design",
+        "url": ""
+    },
+    {
+        "description": "Change Connected Accounts",
+        "url": ""
+    },
+    {
+        "description": "Change 3rd Party Permissions",
+        "url": ""
+    }
+  ]
 }

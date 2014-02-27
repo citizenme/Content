@@ -1,6 +1,29 @@
 {
   "alexa" : 1000000,
-  "deepLinks": [
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/citizenme-icon-colour.png",
+    "icon-colour-2x" : "/i/citizenme-icon-colour@2x.png",
+    "icon-grey" : "/i/citizenme-icon-grey.png",
+    "icon-grey-2x" : "/i/citizenme-icon-grey@2x.png"
+  },
+  "id" : "citizenme",
+  "name" : "citizenme",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "citizenme.json",
+  "jdm" : {
+    "name" : "citizenme",
+    "url" : "http://www.citizenme.com",
+    "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion"
+  }
+, "deepLinks": [
     {
         "description": "Change Bio",
         "url": "Ian "
@@ -49,28 +72,5 @@
         "description": "Change 3rd Party Permissions",
         "url": ""
     }
-  ],
-  "freesoftware" : false,
-  "fulltos" : { },
-  "icons" : {
-    "icon-colour" : "/i/citizenme-icon-colour.png",
-    "icon-colour-2x" : "/i/citizenme-icon-colour@2x.png",
-    "icon-grey" : "/i/citizenme-icon-grey.png",
-    "icon-grey-2x" : "/i/citizenme-icon-grey@2x.png"
-  },
-  "id" : "citizenme",
-  "name" : "citizenme",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "citizenme.json",
-  "jdm" : {
-    "name" : "citizenme",
-    "url" : "http://www.citizenme.com",
-    "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion"
-  }
+  ]
 }

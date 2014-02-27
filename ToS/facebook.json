@@ -1,56 +1,6 @@
 {
   "alexa" : 1,
   "class" : false,
-  "deepLinks": [
-    {
-        "description": "Change Bio",
-        "url": "http://www.facebook.com/editprofile.php"
-    },
-    {
-        "description": "Change Password",
-        "url": "https://www.facebook.com/settings?tab=account&t"
-    },
-    {
-        "description": "Change Username",
-        "url": "https://www.facebook.com/settings?tab=account&t"
-    },
-    {
-        "description": "Change Email",
-        "url": "https://www.facebook.com/settings?tab=account&t"
-    },
-    {
-        "description": "Change Email Settings",
-        "url": "http://www.facebook.com/settings?tab=notifications&section=Facebook&t"
-    },
-    {
-        "description": "Delete Account",
-        "url": "http://www.facebook.com/help/contact.php?show_form=delete_account"
-    },
-    {
-        "description": "Change Mobile Settings",
-        "url": "https://www.facebook.com/settings?tab=mobile"
-    },
-    {
-        "description": "Recover Password",
-        "url": "https://www.facebook.com/recover.php"
-    },
-    {
-        "description": "Change Profile Picture",
-        "url": "http://www.facebook.com/editprofile.php"
-    },
-    {
-        "description": "Change Design",
-        "url": "http://www.facebook.com/editprofile.php"
-    },
-    {
-        "description": "Change Connected Accounts",
-        "url": "https://www.facebook.com/settings?tab=account&t"
-    },
-    {
-        "description": "Change 3rd Party Permissions",
-        "url": "http://www.facebook.com/settings/?tab=applications"
-    }
-  ],
   "links" : {
     "privacy" : {
       "name" : "Data Use Policy",
@@ -318,4 +268,54 @@
       "type" : "category"
     } ]
   } ]
+, "deepLinks": [
+    {
+        "description": "Change Bio",
+        "url": "http://www.facebook.com/editprofile.php"
+    },
+    {
+        "description": "Change Password",
+        "url": "https://www.facebook.com/settings?tab=account&t"
+    },
+    {
+        "description": "Change Username",
+        "url": "https://www.facebook.com/settings?tab=account&t"
+    },
+    {
+        "description": "Change Email",
+        "url": "https://www.facebook.com/settings?tab=account&t"
+    },
+    {
+        "description": "Change Email Settings",
+        "url": "http://www.facebook.com/settings?tab=notifications&section=Facebook&t"
+    },
+    {
+        "description": "Delete Account",
+        "url": "http://www.facebook.com/help/contact.php?show_form=delete_account"
+    },
+    {
+        "description": "Change Mobile Settings",
+        "url": "https://www.facebook.com/settings?tab=mobile"
+    },
+    {
+        "description": "Recover Password",
+        "url": "https://www.facebook.com/recover.php"
+    },
+    {
+        "description": "Change Profile Picture",
+        "url": "http://www.facebook.com/editprofile.php"
+    },
+    {
+        "description": "Change Design",
+        "url": "http://www.facebook.com/editprofile.php"
+    },
+    {
+        "description": "Change Connected Accounts",
+        "url": "https://www.facebook.com/settings?tab=account&t"
+    },
+    {
+        "description": "Change 3rd Party Permissions",
+        "url": "http://www.facebook.com/settings/?tab=applications"
+    }
+  ]
 }
