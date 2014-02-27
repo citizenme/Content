@@ -9,6 +9,12 @@
       "url" : "http://instagr.am/legal/terms/"
     }
   },
+  "icons" : {
+    "icon-colour" : "/i/instagram-icon-colour.png",
+    "icon-colour-2x" : "/i/instagram-icon-colour@2x.png",
+    "icon-grey" : "/i/instagram-icon-grey.png",
+    "icon-grey-2x" : "/i/instagram-icon-grey@2x.png"
+  },
   "id" : "instagram",
   "name" : "Instagram",
   "tosdr" : {

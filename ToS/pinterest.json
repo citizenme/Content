@@ -2,6 +2,12 @@
   "alexa" : 1000000,
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Pinterest-icon-colour.png",
+    "icon-colour-2x" : "/i/Pinterest-icon-colour@2x.png",
+    "icon-grey" : "/i/Pinterest-icon-grey.png",
+    "icon-grey-2x" : "/i/Pinterest-icon-grey@2x.png"
+  },
   "id" : "pinterest",
   "name" : "pinterest",
   "tosdr" : {

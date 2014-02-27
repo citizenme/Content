@@ -11,6 +11,12 @@
       "url" : "http://www.linkedin.com/static?key=user_agreement"
     }
   },
+  "icons" : {
+    "icon-colour" : "/i/Linkedin-icon-colour.png",
+    "icon-colour-2x" : "/i/Linkedin-icon-colour@2x.png",
+    "icon-grey" : "/i/Linkedin-icon-grey.png",
+    "icon-grey-2x" : "/i/Linkedin-icon-grey@2x.png"
+  },
   "id" : "linkedin",
   "keywords" : [ "professional", "jobs" ],
   "name" : "LinkedIn",

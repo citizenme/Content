@@ -21,6 +21,12 @@
   },
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/googleplus-icon-colour.png",
+    "icon-colour-2x" : "/i/googleplus-icon-colour@2x.png",
+    "icon-grey" : "/i/googleplus-icon-grey.png",
+    "icon-grey-2x" : "/i/googleplus-icon-grey@2x.png"
+  },
   "id" : "google",
   "keywords" : [ "search", "groups" ],
   "name" : "Google",

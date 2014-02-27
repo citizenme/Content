@@ -17,6 +17,12 @@
   },
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Yahoo-icon-colour.png",
+    "icon-colour-2x" : "/i/Yahoo-icon-colour@2x.png",
+    "icon-grey" : "/i/Yahoo-icon-grey.png",
+    "icon-grey-2x" : "/i/Yahoo-icon-grey@2x.png"
+  },
   "id" : "yahoo",
   "keywords" : [ "search", "groups" ],
   "name" : "Yahoo!",

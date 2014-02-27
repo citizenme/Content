@@ -13,6 +13,12 @@
   },
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/flickr-icon-colour.png",
+    "icon-colour-2x" : "/i/flickr-icon-colour@2x.png",
+    "icon-grey" : "/i/flickr-icon-grey.png",
+    "icon-grey-2x" : "/i/flickr-icon-grey@2x.png"
+  },
   "id" : "flickr",
   "keywords" : [ "photos", "pictures" ],
   "name" : "Flickr",

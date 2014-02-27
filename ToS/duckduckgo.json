@@ -9,6 +9,12 @@
   },
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/duckduckgo-icon-colour.png",
+    "icon-colour-2x" : "/i/duckduckgo-icon-colour@2x.png",
+    "icon-grey" : "/i/duckduckgo-icon-grey.png",
+    "icon-grey-2x" : "/i/duckduckgo-icon-grey@2x.png"
+  },
   "id" : "duckduckgo",
   "keywords" : [ "search", "search engine" ],
   "name" : "DuckDuckGo",

@@ -20,6 +20,12 @@
       "url" : "https://wikimediafoundation.org/wiki/Terms_of_use"
     }
   },
+  "icons" : {
+    "icon-colour" : "/i/Wikipedia-icon-colour.png",
+    "icon-colour-2x" : "/i/Wikipedia-icon-colour@2x.png",
+    "icon-grey" : "/i/Wikipedia-icon-grey.png",
+    "icon-grey-2x" : "/i/Wikipedia-icon-grey@2x.png"
+  },
   "id" : "wikipedia",
   "name" : "Wikipedia",
   "tosback2" : {

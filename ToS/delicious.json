@@ -26,6 +26,12 @@
     }
   },
   "id" : "delicious",
+  "icons" : {
+    "icon-colour" : "/i/Delicious-icon-colour.png",
+    "icon-colour-2x" : "/i/Delicious-icon-colour@2x.png",
+    "icon-grey" : "/i/Delicious-icon-grey.png",
+    "icon-grey-2x" : "/i/Delicious-icon-grey@2x.png"
+  },
   "name" : "Delicious",
   "tosback2" : {
     "last-archive" : {

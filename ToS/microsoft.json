@@ -21,6 +21,12 @@
       "url" : "http://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx"
     }
   },
+  "icons" : {
+    "icon-colour" : "/i/Microsoft-icon-colour.png",
+    "icon-colour-2x" : "/i/Microsoft-icon-colour@2x.png",
+    "icon-grey" : "/i/Microsoft-icon-grey.png",
+    "icon-grey-2x" : "/i/Microsoft-icon-grey@2x.png"
+  },
   "id" : "microsoft",
   "last-diff" : "",
   "name" : "Microsoft Services",

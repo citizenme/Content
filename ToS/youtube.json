@@ -13,6 +13,12 @@
   },
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/youtube-icon-colour.png",
+    "icon-colour-2x" : "/i/youtube-icon-colour@2x.png",
+    "icon-grey" : "/i/youtube-icon-grey.png",
+    "icon-grey-2x" : "/i/youtube-icon-grey@2x.png"
+  },
   "id" : "youtube",
   "keywords" : [ "video", "videos" ],
   "name" : "YouTube",

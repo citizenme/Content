@@ -22,6 +22,12 @@
   "dataexport" : false,
   "freesoftware" : false,
   "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/twitter-icon-colour.png",
+    "icon-colour-2x" : "/i/twitter-icon-colour@2x.png",
+    "icon-grey" : "/i/twitter-icon-grey.png",
+    "icon-grey-2x" : "/i/twitter-icon-grey@2x.png"
+  },
   "id" : "twitter",
   "name" : "twitter",
   "related" : [ "identi-ca", "seenthis" ],
