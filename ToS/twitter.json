@@ -1,6 +1,56 @@
 {
   "alexa" : 8,
   "class" : false,
+  deepLinks": [
+    {
+        "description": "Change Bio",
+        "url": "https://twitter.com/settings/profile"
+    },
+    {
+        "description": "Change Password",
+        "url": "https://twitter.com/settings/password"
+    },
+    {
+        "description": "Change Username",
+        "url": "https://twitter.com/settings/account"
+    },
+    {
+        "description": "Change Email",
+        "url": "https://twitter.com/settings/account"
+    },
+    {
+        "description": "Change Email Settings",
+        "url": "https://twitter.com/settings/notifications"
+    },
+    {
+        "description": "Delete Account",
+        "url": "https://twitter.com/settings/account"
+    },
+    {
+        "description": "Change Mobile Settings",
+        "url": "https://twitter.com/settings/devices"
+    },
+    {
+        "description": "Recover Password",
+        "url": ""
+    },
+    {
+        "description": "Change Profile Picture",
+        "url": "https://twitter.com/settings/profile"
+    },
+    {
+        "description": "Change Design",
+        "url": "https://twitter.com/settings/design"
+    },
+    {
+        "description": "Change Connected Accounts",
+        "url": "https://twitter.com/settings/profile"
+    },
+    {
+        "description": "Change 3rd Party Permissions",
+        "url": "https://twitter.com/settings/applications"
+    }
+  ],
   "links" : {
     "privacy" : {
       "last-archive" : {
