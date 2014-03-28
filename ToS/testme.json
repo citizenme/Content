@@ -1,0 +1,76 @@
+{
+  "alexa" : 1000000,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/testme-icon-colour.png",
+    "icon-colour-2x" : "/i/testme-icon-colour@2x.png",
+    "icon-grey" : "/i/testme-icon-grey.png",
+    "icon-grey-2x" : "/i/testme-icon-grey@2x.png"
+  },
+  "id" : "testme",
+  "name" : "testme",
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : false,
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "testme.json",
+  "jdm" : {
+    "name" : "testme",
+    "url" : "http://www.testme.com",
+    "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion"
+  }
+, "deepLinks": [
+    {
+        "description": "Change Bio",
+        "url": "Ian "
+    },
+    {
+        "description": "Change Password",
+        "url": ""
+    },
+    {
+        "description": "Change Username",
+        "url": ""
+    },
+    {
+        "description": "Change Email",
+        "url": ""
+    },
+    {
+        "description": "Change Email Settings",
+        "url": ""
+    },
+    {
+        "description": "Delete Account",
+        "url": ""
+    },
+    {
+        "description": "Change Mobile Settings",
+        "url": ""
+    },
+    {
+        "description": "Recover Password",
+        "url": ""
+    },
+    {
+        "description": "Change Profile Picture",
+        "url": ""
+    },
+    {
+        "description": "Change Design",
+        "url": ""
+    },
+    {
+        "description": "Change Connected Accounts",
+        "url": ""
+    },
+    {
+        "description": "Change 3rd Party Permissions",
+        "url": ""
+    }
+  ]
+}
