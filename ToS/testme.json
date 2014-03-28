@@ -22,8 +22,40 @@
     "name" : "testme",
     "url" : "http://www.testme.com",
     "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion"
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/E58aPtzP3jk/discussion",
+    "id" : "E58aPtzP3jk",
+    "set" : "set+service+and+topic",
+    "title" : "This service tracks you on other websites",
+    "tosdr" : {
+      "binding" : true,
+      "case" : "tracks you on other websites",
+      "point" : "bad",
+      "score" : 60,
+      "tldr" : "This service uses cookies to track you even if you are not interacting with them directly. Amazon for instance, use cookies to track your device and serve targeted advertisements on other websites (Amazon associates, websites using Amazon Checkout). They “obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites”."
+    },
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    }, {
+      "id" : "third",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category"
+    } ]
   }
-, "deepLinks": [
+] , "deepLinks": [
     {
         "description": "Change Bio",
         "url": "Ian "
