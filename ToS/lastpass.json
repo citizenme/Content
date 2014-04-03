@@ -16,7 +16,8 @@
   "fileName" : "lastpass.json",
   "jdm" : {
     "name" : "LastPass",
-    "url" : "https://lastpass.com/delete_account.php"
+    "url" : "https://lastpass.com/delete_account.php",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",

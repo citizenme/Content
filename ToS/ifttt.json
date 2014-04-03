@@ -21,7 +21,8 @@
   "fileName" : "ifttt.json",
   "jdm" : {
     "name" : "IFTTT",
-    "url" : "https://ifttt.com/settings/deactivate"
+    "url" : "https://ifttt.com/settings/deactivate",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",

@@ -41,6 +41,11 @@
   "url" : "microsoft.com",
   "urls" : [ "microsoft.com" ],
   "fileName" : "microsoft.json",
+  "jdm" : {
+    "name": "Microsoft Account",
+    "url": "https://account.live.com/closeaccount.aspx",
+    "difficulty": "easy"
+  },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/6Rb57dXnJVQ/discussion",
     "id" : "6Rb57dXnJVQ",

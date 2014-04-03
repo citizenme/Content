@@ -26,16 +26,20 @@
   }
 , "deepLinks": [
     {
+        "description": "Settings Page",
+        "url": "https://www.stumbleupon.com/settings/profile"
+    },
+    {
         "description": "Change Bio",
-        "url": ""
+        "url": "https://www.stumbleupon.com/settings/profile"
     },
     {
         "description": "Change Password",
-        "url": ""
+        "url": "https://www.stumbleupon.com/settings/password"
     },
     {
         "description": "Change Username",
-        "url": ""
+        "url": "https://www.stumbleupon.com/settings/profile"
     },
     {
         "description": "Change Email",
@@ -43,7 +47,7 @@
     },
     {
         "description": "Change Email Settings",
-        "url": ""
+        "url": "https://www.stumbleupon.com/settings/privacy-emails"
     },
     {
         "description": "Delete Account",
@@ -51,15 +55,15 @@
     },
     {
         "description": "Change Mobile Settings",
-        "url": ""
+        "url": "https://www.stumbleupon.com/settings/profile"
     },
     {
         "description": "Recover Password",
-        "url": ""
+        "url": "http://www.stumbleupon.com/reset-password"
     },
     {
         "description": "Change Profile Picture",
-        "url": ""
+        "url": "https://www.stumbleupon.com/settings/picture"
     },
     {
         "description": "Change Design",
@@ -67,7 +71,7 @@
     },
     {
         "description": "Change Connected Accounts",
-        "url": ""
+        "url": "https://www.stumbleupon.com/settings/connections"
     },
     {
         "description": "Change 3rd Party Permissions",

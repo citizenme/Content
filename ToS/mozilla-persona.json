@@ -15,7 +15,13 @@
   },
   "type" : "software",
   "urls" : [ ],
-  "fileName" : "mozilla-persona.json"
+  "fileName" : "mozilla-persona.json",
+  "jdm" : {
+    "name": "Mozilla Persona",
+    "url": "https://login.persona.org/",
+    "difficulty": "easy",
+    "notes": "“Cancel your account” link at the bottom of the page."
+  }
 , "deepLinks": [
     {
         "description": "Change Bio",

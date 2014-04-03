@@ -77,7 +77,8 @@
   "fileName" : "github.json",
   "jdm" : {
     "name" : "GitHub",
-    "url" : "https://github.com/settings/admin"
+    "url" : "https://github.com/settings/admin",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/2vIh4l7sTnk/discussion",

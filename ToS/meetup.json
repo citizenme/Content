@@ -2,8 +2,14 @@
   "alexa" : 1000000,
   "freesoftware" : false,
   "fulltos" : { },
-  "id" : "waze",
-  "name" : "waze",
+  "icons" : {
+    "icon-colour" : "/i/meetup-icon-colour.png",
+    "icon-colour-2x" : "/i/meetup-icon-colour@2x.png",
+    "icon-grey" : "/i/meetup-icon-grey.png",
+    "icon-grey-2x" : "/i/meetup-icon-grey@2x.png"
+  },
+  "id" : "meetup",
+  "name" : "meetup",
   "tosdr" : {
     "keywords" : [ ],
     "rated" : false,
@@ -11,20 +17,24 @@
   },
   "type" : "service",
   "urls" : [ ],
-  "fileName" : "waze.json",
+  "fileName" : "meetup.json",
   "jdm" : {
-      "name": "Waze",
-      "url": "https://www.waze.com/dashboard/delete_account",
-      "difficulty": "easy"
+    "name": "Meetup",
+    "url": "http://www.meetup.com/account/remove/",
+    "difficulty": "easy"
   }
 , "deepLinks": [
     {
+        "description": "Settings Page",
+        "url": "http://www.meetup.com/account/"
+    },
+    {
         "description": "Change Bio",
-        "url": ""
+        "url": "http://www.meetup.com/account/bio/"
     },
     {
         "description": "Change Password",
-        "url": ""
+        "url": "https://secure.meetup.com/account/password"
     },
     {
         "description": "Change Username",
@@ -32,15 +42,15 @@
     },
     {
         "description": "Change Email",
-        "url": ""
+        "url": "http://www.meetup.com/account/email/"
     },
     {
         "description": "Change Email Settings",
-        "url": ""
+        "url": "http://www.meetup.com/account/comm/"
     },
     {
         "description": "Delete Account",
-        "url": ""
+        "url": "http://www.meetup.com/account/remove/"
     },
     {
         "description": "Change Mobile Settings",
@@ -48,11 +58,11 @@
     },
     {
         "description": "Recover Password",
-        "url": ""
+        "url": "http://www.meetup.com/account/forgot/"
     },
     {
         "description": "Change Profile Picture",
-        "url": ""
+        "url": "http://www.meetup.com/account/"
     },
     {
         "description": "Change Design",
@@ -64,7 +74,7 @@
     },
     {
         "description": "Change 3rd Party Permissions",
-        "url": ""
+        "url": "http://www.meetup.com/account/oauth_apps/"
     }
   ]
 }

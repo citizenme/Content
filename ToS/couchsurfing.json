@@ -22,6 +22,7 @@
   "jdm" : {
     "name" : "Couchsurfing",
     "url" : "https://www.couchsurfing.org/delete_profile.html?delete=1",
+    "difficulty": "impossible",
     "notes" : "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'."
   },
   "points" : [ {

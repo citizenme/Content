@@ -15,6 +15,7 @@
   "jdm" : {
     "name" : "Bitbucket",
     "url" : "https://bitbucket.org/account/",
+    "difficulty": "easy",
     "notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
   }
 , "deepLinks": [

@@ -15,6 +15,7 @@
   "jdm" : {
     "name" : "Craigslist",
     "url" : "http://www.craigslist.org/about/help/user_accounts",
+    "difficulty" : "hard",
     "notes" : "Send an email to abuse@craigslist.org and request deletion."
   }
 , "deepLinks": [

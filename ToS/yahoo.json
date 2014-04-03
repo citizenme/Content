@@ -54,6 +54,7 @@
   "jdm" : {
     "meta" : "popular",
     "name" : "Yahoo!",
+    "difficulty": "easy",
     "url" : "https://edit.yahoo.com/config/delete_user"
   },
   "points" : [ {
