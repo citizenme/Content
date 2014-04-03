@@ -14,7 +14,8 @@
   "fileName" : "airbnb.json",
   "jdm" : {
     "name" : "Airbnb",
-    "url" : "https://www.airbnb.com/users/settings"
+    "url" : "https://www.airbnb.com/users/settings",
+    "difficulty": "easy"
   }
 , "deepLinks": [
     {

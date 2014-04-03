@@ -15,7 +15,8 @@
   "fileName" : "goodreads.json",
   "jdm" : {
     "name" : "Goodreads",
-    "url" : "http://www.goodreads.com/user/destroy"
+    "url" : "http://www.goodreads.com/user/destroy",
+    "difficulty": "easy"
   }
 , "deepLinks": [
     {

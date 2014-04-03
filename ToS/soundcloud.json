@@ -77,7 +77,8 @@
   "fileName" : "soundcloud.json",
   "jdm" : {
     "name" : "Soundcloud",
-    "url" : "http://soundcloud.com/settings/account#delete-user"
+    "url" : "http://soundcloud.com/settings/account#delete-user",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/-tqWw03UPoc/discussion",

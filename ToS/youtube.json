@@ -48,6 +48,7 @@
     "meta" : "popular",
     "name" : "YouTube",
     "url" : "https://support.google.com/youtube/answer/55759",
+    "difficulty": "impossible",
     "notes" : "You can't delete your YouTube account without deleting your entire Google Account. But you can delete your channel."
   },
   "points" : [ {
@@ -289,12 +290,16 @@
   } ]
 , "deepLinks": [
     {
+        "description": "Settings Page",
+        "url": "https://www.youtube.com/account"
+    },
+    {
         "description": "Change Bio",
-        "url": ""
+        "url": "http://www.youtube.com/account_profile"
     },
     {
         "description": "Change Password",
-        "url": ""
+        "url": "https://accounts.google.com/b/0/EditPasswd"
     },
     {
         "description": "Change Username",
@@ -306,35 +311,35 @@
     },
     {
         "description": "Change Email Settings",
-        "url": ""
+        "url": "http://www.youtube.com/account_notifications"
     },
     {
         "description": "Delete Account",
-        "url": ""
+        "url": "http://www.youtube.com/account_manage"
     },
     {
         "description": "Change Mobile Settings",
-        "url": ""
+        "url": "http://www.youtube.com/account_mobile_setup"
     },
     {
         "description": "Recover Password",
-        "url": ""
+        "url": "http://www.youtube.com/account_recovery"
     },
     {
         "description": "Change Profile Picture",
-        "url": ""
+        "url": "http://www.youtube.com/account?feature=mhee"
     },
     {
         "description": "Change Design",
-        "url": ""
+        "url": "http://www.youtube.com/channel_editor?action_editor=1&editor_tab=branding"
     },
     {
         "description": "Change Connected Accounts",
-        "url": ""
+        "url": "http://www.youtube.com/account_sharing"
     },
     {
         "description": "Change 3rd Party Permissions",
-        "url": ""
+        "url": "http://www.youtube.com/account_sharing"
     }
   ]
 }

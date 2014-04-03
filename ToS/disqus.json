@@ -47,7 +47,8 @@
   "fileName" : "disqus.json",
   "jdm" : {
     "name" : "Disqus",
-    "url" : "http://disqus.com/pages/dashboard/#account"
+    "url" : "http://disqus.com/pages/dashboard/#account",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",

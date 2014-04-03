@@ -17,6 +17,7 @@
   "jdm" : {
     "name" : "WhatsApp",
     "url" : "https://whatsapp.zendesk.com/entries/21119703-How-do-I-delete-my-account-",
+    "difficulty": "medium",
     "notes" : "From the app: Settings → Account → Delete your account."
   },
   "points" : [ {

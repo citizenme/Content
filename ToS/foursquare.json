@@ -106,12 +106,16 @@
   } ]
 , "deepLinks": [
     {
+        "description": "Settings Page",
+        "url": "https://foursquare.com/settings/"
+    },
+    {
         "description": "Change Bio",
         "url": ""
     },
     {
         "description": "Change Password",
-        "url": ""
+        "url": "https://foursquare.com/settings/"
     },
     {
         "description": "Change Username",
@@ -123,11 +127,11 @@
     },
     {
         "description": "Change Email Settings",
-        "url": ""
+        "url": "https://foursquare.com/settings/"
     },
     {
         "description": "Delete Account",
-        "url": ""
+        "url": "https://foursquare.com/delete_me"
     },
     {
         "description": "Change Mobile Settings",
@@ -135,7 +139,7 @@
     },
     {
         "description": "Recover Password",
-        "url": ""
+        "url": "https://foursquare.com/change_password"
     },
     {
         "description": "Change Profile Picture",
@@ -147,11 +151,11 @@
     },
     {
         "description": "Change Connected Accounts",
-        "url": ""
+        "url": "https://foursquare.com/settings/sharing"
     },
     {
         "description": "Change 3rd Party Permissions",
-        "url": ""
+        "url": "https://foursquare.com/login?continue=%2Fsettings%2Fconnections"
     }
   ]
 }

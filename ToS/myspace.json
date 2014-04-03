@@ -39,7 +39,8 @@
   "fileName" : "myspace.json",
   "jdm" : {
     "name" : "MySpace",
-    "url" : "https://new.myspace.com/settings/profile"
+    "url" : "https://new.myspace.com/settings/profile",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",

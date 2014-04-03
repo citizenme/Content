@@ -46,7 +46,8 @@
   "fileName" : "flickr.json",
   "jdm" : {
     "name" : "Flickr",
-    "url" : "http://www.flickr.com/profile_delete.gne"
+    "url" : "http://www.flickr.com/profile_delete.gne",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/K1M7Vj1W1VM/klIjYdinTVcJ",
@@ -176,8 +177,12 @@
   } ]
 , "deepLinks": [
     {
+        "description": "Settings Page",
+        "url": "http://www.flickr.com/profile_edit.gne"
+    },
+    {
         "description": "Change Bio",
-        "url": ""
+        "url": "http://www.flickr.com/profile_edit.gne?from=personal"
     },
     {
         "description": "Change Password",
@@ -185,19 +190,19 @@
     },
     {
         "description": "Change Username",
-        "url": ""
+        "url": "http://www.flickr.com/account/prefs/screenname/?from=personal"
     },
     {
         "description": "Change Email",
-        "url": ""
+        "url": "http://www.flickr.com/account/email/"
     },
     {
         "description": "Change Email Settings",
-        "url": ""
+        "url": "http://www.flickr.com/account/email/"
     },
     {
         "description": "Delete Account",
-        "url": ""
+        "url": "http://www.flickr.com/profile_delete.gne"
     },
     {
         "description": "Change Mobile Settings",
@@ -205,23 +210,23 @@
     },
     {
         "description": "Recover Password",
-        "url": ""
+        "url": "https://edit.yahoo.com/forgotroot"
     },
     {
         "description": "Change Profile Picture",
-        "url": ""
+        "url": "http://www.flickr.com/iconbuilder/?from=personal"
     },
     {
         "description": "Change Design",
-        "url": ""
+        "url": "http://www.flickr.com/account/prefs/layout/"
     },
     {
         "description": "Change Connected Accounts",
-        "url": ""
+        "url": "http://www.flickr.com/account/sharing/"
     },
     {
         "description": "Change 3rd Party Permissions",
-        "url": ""
+        "url": "http://www.flickr.com/services/auth/list.gne?from=extend"
     }
   ]
 }

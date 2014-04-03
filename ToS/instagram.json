@@ -29,7 +29,8 @@
   "jdm" : {
     "meta" : "popular",
     "name" : "Instagram",
-    "url" : "https://instagram.com/accounts/remove/request"
+    "url" : "https://instagram.com/accounts/remove/request",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/zWoT_ZWAEM8/discussion",
@@ -86,53 +87,57 @@
     } ]
   } ]
 , "deepLinks": [
-      {
-          "description": "Change Bio",
-          "url": ""
-      },
-      {
-          "description": "Change Password",
-          "url": ""
-      },
-      {
-          "description": "Change Username",
-          "url": ""
-      },
-      {
-          "description": "Change Email",
-          "url": ""
-      },
-      {
-          "description": "Change Email Settings",
-          "url": ""
-      },
-      {
-          "description": "Delete Account",
-          "url": ""
-      },
-      {
-          "description": "Change Mobile Settings",
-          "url": ""
-      },
-      {
-          "description": "Recover Password",
-          "url": ""
-      },
-      {
-          "description": "Change Profile Picture",
-          "url": ""
-      },
-      {
-          "description": "Change Design",
-          "url": ""
-      },
-      {
-          "description": "Change Connected Accounts",
-          "url": ""
-      },
-      {
-          "description": "Change 3rd Party Permissions",
-          "url": ""
-      }
+    {
+        "description": "Settings Page",
+        "url": "https://instagr.am/accounts/edit/"
+    },
+    {
+        "description": "Change Bio",
+        "url": "https://instagr.am/accounts/edit/"
+    },
+    {
+        "description": "Change Password",
+        "url": "https://instagr.am/accounts/password/change/"
+    },
+    {
+        "description": "Change Username",
+        "url": ""
+    },
+    {
+        "description": "Change Email",
+        "url": ""
+    },
+    {
+        "description": "Change Email Settings",
+        "url": ""
+    },
+    {
+        "description": "Delete Account",
+        "url": ""
+    },
+    {
+        "description": "Change Mobile Settings",
+        "url": ""
+    },
+    {
+        "description": "Recover Password",
+        "url": "https://instagr.am/accounts/password/reset/"
+    },
+    {
+        "description": "Change Profile Picture",
+        "url": ""
+    },
+    {
+        "description": "Change Design",
+        "url": ""
+    },
+    {
+        "description": "Change Connected Accounts",
+        "url": ""
+    },
+    {
+        "description": "Change 3rd Party Permissions",
+        "url": "https://instagr.am/accounts/login/?next=/oauth/manage_access"
+    }
   ]
 }

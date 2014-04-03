@@ -11,7 +11,13 @@
   },
   "type" : "service",
   "urls" : [ ],
-  "fileName" : "kippt.com.json"
+  "fileName" : "kippt.com.json",
+  "jdm" : {
+    "name": "Kippt",
+    "url": "https://kippt.com/accounts/delete/",
+    "difficulty": "easy",
+    "notes": "Click 'Account deletion page' at the bottom of the account settings page."
+  }
 , "deepLinks": [
     {
         "description": "Change Bio",

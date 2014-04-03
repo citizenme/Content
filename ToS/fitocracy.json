@@ -14,7 +14,8 @@
   "fileName" : "fitocracy.json",
   "jdm" : {
     "name" : "Fitocracy",
-    "url" : "https://www.fitocracy.com/account/deletion/"
+    "url" : "https://www.fitocracy.com/account/deletion/",
+    "difficulty": "easy"
   }
 , "deepLinks": [
     {

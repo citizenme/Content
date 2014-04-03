@@ -15,6 +15,7 @@
   "jdm" : {
     "name" : "Etsy",
     "url" : "http://www.etsy.com/help/article/53",
+    "difficulty": "hard",
     "notes" : "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file."
   }
 , "deepLinks": [

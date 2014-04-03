@@ -38,7 +38,8 @@
   "fileName" : "500px.json",
   "jdm" : {
     "name" : "500px",
-    "url" : "https://500px.com/settings"
+    "url" : "https://500px.com/settings",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/3uiIrLyj8Hw/discussion",

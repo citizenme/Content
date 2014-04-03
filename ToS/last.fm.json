@@ -11,7 +11,13 @@
   },
   "type" : "service",
   "urls" : [ ],
-  "fileName" : "last.fm.json"
+  "fileName" : "last.fm.json",
+  "jdm" : {
+    "name": "Last.fm",
+    "url": "http://www.last.fm/settings/account",
+    "difficulty": "easy",
+    "notes": "May take up to 7 days to delete your data."
+  }  
 , "deepLinks": [
     {
         "description": "Change Bio",

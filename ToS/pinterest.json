@@ -22,32 +22,37 @@
     "meta" : "popular",
     "name" : "Pinterest",
     "url" : "https://pinterest.com/settings/",
+    "difficulty": "impossible",
     "notes" : "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted."
   }
 , "deepLinks": [
     {
+        "description": "Settings Page",
+        "url": "https://pinterest.com/settings/"
+    },
+    {
         "description": "Change Bio",
-        "url": ""
+        "url": "https://pinterest.com/settings/"
     },
     {
         "description": "Change Password",
-        "url": ""
+        "url": "https://pinterest.com/settings/"
     },
     {
         "description": "Change Username",
-        "url": ""
+        "url": "https://pinterest.com/settings/"
     },
     {
         "description": "Change Email",
-        "url": ""
+        "url": "https://pinterest.com/settings/"
     },
     {
         "description": "Change Email Settings",
-        "url": ""
+        "url": "https://pinterest.com/prefs/"
     },
     {
         "description": "Delete Account",
-        "url": ""
+        "url": "https://pinterest.com/settings/"
     },
     {
         "description": "Change Mobile Settings",
@@ -55,11 +60,11 @@
     },
     {
         "description": "Recover Password",
-        "url": ""
+        "url": "https://pinterest.com/login/?next=%2F"
     },
     {
         "description": "Change Profile Picture",
-        "url": ""
+        "url": "https://pinterest.com/settings/"
     },
     {
         "description": "Change Design",
@@ -67,7 +72,7 @@
     },
     {
         "description": "Change Connected Accounts",
-        "url": ""
+        "url": "https://pinterest.com/settings/"
     },
     {
         "description": "Change 3rd Party Permissions",

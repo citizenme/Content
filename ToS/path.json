@@ -26,12 +26,16 @@
   }
 , "deepLinks": [
     {
+        "description": "Settings Page",
+        "url": "https://path.com/settings"
+    },
+    {
         "description": "Change Bio",
-        "url": ""
+        "url": "https://path.com/settings"
     },
     {
         "description": "Change Password",
-        "url": ""
+        "url": "https://path.com/settings"
     },
     {
         "description": "Change Username",
@@ -43,11 +47,11 @@
     },
     {
         "description": "Change Email Settings",
-        "url": ""
+        "url": "https://path.com/settings"
     },
     {
         "description": "Delete Account",
-        "url": ""
+        "url": "https://path.com/settings"
     },
     {
         "description": "Change Mobile Settings",
@@ -55,19 +59,19 @@
     },
     {
         "description": "Recover Password",
-        "url": ""
+        "url": "https://path.com/forgot-password"
     },
     {
         "description": "Change Profile Picture",
-        "url": ""
+        "url": "https://path.com/settings"
     },
     {
         "description": "Change Design",
-        "url": ""
+        "url": "https://path.com/settings"
     },
     {
         "description": "Change Connected Accounts",
-        "url": ""
+        "url": "https://path.com/settings"
     },
     {
         "description": "Change 3rd Party Permissions",

@@ -63,7 +63,8 @@
   "fileName" : "delicious.json",
   "jdm" : {
     "name" : "Delicious",
-    "url" : "https://delicious.com/settings/deactivate"
+    "url" : "https://delicious.com/settings/deactivate",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/forum/#!topic/tosdr/0oKZG_o_Zu0",

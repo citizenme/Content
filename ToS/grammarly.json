@@ -39,7 +39,8 @@
   "fileName" : "grammarly.json",
   "jdm" : {
     "name" : "Grammarly",
-    "url" : "https://ed.grammarly.com/accounts/me"
+    "url" : "https://ed.grammarly.com/accounts/me",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/0mK5OiQsnTk/discussion",
