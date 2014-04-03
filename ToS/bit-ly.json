@@ -19,6 +19,12 @@
   "url" : "https://bitly.com/",
   "urls" : [ "https://bitly.com/" ],
   "fileName" : "bit-ly.json",
+  "jdm" : {
+    "name": "bitly",
+    "url": "http://support.bitly.com/knowledgebase/articles/105373-how-do-i-delete-my-account-",
+    "difficulty": "impossible",
+    "notes": "The best you can do is archive all of your links. Go to the link you want to archive and click the 'x' in the upper right of the shortlink to archive the link. You can also make all of your shortlinks private."
+  },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/T98obrJsjJA/w1Gp9SDABtkJ",
     "id" : "account-killer-blacklist",

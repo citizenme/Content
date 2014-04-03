@@ -63,7 +63,8 @@
   "jdm" : {
     "meta" : "popular",
     "name" : "Google",
-    "url" : "https://www.google.com/accounts/Login"
+    "url" : "https://www.google.com/accounts/Login",
+    "difficulty": "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/2xvjZf1mgd0/discussion",
@@ -470,28 +471,32 @@
   } ]
 , "deepLinks": [
     {
+        "description": "Settings Page",
+        "url": "https://plus.google.com/u/0/settings"
+    },
+    {
         "description": "Change Bio",
-        "url": ""
+        "url": "https://plus.google.com/u/0/me/about/edit/d"
     },
     {
         "description": "Change Password",
-        "url": ""
+        "url": "https://www.google.com/accounts/b/0/EditPasswd"
     },
     {
         "description": "Change Username",
-        "url": ""
+        "url": "https://accounts.google.com/b/0/EditUserInfo"
     },
     {
         "description": "Change Email",
-        "url": ""
+        "url": "https://www.google.com/accounts/b/0/EditUserInfo"
     },
     {
         "description": "Change Email Settings",
-        "url": ""
+        "url": "https://www.google.com/settings/plus"
     },
     {
         "description": "Delete Account",
-        "url": ""
+        "url": "https://www.google.com/accounts/b/0/DeleteAccount"
     },
     {
         "description": "Change Mobile Settings",
@@ -499,11 +504,11 @@
     },
     {
         "description": "Recover Password",
-        "url": ""
+        "url": "https://www.google.com/accounts/recovery"
     },
     {
         "description": "Change Profile Picture",
-        "url": ""
+        "url": "https://plus.google.com/u/0/me/about/edit/d"
     },
     {
         "description": "Change Design",
@@ -511,11 +516,11 @@
     },
     {
         "description": "Change Connected Accounts",
-        "url": ""
+        "url": "https://profiles.google.com/connectedaccounts?authuser=0"
     },
     {
         "description": "Change 3rd Party Permissions",
-        "url": ""
+        "url": "https://plus.google.com/apps"
     }
   ]
 }

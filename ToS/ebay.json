@@ -16,6 +16,7 @@
     "meta" : "popular",
     "name" : "eBay",
     "url" : "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
+    "difficulty": "easy",
     "notes" : "A few survey questions will be asked prior to account deletion."
   }
 , "deepLinks": [

@@ -63,6 +63,7 @@
     "meta" : "popular",
     "name" : "Twitter",
     "url" : "https://twitter.com/settings/accounts/confirm_deactivation",
+    "difficulty": "easy",
     "notes" : "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. More details"
   },
   "points" : [ {
@@ -317,6 +318,10 @@
     } ]
   } ]
 , "deepLinks": [
+    {
+        "description": "Settings Page",
+        "url": "https://twitter.com/settings/profile"
+    },
     {
         "description": "Change Bio",
         "url": "https://twitter.com/settings/profile"

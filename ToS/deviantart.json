@@ -15,6 +15,7 @@
   "jdm" : {
     "name" : "DeviantArt",
     "url" : "https://www.deviantart.com/settings/deactivation",
+    "difficulty": "easy",
     "notes" : "All your data is ereased immediately. Accounts can be reactivated within 30 days. After that, Accounts can't be reactivated."
   }
 , "deepLinks": [

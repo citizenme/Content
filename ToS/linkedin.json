@@ -34,6 +34,7 @@
     "meta" : "popular",
     "name" : "LinkedIn",
     "url" : "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
+    "difficulty": "medium",
     "notes" : "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it."
   },
   "points" : [ {
@@ -97,12 +98,16 @@
   } ]
 , "deepLinks": [
     {
+        "description": "Settings Page",
+        "url": "https://www.linkedin.com/settings/"
+    },
+    {
         "description": "Change Bio",
-        "url": ""
+        "url": "https://www.linkedin.com/profile/edit"
     },
     {
         "description": "Change Password",
-        "url": ""
+        "url": "https://www.linkedin.com/uas/change-password"
     },
     {
         "description": "Change Username",
@@ -110,15 +115,15 @@
     },
     {
         "description": "Change Email",
-        "url": ""
+        "url": "https://www.linkedin.com/settings/manage-email"
     },
     {
         "description": "Change Email Settings",
-        "url": ""
+        "url": "https://www.linkedin.com/settings/?tab=email"
     },
     {
         "description": "Delete Account",
-        "url": ""
+        "url": "https://www.linkedin.com/secure/settings?closemyaccountstart"
     },
     {
         "description": "Change Mobile Settings",
@@ -126,11 +131,11 @@
     },
     {
         "description": "Recover Password",
-        "url": ""
+        "url": "https://www.linkedin.com/uas/request-password-reset"
     },
     {
         "description": "Change Profile Picture",
-        "url": ""
+        "url": "https://www.linkedin.com/profile/edit-picture-info"
     },
     {
         "description": "Change Design",
@@ -142,7 +147,7 @@
     },
     {
         "description": "Change 3rd Party Permissions",
-        "url": ""
+        "url": "https://www.linkedin.com/secure/settings?userAgree="
     }
   ]
 }

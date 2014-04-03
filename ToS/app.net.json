@@ -11,7 +11,12 @@
   },
   "type" : "service",
   "urls" : [ ],
-  "fileName" : "app.net.json"
+  "fileName" : "app.net.json",
+  "jdm" : {
+    "name": "App.net",
+    "url": "https://account.app.net/settings/delete/",
+    "difficulty": "easy"
+  }
 , "deepLinks": [
     {
         "description": "Change Bio",
