@@ -22,7 +22,9 @@
       "name" : "Privacy Policy",
       "url" : "http://www.xing.com/privacy"
     },
-    "sitename" : "xing.com",
+    "sitename" : { 
+      "name" : "xing.com"
+    },
     "terms" : {
       "name" : "Terms and Conditions",
       "url" : "http://www.xing.com/terms"

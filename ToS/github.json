@@ -3,26 +3,14 @@
   "class" : "B",
   "links" : {
     "privacy" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Privacy Policy",
       "url" : "https://help.github.com/privacy-policy"
     },
     "security" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Security",
       "url" : "https://help.github.com/security/"
     },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Terms of Service",
       "url" : "https://github.com/site/terms"
     }
@@ -41,27 +29,17 @@
   "related" : [ "gitorious" ],
   "tosback2" : {
     "privacy" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Privacy Policy",
       "url" : "https://help.github.com/privacy-policy"
     },
     "security" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Security",
       "url" : "https://help.github.com/security/"
     },
-    "sitename" : "github.com",
+    "sitename" : {
+      "name" : "github.com"
+    },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Terms of Service",
       "url" : "https://github.com/site/terms"
     }

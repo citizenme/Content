@@ -21,7 +21,9 @@
       "name" : "Privacy Policy",
       "url" : "http://www.apple.com/privacy/"
     },
-    "sitename" : "apple.com",
+    "sitename" : {
+      "name" : "apple.com"
+    },
     "terms" : {
       "name" : "iCloud Terms of Service",
       "url" : "http://www.apple.com/legal/icloud/en/terms.html"

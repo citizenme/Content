@@ -47,7 +47,9 @@
       "name" : "Privacy Policy",
       "url" : "https://www.spotify.com/se/legal/privacy-policy"
     },
-    "sitename" : "spotify.com",
+    "sitename" : {
+      "name" : "spotify.com"
+    },
     "terms" : {
       "name" : "Terms and Conditions of Use",
       "url" : "https://www.spotify.com/se/legal/end-user-agreement/"
@@ -258,7 +260,6 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/8UFz7duE0Aw/discussion",
     "id" : "8UFz7duE0Aw",
-    "irrelevant" : "",
     "meta" : {
       "author" : "Ian McGowan",
       "contributors" : [ "Jil Larner <jil.larner@fsfe.org>" ],
@@ -358,7 +359,13 @@
       "terms" : "https://www.spotify.com/us/legal/privacy-policy/"
     },
     "title" : "Spotify may transfer and process your data to somewhere outside of your country",
-    "topics" : [ "personal information" ],
+    "topics" : [ {
+      "id" : "personal information",
+      "name" : "Personal information",
+      "subtitle" : "personal information",
+      "title" : "Personal information",
+      "type" : "topic"
+    } ],
     "tosdr" : {
       "binding" : true,
       "point" : "bad",
@@ -407,7 +414,13 @@
       "terms" : "https://www.spotify.com/us/legal/end-user-agreement/"
     },
     "title" : "You grant perpetual license to anything you publish",
-    "topics" : [ "scope of the copyright license" ],
+    "topics" : [ {
+      "id" : "scope of the copyright license",
+      "name" : "scope of the copyright license",
+      "subtitle" : "scope of the copyright license",
+      "title" : "scope of the copyright license",
+      "type" : "topic"
+    } ],
     "tosdr" : {
       "binding" : true,
       "point" : "bad",
@@ -435,7 +448,9 @@
     },
     "topics" : [ {
       "id" : "third",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Third Parties",
       "subtitle" : "",
       "title" : "Third Parties",
@@ -511,7 +526,13 @@
       "terms" : "https://www.spotify.com/us/legal/privacy-policy/"
     },
     "title" : "Spotify doesn't guarantee data security",
-    "topics" : [ "personal information" ],
+    "topics" : [ {
+      "id" : "personal information",
+      "name" : "Personal information",
+      "subtitle" : "personal information",
+      "title" : "Personal information",
+      "type" : "topic"
+    } ],
     "tosdr" : {
       "binding" : true,
       "point" : "neutral",
@@ -570,7 +591,9 @@
     },
     "topics" : [ {
       "id" : "third",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Third Parties",
       "subtitle" : "",
       "title" : "Third Parties",

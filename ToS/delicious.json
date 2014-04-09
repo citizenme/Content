@@ -7,15 +7,10 @@
       "url" : "http://www.delicious.com/privacy"
     },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Terms of Service",
       "url" : "http://www.delicious.com/terms"
     }
   },
-  "clause" : [ "t-INoE6fH98", "t-INoE6fH982", "LbwpukmRtgg", "0oKZG_o_Zu0", "aXOIDbzevYE" ],
   "freesoftware" : false,
   "fulltos" : {
     "privacy" : {
@@ -34,20 +29,14 @@
   },
   "name" : "Delicious",
   "tosback2" : {
-    "last-archive" : {
-      "time" : "",
-      "uri" : ""
-    },
     "privacy" : {
       "name" : "Delicious Privacy Policy",
       "url" : "http://www.delicious.com/privacy"
     },
-    "sitename" : "delicious.com",
+    "sitename" : {
+      "name" : "delicious.com"
+    },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Terms of Service",
       "url" : "http://www.delicious.com/terms"
     }
@@ -69,8 +58,12 @@
   "points" : [ {
     "discussion" : "https://groups.google.com/forum/#!topic/tosdr/0oKZG_o_Zu0",
     "id" : "0oKZG_o_Zu0",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "http://www.delicious.com/terms",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.delicious.com/terms"
+    },
     "title" : "Only for personal and non-commercial use",
     "tosdr" : {
       "binding" : true,
@@ -92,8 +85,12 @@
   }, {
     "discussion" : "https://groups.google.com/forum/#!topic/tosdr/LbwpukmRtgg",
     "id" : "LbwpukmRtgg",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "http://www.delicious.com/terms",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.delicious.com/terms"
+    },
     "title" : "No Right to leave the service",
     "tosdr" : {
       "binding" : true,
@@ -116,8 +113,13 @@
   }, {
     "discussion" : "https://groups.google.com/forum/#!topic/tosdr/t-INoE6fH98",
     "id" : "t-INoE6fH982",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : [ "http://www.delicious.com/terms", "http://www.delicious.com/privacy" ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.delicious.com/terms",
+      "privacy" : "http://www.delicious.com/privacy"
+    },
     "title" : "Delicious can license your content to third-parties",
     "tosdr" : {
       "binding" : true,
@@ -139,7 +141,9 @@
       "type" : "topic"
     }, {
       "id" : "third",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Third Parties",
       "subtitle" : "",
       "title" : "Third Parties",
@@ -148,8 +152,12 @@
   }, {
     "discussion" : "https://groups.google.com/forum/#!topic/tosdr/aXOIDbzevYE",
     "id" : "aXOIDbzevYE",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "http://www.delicious.com/privacy",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.delicious.com/privacy"
+    },
     "title" : "Non-transparent use of cookies and third party ads",
     "tosdr" : {
       "binding" : true,
@@ -171,7 +179,9 @@
       "type" : "topic"
     }, {
       "id" : "third",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Third Parties",
       "subtitle" : "",
       "title" : "Third Parties",
@@ -180,8 +190,12 @@
   }, {
     "discussion" : "https://groups.google.com/forum/#!topic/tosdr/lJGsikCSEJ8",
     "id" : "lJGsikCSEJ8",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "http://www.delicious.com/privacy",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.delicious.com/privacy"
+    },
     "title" : "Your personal information are an asset for business transfers",
     "tosdr" : {
       "binding" : true,
@@ -205,8 +219,12 @@
   }, {
     "discussion" : "https://groups.google.com/forum/#!topic/tosdr/t-INoE6fH98",
     "id" : "t-INoE6fH98",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "http://www.delicious.com/terms",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.delicious.com/terms"
+    },
     "title" : "Very broad copyright license on your content, includes right for Delicious to distribute through any media",
     "tosdr" : {
       "binding" : true,

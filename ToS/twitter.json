@@ -3,18 +3,10 @@
   "class" : false,
   "links" : {
     "privacy" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Privacy Policy",
       "url" : "https://twitter.com/privacy"
     },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Terms of Service",
       "url" : "https://twitter.com/tos"
     }
@@ -33,19 +25,13 @@
   "related" : [ "identi-ca", "seenthis" ],
   "tosback2" : {
     "privacy" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Privacy Policy",
       "url" : "https://twitter.com/privacy"
     },
-    "sitename" : "twitter.com",
+    "sitename" : {
+      "name" : "twitter.com"
+    },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Terms of Service",
       "url" : "https://twitter.com/tos"
     }
@@ -98,9 +84,12 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/OR7vkW34mm4",
     "id" : "OR7vkW34mm4",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "quote" : "Cookies: Like many websites, we use “cookie” technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists. A cookie is a small data file that is transferred to your computer's hard disk. Twitter may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.",
-    "source" : "https://twitter.com/privacy",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "https://twitter.com/privacy"
+    },
     "title" : "Twitter does not require cookies to function",
     "tosdr" : {
       "binding" : true,
@@ -124,8 +113,13 @@
   }, {
     "discussion" : "https://groups.google.com/forum/#!topic/tosdr/X6_GxyBSVnE",
     "id" : "X6_GxyBSVnE",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : [ "https://twitter.com/privacy", "https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#" ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "https://twitter.com/privacy",
+      "do-not-track" : "https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#"
+    },
     "title" : "Twitter deletes tracking data in 10 days and offers an opt-out",
     "tosdr" : {
       "binding" : true,
@@ -148,9 +142,12 @@
   }, {
     "discussion" : "https://groups.google.com/d/msg/tosdr/aXOIDbzevYE/VYXGTAktQuAJ",
     "id" : "VYXGTAktQuAJ",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "quote" : "Third-Party Service Providers: Twitter uses a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address. ",
-    "source" : "http://www.twitter.com/privacy",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "http://www.twitter.com/privacy"
+    },
     "title" : "Third party cookies",
     "tosdr" : {
       "binding" : true,
@@ -172,7 +169,9 @@
       "type" : "topic"
     }, {
       "id" : "third",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Third Parties",
       "subtitle" : "",
       "title" : "Third Parties",
@@ -212,8 +211,13 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/e0F4cavaJ4Q",
     "id" : "e0F4cavaJ4Q",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California,94041, .USA",
-    "source" : [ "https://twitter.com/tos", "https://twitter.com/privacy" ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California,94041, .USA"
+    },
+    "source" : {
+      "terms" : "https://twitter.com/tos",
+      "privacy" : "https://twitter.com/privacy"
+    },
     "title" : "Twitter deletes your account after 30 days. It keeps the rights on your content. ",
     "tosdr" : {
       "binding" : true,
@@ -236,8 +240,12 @@
   }, {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-tell-user",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
+    },
     "title" : "Promise to inform you about data requests from governments",
     "tosdr" : {
       "binding" : true,
@@ -260,8 +268,12 @@
   }, {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-transparency-data",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "https://www.eff.org/pages/who-has-your-back#transparency",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
+    },
     "title" : "Transparency on law enforcement requests",
     "tosdr" : {
       "binding" : true,
@@ -294,8 +306,12 @@
   }, {
     "discussion" : "https://groups.google.com/forum/#!topic/tosdr/tmXfQIGPTvs",
     "id" : "tmXfQIGPTvs",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "https://twitter.com/tos",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://twitter.com/tos"
+    },
     "title" : "Very broad copyright license on your content",
     "tosdr" : {
       "binding" : true,

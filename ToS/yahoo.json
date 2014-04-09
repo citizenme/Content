@@ -36,7 +36,9 @@
       "name" : "Privacy Policy",
       "url" : "http://info.yahoo.com/privacy/us/yahoo/details.html"
     },
-    "sitename" : "yahoo.com",
+    "sitename" : {
+      "name" : "yahoo.com"
+    },
     "terms" : {
       "name" : "Yahoo! Terms of Service",
       "url" : "http://www.yahoo.com/r/ts"
@@ -147,7 +149,9 @@
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-tell-user-no",
     "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform",
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
+    },
     "title" : "No promise to inform you about data requests from governments",
     "tosdr" : {
       "binding" : true,
@@ -171,7 +175,9 @@
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-transparency-data-no",
     "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "https://www.eff.org/pages/who-has-your-back#transparency",
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
+    },
     "title" : "No transparency on law enforcement requests",
     "tosdr" : {
       "binding" : true,

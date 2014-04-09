@@ -3,26 +3,14 @@
   "class" : "B",
   "links" : {
     "guidelines" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Community Guidelines",
       "url" : "https://pages.soundcloud.com/other/community-guidelines.html"
     },
     "privacy" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Privacy Policy",
       "url" : "https://pages.soundcloud.com/legal/privacy-policy.html"
     },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Terms of Service",
       "url" : "https://pages.soundcloud.com/legal/terms-of-use.html"
     }
@@ -41,27 +29,17 @@
   "related" : [ "spotify" ],
   "tosback2" : {
     "guidelines" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Community Guidelines",
       "url" : "https://pages.soundcloud.com/other/community-guidelines.html"
     },
     "privacy" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Privacy Policy",
       "url" : "https://pages.soundcloud.com/legal/privacy-policy.html"
     },
-    "sitename" : "soundcloud.com",
+    "sitename" : {
+      "name" : "soundcloud.com"
+    },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Terms of Service",
       "url" : "https://pages.soundcloud.com/legal/terms-of-use.html"
     }

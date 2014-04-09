@@ -29,7 +29,9 @@
       "name" : "Google Privacy Policy",
       "url" : "http://www.google.com/intl/en/policies/privacy/"
     },
-    "sitename" : "youtube.com",
+    "sitename" : {
+      "name" : "youtube.com"
+    },
     "terms" : {
       "name" : "Terms",
       "url" : "http://www.youtube.com/t/terms"
