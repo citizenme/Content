@@ -61,6 +61,10 @@
   } ]
 , "deepLinks": [
     {
+        "description": "Settings Page",
+        "url": "https://duckduckgo.com/settings"
+    },
+    {
         "description": "Change Bio",
         "url": ""
     },
