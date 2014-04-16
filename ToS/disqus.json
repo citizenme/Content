@@ -58,13 +58,13 @@
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
-    "title" : "Terms may be changed any time at their discretion, without notice to the user",
+    "title" : "Terms may be changed at any time without advance notice",
     "tosdr" : {
       "binding" : true,
       "case" : "user needs to check tosback.org",
       "point" : "bad",
       "score" : 70,
-      "tldr" : "They can change the terms of service any time they see fit, even without notification to the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."
+      "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms."
     },
     "topics" : [ {
       "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",

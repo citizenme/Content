@@ -63,7 +63,7 @@
       "case" : "your use is subject to a policies, guidelines, etc.",
       "point" : "neutral",
       "score" : 0,
-      "tldr" : "“When you use YouTube, you are subject to Google's policies.” To find out about Google's Privacy Policy, please read the ToS;DR report."
+      "tldr" : "When you use YouTube, you are subject to Google's policies. To find out more, see Google�s latest terms of service on this app or read the full privacy policy on the Google site."
     },
     "topics" : [ {
       "id" : "governance",
@@ -81,13 +81,13 @@
     "meta" : {
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
-    "title" : "They can remove your content at any time and without prior notice",
+    "title" : "Your content can be removed without advance notice",
     "tosdr" : {
       "binding" : true,
       "case" : "they can delete specific files without prior notice and without a reason",
       "point" : "blocker",
       "score" : 50,
-      "tldr" : "Youtube reserves the right to decide if a video violates the terms of service, not only if the user is a copyright infringer, but also not limited to: if the content is about pornography, obscenity, excessive length. The content may be removed and the user's account terminated without prior notice and in the sole discretion of Youtube. "
+      "tldr" : "If your content violates the terms (in You Tube's opinion) they have a right to delete it and even terminate your account, without notice. This applies to cases of copyright infringement but also content that is pornographic, obscene or excessively long."
     },
     "topics" : [ {
       "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
@@ -106,13 +106,13 @@
     "meta" : {
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
-    "title" : "The copyright license is broader than necessary",
+    "title" : "Very broad copyright license on your content",
     "tosdr" : {
       "binding" : true,
       "case" : "broader than necessary",
       "point" : "bad",
       "score" : 50,
-      "tldr" : "The user grants Youtube a worldwide, non-exclusive, royalty-free license that is sublicenseable and transferable, and that can be used without limitation for the promotion of the service, in any media format and through any media channel, provided it is in connection with Youtube, its successors' and affiliates'. "
+      "tldr" : "The copyright licence is very broad. It includes the right for YouTube to share your content with others and to use in an unlimited way to promote the service in connection with its successors and affiliates (like Google). This licence is revoked when you delete your content but applies forever to textual content like comments."
     },
     "topics" : [ {
       "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
@@ -132,13 +132,13 @@
     "meta" : {
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
-    "title" : "They help you to deal with take-down notices",
+    "title" : "Submitting notices and counter notices for copyright infringement",
     "tosdr" : {
       "binding" : true,
       "case" : "help you deal with take-down notices",
       "point" : "good",
       "score" : 20,
-      "tldr" : "if you are the target of a copyright holder's take down notice, Youtube gives you a chance to defend your right in front of the jurisdiction of California. See section “Counter-Notice.”"
+      "tldr" : "You can use the YouTube site to directly submit a take down notice if your copyright has been infringed. Similarly, the site supports the issuing of counter notices if these apply. See their copyright centre on the site for full details.�"
     },
     "topics" : [ {
       "id" : "governance",
@@ -166,13 +166,13 @@
     "meta" : {
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
-    "title" : "Jurisdiction and law of California",
+    "title" : "Jurisdiction varies",
     "tosdr" : {
       "binding" : true,
       "case" : "court of law is in location X",
       "point" : "neutral",
       "score" : 0,
-      "tldr" : "The Court of Santa Barbara in California is the only one competent for disputes arising from the terms of service of Youtube. The applicable law to these terms of service is the one of the State of California."
+      "tldr" : "Ordinarily, UK YouTube users are bound by English law for any legal matter arising from the Terms of Service. However, YouTube retains a right to apply for urgent legal remedies in any jurisdiction. Also, YouTube shares a universal privacy policy with Google and this policy relates to Google's terms which are governed by California laws and jurisdiction."
     },
     "topics" : [ {
       "category" : "governance",
@@ -192,13 +192,13 @@
     "meta" : {
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
-    "title" : "You are solely responsible for your account",
+    "title" : "You are solely responsible for your account and its content",
     "tosdr" : {
       "binding" : true,
       "case" : "you are responsible for what you publish",
       "point" : "neutral",
       "score" : 10,
-      "tldr" : "You are solely responsible for your content and the consequences of its publication, and solely responsible for keeping you account password secure. Youtube is not liable for any unauthorized use of your account, but you may be liable if this unauthorized use causes losses for Youtube or the others. "
+      "tldr" : "You are solely responsible for your content and the consequences of its publication on YouTube together with all activity under your account. You are also solely responsible for keeping your account password secure. YouTube is not liable for any unauthorized use of your account, but you may be liable if this unauthorized use causes losses for YouTube or the others."
     },
     "topics" : [ {
       "id" : "governance",
@@ -218,13 +218,13 @@
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
-    "title" : "Terms may be changed any time at their discretion, without notice to the user",
+    "title" : "Terms may be changed at any time without advance notice",
     "tosdr" : {
       "binding" : true,
       "case" : "user needs to check tosback.org",
       "point" : "bad",
       "score" : 70,
-      "tldr" : "They can change the terms of service any time they see fit, even without notification to the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."
+      "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms."
     },
     "topics" : [ {
       "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
