@@ -101,7 +101,7 @@
       "case" : "tracks you on other websites",
       "point" : "bad",
       "score" : 60,
-      "tldr" : "This service uses cookies to track you even if you are not interacting with them directly. Information gathered about you could include: date and time you visit the site; the web address or URL you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to the service at the same time, your user ID."
+      "tldr" : "This service and their partners use cookies to track you even if you are not interacting with the service directly. Information gathered about you could include: date and time you visit the site; the web address or URL you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to the service at the same time, your user ID."
     },
     "topics" : [ {
       "description" : "Cookies are files stored locally in your web browser containing identifiable information.",

@@ -71,13 +71,13 @@
     "id" : "2xvjZf1mgd0",
     "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
     "source" : "http://www.google.com/intl/en/policies/terms/",
-    "title" : "Google keeps the rights on your content when you stop using it",
+    "title" : "Google retains rights on your content when you leave",
     "tosdr" : {
       "binding" : true,
       "case" : "your content stays licensed",
       "point" : "bad",
       "score" : 25,
-      "tldr" : "The license that you grant to Google on content you upload to their services will continue even if you stop using the services. While this makes sense for some services (e.g. Google Maps) this applies by default to all Google services. Otherwise you need to check each service for ways to remove content and for specific clauses that restrict the license in time."
+      "tldr" : "The copyright licence that you grant to Google on content you upload to their services continues even if you stop using the services. This licence applies to all Google services due to their universal terms across services. Otherwise you need to check each service for ways to remove content and for specific clauses that restrict the license in time."
     },
     "topics" : [ {
       "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
@@ -100,7 +100,7 @@
       "case" : "tracks you on other websites",
       "point" : "bad",
       "score" : 60,
-      "tldr" : "This service uses cookies to track you even if you are not interacting with them directly. Information gathered about you could include: date and time you visit the site; the web address or URL you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to the service at the same time, your user ID."
+      "tldr" : "This service and their partners use cookies to track you even if you are not interacting with the service directly. Information gathered about you could include: date and time you visit the site; the web address or URL you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to the service at the same time, your user ID."
     },
     "topics" : [ {
       "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
@@ -130,13 +130,13 @@
     "source" : {
       "terms" : "http://groups.google.com/intl/en/policies/terms/"
     },
-    "title" : "Google posts notice of changes, with a 14-day ultimatum.",
+    "title" : "Advance notice of changes",
     "tosdr" : {
       "binding" : true,
       "case" : "user is notified a week or more in advance",
       "point" : "good",
       "score" : 30,
-      "tldr" : "Google “will post notice of modifications to these terms on this page. [They] will post notice of modified additional terms in the applicable Service. Changes will not apply retroactively and will become effective no sooner than fourteen days after they are posted.” As far as changes to the privacy policy goes: “We will not reduce your rights under this Privacy Policy without your explicit consent.” and if changes are significant Google will email you for some services. "
+      "tldr" : "Ordinarily, Google posts changes to terms on their site or if they are significant, will notify you via email. Google won't implement changes sooner than 14 days after noticed was given or posted. They will not reduce your rights under their privacy policy without your explicit consent."
     },
     "topics" : [ {
       "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
@@ -167,7 +167,7 @@
       "case" : "court of law is in location X",
       "point" : "neutral",
       "score" : 0,
-      "tldr" : "“The laws of California, U.S.A., excluding California’s conflict of laws rules, will apply to any disputes arising out of or relating to these terms or the Services.All claims arising out of or relating to these terms or the Services will be litigated exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.”"
+      "tldr" : "This terms of services agreement is governed by the laws of California, USA, excluding California's conflict of laws rules. This means if there's a dispute between you and Google about the terms of service, you have both already consented to personal jurisdiction in the federal or state courts of Santa Clara County, California."
     },
     "topics" : [ {
       "category" : "governance",
@@ -192,13 +192,13 @@
     "source" : {
       "terms" : "http://www.google.com/intl/en/policies/terms/"
     },
-    "title" : "Google enables you to get your information out when a service is discontinued",
+    "title" : "You can export your information before a service is discontinued",
     "tosdr" : {
       "binding" : true,
       "case" : "they provide a way to export your data",
       "point" : "good",
       "score" : 30,
-      "tldr" : "Google gives you reasonable advance notice when a service is discontinued and “a chance to get information out of that Service.”"
+      "tldr" : "When a service is discontinued for all users, Google gives you reasonable advance notice so you have an opportunity to export your information from that service."
     },
     "topics" : [ {
       "description" : "The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is your content, your data: you can decide.",
@@ -231,7 +231,7 @@
       "case" : "third-party access without a warrant",
       "point" : "bad",
       "score" : 50,
-      "tldr" : "Google will share your personal information with other parties. For sensitive information (medical, racial, ethnic, political, religious or sexuality) Google requires “opt-in”. Google can also share or publish aggregated data that does not identify a person"
+      "tldr" : "Google can share your personal information with other parties. For sensitive information (medical, racial, ethnic, political, religious or sexuality) Google requires your \"opt-in\" consent. Google can also share or publish aggregated data that does not identify you."
     },
     "topics" : [ {
       "description" : "",
@@ -276,7 +276,7 @@
       "case" : "they can use your content for all their existing and future services",
       "point" : "bad",
       "score" : 60,
-      "tldr" : "The content you post on a particular Google service can be used by Google on other services you may not be aware of."
+      "tldr" : "The content you post on a particular Google service can be used by Google on other services you may not be aware of, and even with future services that have not been created yet."
     },
     "topics" : [ {
       "description" : "The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is your content, your data: you can decide.",
@@ -304,13 +304,13 @@
       "faq" : "",
       "terms" : ""
     },
-    "title" : "Partial archives of their terms are available",
+    "title" : "A limited public record of past terms of service policies",
     "tosdr" : {
       "binding" : true,
       "case" : "archives provided",
       "point" : "good",
       "score" : 10,
-      "tldr" : "At http://www.google.com/intl/en/policies/terms/archive/ you can see at least one previous versions of Google's terms"
+      "tldr" : "The terms of service page on their site provides a link to the previous version of their policy so you can see how terms have changed compared to the most current version."
     },
     "topics" : [ {
       "category" : "governance",
@@ -398,7 +398,7 @@
       "case" : "they may stop providing the service at any time",
       "point" : "bad",
       "score" : 40,
-      "tldr" : "“Google may also stop providing Services to you, or add or create new limits to our Services at any time.” Google has no obligation from the terms to give you notice in advance or to give a reason for that termination"
+      "tldr" : "\"Google may stop providing services to you, or add or create new limits to services at any time.\" Google has no obligation to give you advance notice or to give a reason for that termination."
     },
     "topics" : [ {
       "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
@@ -420,13 +420,13 @@
     "source" : {
       "terms" : "http://groups.google.com/intl/en/policies/terms/"
     },
-    "title" : "Limited copyright license to operate and improve all Google Services",
+    "title" : "A limited copyright license",
     "tosdr" : {
       "binding" : true,
       "case" : "limited for purpose across broad platform",
       "point" : "good",
       "score" : 40,
-      "tldr" : "The copyright license you grant is “for the limited purpose of operating, promoting, and improving” existing and new Google Services. However, please note that the license does not end if you stop using the Google services."
+      "tldr" : "The copyright license you grant Google is limited to the purpose of operating, promoting, and improving their services, and to develop new ones. It is not however limited by time � so if you leave the service, Google retains the rights to use your content for these purposes."
     },
     "topics" : [ {
       "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
@@ -449,13 +449,13 @@
     "source" : {
       "terms" : "http://groups.google.com/intl/en/policies/privacy/"
     },
-    "title" : "Google keeps your searches and other identifiable user information for an undefined period of time",
+    "title" : "Google keeps your information for an undefined period of time",
     "tosdr" : {
       "binding" : true,
       "case" : "logs are kept forever",
       "point" : "bad",
       "score" : 100,
-      "tldr" : "Google collects a lot of information about the services you use and how you use them, including when you visit a website using a Google service for advertisement. In the past, Google stated in their Privacy Policy: “We strike a reasonable balance between the competing pressures we face, such as the privacy of our users, the security of our systems and the need for innovation. We believe anonymizing IP addresses after 9 months and cookies in our search engine logs after 18 months strikes the right balance”. Today, these limitations of time are gone from the Privacy Policy, although some pages still acknowledge this. So we must conclude that Google has decided to stop trying to find the right balance between privacy of users and their own needs."
+      "tldr" : "Google collects a lot of information about the services you use and how you use them, including searches, personally identifiable information and activity when you visit a website using a Google service (e.g. via search or an advertisement). Google does not disclose how long this information is kept on their servers."
     },
     "topics" : [ {
       "id" : "logs-length",

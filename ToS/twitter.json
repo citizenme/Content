@@ -190,13 +190,13 @@
       "faq" : "",
       "terms" : ""
     },
-    "title" : "Twitter provide archives of their terms",
+    "title" : "A limited public record of past terms of service policies",
     "tosdr" : {
       "binding" : true,
       "case" : "archives provided",
       "point" : "good",
       "score" : 10,
-      "tldr" : "At https://twitter.com/tos/previous you can see previous versions of Twitter's terms"
+      "tldr" : "The terms of service page on their site provides a link to the previous version of their policy so you can see how terms have changed compared to the most current version."
     },
     "topics" : [ {
       "category" : "governance",
