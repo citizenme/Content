@@ -1,7 +1,6 @@
 {
   "alexa" : 39,
   "class" : "",
-  "date" : "",
   "freesoftware" : false,
   "fulltos" : {
     "terms" : {
@@ -9,7 +8,6 @@
     }
   },
   "id" : "paypal",
-  "last-diff" : "",
   "name" : "PayPal",
   "related" : [ ],
   "tosdr" : {

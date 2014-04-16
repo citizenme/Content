@@ -3,18 +3,10 @@
   "class" : false,
   "links" : {
     "privacy" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Privacy Policy Agreement",
       "url" : "http://store.steampowered.com/privacy_agreement/"
     },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Steam Subscriber Agreement",
       "url" : "http://store.steampowered.com/subscriber_agreement/"
     }
@@ -25,19 +17,13 @@
   "name" : "Steam",
   "tosback2" : {
     "privacy" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Privacy Policy Agreement",
       "url" : "http://store.steampowered.com/privacy_agreement/"
     },
-    "sitename" : "steampowered.com",
+    "sitename" : {
+      "name" : "steampowered.com"
+    },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Steam Subscriber Agreement",
       "url" : "http://store.steampowered.com/subscriber_agreement/"
     }
@@ -60,8 +46,12 @@
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-transparency-data-no",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "https://www.eff.org/pages/who-has-your-back#transparency",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
+    },
     "title" : "No transparency on law enforcement requests",
     "tosdr" : {
       "binding" : true,
@@ -121,6 +111,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
     "id" : "rhykox7XUfs10",
+    "related-id" : "rhykox7XUfs10",
     "meta" : {
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
@@ -149,6 +140,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
     "id" : "rhykox7XUfs11",
+    "related-id" : "rhykox7XUfs11",
     "meta" : {
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
@@ -178,6 +170,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
     "id" : "rhykox7XUfs12",
+    "related-id" : "rhykox7XUfs12",
     "meta" : {
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
@@ -207,6 +200,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
     "id" : "rhykox7XUfs15",
+    "related-id" : "rhykox7XUfs15",
     "meta" : {
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
@@ -237,6 +231,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
     "id" : "rhykox7XUfs16",
+    "related-id" : "rhykox7XUfs16",
     "meta" : {
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
@@ -266,6 +261,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
     "id" : "rhykox7XUfs2",
+    "related-id" : "rhykox7XUfs2",
     "meta" : {
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
@@ -304,7 +300,9 @@
       "type" : "category"
     }, {
       "id" : "third",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Third Parties",
       "subtitle" : "",
       "title" : "Third Parties",
@@ -313,6 +311,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
     "id" : "rhykox7XUfs4",
+    "related-id" : "rhykox7XUfs4",
     "meta" : {
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
@@ -341,7 +340,9 @@
       "type" : "topic"
     }, {
       "id" : "third",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Third Parties",
       "subtitle" : "",
       "title" : "Third Parties",
@@ -350,6 +351,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
     "id" : "rhykox7XUfs6",
+    "related-id" : "rhykox7XUfs6",
     "meta" : {
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
@@ -380,6 +382,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
     "id" : "rhykox7XUfs8",
+    "related-id" : "rhykox7XUfs8",
     "meta" : {
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
@@ -408,6 +411,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
     "id" : "rhykox7XUfs9",
+    "related-id" : "rhykox7XUfs9",
     "meta" : {
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"

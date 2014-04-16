@@ -22,7 +22,9 @@
       "name" : "Privacy Policy",
       "url" : "https://alpha.app.net/legal/privacy/"
     },
-    "sitename" : "app.net",
+    "sitename" : {
+      "name" : "app.net"
+    },
     "terms" : {
       "name" : "Terms of Service",
       "url" : "https://alpha.app.net/legal/terms/"
@@ -98,6 +100,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-1/discussion",
     "id" : "OqIkAS2uwmE-1",
+    "related-id" : "OqIkAS2uwmE-1",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -140,6 +143,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-11/discussion",
     "id" : "OqIkAS2uwmE-11",
+    "related-id" : "OqIkAS2uwmE-11",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -172,6 +176,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-2/discussion",
     "id" : "OqIkAS2uwmE-2",
+    "related-id" : "OqIkAS2uwmE-2",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -203,6 +208,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-4/discussion",
     "id" : "OqIkAS2uwmE-4",
+    "related-id" : "OqIkAS2uwmE-4",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -233,6 +239,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-6/discussion",
     "id" : "OqIkAS2uwmE-6",
+    "related-id" : "OqIkAS2uwmE-6",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -268,7 +275,9 @@
         "good" : "You license us to use your data only for the purpose of operating this service."
       },
       "id" : "ownership",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Ownership",
       "subtitle" : "What happens with the content you generate on the service?",
       "title" : "Ownership",
@@ -277,6 +286,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-8/discussion",
     "id" : "OqIkAS2uwmE-8",
+    "related-id" : "OqIkAS2uwmE-8",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -302,7 +312,9 @@
         "good" : "You license us to use your data only for the purpose of operating this service."
       },
       "id" : "ownership",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Ownership",
       "subtitle" : "What happens with the content you generate on the service?",
       "title" : "Ownership",
@@ -311,6 +323,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-9/discussion",
     "id" : "OqIkAS2uwmE-9",
+    "related-id" : "OqIkAS2uwmE-9",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -394,7 +407,12 @@
       "title" : "Notice of Changing Terms",
       "type" : "topic"
     } ]
-  } ]
+  } ],
+  "jdm" : {
+    "name": "App.net",
+    "url": "https://account.app.net/settings/delete/",
+    "difficulty": "easy"
+  }
 , "deepLinks": [
     {
         "description": "Change Bio",

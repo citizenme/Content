@@ -43,7 +43,9 @@
       "type" : "topic"
     }, {
       "id" : "third",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Third Parties",
       "subtitle" : "",
       "title" : "Third Parties",
@@ -139,7 +141,6 @@
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
     "title" : "Disclosure",
-    "topics" : [ "meta" ],
     "tosdr" : {
       "binding" : true,
       "point" : "neutral",
@@ -175,7 +176,9 @@
       "type" : "category"
     }, {
       "id" : "third",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Third Parties",
       "subtitle" : "",
       "title" : "Third Parties",
@@ -210,7 +213,9 @@
       "type" : "topic"
     }, {
       "id" : "third",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Third Parties",
       "subtitle" : "",
       "title" : "Third Parties",
@@ -223,7 +228,7 @@
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
     "source" : {
-      "tos" : "https://mykolab.com/tos"
+      "terms" : "https://mykolab.com/tos"
     },
     "title" : "Suspension will be fair and proportionate",
     "tosdr" : {
@@ -269,7 +274,7 @@
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
     "source" : {
-      "tos" : "https://mykolab.com/tos"
+      "terms" : "https://mykolab.com/tos"
     },
     "title" : "4 weeks to review changes and possibility to negotiate",
     "tosdr" : {
@@ -297,7 +302,7 @@
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
     "source" : {
-      "tos" : "https://mykolab.com/tos"
+      "terms" : "https://mykolab.com/tos"
     },
     "title" : "Jurisdiction and law of Switzerland",
     "tosdr" : {

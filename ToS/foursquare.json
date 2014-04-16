@@ -2,7 +2,6 @@
   "class" : "",
   "links" : { },
   "alexa" : 790,
-  "date" : "",
   "eff_hasyourback" : {
     "in-Congress" : 0,
     "in-court" : 0,
@@ -27,10 +26,8 @@
     "icon-grey-2x" : "/i/Foursquare-icon-grey@2x.png"
   },
   "id" : "foursquare",
-  "last-diff" : "",
   "name" : "Foursquare",
-  "related" : { },
-  "tosback" : "",
+  "related" : [ ],
   "tosdr" : {
     "keywords" : [ ],
     "rated" : false,
@@ -49,7 +46,9 @@
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-tell-user",
     "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform",
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
+    },
     "title" : "Promise to inform you about data requests from governments",
     "tosdr" : {
       "binding" : true,
@@ -73,7 +72,9 @@
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-transparency-data",
     "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : "https://www.eff.org/pages/who-has-your-back#transparency",
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
+    },
     "title" : "Transparency on law enforcement requests",
     "tosdr" : {
       "binding" : true,

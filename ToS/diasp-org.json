@@ -1,7 +1,6 @@
 {
   "alexa" : 865310,
   "class" : "",
-  "date" : "",
   "freesoftware" : false,
   "fulltos" : {
     "terms" : {
@@ -9,7 +8,6 @@
     }
   },
   "id" : "diasp-org",
-  "last-diff" : "",
   "name" : "Diasporg",
   "parent" : "diaspora",
   "tosdr" : {

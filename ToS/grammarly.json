@@ -20,7 +20,9 @@
       "name" : "Privacy Policy",
       "url" : "http://privacy-policy.truste.com/verified-policy/www.grammarly.com"
     },
-    "sitename" : "grammarly.com",
+    "sitename" : {
+      "name" : "grammarly.com"
+    },
     "terms" : {
       "name" : "Terms of Service and License Agreement",
       "url" : "http://www.grammarly.com/terms"
@@ -30,7 +32,6 @@
     "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : false,
-    "rating" : false,
     "related" : [ ]
   },
   "type" : "service",
@@ -106,7 +107,6 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/6tV-Tf0IAU8/discussion",
     "id" : "6tV-Tf0IAU8",
-    "irrelevant" : "",
     "meta" : {
       "author" : "Ian McGowan",
       "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],

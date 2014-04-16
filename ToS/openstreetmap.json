@@ -1,7 +1,6 @@
 {
   "alexa" : 6618,
   "class" : "",
-  "date" : "",
   "freesoftware" : false,
   "fulltos" : {
     "terms" : {
@@ -9,7 +8,6 @@
     }
   },
   "id" : "openstreetmap",
-  "last-diff" : "",
   "name" : "OpenStreetMap",
   "related" : [ ],
   "tosdr" : {

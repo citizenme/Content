@@ -27,8 +27,45 @@
     "notes" : "Contact customer services. Even then they may not delete your account under the premise that you might want to rejoin and keep your history and recommendations."
   },
   "points" : [ {
+    "discussion": "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+    "id": "L5pl0Vn9lKY",
+    "related-id": "L5pl0Vn9lKY",
+    "meta": {
+      "author": "ToS;DR project",
+      "contributors": [
+        "see mailing list discussion"
+      ],
+      "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source": {
+      "faq": "",
+      "terms": ""
+    },
+    "title": "Terms and privacy policy pages are organized and formatted well.",
+    "topics": [
+      {
+        "category": "governance",
+        "id": "readability",
+        "meta": {
+          "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+        },
+        "name": "Easy to read",
+        "subtitle": "Are the terms easy to find and well written?",
+        "title": "Easy to read",
+        "type": "topic"
+      }
+    ],
+    "tosdr": {
+      "binding": true,
+      "case": "easy to read",
+      "point": "good",
+      "score": 10,
+      "tldr": "Index at the top with links to #anchors down the page. The pages are long, but the index helps alleviate that a lot."
+    }
+  }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY",
+    "id" : "L5pl0Vn9lKY-1",
+    "related-id" : "L5pl0Vn9lKY",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -70,7 +107,8 @@
     } ]
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY",
+    "id" : "L5pl0Vn9lKY-10",
+    "related-id" : "L5pl0Vn9lKY",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -101,7 +139,8 @@
     } ]
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY",
+    "id" : "L5pl0Vn9lKY-11",
+    "related-id" : "L5pl0Vn9lKY",
     "meta" : {
       "author" : "Michiel for the ToS;DR project",
       "contributors" : [ "see mailing list discussion FIXME" ],
@@ -132,7 +171,8 @@
     } ]
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY",
+    "id" : "L5pl0Vn9lKY-2",
+    "related-id" : "L5pl0Vn9lKY",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -163,7 +203,8 @@
     } ]
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY",
+    "id" : "L5pl0Vn9lKY-3",
+    "related-id" : "L5pl0Vn9lKY",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -204,7 +245,8 @@
     } ]
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY",
+    "id" : "L5pl0Vn9lKY-4",
+    "related-id" : "L5pl0Vn9lKY",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -236,7 +278,8 @@
     } ]
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY",
+    "id" : "L5pl0Vn9lKY-5",
+    "related-id" : "L5pl0Vn9lKY",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -268,7 +311,8 @@
     } ]
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY",
+    "id" : "L5pl0Vn9lKY-6",
+    "related-id" : "L5pl0Vn9lKY",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],
@@ -299,7 +343,9 @@
       "type" : "topic"
     }, {
       "id" : "third",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Third Parties",
       "subtitle" : "",
       "title" : "Third Parties",
@@ -307,7 +353,8 @@
     } ]
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY",
+    "id" : "L5pl0Vn9lKY-7",
+    "related-id" : "L5pl0Vn9lKY",
     "meta" : {
       "author" : "ToS;DR project",
       "contributors" : [ "see mailing list discussion" ],

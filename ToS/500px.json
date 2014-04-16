@@ -21,7 +21,9 @@
       "name" : "Privacy Policy",
       "url" : "http://www.500px.com/privacy"
     },
-    "sitename" : "500px.com",
+    "sitename" : {
+      "name" : "500px.com"
+    },
     "terms" : {
       "name" : "Terms of Service",
       "url" : "http://500px.com/terms"
@@ -169,7 +171,9 @@
         "good" : "You license us to use your data only for the purpose of operating this service."
       },
       "id" : "ownership",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Ownership",
       "subtitle" : "What happens with the content you generate on the service?",
       "title" : "Ownership",
@@ -205,6 +209,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/wYFqcvOn7XY/discussion",
     "id" : "wYFqcvOn7XY",
+    "related-id" : "wYFqcvOn7XY",
     "meta" : {
       "author" : "ToS;DR by Unhosted",
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
@@ -235,6 +240,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/wYFqcvOn7XY/discussion",
     "id" : "wYFqcvOn7XY2",
+    "related-id" : "wYFqcvOn7XY2",
     "meta" : {
       "author" : "ToS;DR by Unhosted",
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
@@ -266,6 +272,7 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/wYFqcvOn7XY/discussion",
     "id" : "wYFqcvOn7XY3",
+    "related-id" : "wYFqcvOn7XY3",
     "meta" : {
       "author" : "ToS;DR by Unhosted",
       "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],

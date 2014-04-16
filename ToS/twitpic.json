@@ -3,18 +3,10 @@
   "class" : "E",
   "links" : {
     "privacy" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Privacy Policy",
       "url" : "http://twitpic.com/privacy.do"
     },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Terms of Service",
       "url" : "http://twitpic.com/terms.do"
     }
@@ -32,19 +24,13 @@
   "related" : [ "identi-ca", "twitter", "flickr" ],
   "tosback2" : {
     "privacy" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Privacy Policy",
       "url" : "http://twitpic.com/privacy.do"
     },
-    "sitename" : "twitpic.com",
+    "sitename" : {
+      "name" : "twitpic.com"
+    },
     "terms" : {
-      "last-archive" : {
-        "time" : "",
-        "uri" : ""
-      },
       "name" : "Terms of Service",
       "url" : "http://twitpic.com/terms.do"
     }
@@ -72,7 +58,7 @@
     "title" : "Twitpic takes credit for your content",
     "tosback2-data" : {
       "terms" : {
-        "extracted" : [ "To publish another Twitpic user’s content for any commercial purpose or for distribution beyond the acceptable Twitter \"retweet\" which links back to the original user’s content page on Twitpic, whether online, in print publication, television, or any other format, you are required to obtain permission from Twitpic in advance of said usage and attribute credit to Twitpic as the source where you have obtained the content. " ],
+        "extracted" : "To publish another Twitpic user’s content for any commercial purpose or for distribution beyond the acceptable Twitter \"retweet\" which links back to the original user’s content page on Twitpic, whether online, in print publication, television, or any other format, you are required to obtain permission from Twitpic in advance of said usage and attribute credit to Twitpic as the source where you have obtained the content. ",
         "raw" : "crawls/twitpic.com/Privacy-Policy/raw/twitpic.com/terms.do.html",
         "time" : "2012-05-14T05:27:44-07:00"
       }
@@ -92,7 +78,9 @@
         "good" : "You license us to use your data only for the purpose of operating this service."
       },
       "id" : "ownership",
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
       "name" : "Ownership",
       "subtitle" : "What happens with the content you generate on the service?",
       "title" : "Ownership",
@@ -113,7 +101,7 @@
     "title" : "Your content is for Twitpic and their partners",
     "tosback2-data" : {
       "terms" : {
-        "extracted" : [ "You retain all ownership rights to Content uploaded to Twitpic. However, by submitting Content to Twitpic, you hereby grant Twitpic a worldwide, non-exclusive, royalty-free, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the Content in connection with the Service and Twitpic's (and its successors' and affiliates') business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats and through any media channels." ],
+        "extracted" : "You retain all ownership rights to Content uploaded to Twitpic. However, by submitting Content to Twitpic, you hereby grant Twitpic a worldwide, non-exclusive, royalty-free, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the Content in connection with the Service and Twitpic's (and its successors' and affiliates') business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats and through any media channels.",
         "raw" : "crawls/twitpic.com/Privacy-Policy/raw/twitpic.com/terms.do.html",
         "time" : "2012-05-14T05:27:44-07:00"
       }
@@ -151,7 +139,7 @@
     "title" : "Jurisdiction in Delaware",
     "tosback2-data" : {
       "terms" : {
-        "extracted" : [ "The Terms of Service and the relationship between you and Twitpic shall be governed by the laws of the State of Delaware without regard to its conflict of law provisions. You and Twitpic agree to submit to the personal and exclusive jurisdiction of the courts located within Dover, Delaware" ],
+        "extracted" : "The Terms of Service and the relationship between you and Twitpic shall be governed by the laws of the State of Delaware without regard to its conflict of law provisions. You and Twitpic agree to submit to the personal and exclusive jurisdiction of the courts located within Dover, Delaware",
         "raw" : "crawls/twitpic.com/Privacy-Policy/raw/twitpic.com/terms.do.html",
         "time" : "2012-05-14T05:27:44-07:00"
       }
@@ -189,7 +177,7 @@
     "title" : "Deleted images are not really deleted",
     "tosback2-data" : {
       "terms" : {
-        "extracted" : [ "Deleted images are only accessed in the event of a legal issue" ],
+        "extracted" : "Deleted images are only accessed in the event of a legal issue",
         "raw" : "crawls/twitpic.com/Privacy-Policy/raw/twitpic.com/terms.do.html",
         "time" : "2012-05-14T05:27:44-07:00"
       }
@@ -226,7 +214,7 @@
     "title" : "Reduction of legal period for cause of action",
     "tosback2-data" : {
       "terms" : {
-        "extracted" : [ "Statute of Limitations: You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Service or the Terms of Service must be filed within one (1) year after such claim or cause of action arose or be forever barred. " ],
+        "extracted" : "Statute of Limitations: You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Service or the Terms of Service must be filed within one (1) year after such claim or cause of action arose or be forever barred. ",
         "raw" : "crawls/twitpic.com/Privacy-Policy/raw/twitpic.com/terms.do.html",
         "time" : "2012-05-14T05:27:44-07:00"
       }
@@ -262,7 +250,7 @@
     "title" : "You indemnify Twitpic from any claim related to your content",
     "tosback2-data" : {
       "terms" : {
-        "extracted" : [ "You agree to indemnify and hold Twitpic, its officers and employees exempt from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of Content you submit, transmit, post or otherwise make available through Twitpic. " ],
+        "extracted" : "You agree to indemnify and hold Twitpic, its officers and employees exempt from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of Content you submit, transmit, post or otherwise make available through Twitpic. ",
         "raw" : "crawls/twitpic.com/Privacy-Policy/raw/twitpic.com/terms.do.html",
         "time" : "2012-05-14T05:27:44-07:00"
       }
