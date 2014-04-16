@@ -28,7 +28,7 @@
       "case" : "user is notified on the day",
       "point" : "neutral",
       "score" : 0,
-      "tldr" : "They can change the terms of service any time they see fit, but they will notify the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."
+      "tldr" : "This service may change the terms at any time, but they will notify the user - typically via email or their apps. Your continued use of the service is taken as acceptance of the new or changed terms."
     },
     "topics" : [ {
       "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
