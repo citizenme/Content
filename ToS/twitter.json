@@ -113,11 +113,6 @@
   }, {
     "discussion" : "https://groups.google.com/forum/#!topic/tosdr/X6_GxyBSVnE",
     "id" : "X6_GxyBSVnE",
-<<<<<<< HEAD
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "source" : [ "https://twitter.com/privacy", "https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#" ],
-    "title" : "Tracking data",
-=======
     "meta" : {
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
@@ -125,8 +120,7 @@
       "privacy" : "https://twitter.com/privacy",
       "do-not-track" : "https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#"
     },
-    "title" : "Twitter deletes tracking data in 10 days and offers an opt-out",
->>>>>>> mortendev
+    "title" : "Tracking data",
     "tosdr" : {
       "binding" : true,
       "case" : "tracking data deleted after 10 days and opt-out",
@@ -147,13 +141,6 @@
     } ]
   }, {
     "discussion" : "https://groups.google.com/d/msg/tosdr/aXOIDbzevYE/VYXGTAktQuAJ",
-<<<<<<< HEAD
-    "id" : "VYXGTAktQuAJ",
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "quote" : "Third-Party Service Providers: Twitter uses a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address. ",
-    "source" : "http://www.twitter.com/privacy",
-    "title" : "Third party cookie use",
-=======
     "id" : "aXOIDbzevYE-1",
     "related-id" : "VYXGTAktQuAJ",
     "meta" : {
@@ -162,8 +149,7 @@
     "source" : {
       "privacy" : "http://www.twitter.com/privacy"
     },
-    "title" : "Third party cookies",
->>>>>>> mortendev
+    "title" : "Third party cookie use",
     "tosdr" : {
       "binding" : true,
       "case" : "sets third-party cookies and/or ads",
@@ -227,11 +213,6 @@
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/e0F4cavaJ4Q",
     "id" : "e0F4cavaJ4Q",
-<<<<<<< HEAD
-    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California,94041, .USA",
-    "source" : [ "https://twitter.com/tos", "https://twitter.com/privacy" ],
-    "title" : "Twitter deletes data after 30 days. It keeps rights on your content.",
-=======
     "meta" : {
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California,94041, .USA"
     },
@@ -239,8 +220,7 @@
       "terms" : "https://twitter.com/tos",
       "privacy" : "https://twitter.com/privacy"
     },
-    "title" : "Twitter deletes your account after 30 days. It keeps the rights on your content. ",
->>>>>>> mortendev
+    "title" : "Twitter deletes data after 30 days. It keeps rights on your content.",
     "tosdr" : {
       "binding" : true,
       "case" : "your content stays licensed",

@@ -65,7 +65,7 @@
       "case" : "your use is subject to a policies, guidelines, etc.",
       "point" : "neutral",
       "score" : 0,
-      "tldr" : "When you use YouTube, you are subject to Google's policies. To find out more, see Googleís latest terms of service on this app or read the full privacy policy on the Google site."
+      "tldr" : "When you use YouTube, you are subject to Google's policies. To find out more, see Google's latest terms of service on this app or read the full privacy policy on the Google site."
     },
     "topics" : [ {
       "id" : "governance",
@@ -140,7 +140,7 @@
       "case" : "help you deal with take-down notices",
       "point" : "good",
       "score" : 20,
-      "tldr" : "You can use the YouTube site to directly submit a take down notice if your copyright has been infringed. Similarly, the site supports the issuing of counter notices if these apply. See their copyright centre on the site for full details.ù"
+      "tldr" : "You can use the YouTube site to directly submit a take down notice if your copyright has been infringed. Similarly, the site supports the issuing of counter notices if these apply. See their copyright centre on the site for full details."
     },
     "topics" : [ {
       "id" : "governance",
