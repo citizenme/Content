@@ -40,13 +40,13 @@
       "contributors" : [ "Hugo Roy <hugo@tosdr.org>" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
-    "title" : "Terms may be changed at their discretion, but they will notify you before.",
+    "title" : "Terms may be changed at any time, but they will notify you in advance",
     "tosdr" : {
       "binding" : true,
       "case" : "user is notified a week or more in advance",
       "point" : "good",
       "score" : 30,
-      "tldr" : "They can change the terms at their discretion, but they will notify the user in reasonable advance by email or by posting them online. However, your use of the service constitutes acceptance of the changes in the terms without explicit consent."
+      "tldr" : "This service may change the terms at any time, but they will notify the user in advance - typically via email or by posting proposed changes on their site. Your continued use of the service is taken as acceptance of the new or changed terms."
     },
     "topics" : [ {
       "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
@@ -71,7 +71,7 @@
       "case" : "very broad",
       "point" : "bad",
       "score" : 80,
-      "tldr" : "The copyright licence of Instagram has significantly changed in 2013. The license you grant them is now beyond the requirements for operating the service. For instance, it includes the right for Instagram to transfer the license or to license it to others on their terms (“sublicense”)."
+      "tldr" : "The copyright licence is very broad. It includes the right for Instagram to share your images and video content with others, including their affiliates, like Facebook."
     },
     "topics" : [ {
       "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
