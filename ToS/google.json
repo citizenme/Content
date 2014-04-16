@@ -304,13 +304,13 @@
       "faq" : "",
       "terms" : ""
     },
-    "title" : "A limited public record of past terms of service policies",
+    "title" : "A public record of past terms of service policies",
     "tosdr" : {
       "binding" : true,
       "case" : "archives provided",
       "point" : "good",
       "score" : 10,
-      "tldr" : "The terms of service page on their site provides a link to the previous version of their policy so you can see how terms have changed compared to the most current version."
+      "tldr" : "The terms of service page on their site provides a link to their archive of all past policies so you can see how terms have changed with each update."
     },
     "topics" : [ {
       "category" : "governance",

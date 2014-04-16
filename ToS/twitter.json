@@ -75,13 +75,13 @@
     "source" : {
       "terms" : "https://twitter.com/tos/previous/version_1"
     },
-    "title" : "Critical changes to the terms with little users' involvement",
+    "title" : "Terms may be changed at any time, sometimes with very little advance notice",
     "tosdr" : {
       "binding" : true,
       "case" : "little involvement",
       "point" : "bad",
       "score" : 35,
-      "tldr" : "Twitter can change the terms at any time when they see fit. They give notification, in their sole disretion, via an @Twitter update or via email. In September 2009, Twitter considerably changed the terms for the copyright license and only gave a very short notice, only a few hours before the changes applied."
+      "tldr" : "This service may change the terms at any time, but in the past notice has been given to users only hours ahead of the change being implemented. Notification is given via their site or in some cases, via an @Twitter update or email. Your continued use of the service is taken as acceptance of the new or changed terms."
     },
     "topics" : [ {
       "description" : "The terms are a contract between two parties, and it should not be changed unilaterally without consultation of the other party. Services should listen to what their users say and care about, and give them a vote in each substantial change.",
@@ -99,15 +99,15 @@
     "discussion" : "https://groups.google.com/d/topic/tosdr/OR7vkW34mm4",
     "id" : "OR7vkW34mm4",
     "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
-    "quote" : "Cookies: Like many websites, we use “cookie” technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists. A cookie is a small data file that is transferred to your computer's hard disk. Twitter may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.",
+    "quote" : "Cookies: Like many websites, we use \"cookie\" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists. A cookie is a small data file that is transferred to your computer's hard disk. Twitter may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.",
     "source" : "https://twitter.com/privacy",
-    "title" : "Twitter does not require cookies to function",
+    "title" : "Transparency about cookies",
     "tosdr" : {
       "binding" : true,
       "case" : "requires first-party cookies",
       "point" : "neutral",
       "score" : 10,
-      "tldr" : "Twitter is transparent about using session cookies and persistant cookies. But Twitter does not require cookies for most of the service to function. Remember that cookies are files on your computer: you can control and disable them."
+      "tldr" : "Twitter discloses their use of session cookies and persistent cookies. However much of the service, like searching or looking at public profiles or lists, does not rely on cookies to work. Acceptance of cookies can be controlled by you by adjusting your browser settings."
     },
     "topics" : [ {
       "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
@@ -126,13 +126,13 @@
     "id" : "X6_GxyBSVnE",
     "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
     "source" : [ "https://twitter.com/privacy", "https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#" ],
-    "title" : "Twitter deletes tracking data in 10 days and offers an opt-out",
+    "title" : "Tracking data",
     "tosdr" : {
       "binding" : true,
       "case" : "tracking data deleted after 10 days and opt-out",
       "point" : "good",
       "score" : 80,
-      "tldr" : "Twitter widgets on third-party websites collect See how."
+      "tldr" : "Twitter begins deleting all tracking data it collects from you after 10 days. You can also opt-out of personalisation settings which track your website visits to tailor their service to you. To completely opt-out, enable the Do-Not-Track option in your browser settings."
     },
     "topics" : [ {
       "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
@@ -151,13 +151,13 @@
     "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
     "quote" : "Third-Party Service Providers: Twitter uses a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address. ",
     "source" : "http://www.twitter.com/privacy",
-    "title" : "Third party cookies",
+    "title" : "Third party cookie use",
     "tosdr" : {
       "binding" : true,
       "case" : "sets third-party cookies and/or ads",
       "point" : "bad",
       "score" : 10,
-      "tldr" : "Twitter uses third-party services that may collect your information, using cookies for instance. Twitter uses Google Analytics."
+      "tldr" : "Twitter uses third-party services like Google Analytics that may collect your information using cookies."
     },
     "topics" : [ {
       "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
@@ -190,13 +190,13 @@
       "faq" : "",
       "terms" : ""
     },
-    "title" : "A limited public record of past terms of service policies",
+    "title" : "A public record of past terms of service policies",
     "tosdr" : {
       "binding" : true,
       "case" : "archives provided",
       "point" : "good",
       "score" : 10,
-      "tldr" : "The terms of service page on their site provides a link to the previous version of their policy so you can see how terms have changed compared to the most current version."
+      "tldr" : "The terms of service page on their site provides a link to their archive of all past policies so you can see how terms have changed with each update."
     },
     "topics" : [ {
       "category" : "governance",
@@ -214,13 +214,13 @@
     "id" : "e0F4cavaJ4Q",
     "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California,94041, .USA",
     "source" : [ "https://twitter.com/tos", "https://twitter.com/privacy" ],
-    "title" : "Twitter deletes your account after 30 days. It keeps the rights on your content. ",
+    "title" : "Twitter deletes data after 30 days. It keeps rights on your content.",
     "tosdr" : {
       "binding" : true,
       "case" : "your content stays licensed",
       "point" : "bad",
       "score" : 25,
-      "tldr" : "Even if you deactive your account or if your account is closed, Twitter still has all the rights on your Content (the copyright license survives termination).  However, after 30 days Twitter begins to delete your account."
+      "tldr" : "If you deactivate your account or your account is closed, Twitter retains all the rights on your content due to their very broad copyright licence which applies even after termination of the service. However, after 30 days Twitter begins to delete your data."
     },
     "topics" : [ {
       "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
@@ -302,7 +302,7 @@
       "case" : "very broad",
       "point" : "bad",
       "score" : 80,
-      "tldr" : "The copyright license is very broad with almost no limitations, which goes beyond the requirements to run the service. It includes right for Twitter to license to others (“sublicense”)."
+      "tldr" : "The copyright licence is very broad. It includes the right for Twitter to share your tweets and any attached content like images or video with others on their terms, not yours."
     },
     "topics" : [ {
       "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
