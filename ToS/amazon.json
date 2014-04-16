@@ -101,7 +101,7 @@
       "case" : "tracks you on other websites",
       "point" : "bad",
       "score" : 60,
-      "tldr" : "This service uses cookies to track you even if you are not interacting with them directly. Amazon for instance, use cookies to track your device and serve targeted advertisements on other websites (Amazon associates, websites using Amazon Checkout). They “obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites”."
+      "tldr" : "This service uses cookies to track you even if you are not interacting with them directly. Information gathered about you could include: date and time you visit the site; the web address or URL you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to the service at the same time, your user ID."
     },
     "topics" : [ {
       "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
@@ -191,7 +191,7 @@
       "case" : "no promise to inform/notify",
       "point" : "bad",
       "score" : 50,
-      "tldr" : "The service has made no statement nor promised users to tell them about data sought by governments, thus not giving you a chance to defend yourself against government requests."
+      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it's unlikely you'd know about the request, you'd have no real opportunity to object to the request being made or carried out."
     },
     "topics" : [ {
       "description" : "",

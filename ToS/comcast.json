@@ -39,7 +39,7 @@
       "case" : "no promise to inform/notify",
       "point" : "bad",
       "score" : 50,
-      "tldr" : "The service has made no statement nor promised users to tell them about data sought by governments, thus not giving you a chance to defend yourself against government requests."
+      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it's unlikely you'd know about the request, you'd have no real opportunity to object to the request being made or carried out."
     },
     "topics" : [ {
       "description" : "",
@@ -63,7 +63,7 @@
       "case" : "transparency",
       "point" : "good",
       "score" : 30,
-      "tldr" : "The service is making clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
     },
     "topics" : [ {
       "description" : "",

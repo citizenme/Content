@@ -60,7 +60,7 @@
       "case" : "tracks you on other websites",
       "point" : "bad",
       "score" : 60,
-      "tldr" : "This service uses cookies to track you even if you are not interacting with them directly. Amazon for instance, use cookies to track your device and serve targeted advertisements on other websites (Amazon associates, websites using Amazon Checkout). They “obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites”."
+      "tldr" : "This service uses cookies to track you even if you are not interacting with them directly. Information gathered about you could include: date and time you visit the site; the web address or URL you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to the service at the same time, your user ID."
     },
     "topics" : [ {
       "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
@@ -96,7 +96,7 @@
       "case" : "user feedback is invited",
       "point" : "good",
       "score" : 30,
-      "tldr" : "Facebook will solicit your feedback during the 3 or 7 days minimum preceding changes to their terms. However, the results are not binding unless 30% of the active users voted. "
+      "tldr" : "Ordinarily, Facebook will provide 7 days� advance notice of changes by posting on the Facebook Site Governance Page. You can respond to changes by posting your comments, but there is no guarantee this will impact the proposed change."
     },
     "topics" : [ {
       "description" : "The terms are a contract between two parties, and it should not be changed unilaterally without consultation of the other party. Services should listen to what their users say and care about, and give them a vote in each substantial change.",
@@ -130,7 +130,7 @@
       "case" : "no promise to inform/notify",
       "point" : "bad",
       "score" : 50,
-      "tldr" : "The service has made no statement nor promised users to tell them about data sought by governments, thus not giving you a chance to defend yourself against government requests."
+      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it's unlikely you'd know about the request, you'd have no real opportunity to object to the request being made or carried out."
     },
     "topics" : [ {
       "description" : "",
@@ -154,7 +154,7 @@
       "case" : "transparency",
       "point" : "good",
       "score" : 30,
-      "tldr" : "The service is making clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
     },
     "topics" : [ {
       "description" : "",
@@ -189,7 +189,7 @@
       "case" : "very broad",
       "point" : "bad",
       "score" : 80,
-      "tldr" : "The copyright licence that you grant to Facebook goes beyond the requirements for operating the service. For instance, it includes the right for Facebook to transfer the license or to license it others on their terms (“sublicense”). Also, the copyright license does not end when you stop using the service unless your content has been deleted by everyone else."
+      "tldr" : "The copyright licence is very broad. It includes the right for Facebook share your content with others. Depending on your Facebook Privacy and Application settings, this could apply to your photos and videos. Facebook's right to do this under the licence does not end when you stop using the service either, unless your content has been deleted by everyone else."
     },
     "topics" : [ {
       "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
@@ -217,7 +217,7 @@
       "case" : "pseudonym not allowed (not because of user-to-user trust)",
       "point" : "bad",
       "score" : 20,
-      "tldr" : "You must use your legal name publicly on the service. Using a pseudonym or a pen name is not allowed. This can have negative consequences on the freedom of expression, especially for people who exercise certain professions, or who live in certain countries."
+      "tldr" : "You must use your legal name publicly on this service. Using a pseudonym or a pen name is not allowed. This can negatively impact your freedom of expression, especially for those with certain professions, or who live in certain countries."
     },
     "topics" : [ {
       "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
@@ -248,7 +248,7 @@
       "case" : "many third parties are involved in operating the service",
       "point" : "bad",
       "score" : 50,
-      "tldr" : "Facebook automatically shares your information with Bing, Pandora, \nTripAdvisor, Yelp, Rotten Tomatoes, Clicker, Scribd, and Docs, unless \nyou manually opt-out."
+      "tldr" : "Facebook automatically shares your information with companies like Bing, Pandora, TripAdvisor, Yelp, Rotten Tomatoes, Clicker, Scribd, and Docs, unless you manually opt-out."
     },
     "topics" : [ {
       "id" : "third",

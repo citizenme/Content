@@ -57,7 +57,7 @@
       "case" : "pseudonym not allowed (not because of user-to-user trust)",
       "point" : "bad",
       "score" : 20,
-      "tldr" : "You must use your legal name publicly on the service. Using a pseudonym or a pen name is not allowed. This can have negative consequences on the freedom of expression, especially for people who exercise certain professions, or who live in certain countries."
+      "tldr" : "You must use your legal name publicly on this service. Using a pseudonym or a pen name is not allowed. This can negatively impact your freedom of expression, especially for those with certain professions, or who live in certain countries."
     },
     "topics" : [ {
       "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
