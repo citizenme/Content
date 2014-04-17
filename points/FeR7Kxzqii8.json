@@ -1,0 +1,30 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/FeR7Kxzqii8/discussion",
+    "id":"FeR7Kxzqii8",
+    "meta":{
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "title":"Jurisdiction varies",
+    "tosdr":{
+        "binding":true,
+        "case":"court of law is in location X",
+        "point":"neutral",
+        "score":0,
+        "tldr":"Ordinarily, UK YouTube users are bound by English law for any legal matter arising from the Terms of Service. However, YouTube retains a right to apply for urgent legal remedies in any jurisdiction. Also, YouTube shares a universal privacy policy with Google and this policy relates to Google's terms which are governed by California laws and jurisdiction."
+    },
+    "topics":[
+        {
+            "category":"governance",
+            "description":"What is the jurisdiction, what laws govern the terms?",
+            "id":"jurisdiction-law",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Jurisdiction and governing laws",
+            "subtitle":"Where can you sue, or be sued, for breaching of the rules?",
+            "title":"Jurisdiction and governing laws",
+            "type":"topic"
+        }
+    ]
+}

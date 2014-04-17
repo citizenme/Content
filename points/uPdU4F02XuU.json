@@ -1,0 +1,37 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/uPdU4F02XuU/discussion",
+    "id":"uPdU4F02XuU",
+    "meta":{
+        "author":"Ian McGowan",
+        "contributors":[
+            "Jil Larner <jil.larner@fsfe.org>"
+        ],
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "terms":"https://www.spotify.com/us/legal/privacy-policy/"
+    },
+    "title":"Spotify informs users of changes to the privacy policy",
+    "tosdr":{
+        "binding":true,
+        "case":"user is notified on the day",
+        "point":"neutral",
+        "score":0,
+        "tldr":"Spotify informs users through the Service of any material changes to their privacy policy. They recommend users check the privacy policy for an minor changes."
+    },
+    "topics":[
+        {
+            "description":"Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+            "id":"changes",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Notice of Changing Terms",
+            "parent":"changes",
+            "subtitle":"Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+            "title":"Notice of Changing Terms",
+            "type":"topic"
+        }
+    ]
+}

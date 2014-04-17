@@ -1,0 +1,53 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/GDCSa4PAQb8/discussion",
+    "id":"GDCSa4PAQb8",
+    "meta":{
+        "author":"Ian McGowan",
+        "contributors":[
+            "Robin Monks <devlinks@gmail.com>"
+        ],
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "terms":"https://cloudant.com/terms/"
+    },
+    "title":"Cloudant will provide an exported copy of your data in the event of termination",
+    "tosdr":{
+        "binding":true,
+        "case":"they provide a way to export your data",
+        "point":"good",
+        "score":30,
+        "tldr":"In the event of termination, and upon a written request which can be in the form of an email, Cloudant will provide you with a copy of your data in an open format. However, Subscribers are liable for any bandwidth costs associated with the archiving/exporting process."
+    },
+    "topics":[
+        {
+            "description":"The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is your content, your data: you can decide.",
+            "example":{
+                "bad":"We get a license beyond the requirements to operate the service, so your data may be used for purposes you do not intend. We will still attribute ownership to you.",
+                "blocker":"We become the owners of your data.",
+                "good":"You license us to use your data only for the purpose of operating this service."
+            },
+            "id":"ownership",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Ownership",
+            "subtitle":"What happens with the content you generate on the service?",
+            "title":"Ownership",
+            "type":"category"
+        },
+        {
+            "description":"Once a service has your personal data, how much control do you have over how it will be used and how long?",
+            "id":"personal-data",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Personal Data",
+            "parent":"ownership",
+            "subtitle":"Can you control your privacy?",
+            "title":"Personal Data",
+            "type":"topic"
+        }
+    ]
+}

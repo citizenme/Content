@@ -1,0 +1,47 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/s98UR0Jx6Z4/discussion",
+    "id":"s98UR0Jx6Z4",
+    "meta":{
+        "author":"ToS;DR project",
+        "contributors":[
+            "see mailing list discussion"
+        ],
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "faq":"",
+        "terms":""
+    },
+    "title":"Facebook automatically shares your data with many other services",
+    "tosdr":{
+        "binding":true,
+        "case":"many third parties are involved in operating the service",
+        "point":"bad",
+        "score":50,
+        "tldr":"Facebook automatically shares your information with companies like Bing, Pandora, TripAdvisor, Yelp, Rotten Tomatoes, Clicker, Scribd, and Docs, unless you manually opt-out."
+    },
+    "topics":[
+        {
+            "id":"third",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Third Parties",
+            "subtitle":"",
+            "title":"Third Parties",
+            "type":"category"
+        },
+        {
+            "description":"The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+            "id":"track",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Anonymity and Tracking",
+            "subtitle":"Are you being spied on?",
+            "title":"Anonymity and Tracking",
+            "type":"category"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+
+{
+    "discussion":"https://groups.google.com/forum/#!topic/tosdr/HUL_4wIbNGY",
+    "id":"HUL_4wIbNGY",
+    "meta":{
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "terms":"http://groups.google.com/intl/en/policies/terms/"
+    },
+    "title":"Advance notice of changes",
+    "tosdr":{
+        "binding":true,
+        "case":"user is notified a week or more in advance",
+        "point":"good",
+        "score":30,
+        "tldr":"Ordinarily, Google posts changes to terms on their site or if they are significant, will notify you via email. Google won't implement changes sooner than 14 days after noticed was given or posted. They will not reduce your rights under their privacy policy without your explicit consent."
+    },
+    "topics":[
+        {
+            "description":"Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+            "id":"changes",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Notice of Changing Terms",
+            "parent":"changes",
+            "subtitle":"Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+            "title":"Notice of Changing Terms",
+            "type":"topic"
+        }
+    ]
+}

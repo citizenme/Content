@@ -1,0 +1,58 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/E751EkJqons/discussion",
+    "id":"E751EkJqons",
+    "meta":{
+        "author":"Ian McGowan",
+        "contributors":[
+            "Robin Monks <devlinks@gmail.com>"
+        ],
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "terms":"https://cloudant.com/privacy/"
+    },
+    "title":"Cloudant uses third-party cookies",
+    "tosdr":{
+        "binding":true,
+        "case":"sets third-party cookies and/or ads",
+        "point":"bad",
+        "score":10,
+        "tldr":"We may share Other Information about your activity on the Website with third parties for the purpose of tailoring, analyzing, managing, reporting, and optimizing advertising you see on the Website and elsewhere. These third parties may use cookies, pixel tags (also called web beacons or clear gifs), and/or other technologies to collect such Other Information for such purposes. Pixel tags enable us and these third-party advertisers to recognize a browser’s cookie when a browser visits the site on which the pixel tag is located in order to learn which advertisement brings a user to a given site."
+    },
+    "topics":[
+        {
+            "description":"Cookies are files stored locally in your web browser containing identifiable information.",
+            "id":"cookies",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Cookies",
+            "parent":"track",
+            "subtitle":"and related technologies",
+            "title":"Cookies",
+            "type":"topic"
+        },
+        {
+            "id":"third",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Third Parties",
+            "subtitle":"",
+            "title":"Third Parties",
+            "type":"category"
+        },
+        {
+            "description":"The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+            "id":"track",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Anonymity and Tracking",
+            "subtitle":"Are you being spied on?",
+            "title":"Anonymity and Tracking",
+            "type":"category"
+        }
+    ]
+}

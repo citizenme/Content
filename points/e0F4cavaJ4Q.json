@@ -1,0 +1,33 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/e0F4cavaJ4Q",
+    "id":"e0F4cavaJ4Q",
+    "meta":{
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California,94041, .USA"
+    },
+    "source":{
+        "terms":"https://twitter.com/tos",
+        "privacy":"https://twitter.com/privacy"
+    },
+    "title":"Twitter deletes data after 30 days. It keeps rights on your content.",
+    "tosdr":{
+        "binding":true,
+        "case":"your content stays licensed",
+        "point":"bad",
+        "score":25,
+        "tldr":"If you deactivate your account or your account is closed, Twitter retains all the rights on your content due to their very broad copyright licence which applies even after termination of the service. However, after 30 days Twitter begins to delete your data."
+    },
+    "topics":[
+        {
+            "description":"Once you subscribe to the service, will you have the right to leave it and remove your data?",
+            "id":"leave",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Right to leave the service",
+            "subtitle":"To avoid lock-in and stay in control",
+            "title":"Right to leave the service",
+            "type":"category"
+        }
+    ]
+}

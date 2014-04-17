@@ -1,0 +1,38 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/E58aPtzP3jk/discussion",
+    "id":"E58aPtzP3jk",
+    "set":"set+service+and+topic",
+    "title":"This service tracks you on other websites",
+    "tosdr":{
+        "binding":true,
+        "case":"tracks you on other websites",
+        "point":"bad",
+        "score":60,
+        "tldr":"This service and their partners use cookies to track you even if you are not interacting with the service directly. Information gathered about you could include: date and time you visit the site; the web address or URL you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to the service at the same time, your user ID."
+    },
+    "topics":[
+        {
+            "description":"Cookies are files stored locally in your web browser containing identifiable information.",
+            "id":"cookies",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Cookies",
+            "parent":"track",
+            "subtitle":"and related technologies",
+            "title":"Cookies",
+            "type":"topic"
+        },
+        {
+            "id":"third",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Third Parties",
+            "subtitle":"",
+            "title":"Third Parties",
+            "type":"category"
+        }
+    ]
+}

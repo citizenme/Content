@@ -1,0 +1,33 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/OR7vkW34mm4",
+    "id":"OR7vkW34mm4",
+    "meta":{
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "privacy":"https://twitter.com/privacy"
+    },
+    "title":"Transparency about cookies",
+    "tosdr":{
+        "binding":true,
+        "case":"requires first-party cookies",
+        "point":"neutral",
+        "score":10,
+        "tldr":"Twitter discloses their use of session cookies and persistent cookies. However much of the service, like searching or looking at public profiles or lists, does not rely on cookies to work. Acceptance of cookies can be controlled by you by adjusting your browser settings."
+    },
+    "topics":[
+        {
+            "description":"Cookies are files stored locally in your web browser containing identifiable information.",
+            "id":"cookies",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Cookies",
+            "parent":"track",
+            "subtitle":"and related technologies",
+            "title":"Cookies",
+            "type":"topic"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+
+{
+    "discussion":"https://groups.google.com/forum/#!topic/tosdr/t-INoE6fH98",
+    "id":"t-INoE6fH982",
+    "meta":{
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "terms":"http://www.delicious.com/terms",
+        "privacy":"http://www.delicious.com/privacy"
+    },
+    "title":"Delicious can license your content to third-parties",
+    "tosdr":{
+        "binding":true,
+        "case":"broad license including right to distribute through any media",
+        "point":"bad",
+        "score":100,
+        "tldr":"The scope of the copyright license granted to Delicious includes the rights to transfer and sublicense. This means your content can be licensed by Delicious to third-parties on their terms."
+    },
+    "topics":[
+        {
+            "description":"Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+            "id":"copyright-scope",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Scope of the copyright license",
+            "parent":"ownership",
+            "subtitle":"Do you grant only the necessary rights?",
+            "title":"Scope of the copyright license",
+            "type":"topic"
+        },
+        {
+            "id":"third",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Third Parties",
+            "subtitle":"",
+            "title":"Third Parties",
+            "type":"category"
+        }
+    ]
+}

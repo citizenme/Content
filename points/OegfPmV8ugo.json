@@ -1,0 +1,37 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/OegfPmV8ugo/discussion",
+    "id":"OegfPmV8ugo",
+    "set":"set+service+and+topic",
+    "title":"Amazon enables third-party advertisers to target you by default",
+    "tosdr":{
+        "binding":true,
+        "case":"targeted third-party advertising",
+        "point":"bad",
+        "score":30,
+        "tldr":"Although Amazon does not share your personal informaton to advertiers and other third-parties that display Amazon's ads, by default they enable third-party advertises to target you (IP, cookies or “other features”). However, you can opt-out."
+    },
+    "topics":[
+        {
+            "description":"The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+            "id":"track",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Anonymity and Tracking",
+            "subtitle":"Are you being spied on?",
+            "title":"Anonymity and Tracking",
+            "type":"category"
+        },
+        {
+            "id":"third",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Third Parties",
+            "subtitle":"",
+            "title":"Third Parties",
+            "type":"category"
+        }
+    ]
+}

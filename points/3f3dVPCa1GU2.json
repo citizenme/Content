@@ -1,0 +1,38 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/3f3dVPCa1GU/discussion",
+    "id":"3f3dVPCa1GU2",
+    "related-id":"3f3dVPCa1GU2",
+    "meta":{
+        "author":"ToS;DR by Unhosted",
+        "contributors":[
+            "Hugo Roy <hugo@unhosted.org>"
+        ],
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "privacy":"http://soundcloud.com/pages/privacy#information"
+    },
+    "title":"Personal information can be disclosed in case of business transfer or insolvency",
+    "tosdr":{
+        "binding":true,
+        "case":"may sell your data in merger",
+        "point":"bad",
+        "score":20,
+        "tldr":"SoundCloud “We may disclose your personal information to any person or company that acquires all or substantially all of the assets or business of SoundCloud, or on a merger of our business, or in the event of our insolvency. ”"
+    },
+    "topics":[
+        {
+            "description":"When you give your data to a company, you need to keep in mind that this company can get acquired by another company, with different policies. What happens in that case?",
+            "id":"business-transfer",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Business Transfers",
+            "parent":"third",
+            "subtitle":"Is your data a business asset?",
+            "title":"Business Transfers",
+            "type":"topic"
+        }
+    ]
+}

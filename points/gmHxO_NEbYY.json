@@ -1,0 +1,37 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/gmHxO_NEbYY/discussion",
+    "id":"gmHxO_NEbYY",
+    "meta":{
+        "author":"Ian McGowan",
+        "contributors":[
+            "Jil Larner <jil.larner@fsfe.org>"
+        ],
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "terms":"https://www.spotify.com/us/legal/end-user-agreement/"
+    },
+    "title":"Spotify price changes take effect immediately",
+    "tosdr":{
+        "binding":true,
+        "case":"user is notified on the day",
+        "point":"neutral",
+        "score":0,
+        "tldr":"Spotify warns you if there is a change in the price of  subscription, but that change is implemented immediately, without delay. This means that if they change the price they day before your renewal, you will be charged the new price."
+    },
+    "topics":[
+        {
+            "description":"Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+            "id":"changes",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Notice of Changing Terms",
+            "parent":"changes",
+            "subtitle":"Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+            "title":"Notice of Changing Terms",
+            "type":"topic"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/QZgR8faRWDU/discussion",
+    "id":"QZgR8faRWDU",
+    "meta":{
+        "author":"ToS;DR project",
+        "contributors":[
+            "see mailing list discussion"
+        ],
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "privacy":"http://www.google.com/intl/en/policies/privacy/"
+    },
+    "title":"Google can share your personal information with other parties",
+    "tosdr":{
+        "binding":true,
+        "case":"third-party access without a warrant",
+        "point":"bad",
+        "score":50,
+        "tldr":"Google can share your personal information with other parties. For sensitive information (medical, racial, ethnic, political, religious or sexuality) Google requires your \"opt-in\" consent. Google can also share or publish aggregated data that does not identify you."
+    },
+    "topics":[
+        {
+            "description":"",
+            "id":"law-gov",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Law and government requests",
+            "subtitle":"How do services deal with government requests?",
+            "title":"Law and government requests",
+            "type":"category"
+        },
+        {
+            "description":"The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+            "id":"track",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Anonymity and Tracking",
+            "subtitle":"Are you being spied on?",
+            "title":"Anonymity and Tracking",
+            "type":"category"
+        },
+        {
+            "id":"third",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Third Parties",
+            "subtitle":"",
+            "title":"Third Parties",
+            "type":"category"
+        }
+    ]
+}

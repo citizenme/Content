@@ -1,0 +1,40 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/1zhceRPv3nM/discussion",
+    "id":"1zhceRPv3nM",
+    "set":"set+service+and+topic",
+    "title":"Amazon may sell user data as part of a business transfer",
+    "tosdr":{
+        "binding":true,
+        "case":"may sell your data in merger",
+        "point":"bad",
+        "score":20,
+        "tldr":"Amazon may sell user data as part of a business transfer"
+    },
+    "topics":[
+        {
+            "description":"When you give your data to a company, you need to keep in mind that this company can get acquired by another company, with different policies. What happens in that case?",
+            "id":"business-transfer",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Business Transfers",
+            "parent":"third",
+            "subtitle":"Is your data a business asset?",
+            "title":"Business Transfers",
+            "type":"topic"
+        },
+        {
+            "description":"Once a service has your personal data, how much control do you have over how it will be used and how long?",
+            "id":"personal-data",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Personal Data",
+            "parent":"ownership",
+            "subtitle":"Can you control your privacy?",
+            "title":"Personal Data",
+            "type":"topic"
+        }
+    ]
+}

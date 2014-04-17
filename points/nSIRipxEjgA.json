@@ -1,0 +1,32 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/nSIRipxEjgA/discussion",
+    "id":"nSIRipxEjgA",
+    "meta":{
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "terms":"https://mykolab.com/tos"
+    },
+    "title":"4 weeks to review changes and possibility to negotiate",
+    "tosdr":{
+        "binding":true,
+        "point":"good",
+        "score":60,
+        "tldr":"“When we change terms or prices, we will notify you by email to your main account in this Service. After receiving that email you have 30 days to respond (a) by informing us that you agree to the new terms or prices, (b) by informing us that you disagree, in which case Kolab Systems AG may on a case to case basis agree to continue providing you with the Service under the previous terms and/or prices, or (c) by giving us notice that you terminate this agreement regardless of the remaining duration you had agreed to under the previous terms. Continuation of use after 30 days will constitute agreement to the new terms.”"
+    },
+    "topics":[
+        {
+            "description":"Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+            "id":"changes",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Notice of Changing Terms",
+            "parent":"changes",
+            "subtitle":"Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+            "title":"Notice of Changing Terms",
+            "type":"topic"
+        }
+    ]
+}

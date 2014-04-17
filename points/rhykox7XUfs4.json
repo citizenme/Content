@@ -1,0 +1,49 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+    "id":"rhykox7XUfs4",
+    "related-id":"rhykox7XUfs4",
+    "meta":{
+        "contributors":[
+            "Hugo Roy <hugo@unhosted.org>",
+            "Pants <palpants@gmail.com>",
+            "Michiel de Jong <michiel@unhosted.org>"
+        ],
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "privacy":"http://store.steampowered.com/privacy_agreement/"
+    },
+    "title":"Your personal information is not shared with third parties for marketing purposes",
+    "tosdr":{
+        "binding":true,
+        "case":"personal data is not sold",
+        "point":"good",
+        "score":25,
+        "tldr":"No “Personally identifiable information” is shared with third parties for marketing purposes."
+    },
+    "topics":[
+        {
+            "description":"Once a service has your personal data, how much control do you have over how it will be used and how long?",
+            "id":"personal-data",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Personal Data",
+            "parent":"ownership",
+            "subtitle":"Can you control your privacy?",
+            "title":"Personal Data",
+            "type":"topic"
+        },
+        {
+            "id":"third",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Third Parties",
+            "subtitle":"",
+            "title":"Third Parties",
+            "type":"category"
+        }
+    ]
+}

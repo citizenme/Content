@@ -1,0 +1,32 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/yCSzdR_gOW4/discussion",
+    "id":"yCSzdR_gOW4",
+    "meta":{
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "terms":"http://groups.google.com/intl/en/policies/privacy/"
+    },
+    "title":"Google keeps your information for an undefined period of time",
+    "tosdr":{
+        "binding":true,
+        "case":"logs are kept forever",
+        "point":"bad",
+        "score":100,
+        "tldr":"Google collects a lot of information about the services you use and how you use them, including searches, personally identifiable information and activity when you visit a website using a Google service (e.g. via search or an advertisement). Google does not disclose how long this information is kept on their servers."
+    },
+    "topics":[
+        {
+            "id":"logs-length",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Logs",
+            "parent":"track",
+            "subtitle":"How long do they keep them?",
+            "title":"Logs",
+            "type":"topic"
+        }
+    ]
+}

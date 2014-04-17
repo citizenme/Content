@@ -1,0 +1,37 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/JcGg9TPZ7V0/discussion",
+    "id":"JcGg9TPZ7V0",
+    "meta":{
+        "author":"ToS;DR by Unhosted",
+        "contributors":[
+            "Hugo Roy <hugo@unhosted.org>"
+        ],
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "terms":"http://groups.google.com/intl/en/policies/terms/"
+    },
+    "title":"Jurisdiction in California",
+    "tosdr":{
+        "binding":true,
+        "case":"court of law is in location X",
+        "point":"neutral",
+        "score":0,
+        "tldr":"This terms of services agreement is governed by the laws of California, USA, excluding California's conflict of laws rules. This means if there's a dispute between you and Google about the terms of service, you have both already consented to personal jurisdiction in the federal or state courts of Santa Clara County, California."
+    },
+    "topics":[
+        {
+            "category":"governance",
+            "description":"What is the jurisdiction, what laws govern the terms?",
+            "id":"jurisdiction-law",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Jurisdiction and governing laws",
+            "subtitle":"Where can you sue, or be sued, for breaching of the rules?",
+            "title":"Jurisdiction and governing laws",
+            "type":"topic"
+        }
+    ]
+}

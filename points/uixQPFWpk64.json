@@ -1,0 +1,48 @@
+
+{
+    "discussion":"https://groups.google.com/d/topic/tosdr/uixQPFWpk64/discussion",
+    "id":"uixQPFWpk64",
+    "meta":{
+        "author":"Ian McGowan",
+        "contributors":[
+            "Jil Larner <jil.larner@fsfe.org>"
+        ],
+        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source":{
+        "terms":"https://www.spotify.com/us/legal/end-user-agreement/"
+    },
+    "title":"Your data is accessible to trading partners",
+    "tosdr":{
+        "binding":true,
+        "case":"personal data is given to third parties",
+        "point":"bad",
+        "score":10,
+        "tldr":"Your data is accessible to any of Spotify's trading partners. In addition, such data isn't expressly defined in the EULA."
+    },
+    "topics":[
+        {
+            "description":"Once a service has your personal data, how much control do you have over how it will be used and how long?",
+            "id":"personal-data",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Personal Data",
+            "parent":"ownership",
+            "subtitle":"Can you control your privacy?",
+            "title":"Personal Data",
+            "type":"topic"
+        },
+        {
+            "description":"The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+            "id":"track",
+            "meta":{
+                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+            },
+            "name":"Anonymity and Tracking",
+            "subtitle":"Are you being spied on?",
+            "title":"Anonymity and Tracking",
+            "type":"category"
+        }
+    ]
+}
