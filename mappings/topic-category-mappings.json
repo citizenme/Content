@@ -1,0 +1,111 @@
+{
+    "headings" : [
+          "Dictates to me?",
+          "My Guarantees?",
+          "My Rights Lost?",
+          "Owns My Content?",
+          "Owns My Data?",
+          "Tracks Me?",
+          "Traps Me?",
+          "Various"
+      ],
+
+    "mappings" : {
+        "changes-involvement" : { 
+            "heading" : 0,
+            "name" : "Asks My Permission?"
+        },
+        "changes-notice" : {
+            "heading" : 0,
+            "name" : "Notifies Me?"
+        },
+        "readability" : {
+            "heading" : 0,
+            "name" : "Easy To Understand?"
+        },
+        "user-info" : {
+            "heading" : 0,
+            "name" : "Explains?"
+        },
+        "guarantee" : {
+            "heading" : 1,
+            "name" : "Guarantees To Me?"
+        },
+        "suspension" : {
+            "heading" : 1,
+            "name" : "Can Close & Edit My Account?"
+        },
+        "waiver" : {
+            "heading" : 2,
+            "name" : "My Rights Lost?"
+        },
+        "governance" : {
+            "heading" : 2,
+            "name" : "House Rules & Me?"
+        },
+        "jurisdiction-law" : {
+            "heading" : 2,
+            "name" : "Whose Law?"
+        },
+        "law-enforcement" : {
+            "heading" : 2,
+            "name" : "Legal Requests?"
+        },
+        "law-gov" : {
+            "heading" : 2,
+            "name" : "Government Requests?"
+        },
+        "copyright-scope" : {
+            "heading" : 3,
+            "name" : "Owns My Content?"
+        },
+        "ownership" : {
+            "heading" : 3,
+            "name" : "Uses My Content?"
+        },
+        "data-export" : {
+            "heading" : 3,
+            "name" : "Gives Me My Data?"
+        },
+        "business-transfer" : {
+            "heading" : 4,
+            "name" : "Sells My Data?"
+        },
+        "logs-length" : {
+            "heading" : 4,
+            "name" : "Keeps My Data?"
+        },
+        "personal-data" : {
+            "heading" : 4,
+            "name" : "Protects My Privacy?"
+        },
+        "third" : {
+            "heading" : 4,
+            "name" : "Shares Me With Others?"
+        },
+        "cookies" : {
+            "heading" : 5,
+            "name" : "Gives Me Cookies?"
+        },
+        "track" : {
+            "heading" : 5,
+            "name" : "Tracks Me?"
+        },
+        "leave" : {
+            "heading" : 6,
+            "name" : "Trapped?"
+        },
+        "changes" : {
+            "heading" : 7,
+            "name" : "Changes to Terms?"
+        },
+        "equality" : {
+            "heading" : 7,
+            "name" : "Equality of rights?"
+        },
+        "user-choice" : {
+            "heading" : 7,
+            "name" : "User choice?"
+        }
+    }
+}
