@@ -1,6 +1,6 @@
 {
   "alexa" : 1000000,
-  "class" : false,
+  "class" : "",
   "links" : {
     "mobile" : {
       "name" : "Terms and Conditions (Mobile)",

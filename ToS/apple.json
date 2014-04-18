@@ -1,6 +1,6 @@
 {
   "alexa" : 34,
-  "class" : false,
+  "class" : "",
   "links" : {
     "legal-notice" : {
       "name" : "Website Terms of Service",

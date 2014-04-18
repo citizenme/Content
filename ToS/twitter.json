@@ -1,6 +1,6 @@
 {
   "alexa" : 8,
-  "class" : false,
+  "class" : "",
   "links" : {
     "privacy" : {
       "name" : "Privacy Policy",

@@ -1,6 +1,6 @@
 {
   "alexa" : 1,
-  "class" : false,
+  "class" : "",
   "links" : {
     "privacy" : {
       "name" : "Data Use Policy",
