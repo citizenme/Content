@@ -22,7 +22,7 @@
   "id" : "flickr",
   "keywords" : [ "photos", "pictures" ],
   "name" : "Flickr",
-  "parent" : [ "yahoo" ],
+  "parent" : "yahoo",
   "related" : [ "twitpic", "500px" ],
   "tosback2" : {
     "privacy" : {

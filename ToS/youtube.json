@@ -22,7 +22,7 @@
   "id" : "youtube",
   "keywords" : [ "video", "videos" ],
   "name" : "YouTube",
-  "parent" : [ "google" ],
+  "parent" : "google",
   "related" : [ "dailymotion", "vimeo" ],
   "tosback2" : {
     "privacy" : {
