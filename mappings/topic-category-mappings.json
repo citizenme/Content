@@ -1,12 +1,12 @@
 {
     "headings" : [
-          "Dictates to me?",
-          "My Guarantees?",
-          "My Rights Lost?",
-          "Owns My Content?",
-          "Owns My Data?",
-          "Tracks Me?",
-          "Traps Me?",
+          "My Involvement",
+          "My Guarantees",
+          "My Rights",
+          "My Data and Content",
+          "My Data and Content",
+          "My Footprint",
+          "My Deletion",
           "Various"
       ],
 
@@ -26,6 +26,14 @@
         "user-info" : {
             "heading" : 0,
             "name" : "Explains?"
+        },
+        "changes" : {
+            "heading" : 0,
+            "name" : "Changes to Terms?"
+        },
+        "user-choice" : {
+            "heading" : 0,
+            "name" : "User choice?"
         },
         "guarantee" : {
             "heading" : 1,
@@ -54,6 +62,10 @@
         "law-gov" : {
             "heading" : 2,
             "name" : "Government Requests?"
+        },
+        "equality" : {
+            "heading" : 2,
+            "name" : "Equality of rights?"
         },
         "copyright-scope" : {
             "heading" : 3,
@@ -94,18 +106,6 @@
         "leave" : {
             "heading" : 6,
             "name" : "Trapped?"
-        },
-        "changes" : {
-            "heading" : 7,
-            "name" : "Changes to Terms?"
-        },
-        "equality" : {
-            "heading" : 7,
-            "name" : "Equality of rights?"
-        },
-        "user-choice" : {
-            "heading" : 7,
-            "name" : "User choice?"
         }
     }
 }
