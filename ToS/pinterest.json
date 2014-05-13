@@ -27,54 +27,67 @@
   }
 , "deepLinks": [
     {
+        "linkid": "settingsPage",
         "description": "Settings Page",
         "url": "https://pinterest.com/settings/"
     },
     {
+        "linkid": "changeBio",
         "description": "Change Bio",
         "url": "https://pinterest.com/settings/"
     },
     {
+        "linkid": "changePassword",
         "description": "Change Password",
         "url": "https://pinterest.com/settings/"
     },
     {
+        "linkid": "changeUsername",
         "description": "Change Username",
         "url": "https://pinterest.com/settings/"
     },
     {
+        "linkid": "changeEmail",
         "description": "Change Email",
         "url": "https://pinterest.com/settings/"
     },
     {
+        "linkid": "changeEmailSettings",
         "description": "Change Email Settings",
         "url": "https://pinterest.com/prefs/"
     },
     {
+        "linkid": "deleteAccount",
         "description": "Delete Account",
         "url": "https://pinterest.com/settings/"
     },
     {
+        "linkid": "changeMobileSettings",
         "description": "Change Mobile Settings",
         "url": ""
     },
     {
+        "linkid": "recoverPassword",
         "description": "Recover Password",
         "url": "https://pinterest.com/login/?next=%2F"
     },
     {
+        "linkid": "changeProfilePicture",
         "description": "Change Profile Picture",
         "url": "https://pinterest.com/settings/"
     },
     {
+        "linkid": "changeDesign",
         "description": "Change Design",
         "url": ""
     },
     {
+        "linkid": "changeConnectedAccounts",
         "description": "Change Connected Accounts",
         "url": "https://pinterest.com/settings/"
     },
     {
+        "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
         "url": ""
     }

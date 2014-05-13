@@ -180,54 +180,67 @@
   } ]
 , "deepLinks": [
     {
+        "linkid": "settingsPage",
         "description": "Settings Page",
         "url": "http://www.flickr.com/profile_edit.gne"
     },
     {
+        "linkid": "changeBio",
         "description": "Change Bio",
         "url": "http://www.flickr.com/profile_edit.gne?from=personal"
     },
     {
+        "linkid": "changePassword",
         "description": "Change Password",
         "url": ""
     },
     {
+        "linkid": "changeUsername",
         "description": "Change Username",
         "url": "http://www.flickr.com/account/prefs/screenname/?from=personal"
     },
     {
+        "linkid": "changeEmail",
         "description": "Change Email",
         "url": "http://www.flickr.com/account/email/"
     },
     {
+        "linkid": "changeEmailSettings",
         "description": "Change Email Settings",
         "url": "http://www.flickr.com/account/email/"
     },
     {
+        "linkid": "deleteAccount",
         "description": "Delete Account",
         "url": "http://www.flickr.com/profile_delete.gne"
     },
     {
+        "linkid": "changeMobileSettings",
         "description": "Change Mobile Settings",
         "url": ""
     },
     {
+        "linkid": "recoverPassword",
         "description": "Recover Password",
         "url": "https://edit.yahoo.com/forgotroot"
     },
     {
+        "linkid": "changeProfilePicture",
         "description": "Change Profile Picture",
         "url": "http://www.flickr.com/iconbuilder/?from=personal"
     },
     {
+        "linkid": "changeDesign",
         "description": "Change Design",
         "url": "http://www.flickr.com/account/prefs/layout/"
     },
     {
+        "linkid": "changeConnectedAccounts",
         "description": "Change Connected Accounts",
         "url": "http://www.flickr.com/account/sharing/"
     },
     {
+        "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
         "url": "http://www.flickr.com/services/auth/list.gne?from=extend"
     }

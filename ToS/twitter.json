@@ -338,54 +338,67 @@
   } ]
 , "deepLinks": [
     {
+        "linkid": "settingsPage",
         "description": "Settings Page",
         "url": "https://twitter.com/settings/profile"
     },
     {
+        "linkid": "changeBio",
         "description": "Change Bio",
         "url": "https://twitter.com/settings/profile"
     },
     {
+        "linkid": "changePassword",
         "description": "Change Password",
         "url": "https://twitter.com/settings/password"
     },
     {
+        "linkid": "changeUsername",
         "description": "Change Username",
         "url": "https://twitter.com/settings/account"
     },
     {
+        "linkid": "changeEmail",
         "description": "Change Email",
         "url": "https://twitter.com/settings/account"
     },
     {
+        "linkid": "changeEmailSettings",
         "description": "Change Email Settings",
         "url": "https://twitter.com/settings/notifications"
     },
     {
+        "linkid": "deleteAccount",
         "description": "Delete Account",
         "url": "https://twitter.com/settings/account"
     },
     {
+        "linkid": "changeMobileSettings",
         "description": "Change Mobile Settings",
         "url": "https://twitter.com/settings/devices"
     },
     {
+        "linkid": "recoverPassword",
         "description": "Recover Password",
         "url": ""
     },
     {
+        "linkid": "changeProfilePicture",
         "description": "Change Profile Picture",
         "url": "https://twitter.com/settings/profile"
     },
     {
+        "linkid": "changeDesign",
         "description": "Change Design",
         "url": "https://twitter.com/settings/design"
     },
     {
+        "linkid": "changeConnectedAccounts",
         "description": "Change Connected Accounts",
         "url": "https://twitter.com/settings/profile"
     },
     {
+        "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
         "url": "https://twitter.com/settings/applications"
     }

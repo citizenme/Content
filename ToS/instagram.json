@@ -91,54 +91,67 @@
   } ]
 , "deepLinks": [
     {
+        "linkid": "settingsPage",
         "description": "Settings Page",
         "url": "https://instagr.am/accounts/edit/"
     },
     {
+        "linkid": "changeBio",
         "description": "Change Bio",
         "url": "https://instagr.am/accounts/edit/"
     },
     {
+        "linkid": "changePassword",
         "description": "Change Password",
         "url": "https://instagr.am/accounts/password/change/"
     },
     {
+        "linkid": "changeUsername",
         "description": "Change Username",
         "url": ""
     },
     {
+        "linkid": "changeEmail",
         "description": "Change Email",
         "url": ""
     },
     {
+        "linkid": "changeEmailSettings",
         "description": "Change Email Settings",
         "url": ""
     },
     {
+        "linkid": "deleteAccount",
         "description": "Delete Account",
         "url": ""
     },
     {
+        "linkid": "changeMobileSettings",
         "description": "Change Mobile Settings",
         "url": ""
     },
     {
+        "linkid": "recoverPassword",
         "description": "Recover Password",
         "url": "https://instagr.am/accounts/password/reset/"
     },
     {
+        "linkid": "changeProfilePicture",
         "description": "Change Profile Picture",
         "url": ""
     },
     {
+        "linkid": "changeDesign",
         "description": "Change Design",
         "url": ""
     },
     {
+        "linkid": "changeConnectedAccounts",
         "description": "Change Connected Accounts",
         "url": ""
     },
     {
+        "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
         "url": "https://instagr.am/accounts/login/?next=/oauth/manage_access"
     }

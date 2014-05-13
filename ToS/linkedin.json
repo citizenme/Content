@@ -106,54 +106,67 @@
   } ]
 , "deepLinks": [
     {
+        "linkid": "settingsPage",
         "description": "Settings Page",
         "url": "https://www.linkedin.com/settings/"
     },
     {
+        "linkid": "changeBio",
         "description": "Change Bio",
         "url": "https://www.linkedin.com/profile/edit"
     },
     {
+        "linkid": "changePassword",
         "description": "Change Password",
         "url": "https://www.linkedin.com/uas/change-password"
     },
     {
+        "linkid": "changeUsername",
         "description": "Change Username",
         "url": ""
     },
     {
+        "linkid": "changeEmail",
         "description": "Change Email",
         "url": "https://www.linkedin.com/settings/manage-email"
     },
     {
+        "linkid": "changeEmailSettings",
         "description": "Change Email Settings",
         "url": "https://www.linkedin.com/settings/?tab=email"
     },
     {
+        "linkid": "deleteAccount",
         "description": "Delete Account",
         "url": "https://www.linkedin.com/secure/settings?closemyaccountstart"
     },
     {
+        "linkid": "changeMobileSettings",
         "description": "Change Mobile Settings",
         "url": ""
     },
     {
+        "linkid": "recoverPassword",
         "description": "Recover Password",
         "url": "https://www.linkedin.com/uas/request-password-reset"
     },
     {
+        "linkid": "changeProfilePicture",
         "description": "Change Profile Picture",
         "url": "https://www.linkedin.com/profile/edit-picture-info"
     },
     {
+        "linkid": "changeDesign",
         "description": "Change Design",
         "url": ""
     },
     {
+        "linkid": "changeConnectedAccounts",
         "description": "Change Connected Accounts",
         "url": ""
     },
     {
+        "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
         "url": "https://www.linkedin.com/secure/settings?userAgree="
     }

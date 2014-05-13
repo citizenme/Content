@@ -26,54 +26,67 @@
   }
 , "deepLinks": [
     {
+        "linkid": "settingsPage",
         "description": "Settings Page",
         "url": "https://path.com/settings"
     },
     {
+        "linkid": "changeBio",
         "description": "Change Bio",
         "url": "https://path.com/settings"
     },
     {
+        "linkid": "changePassword",
         "description": "Change Password",
         "url": "https://path.com/settings"
     },
     {
+        "linkid": "changeUsername",
         "description": "Change Username",
         "url": ""
     },
     {
+        "linkid": "changeEmail",
         "description": "Change Email",
         "url": ""
     },
     {
+        "linkid": "changeEmailSettings",
         "description": "Change Email Settings",
         "url": "https://path.com/settings"
     },
     {
+        "linkid": "deleteAccount",
         "description": "Delete Account",
         "url": "https://path.com/settings"
     },
     {
+        "linkid": "changeMobileSettings",
         "description": "Change Mobile Settings",
         "url": ""
     },
     {
+        "linkid": "recoverPassword",
         "description": "Recover Password",
         "url": "https://path.com/forgot-password"
     },
     {
+        "linkid": "changeProfilePicture",
         "description": "Change Profile Picture",
         "url": "https://path.com/settings"
     },
     {
+        "linkid": "changeDesign",
         "description": "Change Design",
         "url": "https://path.com/settings"
     },
     {
+        "linkid": "changeConnectedAccounts",
         "description": "Change Connected Accounts",
         "url": "https://path.com/settings"
     },
     {
+        "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
         "url": ""
     }

@@ -148,54 +148,67 @@
   } ]
 , "deepLinks": [
     {
+        "linkid": "settingsPage",
         "description": "Settings Page",
         "url": "https://www.tumblr.com/preferences"
     },
     {
+        "linkid": "changeBio",
         "description": "Change Bio",
         "url": ""
     },
     {
+        "linkid": "changePassword",
         "description": "Change Password",
         "url": "https://www.tumblr.com/preferences"
     },
     {
+        "linkid": "changeUsername",
         "description": "Change Username",
         "url": ""
     },
     {
+        "linkid": "changeEmail",
         "description": "Change Email",
         "url": "https://www.tumblr.com/preferences"
     },
     {
+        "linkid": "changeEmailSettings",
         "description": "Change Email Settings",
         "url": "https://www.tumblr.com/preferences"
     },
     {
+        "linkid": "deleteAccount",
         "description": "Delete Account",
         "url": "http://www.tumblr.com/account/delete"
     },
     {
+        "linkid": "changeMobileSettings",
         "description": "Change Mobile Settings",
         "url": ""
     },
     {
+        "linkid": "recoverPassword",
         "description": "Recover Password",
         "url": "https://www.tumblr.com/forgot_password"
     },
     {
+        "linkid": "changeProfilePicture",
         "description": "Change Profile Picture",
         "url": ""
     },
     {
+        "linkid": "changeDesign",
         "description": "Change Design",
         "url": "http://www.tumblr.com/customize"
     },
     {
+        "linkid": "changeConnectedAccounts",
         "description": "Change Connected Accounts",
         "url": "https://www.tumblr.com/preferences"
     },
     {
+        "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
         "url": "https://www.tumblr.com/preferences"
     }

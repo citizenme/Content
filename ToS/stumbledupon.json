@@ -26,54 +26,67 @@
   }
 , "deepLinks": [
     {
+        "linkid": "settingsPage",
         "description": "Settings Page",
         "url": "https://www.stumbleupon.com/settings/profile"
     },
     {
+        "linkid": "changeBio",
         "description": "Change Bio",
         "url": "https://www.stumbleupon.com/settings/profile"
     },
     {
+        "linkid": "changePassword",
         "description": "Change Password",
         "url": "https://www.stumbleupon.com/settings/password"
     },
     {
+        "linkid": "changeUsername",
         "description": "Change Username",
         "url": "https://www.stumbleupon.com/settings/profile"
     },
     {
+        "linkid": "changeEmail",
         "description": "Change Email",
         "url": ""
     },
     {
+        "linkid": "changeEmailSettings",
         "description": "Change Email Settings",
         "url": "https://www.stumbleupon.com/settings/privacy-emails"
     },
     {
+        "linkid": "deleteAccount",
         "description": "Delete Account",
         "url": ""
     },
     {
+        "linkid": "changeMobileSettings",
         "description": "Change Mobile Settings",
         "url": "https://www.stumbleupon.com/settings/profile"
     },
     {
+        "linkid": "recoverPassword",
         "description": "Recover Password",
         "url": "http://www.stumbleupon.com/reset-password"
     },
     {
+        "linkid": "changeProfilePicture",
         "description": "Change Profile Picture",
         "url": "https://www.stumbleupon.com/settings/picture"
     },
     {
+        "linkid": "changeDesign",
         "description": "Change Design",
         "url": ""
     },
     {
+        "linkid": "changeConnectedAccounts",
         "description": "Change Connected Accounts",
         "url": "https://www.stumbleupon.com/settings/connections"
     },
     {
+        "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
         "url": ""
     }

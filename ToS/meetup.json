@@ -25,54 +25,67 @@
   }
 , "deepLinks": [
     {
+        "linkid": "settingsPage",
         "description": "Settings Page",
         "url": "http://www.meetup.com/account/"
     },
     {
+        "linkid": "changeBio",
         "description": "Change Bio",
         "url": "http://www.meetup.com/account/bio/"
     },
     {
+        "linkid": "changePassword",
         "description": "Change Password",
         "url": "https://secure.meetup.com/account/password"
     },
     {
+        "linkid": "changeUsername",
         "description": "Change Username",
         "url": ""
     },
     {
+        "linkid": "changeEmail",
         "description": "Change Email",
         "url": "http://www.meetup.com/account/email/"
     },
     {
+        "linkid": "changeEmailSettings",
         "description": "Change Email Settings",
         "url": "http://www.meetup.com/account/comm/"
     },
     {
+        "linkid": "deleteAccount",
         "description": "Delete Account",
         "url": "http://www.meetup.com/account/remove/"
     },
     {
+        "linkid": "changeMobileSettings",
         "description": "Change Mobile Settings",
         "url": ""
     },
     {
+        "linkid": "recoverPassword",
         "description": "Recover Password",
         "url": "http://www.meetup.com/account/forgot/"
     },
     {
+        "linkid": "changeProfilePicture",
         "description": "Change Profile Picture",
         "url": "http://www.meetup.com/account/"
     },
     {
+        "linkid": "changeDesign",
         "description": "Change Design",
         "url": ""
     },
     {
+        "linkid": "changeConnectedAccounts",
         "description": "Change Connected Accounts",
         "url": ""
     },
     {
+        "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
         "url": "http://www.meetup.com/account/oauth_apps/"
     }

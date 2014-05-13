@@ -292,54 +292,67 @@
   } ]
 , "deepLinks": [
     {
+        "linkid": "settingsPage",
         "description": "Settings Page",
         "url": "https://www.youtube.com/account"
     },
     {
+        "linkid": "changeBio",
         "description": "Change Bio",
         "url": "http://www.youtube.com/account_profile"
     },
     {
+        "linkid": "changePassword",
         "description": "Change Password",
         "url": "https://accounts.google.com/b/0/EditPasswd"
     },
     {
+        "linkid": "changeUsername",
         "description": "Change Username",
         "url": ""
     },
     {
+        "linkid": "changeEmail",
         "description": "Change Email",
         "url": ""
     },
     {
+        "linkid": "changeEmailSettings",
         "description": "Change Email Settings",
         "url": "http://www.youtube.com/account_notifications"
     },
     {
+        "linkid": "deleteAccount",
         "description": "Delete Account",
         "url": "http://www.youtube.com/account_manage"
     },
     {
+        "linkid": "changeMobileSettings",
         "description": "Change Mobile Settings",
         "url": "http://www.youtube.com/account_mobile_setup"
     },
     {
+        "linkid": "recoverPassword",
         "description": "Recover Password",
         "url": "http://www.youtube.com/account_recovery"
     },
     {
+        "linkid": "changeProfilePicture",
         "description": "Change Profile Picture",
         "url": "http://www.youtube.com/account?feature=mhee"
     },
     {
+        "linkid": "changeDesign",
         "description": "Change Design",
         "url": "http://www.youtube.com/channel_editor?action_editor=1&editor_tab=branding"
     },
     {
+        "linkid": "changeConnectedAccounts",
         "description": "Change Connected Accounts",
         "url": "http://www.youtube.com/account_sharing"
     },
     {
+        "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
         "url": "http://www.youtube.com/account_sharing"
     }

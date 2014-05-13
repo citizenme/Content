@@ -494,54 +494,67 @@
   } ]
 , "deepLinks": [
     {
+        "linkid": "settingsPage",
         "description": "Settings Page",
         "url": "https://plus.google.com/u/0/settings"
     },
     {
+        "linkid": "changeBio",
         "description": "Change Bio",
         "url": "https://plus.google.com/u/0/me/about/edit/d"
     },
     {
+        "linkid": "changePassword",
         "description": "Change Password",
         "url": "https://www.google.com/accounts/b/0/EditPasswd"
     },
     {
+        "linkid": "changeUsername",
         "description": "Change Username",
         "url": "https://accounts.google.com/b/0/EditUserInfo"
     },
     {
+        "linkid": "changeEmail",
         "description": "Change Email",
         "url": "https://www.google.com/accounts/b/0/EditUserInfo"
     },
     {
+        "linkid": "changeEmailSettings",
         "description": "Change Email Settings",
         "url": "https://www.google.com/settings/plus"
     },
     {
+        "linkid": "deleteAccount",
         "description": "Delete Account",
         "url": "https://www.google.com/accounts/b/0/DeleteAccount"
     },
     {
+        "linkid": "changeMobileSettings",
         "description": "Change Mobile Settings",
         "url": ""
     },
     {
+        "linkid": "recoverPassword",
         "description": "Recover Password",
         "url": "https://www.google.com/accounts/recovery"
     },
     {
+        "linkid": "changeProfilePicture",
         "description": "Change Profile Picture",
         "url": "https://plus.google.com/u/0/me/about/edit/d"
     },
     {
+        "linkid": "changeDesign",
         "description": "Change Design",
         "url": ""
     },
     {
+        "linkid": "changeConnectedAccounts",
         "description": "Change Connected Accounts",
         "url": "https://profiles.google.com/connectedaccounts?authuser=0"
     },
     {
+        "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
         "url": "https://plus.google.com/apps"
     }
