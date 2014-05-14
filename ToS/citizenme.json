@@ -21,11 +21,7 @@
   "points" : [ ],
   "fulltos" : { },
   "related" : [ ],
-  "deepLinks" : [ {
-    "linkid" : "changeBio",
-    "description" : "Change Bio",
-    "url" : "Ian "
-  } ],
+  "deepLinks" : [ ],
   "icons" : {
     "icon-colour" : "/i/citizenme-icon-colour.png",
     "icon-colour-2x" : "/i/citizenme-icon-colour@2x.png",
