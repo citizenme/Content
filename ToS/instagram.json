@@ -1,26 +1,9 @@
 {
-  "class" : "",
-  "links" : { },
   "alexa" : 107,
   "freesoftware" : false,
-  "fulltos" : {
-    "terms" : {
-      "url" : "http://instagr.am/legal/terms/"
-    }
-  },
-  "icons" : {
-    "icon-colour" : "/i/instagram-icon-colour.png",
-    "icon-colour-2x" : "/i/instagram-icon-colour@2x.png",
-    "icon-grey" : "/i/instagram-icon-grey.png",
-    "icon-grey-2x" : "/i/instagram-icon-grey@2x.png"
-  },
   "id" : "instagram",
+  "keywords" : [ ],
   "name" : "Instagram",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
   "type" : "service",
   "url" : "instagram.com",
   "urls" : [ "instagram.com" ],
@@ -29,131 +12,108 @@
     "meta" : "popular",
     "name" : "Instagram",
     "url" : "https://instagram.com/accounts/remove/request",
-    "difficulty": "easy"
+    "difficulty" : "easy"
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/zWoT_ZWAEM8/discussion",
     "id" : "at-their-discretion-with-notice",
-    "meta" : {
-      "author" : "Hugo for “Terms of Service; Didn't Read”",
-      "contributors" : [ "Hugo Roy <hugo@tosdr.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
     "title" : "Terms may be changed at any time, but they will notify you in advance",
+    "source" : { },
     "tosdr" : {
-      "binding" : true,
-      "case" : "user is notified a week or more in advance",
+      "binding" : "true",
       "point" : "good",
       "score" : 30,
-      "tldr" : "This service may change the terms at any time, but they will notify the user in advance - typically via email or by posting proposed changes on their site. Your continued use of the service is taken as acceptance of the new or changed terms."
+      "tldr" : "This service may change the terms at any time, but they will notify the user in advance - typically via email or by posting proposed changes on their site. Your continued use of the service is taken as acceptance of the new or changed terms.",
+      "case" : "user is notified a week or more in advance"
     },
     "topics" : [ {
       "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
       "id" : "changes",
+      "name" : "Notice of Changing Terms",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic",
       "meta" : {
         "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
       },
-      "name" : "Notice of Changing Terms",
       "parent" : "changes",
-      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
-      "title" : "Notice of Changing Terms",
-      "type" : "topic"
-    } ]
+      "example" : { }
+    } ],
+    "meta" : {
+      "author" : "Hugo for “Terms of Service; Didn't Read”",
+      "contributors" : [ "Hugo Roy <hugo@tosdr.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/wy9QcF5zQII",
     "id" : "wy9QcF5zQII",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
+    "title" : "Very broad copyright license on your content",
     "source" : {
       "terms" : "http://instagr.am/legal/terms/"
     },
-    "title" : "Very broad copyright license on your content",
     "tosdr" : {
-      "binding" : true,
-      "case" : "very broad",
+      "binding" : "true",
       "point" : "bad",
       "score" : 80,
-      "tldr" : "The copyright licence is very broad. It includes the right for Instagram to share your images and video content with others, including their affiliates, like Facebook."
+      "tldr" : "The copyright licence is very broad. It includes the right for Instagram to share your images and video content with others, including their affiliates, like Facebook.",
+      "case" : "very broad"
     },
     "topics" : [ {
       "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
       "id" : "copyright-scope",
+      "name" : "Scope of the copyright license",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic",
       "meta" : {
         "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
       },
-      "name" : "Scope of the copyright license",
       "parent" : "ownership",
-      "subtitle" : "Do you grant only the necessary rights?",
-      "title" : "Scope of the copyright license",
-      "type" : "topic"
-    } ]
-  } ]
-, "deepLinks": [
-    {
-        "linkid": "settingsPage",
-        "description": "Settings Page",
-        "url": "https://instagr.am/accounts/edit/"
-    },
-    {
-        "linkid": "changeBio",
-        "description": "Change Bio",
-        "url": "https://instagr.am/accounts/edit/"
-    },
-    {
-        "linkid": "changePassword",
-        "description": "Change Password",
-        "url": "https://instagr.am/accounts/password/change/"
-    },
-    {
-        "linkid": "changeUsername",
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "linkid": "changeEmail",
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "linkid": "changeEmailSettings",
-        "description": "Change Email Settings",
-        "url": ""
-    },
-    {
-        "linkid": "deleteAccount",
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "linkid": "changeMobileSettings",
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "linkid": "recoverPassword",
-        "description": "Recover Password",
-        "url": "https://instagr.am/accounts/password/reset/"
-    },
-    {
-        "linkid": "changeProfilePicture",
-        "description": "Change Profile Picture",
-        "url": ""
-    },
-    {
-        "linkid": "changeDesign",
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "linkid": "changeConnectedAccounts",
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "linkid": "changeThirdPartyPermissions",
-        "description": "Change 3rd Party Permissions",
-        "url": "https://instagr.am/accounts/login/?next=/oauth/manage_access"
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     }
-  ]
+  } ],
+  "links" : { },
+  "fulltos" : {
+    "terms" : {
+      "url" : "http://instagr.am/legal/terms/"
+    }
+  },
+  "related" : [ ],
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://instagr.am/accounts/edit/"
+  }, {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "https://instagr.am/accounts/edit/"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://instagr.am/accounts/password/change/"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "https://instagr.am/accounts/password/reset/"
+  }, {
+    "linkid" : "changeThirdPartyPermissions",
+    "description" : "Change 3rd Party Permissions",
+    "url" : "https://instagr.am/accounts/login/?next=/oauth/manage_access"
+  } ],
+  "icons" : {
+    "icon-colour" : "/i/instagram-icon-colour.png",
+    "icon-colour-2x" : "/i/instagram-icon-colour@2x.png",
+    "icon-grey" : "/i/instagram-icon-grey.png",
+    "icon-grey-2x" : "/i/instagram-icon-grey@2x.png"
+  },
+  "class" : ""
 }

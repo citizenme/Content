@@ -1,8 +1,53 @@
 {
-  "class" : "",
-  "links" : { },
   "alexa" : 7846,
   "freesoftware" : false,
+  "id" : "identi-ca",
+  "keywords" : [ ],
+  "name" : "identi.ca",
+  "type" : "service",
+  "url" : "identi.ca",
+  "urls" : [ "identi.ca" ],
+  "fileName" : "identi-ca.json",
+  "jdm" : { },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/forum/?fromgroups#!topic/tosdr/kizrN7qb1Ck",
+    "id" : "kizrN7qb1Ck3",
+    "title" : "Content published under a free license",
+    "source" : {
+      "terms" : "http://identi.ca/doc/tos"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "good",
+      "score" : 90,
+      "tldr" : "“you grant all readers the right to use, re-use, modify and/or re-distribute the Content under the terms of the Creative Commons Attribution 3.0.”",
+      "case" : "you publish under a free license, not a bilateral one"
+    },
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "id" : "copyright-scope",
+      "name" : "Scope of the copyright license",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "ownership",
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "kizrN7qb1Ck3"
+  } ],
+  "links" : { },
   "fulltos" : {
     "privacy" : {
       "url" : "http://identi.ca/doc/privacy"
@@ -11,97 +56,9 @@
       "url" : "https://identi.ca/doc/tos"
     }
   },
-  "id" : "identi-ca",
-  "name" : "identi.ca",
+  "related" : [ ],
+  "deepLinks" : [ ],
+  "icons" : { },
   "parent" : "status-net",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
-  "type" : "service",
-  "url" : "identi.ca",
-  "urls" : [ "identi.ca" ],
-  "fileName" : "identi-ca.json",
-  "points" : [ {
-    "discussion" : "https://groups.google.com/forum/?fromgroups#!topic/tosdr/kizrN7qb1Ck",
-    "id" : "kizrN7qb1Ck3",
-    "related-id" : "kizrN7qb1Ck3",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "terms" : "http://identi.ca/doc/tos"
-    },
-    "title" : "Content published under a free license",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "you publish under a free license, not a bilateral one",
-      "point" : "good",
-      "score" : 90,
-      "tldr" : "“you grant all readers the right to use, re-use, modify and/or re-distribute the Content under the terms of the Creative Commons Attribution 3.0.”"
-    },
-    "topics" : [ {
-      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-      "id" : "copyright-scope",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Scope of the copyright license",
-      "parent" : "ownership",
-      "subtitle" : "Do you grant only the necessary rights?",
-      "title" : "Scope of the copyright license",
-      "type" : "topic"
-    } ]
-  } ]
-, "deepLinks": [
-    {
-        "description": "Change Bio",
-        "url": ""
-    },
-    {
-        "description": "Change Password",
-        "url": ""
-    },
-    {
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "description": "Change Email Settings",
-        "url": ""
-    },
-    {
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "description": "Recover Password",
-        "url": ""
-    },
-    {
-        "description": "Change Profile Picture",
-        "url": ""
-    },
-    {
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ]
+  "class" : ""
 }

@@ -1,94 +1,68 @@
 {
   "alexa" : 100,
   "freesoftware" : false,
+  "id" : "path",
+  "keywords" : [ ],
+  "name" : "Path",
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "path.json",
+  "jdm" : {
+    "name" : "Path",
+    "url" : "https://path.com",
+    "difficulty" : "medium",
+    "notes" : "You cannot delete your account from the website. Open the iOS/Android app, go to settings ? about ? disable account ? delete account."
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ ],
   "fulltos" : { },
+  "related" : [ ],
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://path.com/settings"
+  }, {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "https://path.com/settings"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://path.com/settings"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "https://path.com/settings"
+  }, {
+    "linkid" : "deleteAccount",
+    "description" : "Delete Account",
+    "url" : "https://path.com/settings"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "https://path.com/forgot-password"
+  }, {
+    "linkid" : "changeProfilePicture",
+    "description" : "Change Profile Picture",
+    "url" : "https://path.com/settings"
+  }, {
+    "linkid" : "changeDesign",
+    "description" : "Change Design",
+    "url" : "https://path.com/settings"
+  }, {
+    "linkid" : "changeConnectedAccounts",
+    "description" : "Change Connected Accounts",
+    "url" : "https://path.com/settings"
+  } ],
   "icons" : {
     "icon-colour" : "/i/Path-icon-colour.png",
     "icon-colour-2x" : "/i/Path-icon-colour@2x.png",
     "icon-grey" : "/i/Path-icon-grey.png",
     "icon-grey-2x" : "/i/Path-icon-grey@2x.png"
-  },
-  "id" : "path",
-  "name" : "Path",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "path.json",
-  "jdm" : {
-    "name": "Path",
-    "url": "https://path.com",
-    "difficulty": "medium",
-    "notes": "You cannot delete your account from the website. Open the iOS/Android app, go to settings ? about ? disable account ? delete account."
   }
-, "deepLinks": [
-    {
-        "linkid": "settingsPage",
-        "description": "Settings Page",
-        "url": "https://path.com/settings"
-    },
-    {
-        "linkid": "changeBio",
-        "description": "Change Bio",
-        "url": "https://path.com/settings"
-    },
-    {
-        "linkid": "changePassword",
-        "description": "Change Password",
-        "url": "https://path.com/settings"
-    },
-    {
-        "linkid": "changeUsername",
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "linkid": "changeEmail",
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "linkid": "changeEmailSettings",
-        "description": "Change Email Settings",
-        "url": "https://path.com/settings"
-    },
-    {
-        "linkid": "deleteAccount",
-        "description": "Delete Account",
-        "url": "https://path.com/settings"
-    },
-    {
-        "linkid": "changeMobileSettings",
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "linkid": "recoverPassword",
-        "description": "Recover Password",
-        "url": "https://path.com/forgot-password"
-    },
-    {
-        "linkid": "changeProfilePicture",
-        "description": "Change Profile Picture",
-        "url": "https://path.com/settings"
-    },
-    {
-        "linkid": "changeDesign",
-        "description": "Change Design",
-        "url": "https://path.com/settings"
-    },
-    {
-        "linkid": "changeConnectedAccounts",
-        "description": "Change Connected Accounts",
-        "url": "https://path.com/settings"
-    },
-    {
-        "linkid": "changeThirdPartyPermissions",
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ]
 }

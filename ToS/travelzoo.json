@@ -1,65 +1,22 @@
 {
   "alexa" : 1000000,
   "freesoftware" : false,
-  "fulltos" : { },
   "id" : "travelzoo",
+  "keywords" : [ ],
   "name" : "travelzoo",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
   "type" : "service",
   "urls" : [ ],
-  "fileName" : "travelzoo.json"
-, "deepLinks": [
-    {
-        "description": "Change Bio",
-        "url": ""
-    },
-    {
-        "description": "Change Password",
-        "url": ""
-    },
-    {
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "description": "Change Email Settings",
-        "url": ""
-    },
-    {
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "description": "Recover Password",
-        "url": ""
-    },
-    {
-        "description": "Change Profile Picture",
-        "url": ""
-    },
-    {
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ]
+  "fileName" : "travelzoo.json",
+  "jdm" : { },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ ],
+  "fulltos" : { },
+  "related" : [ ],
+  "deepLinks" : [ ],
+  "icons" : { }
 }

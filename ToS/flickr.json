@@ -1,6 +1,156 @@
 {
   "alexa" : 56,
-  "class" : "",
+  "freesoftware" : false,
+  "id" : "flickr",
+  "keywords" : [ "photos", "pictures" ],
+  "name" : "Flickr",
+  "type" : "service",
+  "url" : "flickr.com",
+  "urls" : [ "flickr.com" ],
+  "fileName" : "flickr.json",
+  "jdm" : {
+    "name" : "Flickr",
+    "url" : "http://www.flickr.com/profile_delete.gne",
+    "difficulty" : "easy"
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/K1M7Vj1W1VM/klIjYdinTVcJ",
+    "id" : "K1M7Vj1W1VM",
+    "title" : "Flickr lets you choose a copyright license",
+    "source" : {
+      "privacy" : "http://info.yahoo.com/privacy/us/yahoo/flickr/details.html"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "good",
+      "score" : 10,
+      "tldr" : "The copyright license granted to Yahoo for photos, graphics, audio and video is limited “solely for the purpose for which such Content was submitted or made available”. In addition, Flickr integrates a set of Creative Commons licenses you can choose from.",
+      "case" : "you can choose the copyright license"
+    },
+    "topics" : [ {
+      "description" : "The level of choice that is left to the user.",
+      "id" : "user-choice",
+      "name" : "User choice",
+      "subtitle" : "How much can YOU decide?",
+      "title" : "User choice",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { },
+      "category" : "governance"
+    }, {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "id" : "copyright-scope",
+      "name" : "Scope of the copyright license",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "ownership",
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/U11qApwNL2M/4rgCMlHg7TIJ",
+    "id" : "U11qApwNL2M",
+    "title" : "Users are subject to Yahoo!'s terms",
+    "source" : {
+      "privacy" : "http://info.yahoo.com/privacy/us/yahoo/flickr/details.html"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "“When you use Flickr, you are subject to the Yahoo! Terms of Service and Yahoo! Community Guidelines.” To find out about Yahoo!'s terms, please read the ToS;DR report.",
+      "case" : "your use is subject to a policies, guidelines, etc."
+    },
+    "topics" : [ {
+      "id" : "governance",
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/WEwv5V2M9zw/Fevl-3Wq_BsJ",
+    "id" : "WEwv5V2M9zw",
+    "title" : "Yahoo's copyright license for photos, graphics, audio and video limited for purpose",
+    "source" : {
+      "terms" : "http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "good",
+      "score" : 80,
+      "tldr" : "The copyright license granted to Yahoo for photos, graphics, audio and video is limited “solely for the purpose for which such Content was submitted or made available”. ",
+      "case" : "limited for purpose of same service"
+    },
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "id" : "copyright-scope",
+      "name" : "Scope of the copyright license",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "ownership",
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "WEwv5V2M9zw"
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/sZ6MVIwA-tE/aZfl-h1LgxUJ",
+    "id" : "sZ6MVIwA-tE",
+    "title" : "You can chose with whom you share your photo",
+    "source" : {
+      "privacy" : "http://info.yahoo.com/privacy/us/yahoo/flickr/details.html"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "good",
+      "score" : 0,
+      "tldr" : "“You can specify whether or not you want your photos to be accessible to the public, accessible to a select few, or private (only you can access them with your Yahoo! ID and password)”",
+      "case" : "you can choose with whom you share content"
+    },
+    "topics" : [ {
+      "description" : "The level of choice that is left to the user.",
+      "id" : "user-choice",
+      "name" : "User choice",
+      "subtitle" : "How much can YOU decide?",
+      "title" : "User choice",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { },
+      "category" : "governance"
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  } ],
   "links" : {
     "privacy" : {
       "name" : "Privacy Policy",
@@ -11,18 +161,7 @@
       "url" : "http://www.yahoo.com/r/ts"
     }
   },
-  "freesoftware" : false,
   "fulltos" : { },
-  "icons" : {
-    "icon-colour" : "/i/flickr-icon-colour.png",
-    "icon-colour-2x" : "/i/flickr-icon-colour@2x.png",
-    "icon-grey" : "/i/flickr-icon-grey.png",
-    "icon-grey-2x" : "/i/flickr-icon-grey@2x.png"
-  },
-  "id" : "flickr",
-  "keywords" : [ "photos", "pictures" ],
-  "name" : "Flickr",
-  "parent" : "yahoo",
   "related" : [ "twitpic", "500px" ],
   "tosback2" : {
     "privacy" : {
@@ -37,212 +176,57 @@
       "url" : "http://www.yahoo.com/r/ts"
     }
   },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "http://www.flickr.com/profile_edit.gne"
+  }, {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "http://www.flickr.com/profile_edit.gne?from=personal"
+  }, {
+    "linkid" : "changeUsername",
+    "description" : "Change Username",
+    "url" : "http://www.flickr.com/account/prefs/screenname/?from=personal"
+  }, {
+    "linkid" : "changeEmail",
+    "description" : "Change Email",
+    "url" : "http://www.flickr.com/account/email/"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "http://www.flickr.com/account/email/"
+  }, {
+    "linkid" : "deleteAccount",
+    "description" : "Delete Account",
+    "url" : "http://www.flickr.com/profile_delete.gne"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "https://edit.yahoo.com/forgotroot"
+  }, {
+    "linkid" : "changeProfilePicture",
+    "description" : "Change Profile Picture",
+    "url" : "http://www.flickr.com/iconbuilder/?from=personal"
+  }, {
+    "linkid" : "changeDesign",
+    "description" : "Change Design",
+    "url" : "http://www.flickr.com/account/prefs/layout/"
+  }, {
+    "linkid" : "changeConnectedAccounts",
+    "description" : "Change Connected Accounts",
+    "url" : "http://www.flickr.com/account/sharing/"
+  }, {
+    "linkid" : "changeThirdPartyPermissions",
+    "description" : "Change 3rd Party Permissions",
+    "url" : "http://www.flickr.com/services/auth/list.gne?from=extend"
+  } ],
+  "icons" : {
+    "icon-colour" : "/i/flickr-icon-colour.png",
+    "icon-colour-2x" : "/i/flickr-icon-colour@2x.png",
+    "icon-grey" : "/i/flickr-icon-grey.png",
+    "icon-grey-2x" : "/i/flickr-icon-grey@2x.png"
   },
-  "type" : "service",
-  "url" : "flickr.com",
-  "urls" : [ "flickr.com" ],
-  "fileName" : "flickr.json",
-  "jdm" : {
-    "name" : "Flickr",
-    "url" : "http://www.flickr.com/profile_delete.gne",
-    "difficulty": "easy"
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/K1M7Vj1W1VM/klIjYdinTVcJ",
-    "id" : "K1M7Vj1W1VM",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "privacy" : "http://info.yahoo.com/privacy/us/yahoo/flickr/details.html"
-    },
-    "title" : "Flickr lets you choose a copyright license",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "you can choose the copyright license",
-      "point" : "good",
-      "score" : 10,
-      "tldr" : "The copyright license granted to Yahoo for photos, graphics, audio and video is limited “solely for the purpose for which such Content was submitted or made available”. In addition, Flickr integrates a set of Creative Commons licenses you can choose from."
-    },
-    "topics" : [ {
-      "category" : "governance",
-      "description" : "The level of choice that is left to the user.",
-      "id" : "user-choice",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "User choice",
-      "subtitle" : "How much can YOU decide?",
-      "title" : "User choice",
-      "type" : "topic"
-    }, {
-      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-      "id" : "copyright-scope",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Scope of the copyright license",
-      "parent" : "ownership",
-      "subtitle" : "Do you grant only the necessary rights?",
-      "title" : "Scope of the copyright license",
-      "type" : "topic"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/U11qApwNL2M/4rgCMlHg7TIJ",
-    "id" : "U11qApwNL2M",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "privacy" : "http://info.yahoo.com/privacy/us/yahoo/flickr/details.html"
-    },
-    "title" : "Users are subject to Yahoo!'s terms",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "your use is subject to a policies, guidelines, etc.",
-      "point" : "neutral",
-      "score" : 0,
-      "tldr" : "“When you use Flickr, you are subject to the Yahoo! Terms of Service and Yahoo! Community Guidelines.” To find out about Yahoo!'s terms, please read the ToS;DR report."
-    },
-    "topics" : [ {
-      "id" : "governance",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Governance",
-      "subtitle" : "Your relationship with the service and the community",
-      "title" : "Governance",
-      "type" : "category"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/WEwv5V2M9zw/Fevl-3Wq_BsJ",
-    "id" : "WEwv5V2M9zw",
-    "related-id" : "WEwv5V2M9zw",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "terms" : "http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html"
-    },
-    "title" : "Yahoo's copyright license for photos, graphics, audio and video limited for purpose",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "limited for purpose of same service",
-      "point" : "good",
-      "score" : 80,
-      "tldr" : "The copyright license granted to Yahoo for photos, graphics, audio and video is limited “solely for the purpose for which such Content was submitted or made available”. "
-    },
-    "topics" : [ {
-      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-      "id" : "copyright-scope",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Scope of the copyright license",
-      "parent" : "ownership",
-      "subtitle" : "Do you grant only the necessary rights?",
-      "title" : "Scope of the copyright license",
-      "type" : "topic"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/sZ6MVIwA-tE/aZfl-h1LgxUJ",
-    "id" : "sZ6MVIwA-tE",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "privacy" : "http://info.yahoo.com/privacy/us/yahoo/flickr/details.html"
-    },
-    "title" : "You can chose with whom you share your photo",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "you can choose with whom you share content",
-      "point" : "good",
-      "score" : 0,
-      "tldr" : "“You can specify whether or not you want your photos to be accessible to the public, accessible to a select few, or private (only you can access them with your Yahoo! ID and password)”"
-    },
-    "topics" : [ {
-      "category" : "governance",
-      "description" : "The level of choice that is left to the user.",
-      "id" : "user-choice",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "User choice",
-      "subtitle" : "How much can YOU decide?",
-      "title" : "User choice",
-      "type" : "topic"
-    } ]
-  } ]
-, "deepLinks": [
-    {
-        "linkid": "settingsPage",
-        "description": "Settings Page",
-        "url": "http://www.flickr.com/profile_edit.gne"
-    },
-    {
-        "linkid": "changeBio",
-        "description": "Change Bio",
-        "url": "http://www.flickr.com/profile_edit.gne?from=personal"
-    },
-    {
-        "linkid": "changePassword",
-        "description": "Change Password",
-        "url": ""
-    },
-    {
-        "linkid": "changeUsername",
-        "description": "Change Username",
-        "url": "http://www.flickr.com/account/prefs/screenname/?from=personal"
-    },
-    {
-        "linkid": "changeEmail",
-        "description": "Change Email",
-        "url": "http://www.flickr.com/account/email/"
-    },
-    {
-        "linkid": "changeEmailSettings",
-        "description": "Change Email Settings",
-        "url": "http://www.flickr.com/account/email/"
-    },
-    {
-        "linkid": "deleteAccount",
-        "description": "Delete Account",
-        "url": "http://www.flickr.com/profile_delete.gne"
-    },
-    {
-        "linkid": "changeMobileSettings",
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "linkid": "recoverPassword",
-        "description": "Recover Password",
-        "url": "https://edit.yahoo.com/forgotroot"
-    },
-    {
-        "linkid": "changeProfilePicture",
-        "description": "Change Profile Picture",
-        "url": "http://www.flickr.com/iconbuilder/?from=personal"
-    },
-    {
-        "linkid": "changeDesign",
-        "description": "Change Design",
-        "url": "http://www.flickr.com/account/prefs/layout/"
-    },
-    {
-        "linkid": "changeConnectedAccounts",
-        "description": "Change Connected Accounts",
-        "url": "http://www.flickr.com/account/sharing/"
-    },
-    {
-        "linkid": "changeThirdPartyPermissions",
-        "description": "Change 3rd Party Permissions",
-        "url": "http://www.flickr.com/services/auth/list.gne?from=extend"
-    }
-  ]
+  "parent" : "yahoo",
+  "class" : ""
 }

@@ -1,6 +1,321 @@
 {
   "alexa" : 8,
-  "class" : "",
+  "freesoftware" : false,
+  "id" : "twitter",
+  "keywords" : [ ],
+  "name" : "twitter",
+  "type" : "service",
+  "url" : "twitter.com",
+  "urls" : [ "twitter.com" ],
+  "fileName" : "twitter.json",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "Twitter",
+    "url" : "https://twitter.com/settings/accounts/confirm_deactivation",
+    "difficulty" : "easy",
+    "notes" : "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. More details"
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/-B4iO-9xHvg/0yoWGoEISrEJ",
+    "id" : "XB4iO-9xHvg",
+    "title" : "Terms may be changed at any time, sometimes with very little advance notice",
+    "source" : {
+      "terms" : "https://twitter.com/tos/previous/version_1"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "bad",
+      "score" : 35,
+      "tldr" : "This service may change the terms at any time, but in the past notice has been given to users only hours ahead of the change being implemented. Notification is given via their site or in some cases, via an @Twitter update or email. Your continued use of the service is taken as acceptance of the new or changed terms.",
+      "case" : "little involvement"
+    },
+    "topics" : [ {
+      "description" : "The terms are a contract between two parties, and it should not be changed unilaterally without consultation of the other party. Services should listen to what their users say and care about, and give them a vote in each substantial change.",
+      "id" : "changes-involvement",
+      "name" : "User Involvement in Changing Terms",
+      "subtitle" : "Are changes proposed as a request for feedback, or imposed unilaterally as a take-it-or-leave-it deal?",
+      "title" : "User Involvement in Changing Terms",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "changes",
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/OR7vkW34mm4",
+    "id" : "OR7vkW34mm4",
+    "title" : "Transparency about cookies",
+    "source" : {
+      "privacy" : "https://twitter.com/privacy"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "Twitter discloses their use of session cookies and persistent cookies. However much of the service, like searching or looking at public profiles or lists, does not rely on cookies to work. Acceptance of cookies can be controlled by you by adjusting your browser settings.",
+      "case" : "requires first-party cookies"
+    },
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "id" : "cookies",
+      "name" : "Cookies",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "track",
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/X6_GxyBSVnE",
+    "id" : "X6_GxyBSVnE",
+    "title" : "Tracking data",
+    "source" : {
+      "privacy" : "https://twitter.com/privacy",
+      "do-not-track" : "https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "good",
+      "score" : 80,
+      "tldr" : "Twitter begins deleting all tracking data it collects from you after 10 days. You can also opt-out of personalisation settings which track your website visits to tailor their service to you. To completely opt-out, enable the Do-Not-Track option in your browser settings.",
+      "case" : "tracking data deleted after 10 days and opt-out"
+    },
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/aXOIDbzevYE/VYXGTAktQuAJ",
+    "id" : "aXOIDbzevYE-1",
+    "title" : "Third party cookie use",
+    "source" : {
+      "privacy" : "http://www.twitter.com/privacy"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "bad",
+      "score" : 10,
+      "tldr" : "Twitter uses third-party services like Google Analytics that may collect your information using cookies.",
+      "case" : "sets third-party cookies and/or ads"
+    },
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "id" : "cookies",
+      "name" : "Cookies",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "track",
+      "example" : { }
+    }, {
+      "id" : "third",
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "VYXGTAktQuAJ"
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/damOWTFaho0/discussion",
+    "id" : "damOWTFaho0",
+    "title" : "A public record of past terms of service policies",
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "good",
+      "score" : 10,
+      "tldr" : "The terms of service page on their site provides a link to their archive of all past policies so you can see how terms have changed with each update.",
+      "case" : "archives provided"
+    },
+    "topics" : [ {
+      "id" : "readability",
+      "name" : "Easy to read",
+      "subtitle" : "Are the terms easy to find and well written?",
+      "title" : "Easy to read",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { },
+      "category" : "governance"
+    } ],
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "damOWTFaho0"
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/e0F4cavaJ4Q",
+    "id" : "e0F4cavaJ4Q",
+    "title" : "Twitter deletes data after 30 days. It keeps rights on your content.",
+    "source" : {
+      "terms" : "https://twitter.com/tos",
+      "privacy" : "https://twitter.com/privacy"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "bad",
+      "score" : 25,
+      "tldr" : "If you deactivate your account or your account is closed, Twitter retains all the rights on your content due to their very broad copyright licence which applies even after termination of the service. However, after 30 days Twitter begins to delete your data.",
+      "case" : "your content stays licensed"
+    },
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "id" : "leave",
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California,94041, .USA"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-tell-user",
+    "title" : "Promise to inform you about data requests from governments",
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "good",
+      "score" : 50,
+      "tldr" : "This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable.",
+      "case" : "promise to inform/notify"
+    },
+    "topics" : [ {
+      "description" : "",
+      "id" : "law-gov",
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-transparency-data",
+    "title" : "Transparency on law enforcement requests",
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data.",
+      "case" : "transparency"
+    },
+    "topics" : [ {
+      "description" : "",
+      "id" : "law-gov",
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { }
+    }, {
+      "id" : "law-enforcement",
+      "name" : "Law enforcement and due process",
+      "subtitle" : "What are the law enforcement standards followed by the service?",
+      "title" : "Law enforcement and due process",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "law-gov",
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/tmXfQIGPTvs",
+    "id" : "tmXfQIGPTvs",
+    "title" : "Very broad copyright license on your content",
+    "source" : {
+      "reference" : "https://twitter.com/tos"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "bad",
+      "score" : 80,
+      "tldr" : "The copyright licence is very broad. It includes the right for Twitter to share your tweets and any attached content like images or video with others on their terms, not yours.",
+      "case" : "very broad"
+    },
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "id" : "copyright-scope",
+      "name" : "Scope of the copyright license",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "ownership",
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "tmXfQIGPTvs"
+  } ],
   "links" : {
     "privacy" : {
       "name" : "Privacy Policy",
@@ -11,17 +326,7 @@
       "url" : "https://twitter.com/tos"
     }
   },
-  "dataexport" : false,
-  "freesoftware" : false,
   "fulltos" : { },
-  "icons" : {
-    "icon-colour" : "/i/twitter-icon-colour.png",
-    "icon-colour-2x" : "/i/twitter-icon-colour@2x.png",
-    "icon-grey" : "/i/twitter-icon-grey.png",
-    "icon-grey-2x" : "/i/twitter-icon-grey@2x.png"
-  },
-  "id" : "twitter",
-  "name" : "twitter",
   "related" : [ "identi-ca", "seenthis" ],
   "tosback2" : {
     "privacy" : {
@@ -36,371 +341,61 @@
       "url" : "https://twitter.com/tos"
     }
   },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://twitter.com/settings/profile"
+  }, {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "https://twitter.com/settings/profile"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://twitter.com/settings/password"
+  }, {
+    "linkid" : "changeUsername",
+    "description" : "Change Username",
+    "url" : "https://twitter.com/settings/account"
+  }, {
+    "linkid" : "changeEmail",
+    "description" : "Change Email",
+    "url" : "https://twitter.com/settings/account"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "https://twitter.com/settings/notifications"
+  }, {
+    "linkid" : "deleteAccount",
+    "description" : "Delete Account",
+    "url" : "https://twitter.com/settings/account"
+  }, {
+    "linkid" : "changeMobileSettings",
+    "description" : "Change Mobile Settings",
+    "url" : "https://twitter.com/settings/devices"
+  }, {
+    "linkid" : "changeProfilePicture",
+    "description" : "Change Profile Picture",
+    "url" : "https://twitter.com/settings/profile"
+  }, {
+    "linkid" : "changeDesign",
+    "description" : "Change Design",
+    "url" : "https://twitter.com/settings/design"
+  }, {
+    "linkid" : "changeConnectedAccounts",
+    "description" : "Change Connected Accounts",
+    "url" : "https://twitter.com/settings/profile"
+  }, {
+    "linkid" : "changeThirdPartyPermissions",
+    "description" : "Change 3rd Party Permissions",
+    "url" : "https://twitter.com/settings/applications"
+  } ],
+  "icons" : {
+    "icon-colour" : "/i/twitter-icon-colour.png",
+    "icon-colour-2x" : "/i/twitter-icon-colour@2x.png",
+    "icon-grey" : "/i/twitter-icon-grey.png",
+    "icon-grey-2x" : "/i/twitter-icon-grey@2x.png"
   },
-  "type" : "service",
-  "url" : "twitter.com",
-  "urls" : [ "twitter.com" ],
-  "fileName" : "twitter.json",
-  "jdm" : {
-    "meta" : "popular",
-    "name" : "Twitter",
-    "url" : "https://twitter.com/settings/accounts/confirm_deactivation",
-    "difficulty": "easy",
-    "notes" : "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. More details"
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/-B4iO-9xHvg/0yoWGoEISrEJ",
-    "id" : "XB4iO-9xHvg",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "terms" : "https://twitter.com/tos/previous/version_1"
-    },
-    "title" : "Terms may be changed at any time, sometimes with very little advance notice",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "little involvement",
-      "point" : "bad",
-      "score" : 35,
-      "tldr" : "This service may change the terms at any time, but in the past notice has been given to users only hours ahead of the change being implemented. Notification is given via their site or in some cases, via an @Twitter update or email. Your continued use of the service is taken as acceptance of the new or changed terms."
-    },
-    "topics" : [ {
-      "description" : "The terms are a contract between two parties, and it should not be changed unilaterally without consultation of the other party. Services should listen to what their users say and care about, and give them a vote in each substantial change.",
-      "id" : "changes-involvement",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "User Involvement in Changing Terms",
-      "parent" : "changes",
-      "subtitle" : "Are changes proposed as a request for feedback, or imposed unilaterally as a take-it-or-leave-it deal?",
-      "title" : "User Involvement in Changing Terms",
-      "type" : "topic"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/OR7vkW34mm4",
-    "id" : "OR7vkW34mm4",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "privacy" : "https://twitter.com/privacy"
-    },
-    "title" : "Transparency about cookies",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "requires first-party cookies",
-      "point" : "neutral",
-      "score" : 10,
-      "tldr" : "Twitter discloses their use of session cookies and persistent cookies. However much of the service, like searching or looking at public profiles or lists, does not rely on cookies to work. Acceptance of cookies can be controlled by you by adjusting your browser settings."
-    },
-    "topics" : [ {
-      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
-      "id" : "cookies",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Cookies",
-      "parent" : "track",
-      "subtitle" : "and related technologies",
-      "title" : "Cookies",
-      "type" : "topic"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/X6_GxyBSVnE",
-    "id" : "X6_GxyBSVnE",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "privacy" : "https://twitter.com/privacy",
-      "do-not-track" : "https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#"
-    },
-    "title" : "Tracking data",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "tracking data deleted after 10 days and opt-out",
-      "point" : "good",
-      "score" : 80,
-      "tldr" : "Twitter begins deleting all tracking data it collects from you after 10 days. You can also opt-out of personalisation settings which track your website visits to tailor their service to you. To completely opt-out, enable the Do-Not-Track option in your browser settings."
-    },
-    "topics" : [ {
-      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-      "id" : "track",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Anonymity and Tracking",
-      "subtitle" : "Are you being spied on?",
-      "title" : "Anonymity and Tracking",
-      "type" : "category"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/aXOIDbzevYE/VYXGTAktQuAJ",
-    "id" : "aXOIDbzevYE-1",
-    "related-id" : "VYXGTAktQuAJ",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "privacy" : "http://www.twitter.com/privacy"
-    },
-    "title" : "Third party cookie use",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "sets third-party cookies and/or ads",
-      "point" : "bad",
-      "score" : 10,
-      "tldr" : "Twitter uses third-party services like Google Analytics that may collect your information using cookies."
-    },
-    "topics" : [ {
-      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
-      "id" : "cookies",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Cookies",
-      "parent" : "track",
-      "subtitle" : "and related technologies",
-      "title" : "Cookies",
-      "type" : "topic"
-    }, {
-      "id" : "third",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Third Parties",
-      "subtitle" : "",
-      "title" : "Third Parties",
-      "type" : "category"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/damOWTFaho0/discussion",
-    "id" : "damOWTFaho0",
-    "related-id" : "damOWTFaho0",
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "title" : "A public record of past terms of service policies",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "archives provided",
-      "point" : "good",
-      "score" : 10,
-      "tldr" : "The terms of service page on their site provides a link to their archive of all past policies so you can see how terms have changed with each update."
-    },
-    "topics" : [ {
-      "category" : "governance",
-      "id" : "readability",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Easy to read",
-      "subtitle" : "Are the terms easy to find and well written?",
-      "title" : "Easy to read",
-      "type" : "topic"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/e0F4cavaJ4Q",
-    "id" : "e0F4cavaJ4Q",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California,94041, .USA"
-    },
-    "source" : {
-      "terms" : "https://twitter.com/tos",
-      "privacy" : "https://twitter.com/privacy"
-    },
-    "title" : "Twitter deletes data after 30 days. It keeps rights on your content.",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "your content stays licensed",
-      "point" : "bad",
-      "score" : 25,
-      "tldr" : "If you deactivate your account or your account is closed, Twitter retains all the rights on your content due to their very broad copyright licence which applies even after termination of the service. However, after 30 days Twitter begins to delete your data."
-    },
-    "topics" : [ {
-      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
-      "id" : "leave",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Right to leave the service",
-      "subtitle" : "To avoid lock-in and stay in control",
-      "title" : "Right to leave the service",
-      "type" : "category"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-tell-user",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
-    },
-    "title" : "Promise to inform you about data requests from governments",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "promise to inform/notify",
-      "point" : "good",
-      "score" : 50,
-      "tldr" : "This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable."
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-transparency-data",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
-    },
-    "title" : "Transparency on law enforcement requests",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "transparency",
-      "point" : "good",
-      "score" : 30,
-      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category"
-    }, {
-      "id" : "law-enforcement",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Law enforcement and due process",
-      "parent" : "law-gov",
-      "subtitle" : "What are the law enforcement standards followed by the service?",
-      "title" : "Law enforcement and due process",
-      "type" : "topic"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/tmXfQIGPTvs",
-    "id" : "tmXfQIGPTvs",
-    "related-id" : "tmXfQIGPTvs",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "reference" : "https://twitter.com/tos"
-    },
-    "title" : "Very broad copyright license on your content",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "very broad",
-      "point" : "bad",
-      "score" : 80,
-      "tldr" : "The copyright licence is very broad. It includes the right for Twitter to share your tweets and any attached content like images or video with others on their terms, not yours."
-    },
-    "topics" : [ {
-      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-      "id" : "copyright-scope",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Scope of the copyright license",
-      "parent" : "ownership",
-      "subtitle" : "Do you grant only the necessary rights?",
-      "title" : "Scope of the copyright license",
-      "type" : "topic"
-    } ]
-  } ]
-, "deepLinks": [
-    {
-        "linkid": "settingsPage",
-        "description": "Settings Page",
-        "url": "https://twitter.com/settings/profile"
-    },
-    {
-        "linkid": "changeBio",
-        "description": "Change Bio",
-        "url": "https://twitter.com/settings/profile"
-    },
-    {
-        "linkid": "changePassword",
-        "description": "Change Password",
-        "url": "https://twitter.com/settings/password"
-    },
-    {
-        "linkid": "changeUsername",
-        "description": "Change Username",
-        "url": "https://twitter.com/settings/account"
-    },
-    {
-        "linkid": "changeEmail",
-        "description": "Change Email",
-        "url": "https://twitter.com/settings/account"
-    },
-    {
-        "linkid": "changeEmailSettings",
-        "description": "Change Email Settings",
-        "url": "https://twitter.com/settings/notifications"
-    },
-    {
-        "linkid": "deleteAccount",
-        "description": "Delete Account",
-        "url": "https://twitter.com/settings/account"
-    },
-    {
-        "linkid": "changeMobileSettings",
-        "description": "Change Mobile Settings",
-        "url": "https://twitter.com/settings/devices"
-    },
-    {
-        "linkid": "recoverPassword",
-        "description": "Recover Password",
-        "url": ""
-    },
-    {
-        "linkid": "changeProfilePicture",
-        "description": "Change Profile Picture",
-        "url": "https://twitter.com/settings/profile"
-    },
-    {
-        "linkid": "changeDesign",
-        "description": "Change Design",
-        "url": "https://twitter.com/settings/design"
-    },
-    {
-        "linkid": "changeConnectedAccounts",
-        "description": "Change Connected Accounts",
-        "url": "https://twitter.com/settings/profile"
-    },
-    {
-        "linkid": "changeThirdPartyPermissions",
-        "description": "Change 3rd Party Permissions",
-        "url": "https://twitter.com/settings/applications"
-    }
-  ]
+  "dataexport" : "false",
+  "class" : ""
 }

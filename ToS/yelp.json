@@ -1,77 +1,32 @@
 {
   "alexa" : 1000000,
   "freesoftware" : false,
+  "id" : "yelp",
+  "keywords" : [ ],
+  "name" : "Yelp",
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "yelp.json",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "Yelp",
+    "url" : "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
+    "difficulty" : "easy"
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ ],
   "fulltos" : { },
+  "related" : [ ],
+  "deepLinks" : [ ],
   "icons" : {
     "icon-colour" : "/i/Yelp-icon-colour.png",
     "icon-colour-2x" : "/i/Yelp-icon-colour@2x.png",
     "icon-grey" : "/i/Yelp-icon-grey.png",
     "icon-grey-2x" : "/i/Yelp-icon-grey@2x.png"
-  },
-  "id" : "yelp",
-  "name" : "Yelp",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "yelp.json",
-  "jdm" : {
-    "meta": "popular",
-    "name": "Yelp",
-    "url": "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
-    "difficulty": "easy"
   }
-, "deepLinks": [
-    {
-        "description": "Change Bio",
-        "url": ""
-    },
-    {
-        "description": "Change Password",
-        "url": ""
-    },
-    {
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "description": "Change Email Settings",
-        "url": ""
-    },
-    {
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "description": "Recover Password",
-        "url": ""
-    },
-    {
-        "description": "Change Profile Picture",
-        "url": ""
-    },
-    {
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ]
 }

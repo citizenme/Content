@@ -1,94 +1,68 @@
 {
   "alexa" : 100,
   "freesoftware" : false,
+  "id" : "StumbledUpon",
+  "keywords" : [ ],
+  "name" : "StumbledUpon",
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "stumbledupon.json",
+  "jdm" : {
+    "name" : "StumbledUpon",
+    "url" : "http://help.stumbleupon.com/customer/portal/articles/665202-account-settings#article17",
+    "difficulty" : "medium",
+    "notes" : "Navigate to the account deletion page https://www.stumbleupon.com/settings/delete-account. Deletion takes 14 days after StumbledUpon receive request."
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ ],
   "fulltos" : { },
+  "related" : [ ],
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://www.stumbleupon.com/settings/profile"
+  }, {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "https://www.stumbleupon.com/settings/profile"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://www.stumbleupon.com/settings/password"
+  }, {
+    "linkid" : "changeUsername",
+    "description" : "Change Username",
+    "url" : "https://www.stumbleupon.com/settings/profile"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "https://www.stumbleupon.com/settings/privacy-emails"
+  }, {
+    "linkid" : "changeMobileSettings",
+    "description" : "Change Mobile Settings",
+    "url" : "https://www.stumbleupon.com/settings/profile"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "http://www.stumbleupon.com/reset-password"
+  }, {
+    "linkid" : "changeProfilePicture",
+    "description" : "Change Profile Picture",
+    "url" : "https://www.stumbleupon.com/settings/picture"
+  }, {
+    "linkid" : "changeConnectedAccounts",
+    "description" : "Change Connected Accounts",
+    "url" : "https://www.stumbleupon.com/settings/connections"
+  } ],
   "icons" : {
     "icon-colour" : "/i/StumbledUpon-icon-colour.png",
     "icon-colour-2x" : "/i/StumbledUpon-icon-colour@2x.png",
     "icon-grey" : "/i/StumbledUpon-icon-grey.png",
     "icon-grey-2x" : "/i/StumbledUpon-icon-grey@2x.png"
-  },
-  "id" : "StumbledUpon",
-  "name" : "StumbledUpon",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "stumbledupon.json",
-  "jdm" : {
-    "name": "StumbledUpon",
-    "url": "http://help.stumbleupon.com/customer/portal/articles/665202-account-settings#article17",
-    "difficulty": "medium",
-    "notes": "Navigate to the account deletion page https://www.stumbleupon.com/settings/delete-account. Deletion takes 14 days after StumbledUpon receive request."
   }
-, "deepLinks": [
-    {
-        "linkid": "settingsPage",
-        "description": "Settings Page",
-        "url": "https://www.stumbleupon.com/settings/profile"
-    },
-    {
-        "linkid": "changeBio",
-        "description": "Change Bio",
-        "url": "https://www.stumbleupon.com/settings/profile"
-    },
-    {
-        "linkid": "changePassword",
-        "description": "Change Password",
-        "url": "https://www.stumbleupon.com/settings/password"
-    },
-    {
-        "linkid": "changeUsername",
-        "description": "Change Username",
-        "url": "https://www.stumbleupon.com/settings/profile"
-    },
-    {
-        "linkid": "changeEmail",
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "linkid": "changeEmailSettings",
-        "description": "Change Email Settings",
-        "url": "https://www.stumbleupon.com/settings/privacy-emails"
-    },
-    {
-        "linkid": "deleteAccount",
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "linkid": "changeMobileSettings",
-        "description": "Change Mobile Settings",
-        "url": "https://www.stumbleupon.com/settings/profile"
-    },
-    {
-        "linkid": "recoverPassword",
-        "description": "Recover Password",
-        "url": "http://www.stumbleupon.com/reset-password"
-    },
-    {
-        "linkid": "changeProfilePicture",
-        "description": "Change Profile Picture",
-        "url": "https://www.stumbleupon.com/settings/picture"
-    },
-    {
-        "linkid": "changeDesign",
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "linkid": "changeConnectedAccounts",
-        "description": "Change Connected Accounts",
-        "url": "https://www.stumbleupon.com/settings/connections"
-    },
-    {
-        "linkid": "changeThirdPartyPermissions",
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ]
 }

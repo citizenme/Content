@@ -1,23 +1,57 @@
 {
   "alexa" : 2095,
-  "class" : "A",
+  "freesoftware" : false,
+  "id" : "duckduckgo",
+  "keywords" : [ "search", "search engine" ],
+  "name" : "DuckDuckGo",
+  "type" : "service",
+  "url" : "duckduckgo.com",
+  "urls" : [ "duckduckgo.com" ],
+  "fileName" : "duckduckgo.json",
+  "jdm" : { },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "A",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/g4RWiArs104",
+    "id" : "g4RWiArs104",
+    "title" : "No Tracking",
+    "source" : {
+      "reference" : "http://donttrack.us/"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "good",
+      "score" : 100,
+      "tldr" : "DuckDuckGo doesn't send your searches to other sites. No personal information is saved. No cookies are used by default, but cookies can be saved on your computer for some features (e.g. settings). They save searches but only in a way that does not personally identify you (no storing of your IP address for example.) DuckDuckGo uses aggregated, non-personal search data to improve things like misspellings.",
+      "case" : "no tracking"
+    },
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "id" : "track",
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  } ],
   "links" : {
     "privacy" : {
       "name" : "Privacy Policy",
       "url" : "https://duckduckgo.com/privacy.html"
     }
   },
-  "freesoftware" : false,
   "fulltos" : { },
-  "icons" : {
-    "icon-colour" : "/i/duckduckgo-icon-colour.png",
-    "icon-colour-2x" : "/i/duckduckgo-icon-colour@2x.png",
-    "icon-grey" : "/i/duckduckgo-icon-grey.png",
-    "icon-grey-2x" : "/i/duckduckgo-icon-grey@2x.png"
-  },
-  "id" : "duckduckgo",
-  "keywords" : [ "search", "search engine" ],
-  "name" : "DuckDuckGo",
   "related" : [ "google" ],
   "tosback2" : {
     "privacy" : {
@@ -25,109 +59,16 @@
       "url" : "https://duckduckgo.com/privacy.html"
     }
   },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "A",
-    "related" : [ ]
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://duckduckgo.com/settings"
+  } ],
+  "icons" : {
+    "icon-colour" : "/i/duckduckgo-icon-colour.png",
+    "icon-colour-2x" : "/i/duckduckgo-icon-colour@2x.png",
+    "icon-grey" : "/i/duckduckgo-icon-grey.png",
+    "icon-grey-2x" : "/i/duckduckgo-icon-grey@2x.png"
   },
-  "type" : "service",
-  "url" : "duckduckgo.com",
-  "urls" : [ "duckduckgo.com" ],
-  "fileName" : "duckduckgo.json",
-  "points" : [ {
-    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/g4RWiArs104",
-    "id" : "g4RWiArs104",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "reference" : "http://donttrack.us/"
-    },
-    "title" : "No Tracking",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "no tracking",
-      "point" : "good",
-      "score" : 100,
-      "tldr" : "DuckDuckGo doesn't send your searches to other sites. No personal information is saved. No cookies are used by default, but cookies can be saved on your computer for some features (e.g. settings). They save searches but only in a way that does not personally identify you (no storing of your IP address for example.) DuckDuckGo uses aggregated, non-personal search data to improve things like misspellings."
-    },
-    "topics" : [ {
-      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-      "id" : "track",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Anonymity and Tracking",
-      "subtitle" : "Are you being spied on?",
-      "title" : "Anonymity and Tracking",
-      "type" : "category"
-    } ]
-  } ]
-, "deepLinks": [
-    {
-        "linkid": "settingsPage",
-        "description": "Settings Page",
-        "url": "https://duckduckgo.com/settings"
-    },
-    {
-        "linkid": "changeBio",
-        "description": "Change Bio",
-        "url": ""
-    },
-    {
-        "linkid": "changePassword",
-        "description": "Change Password",
-        "url": ""
-    },
-    {
-        "linkid": "changeUsername",
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "linkid": "changeEmail",
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "linkid": "changeEmailSettings",
-        "description": "Change Email Settings",
-        "url": ""
-    },
-    {
-        "linkid": "deleteAccount",
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "linkid": "changeMobileSettings",
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "linkid": "recoverPassword",
-        "description": "Recover Password",
-        "url": ""
-    },
-    {
-        "linkid": "changeProfilePicture",
-        "description": "Change Profile Picture",
-        "url": ""
-    },
-    {
-        "linkid": "changeDesign",
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "linkid": "changeConnectedAccounts",
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "linkid": "changeThirdPartyPermissions",
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ]
+  "class" : "A"
 }

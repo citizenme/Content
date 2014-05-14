@@ -1,97 +1,54 @@
 {
-  "class" : "",
-  "links" : { },
   "alexa" : 21179,
   "freesoftware" : false,
-  "fulltos" : { },
   "id" : "videobb",
+  "keywords" : [ ],
   "name" : "videoBB",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
   "type" : "service",
   "urls" : [ ],
   "fileName" : "videobb.json",
+  "jdm" : { },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/T98obrJsjJA/w1Gp9SDABtkJ",
     "id" : "T98obrJsjJA-2",
-    "related-id" : "account-killer-blacklist",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
+    "title" : "You cannot delete your account",
     "source" : {
       "reference" : "http://www.accountkiller.com/en/Blacklist"
     },
-    "title" : "You cannot delete your account",
     "tosdr" : {
-      "binding" : true,
-      "case" : "no right to leave the service",
+      "binding" : "true",
       "point" : "blocker",
       "score" : 70,
-      "tldr" : "It is impossible to delete your account from this service, according to the AccountKiller blacklist."
+      "tldr" : "It is impossible to delete your account from this service, according to the AccountKiller blacklist.",
+      "case" : "no right to leave the service"
     },
     "topics" : [ {
       "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
       "id" : "leave",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
       "name" : "Right to leave the service",
       "subtitle" : "To avoid lock-in and stay in control",
       "title" : "Right to leave the service",
-      "type" : "category"
-    } ]
-  } ]
-, "deepLinks": [
-    {
-        "description": "Change Bio",
-        "url": ""
+      "type" : "category",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
-    {
-        "description": "Change Password",
-        "url": ""
-    },
-    {
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "description": "Change Email Settings",
-        "url": ""
-    },
-    {
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "description": "Recover Password",
-        "url": ""
-    },
-    {
-        "description": "Change Profile Picture",
-        "url": ""
-    },
-    {
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ]
+    "related-id" : "account-killer-blacklist"
+  } ],
+  "links" : { },
+  "fulltos" : { },
+  "related" : [ ],
+  "deepLinks" : [ ],
+  "icons" : { },
+  "class" : ""
 }

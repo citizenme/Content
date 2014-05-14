@@ -1,14 +1,157 @@
 {
-  "class" : "",
-  "links" : { },
   "alexa" : 7,
-  "eff_hasyourback" : {
-    "in-Congress" : 1,
-    "in-court" : 0,
-    "tell-you" : 0,
-    "transparent" : 0
-  },
   "freesoftware" : false,
+  "id" : "microsoft",
+  "keywords" : [ ],
+  "name" : "Microsoft Services",
+  "type" : "service",
+  "url" : "microsoft.com",
+  "urls" : [ "microsoft.com" ],
+  "fileName" : "microsoft.json",
+  "jdm" : {
+    "name" : "Microsoft Account",
+    "url" : "https://account.live.com/closeaccount.aspx",
+    "difficulty" : "easy"
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/6Rb57dXnJVQ/discussion",
+    "id" : "6Rb57dXnJVQ",
+    "title" : "Lawsuit and class action waiver. Arbitration for dispute resolution in the United States",
+    "source" : {
+      "faq" : "",
+      "terms" : "http://email.microsoft.com/Key-9850701.C.DZTp.G.KK.JT4c15"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "a binding arbitration clause and class action waiver that affects how disputes with Microsoft will be resolved in the United States. This clause governs many of Microsoft's online services - including your Microsoft account and many of their online products and services for consumers, such as Hotmail, SkyDrive, Bing, MSN, Office.com, Windows Live Messenger, Windows Photo Gallery, Windows Movie Maker, Windows Mail Desktop, and Windows Writer.",
+      "case" : "class action waiver"
+    },
+    "topics" : [ {
+      "id" : "waiver",
+      "name" : "Waiving your right",
+      "subtitle" : "What kind of rights do you give up on?",
+      "title" : "Waiving your right",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "governance",
+      "example" : { }
+    } ],
+    "meta" : {
+      "author" : "Michiel for the ToS;DR project",
+      "contributors" : [ "see mailing list discussion FIXME" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",
+    "id" : "any-time-without-notice",
+    "title" : "Terms may be changed at any time without advance notice",
+    "source" : { },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "bad",
+      "score" : 70,
+      "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms.",
+      "case" : "user needs to check tosback.org"
+    },
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "id" : "changes",
+      "name" : "Notice of Changing Terms",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "changes",
+      "example" : { }
+    } ],
+    "meta" : {
+      "author" : "Hugo for “Terms of Service; Didn't Read”",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-tell-user-no",
+    "title" : "No promise to inform you about data requests from governments",
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it's unlikely you'd know about the request, you'd have no real opportunity to object to the request being made or carried out.",
+      "case" : "no promise to inform/notify"
+    },
+    "topics" : [ {
+      "description" : "",
+      "id" : "law-gov",
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-transparency-data",
+    "title" : "Transparency on law enforcement requests",
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data.",
+      "case" : "transparency"
+    },
+    "topics" : [ {
+      "description" : "",
+      "id" : "law-gov",
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { }
+    }, {
+      "id" : "law-enforcement",
+      "name" : "Law enforcement and due process",
+      "subtitle" : "What are the law enforcement standards followed by the service?",
+      "title" : "Law enforcement and due process",
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "law-gov",
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
+  } ],
+  "links" : { },
   "fulltos" : {
     "agreement" : {
       "url" : "http://windows.microsoft.com/en-us/windows-live/microsoft-services-agreement"
@@ -20,203 +163,19 @@
       "url" : "http://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx"
     }
   },
+  "related" : [ ],
+  "deepLinks" : [ ],
   "icons" : {
     "icon-colour" : "/i/Microsoft-icon-colour.png",
     "icon-colour-2x" : "/i/Microsoft-icon-colour@2x.png",
     "icon-grey" : "/i/Microsoft-icon-grey.png",
     "icon-grey-2x" : "/i/Microsoft-icon-grey@2x.png"
   },
-  "id" : "microsoft",
-  "name" : "Microsoft Services",
-  "related" : [ ],
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
-  "type" : "service",
-  "url" : "microsoft.com",
-  "urls" : [ "microsoft.com" ],
-  "fileName" : "microsoft.json",
-  "jdm" : {
-    "name": "Microsoft Account",
-    "url": "https://account.live.com/closeaccount.aspx",
-    "difficulty": "easy"
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/6Rb57dXnJVQ/discussion",
-    "id" : "6Rb57dXnJVQ",
-    "meta" : {
-      "author" : "Michiel for the ToS;DR project",
-      "contributors" : [ "see mailing list discussion FIXME" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "faq" : "",
-      "terms" : "http://email.microsoft.com/Key-9850701.C.DZTp.G.KK.JT4c15"
-    },
-    "title" : "Lawsuit and class action waiver. Arbitration for dispute resolution in the United States",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "class action waiver",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "a binding arbitration clause and class action waiver that affects how disputes with Microsoft will be resolved in the United States. This clause governs many of Microsoft's online services - including your Microsoft account and many of their online products and services for consumers, such as Hotmail, SkyDrive, Bing, MSN, Office.com, Windows Live Messenger, Windows Photo Gallery, Windows Movie Maker, Windows Mail Desktop, and Windows Writer."
-    },
-    "topics" : [ {
-      "id" : "waiver",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Waiving your right",
-      "parent" : "governance",
-      "subtitle" : "What kind of rights do you give up on?",
-      "title" : "Waiving your right",
-      "type" : "topic"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",
-    "id" : "any-time-without-notice",
-    "meta" : {
-      "author" : "Hugo for “Terms of Service; Didn't Read”",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "title" : "Terms may be changed at any time without advance notice",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "user needs to check tosback.org",
-      "point" : "bad",
-      "score" : 70,
-      "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms."
-    },
-    "topics" : [ {
-      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
-      "id" : "changes",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Notice of Changing Terms",
-      "parent" : "changes",
-      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
-      "title" : "Notice of Changing Terms",
-      "type" : "topic"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-tell-user-no",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
-    },
-    "title" : "No promise to inform you about data requests from governments",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "no promise to inform/notify",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it's unlikely you'd know about the request, you'd have no real opportunity to object to the request being made or carried out."
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-transparency-data",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
-    },
-    "title" : "Transparency on law enforcement requests",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "transparency",
-      "point" : "good",
-      "score" : 30,
-      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category"
-    }, {
-      "id" : "law-enforcement",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Law enforcement and due process",
-      "parent" : "law-gov",
-      "subtitle" : "What are the law enforcement standards followed by the service?",
-      "title" : "Law enforcement and due process",
-      "type" : "topic"
-    } ]
-  } ]
-, "deepLinks": [
-    {
-        "description": "Change Bio",
-        "url": ""
-    },
-    {
-        "description": "Change Password",
-        "url": ""
-    },
-    {
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "description": "Change Email Settings",
-        "url": ""
-    },
-    {
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "description": "Recover Password",
-        "url": ""
-    },
-    {
-        "description": "Change Profile Picture",
-        "url": ""
-    },
-    {
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ]
+  "class" : "",
+  "eff_hasyourback" : {
+    "in-Congress" : 1,
+    "in-court" : 0,
+    "tell-you" : 0,
+    "transparent" : 0
+  }
 }

@@ -1,31 +1,9 @@
 {
-  "class" : "",
-  "links" : { },
   "alexa" : 12,
   "freesoftware" : false,
-  "fulltos" : {
-    "privacy" : {
-      "url" : "http://www.linkedin.com/static?key=privacy_policy"
-    },
-    "terms" : {
-      "url" : "http://www.linkedin.com/static?key=user_agreement"
-    }
-  },
-  "icons" : {
-    "icon-colour" : "/i/Linkedin-icon-colour.png",
-    "icon-colour-2x" : "/i/Linkedin-icon-colour@2x.png",
-    "icon-grey" : "/i/Linkedin-icon-grey.png",
-    "icon-grey-2x" : "/i/Linkedin-icon-grey@2x.png"
-  },
   "id" : "linkedin",
-  "keywords" : [ "professional", "jobs" ],
+  "keywords" : [ "jobs", "professional" ],
   "name" : "LinkedIn",
-  "related" : [ "xing" ],
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
   "type" : "service",
   "url" : "linkedin.com/",
   "urls" : [ "linkedin.com/" ],
@@ -34,141 +12,137 @@
     "meta" : "popular",
     "name" : "LinkedIn",
     "url" : "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
-    "difficulty": "medium",
+    "difficulty" : "medium",
     "notes" : "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it."
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-tell-user",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
+    "title" : "Promise to inform you about data requests from governments",
     "source" : {
       "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
     },
-    "title" : "Promise to inform you about data requests from governments",
     "tosdr" : {
-      "binding" : true,
-      "case" : "promise to inform/notify",
+      "binding" : "true",
       "point" : "good",
       "score" : 50,
-      "tldr" : "This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable."
+      "tldr" : "This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable.",
+      "case" : "promise to inform/notify"
     },
     "topics" : [ {
       "description" : "",
       "id" : "law-gov",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
       "name" : "Law and government requests",
       "subtitle" : "How do services deal with government requests?",
       "title" : "Law and government requests",
-      "type" : "category"
-    } ]
+      "type" : "category",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    }
   }, {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-transparency-data",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
+    "title" : "Transparency on law enforcement requests",
     "source" : {
       "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
     },
-    "title" : "Transparency on law enforcement requests",
     "tosdr" : {
-      "binding" : true,
-      "case" : "transparency",
+      "binding" : "true",
       "point" : "good",
       "score" : 30,
-      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data.",
+      "case" : "transparency"
     },
     "topics" : [ {
       "description" : "",
       "id" : "law-gov",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
       "name" : "Law and government requests",
       "subtitle" : "How do services deal with government requests?",
       "title" : "Law and government requests",
-      "type" : "category"
-    }, {
-      "id" : "law-enforcement",
+      "type" : "category",
       "meta" : {
         "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
       },
+      "example" : { }
+    }, {
+      "id" : "law-enforcement",
       "name" : "Law enforcement and due process",
-      "parent" : "law-gov",
       "subtitle" : "What are the law enforcement standards followed by the service?",
       "title" : "Law enforcement and due process",
-      "type" : "topic"
-    } ]
-  } ]
-, "deepLinks": [
-    {
-        "linkid": "settingsPage",
-        "description": "Settings Page",
-        "url": "https://www.linkedin.com/settings/"
-    },
-    {
-        "linkid": "changeBio",
-        "description": "Change Bio",
-        "url": "https://www.linkedin.com/profile/edit"
-    },
-    {
-        "linkid": "changePassword",
-        "description": "Change Password",
-        "url": "https://www.linkedin.com/uas/change-password"
-    },
-    {
-        "linkid": "changeUsername",
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "linkid": "changeEmail",
-        "description": "Change Email",
-        "url": "https://www.linkedin.com/settings/manage-email"
-    },
-    {
-        "linkid": "changeEmailSettings",
-        "description": "Change Email Settings",
-        "url": "https://www.linkedin.com/settings/?tab=email"
-    },
-    {
-        "linkid": "deleteAccount",
-        "description": "Delete Account",
-        "url": "https://www.linkedin.com/secure/settings?closemyaccountstart"
-    },
-    {
-        "linkid": "changeMobileSettings",
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "linkid": "recoverPassword",
-        "description": "Recover Password",
-        "url": "https://www.linkedin.com/uas/request-password-reset"
-    },
-    {
-        "linkid": "changeProfilePicture",
-        "description": "Change Profile Picture",
-        "url": "https://www.linkedin.com/profile/edit-picture-info"
-    },
-    {
-        "linkid": "changeDesign",
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "linkid": "changeConnectedAccounts",
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "linkid": "changeThirdPartyPermissions",
-        "description": "Change 3rd Party Permissions",
-        "url": "https://www.linkedin.com/secure/settings?userAgree="
+      "type" : "topic",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "parent" : "law-gov",
+      "example" : { }
+    } ],
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     }
-  ]
+  } ],
+  "links" : { },
+  "fulltos" : {
+    "privacy" : {
+      "url" : "http://www.linkedin.com/static?key=privacy_policy"
+    },
+    "terms" : {
+      "url" : "http://www.linkedin.com/static?key=user_agreement"
+    }
+  },
+  "related" : [ "xing" ],
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://www.linkedin.com/settings/"
+  }, {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "https://www.linkedin.com/profile/edit"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://www.linkedin.com/uas/change-password"
+  }, {
+    "linkid" : "changeEmail",
+    "description" : "Change Email",
+    "url" : "https://www.linkedin.com/settings/manage-email"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "https://www.linkedin.com/settings/?tab=email"
+  }, {
+    "linkid" : "deleteAccount",
+    "description" : "Delete Account",
+    "url" : "https://www.linkedin.com/secure/settings?closemyaccountstart"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "https://www.linkedin.com/uas/request-password-reset"
+  }, {
+    "linkid" : "changeProfilePicture",
+    "description" : "Change Profile Picture",
+    "url" : "https://www.linkedin.com/profile/edit-picture-info"
+  }, {
+    "linkid" : "changeThirdPartyPermissions",
+    "description" : "Change 3rd Party Permissions",
+    "url" : "https://www.linkedin.com/secure/settings?userAgree="
+  } ],
+  "icons" : {
+    "icon-colour" : "/i/Linkedin-icon-colour.png",
+    "icon-colour-2x" : "/i/Linkedin-icon-colour@2x.png",
+    "icon-grey" : "/i/Linkedin-icon-grey.png",
+    "icon-grey-2x" : "/i/Linkedin-icon-grey@2x.png"
+  },
+  "class" : ""
 }

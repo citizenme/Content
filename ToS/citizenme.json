@@ -1,20 +1,9 @@
 {
   "alexa" : 1000000,
   "freesoftware" : false,
-  "fulltos" : { },
-  "icons" : {
-    "icon-colour" : "/i/citizenme-icon-colour.png",
-    "icon-colour-2x" : "/i/citizenme-icon-colour@2x.png",
-    "icon-grey" : "/i/citizenme-icon-grey.png",
-    "icon-grey-2x" : "/i/citizenme-icon-grey@2x.png"
-  },
   "id" : "citizenme",
+  "keywords" : [ ],
   "name" : "citizenme",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
   "type" : "service",
   "urls" : [ ],
   "fileName" : "citizenme.json",
@@ -22,55 +11,25 @@
     "name" : "citizenme",
     "url" : "http://www.citizenme.com",
     "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion."
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ ],
+  "fulltos" : { },
+  "related" : [ ],
+  "deepLinks" : [ {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "Ian "
+  } ],
+  "icons" : {
+    "icon-colour" : "/i/citizenme-icon-colour.png",
+    "icon-colour-2x" : "/i/citizenme-icon-colour@2x.png",
+    "icon-grey" : "/i/citizenme-icon-grey.png",
+    "icon-grey-2x" : "/i/citizenme-icon-grey@2x.png"
   }
-, "deepLinks": [
-    {
-        "description": "Change Bio",
-        "url": "Ian "
-    },
-    {
-        "description": "Change Password",
-        "url": ""
-    },
-    {
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "description": "Change Email Settings",
-        "url": ""
-    },
-    {
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "description": "Recover Password",
-        "url": ""
-    },
-    {
-        "description": "Change Profile Picture",
-        "url": ""
-    },
-    {
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ]
 }

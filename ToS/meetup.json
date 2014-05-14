@@ -1,93 +1,67 @@
 {
   "alexa" : 1000000,
   "freesoftware" : false,
+  "id" : "meetup",
+  "keywords" : [ ],
+  "name" : "meetup",
+  "type" : "service",
+  "urls" : [ ],
+  "fileName" : "meetup.json",
+  "jdm" : {
+    "name" : "Meetup",
+    "url" : "http://www.meetup.com/account/remove/",
+    "difficulty" : "easy"
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ ],
   "fulltos" : { },
+  "related" : [ ],
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "http://www.meetup.com/account/"
+  }, {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "http://www.meetup.com/account/bio/"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://secure.meetup.com/account/password"
+  }, {
+    "linkid" : "changeEmail",
+    "description" : "Change Email",
+    "url" : "http://www.meetup.com/account/email/"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "http://www.meetup.com/account/comm/"
+  }, {
+    "linkid" : "deleteAccount",
+    "description" : "Delete Account",
+    "url" : "http://www.meetup.com/account/remove/"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "http://www.meetup.com/account/forgot/"
+  }, {
+    "linkid" : "changeProfilePicture",
+    "description" : "Change Profile Picture",
+    "url" : "http://www.meetup.com/account/"
+  }, {
+    "linkid" : "changeThirdPartyPermissions",
+    "description" : "Change 3rd Party Permissions",
+    "url" : "http://www.meetup.com/account/oauth_apps/"
+  } ],
   "icons" : {
     "icon-colour" : "/i/meetup-icon-colour.png",
     "icon-colour-2x" : "/i/meetup-icon-colour@2x.png",
     "icon-grey" : "/i/meetup-icon-grey.png",
     "icon-grey-2x" : "/i/meetup-icon-grey@2x.png"
-  },
-  "id" : "meetup",
-  "name" : "meetup",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "meetup.json",
-  "jdm" : {
-    "name": "Meetup",
-    "url": "http://www.meetup.com/account/remove/",
-    "difficulty": "easy"
   }
-, "deepLinks": [
-    {
-        "linkid": "settingsPage",
-        "description": "Settings Page",
-        "url": "http://www.meetup.com/account/"
-    },
-    {
-        "linkid": "changeBio",
-        "description": "Change Bio",
-        "url": "http://www.meetup.com/account/bio/"
-    },
-    {
-        "linkid": "changePassword",
-        "description": "Change Password",
-        "url": "https://secure.meetup.com/account/password"
-    },
-    {
-        "linkid": "changeUsername",
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "linkid": "changeEmail",
-        "description": "Change Email",
-        "url": "http://www.meetup.com/account/email/"
-    },
-    {
-        "linkid": "changeEmailSettings",
-        "description": "Change Email Settings",
-        "url": "http://www.meetup.com/account/comm/"
-    },
-    {
-        "linkid": "deleteAccount",
-        "description": "Delete Account",
-        "url": "http://www.meetup.com/account/remove/"
-    },
-    {
-        "linkid": "changeMobileSettings",
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "linkid": "recoverPassword",
-        "description": "Recover Password",
-        "url": "http://www.meetup.com/account/forgot/"
-    },
-    {
-        "linkid": "changeProfilePicture",
-        "description": "Change Profile Picture",
-        "url": "http://www.meetup.com/account/"
-    },
-    {
-        "linkid": "changeDesign",
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "linkid": "changeConnectedAccounts",
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "linkid": "changeThirdPartyPermissions",
-        "description": "Change 3rd Party Permissions",
-        "url": "http://www.meetup.com/account/oauth_apps/"
-    }
-  ]
 }

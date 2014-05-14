@@ -1,72 +1,29 @@
 {
   "alexa" : 865310,
-  "class" : "",
   "freesoftware" : false,
+  "id" : "diasp-org",
+  "keywords" : [ ],
+  "name" : "Diasporg",
+  "type" : "service",
+  "url" : "diasp.org",
+  "urls" : [ "diasp.org" ],
+  "fileName" : "diasp-org.json",
+  "jdm" : { },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "points" : [ ],
   "fulltos" : {
     "terms" : {
       "url" : ""
     }
   },
-  "id" : "diasp-org",
-  "name" : "Diasporg",
+  "related" : [ ],
+  "deepLinks" : [ ],
+  "icons" : { },
   "parent" : "diaspora",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
-  "type" : "service",
-  "url" : "diasp.org",
-  "urls" : [ "diasp.org" ],
-  "fileName" : "diasp-org.json"
-, "deepLinks": [
-    {
-        "description": "Change Bio",
-        "url": ""
-    },
-    {
-        "description": "Change Password",
-        "url": ""
-    },
-    {
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "description": "Change Email Settings",
-        "url": ""
-    },
-    {
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "description": "Recover Password",
-        "url": ""
-    },
-    {
-        "description": "Change Profile Picture",
-        "url": ""
-    },
-    {
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ]
+  "class" : ""
 }

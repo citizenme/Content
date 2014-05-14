@@ -1,98 +1,56 @@
 {
-  "class" : "",
-  "links" : { },
   "alexa" : 1000000,
   "freesoftware" : false,
-  "fulltos" : { },
   "id" : "mint.com",
+  "keywords" : [ ],
   "name" : "mint",
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : false,
-    "related" : [ ]
-  },
   "type" : "service",
   "urls" : [ ],
   "fileName" : "mint.com.json",
   "jdm" : {
-    "name": "Mint",
-    "url": "https://mint.com",
-    "difficulty": "easy",
-    "notes": "Click 'Accounts' in the upper right, then select the 'Settings' tab.  Scroll to the bottom and click 'Delete Your Mint Account' and finally 'YES, delete my Mint account'."
+    "name" : "Mint",
+    "url" : "https://mint.com",
+    "difficulty" : "easy",
+    "notes" : "Click 'Accounts' in the upper right, then select the 'Settings' tab.  Scroll to the bottom and click 'Delete Your Mint Account' and finally 'YES, delete my Mint account'."
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/GK59fJzcbu8/discussion",
     "id" : "GK59fJzcbu8",
-    "set" : "set+service+and+topic",
     "title" : "Mint.com may transfer your data as part of a business transfer",
+    "set" : "set+service+and+topic",
+    "source" : { },
     "tosdr" : {
-      "binding" : true,
-      "case" : "may sell your data in merger",
+      "binding" : "true",
       "point" : "bad",
       "score" : 20,
-      "tldr" : "Mint.com may transfer your data as part of a business transfer"
+      "tldr" : "Mint.com may transfer your data as part of a business transfer",
+      "case" : "may sell your data in merger"
     },
     "topics" : [ {
       "description" : "When you give your data to a company, you need to keep in mind that this company can get acquired by another company, with different policies. What happens in that case?",
       "id" : "business-transfer",
+      "name" : "Business Transfers",
+      "subtitle" : "Is your data a business asset?",
+      "title" : "Business Transfers",
+      "type" : "topic",
       "meta" : {
         "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
       },
-      "name" : "Business Transfers",
       "parent" : "third",
-      "subtitle" : "Is your data a business asset?",
-      "title" : "Business Transfers",
-      "type" : "topic"
-    } ]
-  } ]
-, "deepLinks": [
-    {
-        "description": "Change Bio",
-        "url": ""
-    },
-    {
-        "description": "Change Password",
-        "url": ""
-    },
-    {
-        "description": "Change Username",
-        "url": ""
-    },
-    {
-        "description": "Change Email",
-        "url": ""
-    },
-    {
-        "description": "Change Email Settings",
-        "url": ""
-    },
-    {
-        "description": "Delete Account",
-        "url": ""
-    },
-    {
-        "description": "Change Mobile Settings",
-        "url": ""
-    },
-    {
-        "description": "Recover Password",
-        "url": ""
-    },
-    {
-        "description": "Change Profile Picture",
-        "url": ""
-    },
-    {
-        "description": "Change Design",
-        "url": ""
-    },
-    {
-        "description": "Change Connected Accounts",
-        "url": ""
-    },
-    {
-        "description": "Change 3rd Party Permissions",
-        "url": ""
-    }
-  ]
+      "example" : { }
+    } ],
+    "meta" : { }
+  } ],
+  "links" : { },
+  "fulltos" : { },
+  "related" : [ ],
+  "deepLinks" : [ ],
+  "icons" : { },
+  "class" : ""
 }
