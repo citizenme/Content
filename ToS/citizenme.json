@@ -10,7 +10,8 @@
   "jdm" : {
     "name" : "citizenme",
     "url" : "http://www.citizenme.com",
-    "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion."
+    "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion.",
+    "difficulty" : "easy"
   },
   "tosdr" : {
     "keywords" : [ ],
