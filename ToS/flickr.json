@@ -179,11 +179,15 @@
   "deepLinks" : [ {
     "linkid" : "settingsPage",
     "description" : "Settings Page",
-    "url" : "http://www.flickr.com/profile_edit.gne"
+    "url" : "https://www.flickr.com/account/"
   }, {
     "linkid" : "changeBio",
     "description" : "Change Bio",
     "url" : "http://www.flickr.com/profile_edit.gne?from=personal"
+  }, {
+    "linkid": "changePassword",
+    "description": "Change Password",
+    "url": "https://login.yahoo.com/config/login?.done=https%3A%2F%2Fedit.europe.yahoo.com%2Fconfig%2Fchange_pw%3F.scrumb%3D0%26.done%3D%26.confirm%3D%26.st%3D%26.spreg%3D"
   }, {
     "linkid" : "changeUsername",
     "description" : "Change Username",
