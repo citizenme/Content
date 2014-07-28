@@ -47,5 +47,15 @@
             "You seem to describe yourself as someone who tends to be more self-conscious than many. Based on your responses, you come across as someone who can find it hard to not get caught up by anxious or stressful situations. You might say that you are in touch with your own feelings.",
             "You seem to describe yourself as someone who reacts poorly to stressful situations, and consequently worries more than most about them. However, you are someone that has an emotional depth that others lack."
         ]
+    },
+    "Age" : {
+        "heading": "This is the age that you appear to be based on your Facebook likes. For most people it should match your real life age or vary by only a few years.",
+        "scorings" : [
+            "On Facebook you appear to be between 14 and 23",
+            "On Facebook you appear to be between 24 and 33",
+            "On Facebook you appear to be between 34 and 43",
+            "On Facebook you appear to be between 44 and 53",
+            "On Facebook you appear to be older than 54"
+        ]
     }
 }
