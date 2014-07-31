@@ -9,9 +9,11 @@
   "urls" : [ "flickr.com" ],
   "fileName" : "flickr.json",
   "jdm" : {
+    "meta" : "",
     "name" : "Flickr",
     "url" : "http://www.flickr.com/profile_delete.gne",
-    "difficulty" : "easy"
+    "difficulty" : "easy",
+    "notes" : ""
   },
   "tosdr" : {
     "keywords" : [ ],
@@ -150,6 +152,26 @@
     "meta" : {
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     }
+  }, {
+    "discussion" : "",
+    "id" : "flickr-selective-sharing",
+    "title" : "Privacy Controls for selective sharing",
+    "set" : "",
+    "reason" : "",
+    "source" : { },
+    "tosdr" : {
+      "binding" : "",
+      "point" : "good",
+      "score" : 20,
+      "tldr" : "You can limit who sees certain information from your profile or your content through the privacy controls including searches and third party sites using the Yahoo API.",
+      "case" : ""
+    },
+    "topics" : [ ],
+    "meta" : {
+      "author" : "Greer Hahn",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : ""
   } ],
   "links" : {
     "privacy" : {
@@ -185,9 +207,9 @@
     "description" : "Change Bio",
     "url" : "http://www.flickr.com/profile_edit.gne?from=personal"
   }, {
-    "linkid": "changePassword",
-    "description": "Change Password",
-    "url": "https://login.yahoo.com/config/login?.done=https%3A%2F%2Fedit.europe.yahoo.com%2Fconfig%2Fchange_pw%3F.scrumb%3D0%26.done%3D%26.confirm%3D%26.st%3D%26.spreg%3D"
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://login.yahoo.com/config/login?.done=https%3A%2F%2Fedit.europe.yahoo.com%2Fconfig%2Fchange_pw%3F.scrumb%3D0%26.done%3D%26.confirm%3D%26.st%3D%26.spreg%3D"
   }, {
     "linkid" : "changeUsername",
     "description" : "Change Username",
