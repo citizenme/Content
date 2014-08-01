@@ -1,0 +1,22 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "interparcel.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "interparcel",
+  "jdm" : { },
+  "keywords" : [ ],
+  "name" : "interparcel",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

@@ -1,0 +1,34 @@
+{
+  "alexa" : 519,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "bit-ly.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : "https://bitly.com/pages/terms-of-service"
+    }
+  },
+  "icons" : { },
+  "id" : "bit-ly",
+  "jdm" : {
+    "name" : "bitly",
+    "url" : "http://support.bitly.com/knowledgebase/articles/105373-how-do-i-delete-my-account-",
+    "difficulty" : "impossible",
+    "notes" : "The best you can do is archive all of your links. Go to the link you want to archive and click the 'x' in the upper right of the shortlink to archive the link. You can also make all of your shortlinks private."
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "bitly",
+  "pointIds" : [ "T98obrJsjJA-2" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "https://bitly.com/",
+  "urls" : [ "https://bitly.com/" ]
+}

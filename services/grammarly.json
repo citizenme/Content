@@ -1,0 +1,51 @@
+{
+  "alexa" : 1000000,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "grammarly.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "grammarly",
+  "jdm" : {
+    "name" : "Grammarly",
+    "url" : "https://ed.grammarly.com/accounts/me",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://privacy-policy.truste.com/verified-policy/www.grammarly.com"
+    },
+    "terms" : {
+      "name" : "Terms of Service and License Agreement",
+      "url" : "http://www.grammarly.com/terms"
+    }
+  },
+  "name" : "Grammarly",
+  "pointIds" : [ "6tV-Tf0IAU8", "V0TEGIyY-Mw", "QLfqgcHN8N0", "4RAIq72Baxk", "NodO6svScog", "0mK5OiQsnTk" ],
+  "related" : [ ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://privacy-policy.truste.com/verified-policy/www.grammarly.com"
+    },
+    "sitename" : {
+      "name" : "grammarly.com"
+    },
+    "terms" : {
+      "name" : "Terms of Service and License Agreement",
+      "url" : "http://www.grammarly.com/terms"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 1000000
+  },
+  "type" : "service",
+  "url" : "grammarly.com",
+  "urls" : [ "grammarly.com" ]
+}

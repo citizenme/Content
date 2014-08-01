@@ -1,0 +1,51 @@
+{
+  "alexa" : 13949,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "app-net.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "app-net",
+  "jdm" : {
+    "name" : "App.net",
+    "url" : "https://account.app.net/settings/delete/",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ "tweet", "microblog" ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://alpha.app.net/legal/privacy/"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://alpha.app.net/legal/terms/"
+    }
+  },
+  "name" : "App.net",
+  "pointIds" : [ "I7i-2EM0GVY", "OqIkAS2uwmE-8", "OqIkAS2uwmE-11", "OqIkAS2uwmE-9", "6HDli9X01C8", "OqIkAS2uwmE-2", "OqIkAS2uwmE-1", "OqIkAS2uwmE-6", "zqgg8oLZ_no", "x2OybdCClW0", "OqIkAS2uwmE-4" ],
+  "related" : [ "twitter", "seenthis", "identi-ca" ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://alpha.app.net/legal/privacy/"
+    },
+    "sitename" : {
+      "name" : "app.net"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://alpha.app.net/legal/terms/"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "app.net",
+  "urls" : [ "app.net" ]
+}

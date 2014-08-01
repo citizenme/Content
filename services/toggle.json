@@ -1,0 +1,22 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "toggle.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "toggle",
+  "jdm" : { },
+  "keywords" : [ ],
+  "name" : "toggle",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

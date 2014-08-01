@@ -1,0 +1,27 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "craigslist.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "craigslist",
+  "jdm" : {
+    "name" : "Craigslist",
+    "url" : "http://www.craigslist.org/about/help/user_accounts",
+    "difficulty" : "hard",
+    "notes" : "Send an email to abuse@craigslist.org and request deletion."
+  },
+  "keywords" : [ ],
+  "name" : "craigslist",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

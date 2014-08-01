@@ -1,0 +1,22 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "icloud.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "icloud",
+  "jdm" : { },
+  "keywords" : [ ],
+  "name" : "icloud",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

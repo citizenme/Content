@@ -1,44 +1,20 @@
-
 {
-    "discussion":"https://groups.google.com/d/msg/tosdr/aXOIDbzevYE/VYXGTAktQuAJ",
-    "id":"aXOIDbzevYE-1",
-    "related-id":"VYXGTAktQuAJ",
-    "meta":{
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "privacy":"http://www.twitter.com/privacy"
-    },
-    "title":"Third party cookie use",
-    "tosdr":{
-        "binding":true,
-        "case":"sets third-party cookies and/or ads",
-        "point":"bad",
-        "score":10,
-        "tldr":"Twitter uses third-party services like Google Analytics that may collect your information using cookies."
-    },
-    "topics":[
-        {
-            "description":"Cookies are files stored locally in your web browser containing identifiable information.",
-            "id":"cookies",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Cookies",
-            "parent":"track",
-            "subtitle":"and related technologies",
-            "title":"Cookies",
-            "type":"topic"
-        },
-        {
-            "id":"third",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Third Parties",
-            "subtitle":"",
-            "title":"Third Parties",
-            "type":"category"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/msg/tosdr/aXOIDbzevYE/VYXGTAktQuAJ",
+  "id" : "aXOIDbzevYE-1",
+  "meta" : {
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "related-id" : "VYXGTAktQuAJ",
+  "source" : {
+    "privacy" : "http://www.twitter.com/privacy"
+  },
+  "title" : "Third party cookie use",
+  "topicIds" : [ "cookies", "third" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "bad",
+    "score" : 10,
+    "tldr" : "Twitter uses third-party services like Google Analytics that may collect your information using cookies.",
+    "case" : "sets third-party cookies and/or ads"
+  }
 }

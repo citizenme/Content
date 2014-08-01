@@ -1,0 +1,22 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "experteer.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "experteer",
+  "jdm" : { },
+  "keywords" : [ ],
+  "name" : "experteer",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

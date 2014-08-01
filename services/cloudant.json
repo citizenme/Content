@@ -1,0 +1,47 @@
+{
+  "alexa" : 1000000,
+  "class" : "B",
+  "deepLinks" : [ ],
+  "fileName" : "cloudant.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "cloudant",
+  "jdm" : { },
+  "keywords" : [ "cloud", "developing", "web", "mobile" ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy",
+      "url" : "https://www.cloudant.com/privacy/"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://www.cloudant.com/terms/"
+    }
+  },
+  "name" : "Cloudant",
+  "pointIds" : [ "E751EkJqons", "oZC1t4PYMt8", "Y6ErizM-97k", "eff-back-transparency-data", "eDdfyaFVNnU", "any-time-without-notice", "f-rC5_YxFNM", "GDCSa4PAQb8", "eff-back-tell-user", "cWCi9n5sk_Q", "lU5R05sORqU", "0fy2lpghxDk", "7K9YQ0iSHOI", "7R6vOpRySNo", "tFEJOVuGzHs", "m9HyfMGqcJQ", "c8KVAem9yQQ", "AzI2dHh7IaM", "duo_UHrHc5I", "NcG6SPrTEyM", "5PwvT2KQQ2I", "yVm-X4yb5GY", "3tUTqt6hjNY", "Ls2UuXGltSA" ],
+  "related" : [ ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy",
+      "url" : "https://www.cloudant.com/privacy/"
+    },
+    "sitename" : {
+      "name" : "cloudant.com"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://www.cloudant.com/terms/"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "B",
+    "related" : [ ],
+    "alexa" : 1000000
+  },
+  "type" : "service",
+  "url" : "cloudant.com",
+  "urls" : [ "cloudant.com" ]
+}

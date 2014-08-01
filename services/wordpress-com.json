@@ -1,0 +1,40 @@
+{
+  "alexa" : 22,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "wordpress-com.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : ""
+    }
+  },
+  "icons" : {
+    "icon-colour" : "/i/Wordpress-icon-colour.png",
+    "icon-colour-2x" : "/i/Wordpress-icon-colour@2x.png",
+    "icon-grey" : "/i/Wordpress-icon-grey.png",
+    "icon-grey-2x" : "/i/Wordpress-icon-grey@2x.png"
+  },
+  "id" : "wordpress-com",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "WordPress.com",
+    "url" : "http://en.support.wordpress.com/deleting-accounts/",
+    "difficulty" : "impossible",
+    "notes" : "\"WordPress.com accounts cannot be deleted.\" The best you can do is remove any identifying data from your account."
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Wordpress.com",
+  "pointIds" : [ "kizrN7qb1Ck5", "eff-back-transparency-data", "any-time-without-notice", "eff-back-tell-user", "T98obrJsjJA-2" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "wordpress.com",
+  "urls" : [ "wordpress.com" ]
+}

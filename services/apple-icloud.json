@@ -1,0 +1,47 @@
+{
+  "alexa" : 1000000,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "apple-icloud.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "apple-icloud",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.apple.com/privacy/"
+    },
+    "terms" : {
+      "name" : "iCloud Terms of Service",
+      "url" : "http://www.apple.com/legal/icloud/en/terms.html"
+    }
+  },
+  "name" : "Apple iCloud",
+  "pointIds" : [ "fWJwFKMGP24" ],
+  "related" : [ "dropbox", "apple" ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.apple.com/privacy/"
+    },
+    "sitename" : {
+      "name" : "apple.com"
+    },
+    "terms" : {
+      "name" : "iCloud Terms of Service",
+      "url" : "http://www.apple.com/legal/icloud/en/terms.html"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 1000000
+  },
+  "type" : "service",
+  "url" : "icloud.com",
+  "urls" : [ "icloud.com" ]
+}

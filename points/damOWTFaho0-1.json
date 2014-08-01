@@ -1,38 +1,23 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/damOWTFaho0/discussion",
-    "id":"damOWTFaho0-1",
-    "related-id":"damOWTFaho0",
-    "meta":{
-        "author":"ToS;DR project",
-        "contributors":[
-            "see mailing list discussion"
-        ],
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "faq":"",
-        "terms":""
-    },
-    "title":"A public record of past terms of service policies",
-    "tosdr":{
-        "binding":true,
-        "case":"archives provided",
-        "point":"good",
-        "score":10,
-        "tldr":"The terms of service page on their site provides a link to their archive of all past policies so you can see how terms have changed with each update."
-    },
-    "topics":[
-        {
-            "category":"governance",
-            "id":"readability",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Easy to read",
-            "subtitle":"Are the terms easy to find and well written?",
-            "title":"Easy to read",
-            "type":"topic"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/damOWTFaho0/discussion",
+  "id" : "damOWTFaho0-1",
+  "meta" : {
+    "author" : "ToS;DR project",
+    "contributors" : [ "see mailing list discussion" ],
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "related-id" : "damOWTFaho0",
+  "source" : {
+    "faq" : "",
+    "terms" : ""
+  },
+  "title" : "A public record of past terms of service policies",
+  "topicIds" : [ "readability" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "good",
+    "score" : 10,
+    "tldr" : "The terms of service page on their site provides a link to their archive of all past policies so you can see how terms have changed with each update.",
+    "case" : "archives provided"
+  }
 }

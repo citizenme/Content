@@ -1,0 +1,31 @@
+{
+  "alexa" : 50985,
+  "deepLinks" : [ ],
+  "fileName" : "newsblur.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : "https://groups.google.com/forum/#!topic/tosdr/DRj4SuDbnP8"
+    }
+  },
+  "icons" : { },
+  "id" : "newsblur",
+  "jdm" : {
+    "name" : "NewsBlur",
+    "url" : "https://www.newsblur.com/profile/delete_account",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "name" : "Newsblur",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "newsblur.com",
+  "urls" : [ "newsblur.com" ]
+}

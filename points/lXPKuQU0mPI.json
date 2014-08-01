@@ -1,37 +1,21 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/lXPKuQU0mPI/discussion",
-    "id":"lXPKuQU0mPI",
-    "meta":{
-        "author":"ToS;DR by Unhosted",
-        "contributors":[
-            "Hugo Roy <hugo@unhosted.org>"
-        ],
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "privacy":"https://github.com/site/terms"
-    },
-    "title":"Choice of law: California",
-    "tosdr":{
-        "binding":true,
-        "case":"court of law is in location X",
-        "point":"neutral",
-        "score":0,
-        "tldr":"“You agree that these Terms of Service and Your use of the Service are governed under California law.”"
-    },
-    "topics":[
-        {
-            "category":"governance",
-            "description":"What is the jurisdiction, what laws govern the terms?",
-            "id":"jurisdiction-law",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Jurisdiction and governing laws",
-            "subtitle":"Where can you sue, or be sued, for breaching of the rules?",
-            "title":"Jurisdiction and governing laws",
-            "type":"topic"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/lXPKuQU0mPI/discussion",
+  "id" : "lXPKuQU0mPI",
+  "meta" : {
+    "author" : "ToS;DR by Unhosted",
+    "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : {
+    "privacy" : "https://github.com/site/terms"
+  },
+  "title" : "Choice of law: California",
+  "topicIds" : [ "jurisdiction-law" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "neutral",
+    "score" : 0,
+    "tldr" : "“You agree that these Terms of Service and Your use of the Service are governed under California law.”",
+    "case" : "court of law is in location X"
+  }
 }

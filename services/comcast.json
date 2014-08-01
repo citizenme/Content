@@ -1,0 +1,35 @@
+{
+  "alexa" : 1203,
+  "class" : "",
+  "deepLinks" : [ ],
+  "eff_hasyourback" : {
+    "in-Congress" : 0,
+    "in-court" : 1,
+    "tell-you" : 0,
+    "transparent" : 0
+  },
+  "fileName" : "comcast.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : "http://www.comcast.com/corporate/legal/visitorAgreement.html"
+    }
+  },
+  "icons" : { },
+  "id" : "comcast",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Comcast",
+  "pointIds" : [ "eff-back-transparency-data", "eff-back-tell-user-no" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "comcast.com",
+  "urls" : [ "comcast.com" ]
+}

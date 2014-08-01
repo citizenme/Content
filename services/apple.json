@@ -1,0 +1,66 @@
+{
+  "alexa" : 34,
+  "class" : "",
+  "deepLinks" : [ ],
+  "eff_hasyourback" : {
+    "in-Congress" : 1,
+    "in-court" : 0,
+    "tell-you" : 0,
+    "transparent" : 0
+  },
+  "fileName" : "apple.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Apple-icon-colour.png",
+    "icon-colour-2x" : "/i/Apple-icon-colour@2x.png",
+    "icon-grey" : "/i/Apple-icon-grey.png",
+    "icon-grey-2x" : "/i/Apple-icon-grey@2x.png"
+  },
+  "id" : "apple",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : {
+    "legal-notice" : {
+      "name" : "Website Terms of Service",
+      "url" : "http://www.apple.com/legal/terms/site.html"
+    },
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.apple.com/privacy/"
+    },
+    "terms" : {
+      "name" : "iTunes Terms of Service",
+      "url" : "http://www.apple.com/legal/itunes/us/terms.html"
+    }
+  },
+  "name" : "Apple",
+  "pointIds" : [ "any-time-without-notice", "eff-back-tell-user-no", "eff-back-transparency-data-no" ],
+  "related" : [ ],
+  "tosback2" : {
+    "legal-notice" : {
+      "name" : "Website Terms of Service",
+      "url" : "http://www.apple.com/legal/terms/site.html"
+    },
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.apple.com/privacy/"
+    },
+    "sitename" : {
+      "name" : "apple.com"
+    },
+    "terms" : {
+      "name" : "iTunes Terms of Service",
+      "url" : "http://www.apple.com/legal/itunes/us/terms.html"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "apple.com",
+  "urls" : [ "apple.com" ]
+}

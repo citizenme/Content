@@ -1,32 +1,19 @@
-
 {
-    "discussion":"https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id":"eff-back-tell-user",
-    "meta":{
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "reference":"https://www.eff.org/pages/who-has-your-back#promising-to-inform"
-    },
-    "title":"Promise to inform you about data requests from governments",
-    "tosdr":{
-        "binding":true,
-        "case":"promise to inform/notify",
-        "point":"good",
-        "score":50,
-        "tldr":"This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable."
-    },
-    "topics":[
-        {
-            "description":"",
-            "id":"law-gov",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Law and government requests",
-            "subtitle":"How do services deal with government requests?",
-            "title":"Law and government requests",
-            "type":"category"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+  "id" : "eff-back-tell-user",
+  "meta" : {
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : {
+    "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
+  },
+  "title" : "Promise to inform you about data requests from governments",
+  "topicIds" : [ "law-gov" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "good",
+    "score" : 50,
+    "tldr" : "This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable.",
+    "case" : "promise to inform/notify"
+  }
 }

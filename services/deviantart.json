@@ -1,0 +1,27 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "deviantart.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "deviantart",
+  "jdm" : {
+    "name" : "DeviantArt",
+    "url" : "https://www.deviantart.com/settings/deactivation",
+    "difficulty" : "easy",
+    "notes" : "All your data is ereased immediately. Accounts can be reactivated within 30 days. After that, Accounts can't be reactivated."
+  },
+  "keywords" : [ ],
+  "name" : "deviantart",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

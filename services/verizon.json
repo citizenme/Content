@@ -1,0 +1,35 @@
+{
+  "alexa" : 625,
+  "class" : "",
+  "deepLinks" : [ ],
+  "eff_hasyourback" : {
+    "in-Congress" : 0,
+    "in-court" : 0,
+    "tell-you" : 0,
+    "transparent" : 0
+  },
+  "fileName" : "verizon.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : ""
+    }
+  },
+  "icons" : { },
+  "id" : "verizon",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Verizon",
+  "pointIds" : [ "eff-back-tell-user-no", "eff-back-transparency-data-no" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "verizon.com",
+  "urls" : [ "verizon.com" ]
+}

@@ -1,0 +1,29 @@
+{
+  "alexa" : 1000000,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "mint.com.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "mint.com",
+  "jdm" : {
+    "name" : "Mint",
+    "url" : "https://mint.com",
+    "difficulty" : "easy",
+    "notes" : "Click 'Accounts' in the upper right, then select the 'Settings' tab.  Scroll to the bottom and click 'Delete Your Mint Account' and finally 'YES, delete my Mint account'."
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "mint",
+  "pointIds" : [ "GK59fJzcbu8" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

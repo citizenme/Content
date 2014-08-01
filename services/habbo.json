@@ -1,0 +1,32 @@
+{
+  "alexa" : 27288,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "habbo.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "https://help.habbo.com/entries/23029106-Privacy-Policy"
+    },
+    "terms" : {
+      "url" : "https://help.habbo.com/entries/23027093-Terms-of-Service"
+    }
+  },
+  "icons" : { },
+  "id" : "habbo",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Habbo",
+  "pointIds" : [ "T98obrJsjJA-2" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "http://www.habbo.com/",
+  "urls" : [ "http://www.habbo.com/" ]
+}

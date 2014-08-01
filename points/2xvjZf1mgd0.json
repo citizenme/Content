@@ -1,32 +1,19 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/2xvjZf1mgd0/discussion",
-    "id":"2xvjZf1mgd0",
-    "meta":{
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "terms":"http://www.google.com/intl/en/policies/terms/"
-    },
-    "title":"Google retains rights on your content when you leave",
-    "tosdr":{
-        "binding":true,
-        "case":"your content stays licensed",
-        "point":"bad",
-        "score":25,
-        "tldr":"The copyright licence that you grant to Google on content you upload to their services continues even if you stop using the services. This licence applies to all Google services due to their universal terms across services. Otherwise you need to check each service for ways to remove content and for specific clauses that restrict the license in time."
-    },
-    "topics":[
-        {
-            "description":"Once you subscribe to the service, will you have the right to leave it and remove your data?",
-            "id":"leave",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Right to leave the service",
-            "subtitle":"To avoid lock-in and stay in control",
-            "title":"Right to leave the service",
-            "type":"category"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/2xvjZf1mgd0/discussion",
+  "id" : "2xvjZf1mgd0",
+  "meta" : {
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : {
+    "terms" : "http://www.google.com/intl/en/policies/terms/"
+  },
+  "title" : "Google retains rights on your content when you leave",
+  "topicIds" : [ "leave" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "bad",
+    "score" : 25,
+    "tldr" : "The copyright licence that you grant to Google on content you upload to their services continues even if you stop using the services. This licence applies to all Google services due to their universal terms across services. Otherwise you need to check each service for ways to remove content and for specific clauses that restrict the license in time.",
+    "case" : "your content stays licensed"
+  }
 }

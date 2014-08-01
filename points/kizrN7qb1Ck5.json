@@ -1,34 +1,20 @@
-
 {
-    "discussion":"https://groups.google.com/forum/?fromgroups#!topic/tosdr/kizrN7qb1Ck",
-    "id":"kizrN7qb1Ck5",
-    "related-id":"kizrN7qb1Ck5",
-    "meta":{
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "terms":"http://en.wordpress.com/tos/"
-    },
-    "title":"Limited copyright license to Wordpress.com including for promotion",
-    "tosdr":{
-        "binding":true,
-        "case":"limited for purpose of same service",
-        "point":"good",
-        "score":80,
-        "tldr":"You grant a copyright license to Automattic's Wordpress.com “solely for the purpose of displaying, distributing and promoting your blog.”"
-    },
-    "topics":[
-        {
-            "description":"Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-            "id":"copyright-scope",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Scope of the copyright license",
-            "parent":"ownership",
-            "subtitle":"Do you grant only the necessary rights?",
-            "title":"Scope of the copyright license",
-            "type":"topic"
-        }
-    ]
+  "discussion" : "https://groups.google.com/forum/?fromgroups#!topic/tosdr/kizrN7qb1Ck",
+  "id" : "kizrN7qb1Ck5",
+  "meta" : {
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "related-id" : "kizrN7qb1Ck5",
+  "source" : {
+    "terms" : "http://en.wordpress.com/tos/"
+  },
+  "title" : "Limited copyright license to Wordpress.com including for promotion",
+  "topicIds" : [ "copyright-scope" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "good",
+    "score" : 80,
+    "tldr" : "You grant a copyright license to Automattic's Wordpress.com “solely for the purpose of displaying, distributing and promoting your blog.”",
+    "case" : "limited for purpose of same service"
+  }
 }

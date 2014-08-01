@@ -1,0 +1,24 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "status-net.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "status-net",
+  "jdm" : { },
+  "keywords" : [ ],
+  "license" : "agpl-3+",
+  "name" : "Status.net instances",
+  "pointIds" : [ ],
+  "related" : [ "facebook", "seenthis" ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 1000000
+  },
+  "type" : "software",
+  "url" : "//status.net",
+  "urls" : [ "//status.net" ]
+}

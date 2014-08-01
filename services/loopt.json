@@ -1,0 +1,35 @@
+{
+  "alexa" : 403877,
+  "class" : "",
+  "deepLinks" : [ ],
+  "eff_hasyourback" : {
+    "in-Congress" : 1,
+    "in-court" : 0,
+    "tell-you" : 0,
+    "transparent" : 0
+  },
+  "fileName" : "loopt.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : ""
+    }
+  },
+  "icons" : { },
+  "id" : "loopt",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Loopt",
+  "pointIds" : [ "eff-back-tell-user-no", "eff-back-transparency-data-no" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "loopt.com",
+  "urls" : [ "loopt.com" ]
+}

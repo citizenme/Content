@@ -1,0 +1,24 @@
+{
+  "alexa" : 199,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "rapidshare.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "rapidshare",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Rapidshare",
+  "pointIds" : [ "DWrWnxYqe48", "Ytlp8YaeBr4", "CYxkhPROM0U", "T98obrJsjJA-2", "XBdGb47IMyM", "hlI-572bFho" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

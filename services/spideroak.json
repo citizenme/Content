@@ -1,0 +1,35 @@
+{
+  "alexa" : 143231,
+  "class" : "",
+  "deepLinks" : [ ],
+  "eff_hasyourback" : {
+    "in-Congress" : 0,
+    "in-court" : 0,
+    "tell-you" : 1,
+    "transparent" : 1
+  },
+  "fileName" : "spideroak.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : ""
+    }
+  },
+  "icons" : { },
+  "id" : "spideroak",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Spideroak",
+  "pointIds" : [ "eff-back-transparency-data", "eff-back-tell-user" ],
+  "related" : [ "dropbox" ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "spideroak.com",
+  "urls" : [ "spideroak.com" ]
+}

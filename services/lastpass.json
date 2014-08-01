@@ -1,0 +1,28 @@
+{
+  "alexa" : 1000000,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "lastpass.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "lastpass",
+  "jdm" : {
+    "name" : "LastPass",
+    "url" : "https://lastpass.com/delete_account.php",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "lastpass",
+  "pointIds" : [ "any-time-without-notice" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

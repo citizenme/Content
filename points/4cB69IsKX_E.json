@@ -1,30 +1,17 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/4cB69IsKX_E/discussion",
-    "id":"4cB69IsKX_E",
-    "meta":{
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "title":"Very broad copyright license on your content",
-    "tosdr":{
-        "binding":true,
-        "case":"broader than necessary",
-        "point":"bad",
-        "score":50,
-        "tldr":"The copyright licence is very broad. It includes the right for YouTube to share your content with others and to use in an unlimited way to promote the service in connection with its successors and affiliates (like Google). This licence is revoked when you delete your content but applies forever to textual content like comments."
-    },
-    "topics":[
-        {
-            "description":"Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-            "id":"copyright-scope",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Scope of the copyright license",
-            "parent":"ownership",
-            "subtitle":"Do you grant only the necessary rights?",
-            "title":"Scope of the copyright license",
-            "type":"topic"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/4cB69IsKX_E/discussion",
+  "id" : "4cB69IsKX_E",
+  "meta" : {
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : { },
+  "title" : "Very broad copyright license on your content",
+  "topicIds" : [ "copyright-scope" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "bad",
+    "score" : 50,
+    "tldr" : "The copyright licence is very broad. It includes the right for YouTube to share your content with others and to use in an unlimited way to promote the service in connection with its successors and affiliates (like Google). This licence is revoked when you delete your content but applies forever to textual content like comments.",
+    "case" : "broader than necessary"
+  }
 }

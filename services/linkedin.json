@@ -1,0 +1,79 @@
+{
+  "alexa" : 12,
+  "class" : "",
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://www.linkedin.com/settings/"
+  }, {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "https://www.linkedin.com/profile/edit"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://www.linkedin.com/uas/change-password"
+  }, {
+    "linkid" : "changeEmail",
+    "description" : "Change Email",
+    "url" : "https://www.linkedin.com/settings/manage-email"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "https://www.linkedin.com/settings/?tab=email"
+  }, {
+    "linkid" : "deleteAccount",
+    "description" : "Delete Account",
+    "url" : "https://www.linkedin.com/secure/settings?closemyaccountstart"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "https://www.linkedin.com/uas/request-password-reset"
+  }, {
+    "linkid" : "changeProfilePicture",
+    "description" : "Change Profile Picture",
+    "url" : "https://www.linkedin.com/profile/edit-picture-info"
+  }, {
+    "linkid" : "changeThirdPartyPermissions",
+    "description" : "Change 3rd Party Permissions",
+    "url" : "https://www.linkedin.com/secure/settings?userAgree="
+  } ],
+  "fileName" : "linkedin.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "http://www.linkedin.com/static?key=privacy_policy"
+    },
+    "terms" : {
+      "url" : "http://www.linkedin.com/static?key=user_agreement"
+    }
+  },
+  "icons" : {
+    "icon-colour" : "/i/Linkedin-icon-colour.png",
+    "icon-colour-2x" : "/i/Linkedin-icon-colour@2x.png",
+    "icon-grey" : "/i/Linkedin-icon-grey.png",
+    "icon-grey-2x" : "/i/Linkedin-icon-grey@2x.png"
+  },
+  "id" : "linkedin",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "LinkedIn",
+    "url" : "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
+    "difficulty" : "medium",
+    "notes" : "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it."
+  },
+  "keywords" : [ "jobs", "professional" ],
+  "links" : { },
+  "name" : "LinkedIn",
+  "pointIds" : [ "eff-back-transparency-data", "eff-back-tell-user" ],
+  "related" : [ "xing" ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "linkedin.com/",
+  "urls" : [ "linkedin.com/" ]
+}

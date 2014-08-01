@@ -1,0 +1,52 @@
+{
+  "alexa" : 254,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "xing.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "xing",
+  "jdm" : {
+    "name" : "Xing",
+    "url" : "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185",
+    "difficulty" : "easy",
+    "notes" : "Select 'delete my profile' at the bottom of the page."
+  },
+  "keywords" : [ "jobs", "professional" ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.xing.com/privacy"
+    },
+    "terms" : {
+      "name" : "Terms and Conditions",
+      "url" : "http://www.xing.com/terms"
+    }
+  },
+  "name" : "XING",
+  "pointIds" : [ "no-pseudos-allowed" ],
+  "related" : [ "linkedin" ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.xing.com/privacy"
+    },
+    "sitename" : {
+      "name" : "xing.com"
+    },
+    "terms" : {
+      "name" : "Terms and Conditions",
+      "url" : "http://www.xing.com/terms"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "xing.com",
+  "urls" : [ "xing.com" ]
+}

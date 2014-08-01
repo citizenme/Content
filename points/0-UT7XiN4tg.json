@@ -1,42 +1,18 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/0-UT7XiN4tg/discussion",
-    "id":"0-UT7XiN4tg",
-    "meta":{
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "privacy":"https://mykolab.com/privacy"
-    },
-    "title":"No tracking cookies and web analytics opt-out",
-    "tosdr":{
-        "binding":true,
-        "point":"good",
-        "score":20,
-        "tldr":"Cookies are only used in so far as they are required for the technical working of the system, and we never use them to track you on third party sites. The site also uses web analytics, but you can opt-out at https://mykolab.com/privacy"
-    },
-    "topics":[
-        {
-            "description":"Cookies are files stored locally in your web browser containing identifiable information.",
-            "id":"cookies",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Cookies",
-            "parent":"track",
-            "subtitle":"and related technologies",
-            "title":"Cookies",
-            "type":"topic"
-        },
-        {
-            "id":"third",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Third Parties",
-            "subtitle":"",
-            "title":"Third Parties",
-            "type":"category"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/0-UT7XiN4tg/discussion",
+  "id" : "0-UT7XiN4tg",
+  "meta" : {
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : {
+    "privacy" : "https://mykolab.com/privacy"
+  },
+  "title" : "No tracking cookies and web analytics opt-out",
+  "topicIds" : [ "cookies", "third" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "good",
+    "score" : 20,
+    "tldr" : "Cookies are only used in so far as they are required for the technical working of the system, and we never use them to track you on third party sites. The site also uses web analytics, but you can opt-out at https://mykolab.com/privacy"
+  }
 }

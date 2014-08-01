@@ -1,0 +1,62 @@
+{
+  "alexa" : 6,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "wikipedia.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "https://wikimediafoundation.org/wiki/Privacy_policy"
+    },
+    "terms" : {
+      "url" : "https://wikimediafoundation.org/wiki/Terms_of_use"
+    }
+  },
+  "icons" : {
+    "icon-colour" : "/i/Wikipedia-icon-colour.png",
+    "icon-colour-2x" : "/i/Wikipedia-icon-colour@2x.png",
+    "icon-grey" : "/i/Wikipedia-icon-grey.png",
+    "icon-grey-2x" : "/i/Wikipedia-icon-grey@2x.png"
+  },
+  "id" : "wikipedia",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "Wikipedia",
+    "url" : "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
+    "difficulty" : "impossible",
+    "notes" : "'A username cannot be deleted.' However, they do have some suggestions."
+  },
+  "keywords" : [ ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy policy",
+      "url" : "https://wikimediafoundation.org/wiki/Privacy_policy"
+    },
+    "terms" : {
+      "name" : "Terms of use",
+      "url" : "https://wikimediafoundation.org/wiki/Terms_of_use"
+    }
+  },
+  "name" : "Wikipedia",
+  "pointIds" : [ "NA_buKmTvoE", "qui-0ATIaX4", "8muChbk0S-A" ],
+  "related" : [ ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy policy",
+      "url" : "https://wikimediafoundation.org/wiki/Privacy_policy"
+    },
+    "terms" : {
+      "name" : "Terms of use",
+      "url" : "https://wikimediafoundation.org/wiki/Terms_of_use"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "wikipedia.org",
+  "urls" : [ "wikipedia.org" ]
+}

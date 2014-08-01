@@ -1,0 +1,65 @@
+{
+  "alexa" : 10,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "amazon.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/amazon-icon-colour.png",
+    "icon-colour-2x" : "/i/amazon-icon-colour@2x.png",
+    "icon-grey" : "/i/amazon-icon-grey.png",
+    "icon-grey-2x" : "/i/amazon-icon-grey@2x.png"
+  },
+  "id" : "amazon",
+  "jdm" : {
+    "name" : "Amazon",
+    "url" : "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
+    "difficulty" : "hard",
+    "notes" : "To close your account, contact Amazon by email (via this contact form) and request that your account be closed."
+  },
+  "keywords" : [ "shop", "commerce" ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Notice",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496"
+    },
+    "security" : {
+      "name" : "Security, Privacy & Accessibility",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/?nodeId=551434"
+    },
+    "terms" : {
+      "name" : "Conditions of Use",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=508088"
+    }
+  },
+  "name" : "Amazon",
+  "pointIds" : [ "OegfPmV8ugo", "1zhceRPv3nM", "any-time-without-notice", "eff-back-tell-user-no", "E58aPtzP3jk", "eff-back-transparency-data-no" ],
+  "related" : [ ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Notice",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496"
+    },
+    "security" : {
+      "name" : "Security, Privacy & Accessibility",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/?nodeId=551434"
+    },
+    "sitename" : {
+      "name" : "amazon.com"
+    },
+    "terms" : {
+      "name" : "Conditions of Use",
+      "url" : "http://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=508088"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "amazon.com",
+  "urls" : [ "amazon.com" ]
+}

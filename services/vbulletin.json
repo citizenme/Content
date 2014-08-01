@@ -1,0 +1,32 @@
+{
+  "alexa" : 4793,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "vbulletin.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "http://www.internetbrands.com/privacy/privacy-highlights.html?site=www.vbulletin.com"
+    },
+    "terms" : {
+      "url" : "http://www.vbulletin.com/terms"
+    }
+  },
+  "icons" : { },
+  "id" : "vbulletin",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "vBulletin",
+  "pointIds" : [ "T98obrJsjJA-2" ],
+  "related" : [ "phpbb" ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "http://www.vbulletin.com",
+  "urls" : [ "http://www.vbulletin.com" ]
+}

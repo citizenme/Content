@@ -1,0 +1,65 @@
+{
+  "alexa" : 225,
+  "class" : "B",
+  "dataexport" : "true",
+  "deepLinks" : [ ],
+  "fileName" : "soundcloud.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/SoundCloud-icon-colour.png",
+    "icon-colour-2x" : "/i/SoundCloud-icon-colour@2x.png",
+    "icon-grey" : "/i/SoundCloud-icon-grey.png",
+    "icon-grey-2x" : "/i/SoundCloud-icon-grey@2x.png"
+  },
+  "id" : "soundcloud",
+  "jdm" : {
+    "name" : "Soundcloud",
+    "url" : "http://soundcloud.com/settings/account#delete-user",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "links" : {
+    "guidelines" : {
+      "name" : "Community Guidelines",
+      "url" : "https://pages.soundcloud.com/other/community-guidelines.html"
+    },
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://pages.soundcloud.com/legal/privacy-policy.html"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://pages.soundcloud.com/legal/terms-of-use.html"
+    }
+  },
+  "name" : "SoundCloud",
+  "pointIds" : [ "gq1LW7l28qI", "fmlKouXKUcc", "n_DCnOwcIo0", "3f3dVPCa1GU", "XgI8wQ3PZ2M", "3f3dVPCa1GU2", "XtqWw03UPoc", "w8RMtGdRvdM", "x2OybdCClW0", "ps1ZppOOWmM" ],
+  "related" : [ "spotify" ],
+  "tosback2" : {
+    "guidelines" : {
+      "name" : "Community Guidelines",
+      "url" : "https://pages.soundcloud.com/other/community-guidelines.html"
+    },
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://pages.soundcloud.com/legal/privacy-policy.html"
+    },
+    "sitename" : {
+      "name" : "soundcloud.com"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://pages.soundcloud.com/legal/terms-of-use.html"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "B",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "soundcloud.com/",
+  "urls" : [ "soundcloud.com/" ]
+}

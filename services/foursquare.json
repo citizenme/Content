@@ -1,0 +1,77 @@
+{
+  "alexa" : 790,
+  "class" : "",
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://foursquare.com/settings/"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://foursquare.com/settings/"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "https://foursquare.com/settings/"
+  }, {
+    "linkid" : "deleteAccount",
+    "description" : "Delete Account",
+    "url" : "https://foursquare.com/delete_me"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "https://foursquare.com/change_password"
+  }, {
+    "linkid" : "changeConnectedAccounts",
+    "description" : "Change Connected Accounts",
+    "url" : "https://foursquare.com/settings/sharing"
+  }, {
+    "linkid" : "changeThirdPartyPermissions",
+    "description" : "Change 3rd Party Permissions",
+    "url" : "https://foursquare.com/login?continue=%2Fsettings%2Fconnections"
+  } ],
+  "eff_hasyourback" : {
+    "in-Congress" : 0,
+    "in-court" : 0,
+    "tell-you" : 0,
+    "transparent" : 0
+  },
+  "fileName" : "foursquare.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "name" : "Data Use Policy",
+      "url" : "https://foursquare.com/legal/privacy"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://foursquare.com/legal/terms"
+    }
+  },
+  "icons" : {
+    "icon-colour" : "/i/Foursquare-icon-colour.png",
+    "icon-colour-2x" : "/i/Foursquare-icon-colour@2x.png",
+    "icon-grey" : "/i/Foursquare-icon-grey.png",
+    "icon-grey-2x" : "/i/Foursquare-icon-grey@2x.png"
+  },
+  "id" : "foursquare",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "Foursquare",
+    "url" : "https://foursquare.com/delete_me"
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Foursquare",
+  "pointIds" : [ "eff-back-transparency-data", "eff-back-tell-user" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "foursquare.com",
+  "urls" : [ "foursquare.com" ]
+}

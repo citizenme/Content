@@ -1,0 +1,35 @@
+{
+  "alexa" : 337,
+  "class" : "",
+  "deepLinks" : [ ],
+  "eff_hasyourback" : {
+    "in-Congress" : 1,
+    "in-court" : 0,
+    "tell-you" : 0,
+    "transparent" : 0
+  },
+  "fileName" : "at-t.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : "http://www.att.com/gen/general?pid=11561"
+    }
+  },
+  "icons" : { },
+  "id" : "at-t",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "AT&T",
+  "pointIds" : [ "eff-back-tell-user-no", "eff-back-transparency-data-no" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "att.com",
+  "urls" : [ "att.com" ]
+}

@@ -1,0 +1,92 @@
+{
+  "alexa" : 1000000,
+  "class" : "",
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://www.tumblr.com/preferences"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://www.tumblr.com/preferences"
+  }, {
+    "linkid" : "changeEmail",
+    "description" : "Change Email",
+    "url" : "https://www.tumblr.com/preferences"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "https://www.tumblr.com/preferences"
+  }, {
+    "linkid" : "deleteAccount",
+    "description" : "Delete Account",
+    "url" : "http://www.tumblr.com/account/delete"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "https://www.tumblr.com/forgot_password"
+  }, {
+    "linkid" : "changeDesign",
+    "description" : "Change Design",
+    "url" : "http://www.tumblr.com/customize"
+  }, {
+    "linkid" : "changeConnectedAccounts",
+    "description" : "Change Connected Accounts",
+    "url" : "https://www.tumblr.com/preferences"
+  }, {
+    "linkid" : "changeThirdPartyPermissions",
+    "description" : "Change 3rd Party Permissions",
+    "url" : "https://www.tumblr.com/preferences"
+  } ],
+  "fileName" : "tumblr.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Tumblr-icon-colour.png",
+    "icon-colour-2x" : "/i/Tumblr-icon-colour@2x.png",
+    "icon-grey" : "/i/Tumblr-icon-grey.png",
+    "icon-grey-2x" : "/i/Tumblr-icon-grey@2x.png"
+  },
+  "id" : "tumblr",
+  "jdm" : {
+    "name" : "Tumblr",
+    "url" : "http://www.tumblr.com/account/delete",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ "blog" ],
+  "links" : {
+    "privacy" : {
+      "name" : "Terms of Service",
+      "url" : "http://www.tumblr.com/policy/en/terms_of_service"
+    },
+    "terms" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.tumblr.com/policy/en/privacy"
+    }
+  },
+  "name" : "Tumblr",
+  "pointIds" : [ "eff-back-transparency-data", "any-time-with-notice", "eff-back-tell-user-no" ],
+  "related" : [ "wordpress-com", "facebook", "twitter" ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Terms of Service",
+      "url" : "http://www.tumblr.com/policy/en/terms_of_service"
+    },
+    "sitename" : {
+      "name" : "tumblr.com"
+    },
+    "terms" : {
+      "name" : "Privacy Policy",
+      "url" : "http://www.tumblr.com/policy/en/privacy"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 1000000
+  },
+  "type" : "service",
+  "url" : "tumblr.com",
+  "urls" : [ "tumblr.com" ]
+}

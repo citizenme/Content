@@ -1,0 +1,27 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "last.fm.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "last.fm",
+  "jdm" : {
+    "name" : "Last.fm",
+    "url" : "http://www.last.fm/settings/account",
+    "difficulty" : "easy",
+    "notes" : "May take up to 7 days to delete your data."
+  },
+  "keywords" : [ ],
+  "name" : "last.fm",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

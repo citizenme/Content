@@ -1,50 +1,23 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-1/discussion",
-    "id":"OqIkAS2uwmE-1",
-    "related-id":"OqIkAS2uwmE-1",
-    "meta":{
-        "author":"ToS;DR project",
-        "contributors":[
-            "see mailing list discussion"
-        ],
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "faq":"",
-        "terms":""
-    },
-    "title":"App.net request feedback from users",
-    "tosdr":{
-        "binding":true,
-        "case":"user feedback is invited",
-        "point":"good",
-        "score":30,
-        "tldr":"See https://github.com/appdotnet/terms-of-service/issues as well as the blue box at the top of their terms https://alpha.app.net/legal/terms/ ) "
-    },
-    "topics":[
-        {
-            "description":"The terms are a contract between two parties, and it should not be changed unilaterally without consultation of the other party. Services should listen to what their users say and care about, and give them a vote in each substantial change.",
-            "id":"changes-involvement",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"User Involvement in Changing Terms",
-            "parent":"changes",
-            "subtitle":"Are changes proposed as a request for feedback, or imposed unilaterally as a take-it-or-leave-it deal?",
-            "title":"User Involvement in Changing Terms",
-            "type":"topic"
-        },
-        {
-            "category":"governance",
-            "id":"readability",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Easy to read",
-            "subtitle":"Are the terms easy to find and well written?",
-            "title":"Easy to read",
-            "type":"topic"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/OqIkAS2uwmE-1/discussion",
+  "id" : "OqIkAS2uwmE-1",
+  "meta" : {
+    "author" : "ToS;DR project",
+    "contributors" : [ "see mailing list discussion" ],
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "related-id" : "OqIkAS2uwmE-1",
+  "source" : {
+    "faq" : "",
+    "terms" : ""
+  },
+  "title" : "App.net request feedback from users",
+  "topicIds" : [ "readability", "changes-involvement" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "good",
+    "score" : 30,
+    "tldr" : "See https://github.com/appdotnet/terms-of-service/issues as well as the blue box at the top of their terms https://alpha.app.net/legal/terms/ ) ",
+    "case" : "user feedback is invited"
+  }
 }

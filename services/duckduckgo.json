@@ -1,0 +1,45 @@
+{
+  "alexa" : 2095,
+  "class" : "A",
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://duckduckgo.com/settings"
+  } ],
+  "fileName" : "duckduckgo.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/duckduckgo-icon-colour.png",
+    "icon-colour-2x" : "/i/duckduckgo-icon-colour@2x.png",
+    "icon-grey" : "/i/duckduckgo-icon-grey.png",
+    "icon-grey-2x" : "/i/duckduckgo-icon-grey@2x.png"
+  },
+  "id" : "duckduckgo",
+  "jdm" : { },
+  "keywords" : [ "search", "search engine" ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://duckduckgo.com/privacy.html"
+    }
+  },
+  "name" : "DuckDuckGo",
+  "pointIds" : [ "g4RWiArs104" ],
+  "related" : [ "google" ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://duckduckgo.com/privacy.html"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "A",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "duckduckgo.com",
+  "urls" : [ "duckduckgo.com" ]
+}

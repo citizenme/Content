@@ -1,0 +1,25 @@
+{
+  "alexa" : 59348,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "sonic-net.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "sonic-net",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Sonic.net",
+  "pointIds" : [ "eff-back-transparency-data", "nuaSVr9YlaA", "eff-back-tell-user" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "sonic.net",
+  "urls" : [ "sonic.net" ]
+}

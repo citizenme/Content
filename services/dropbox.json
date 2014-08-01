@@ -1,0 +1,47 @@
+{
+  "alexa" : 139,
+  "class" : "",
+  "deepLinks" : [ ],
+  "eff_hasyourback" : {
+    "in-Congress" : 1,
+    "in-court" : 0,
+    "tell-you" : 1,
+    "transparent" : 1
+  },
+  "fileName" : "dropbox.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "https://www.dropbox.com/privacy"
+    },
+    "terms" : {
+      "url" : "https://www.dropbox.com/terms"
+    }
+  },
+  "icons" : {
+    "icon-colour" : "/i/Dropbox-icon-colour.png",
+    "icon-colour-2x" : "/i/Dropbox-icon-colour@2x.png",
+    "icon-grey" : "/i/Dropbox-icon-grey.png",
+    "icon-grey-2x" : "/i/Dropbox-icon-grey@2x.png"
+  },
+  "id" : "dropbox",
+  "jdm" : {
+    "name" : "Dropbox",
+    "url" : "https://www.dropbox.com/account/delete",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Dropbox",
+  "pointIds" : [ "td68YSswb-w", "eff-back-transparency-data", "any-time-with-notice", "eff-back-tell-user" ],
+  "related" : [ "spideroak" ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "dropbox.com",
+  "urls" : [ "dropbox.com" ]
+}

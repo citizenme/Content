@@ -1,0 +1,33 @@
+{
+  "alexa" : 7846,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "identi-ca.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "http://identi.ca/doc/privacy"
+    },
+    "terms" : {
+      "url" : "https://identi.ca/doc/tos"
+    }
+  },
+  "icons" : { },
+  "id" : "identi-ca",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "identi.ca",
+  "parent" : "status-net",
+  "pointIds" : [ "kizrN7qb1Ck3" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "identi.ca",
+  "urls" : [ "identi.ca" ]
+}

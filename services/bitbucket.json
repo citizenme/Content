@@ -1,0 +1,27 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "bitbucket.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "bitbucket",
+  "jdm" : {
+    "name" : "Bitbucket",
+    "url" : "https://bitbucket.org/account/",
+    "difficulty" : "easy",
+    "notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
+  },
+  "keywords" : [ ],
+  "name" : "bitbucket",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

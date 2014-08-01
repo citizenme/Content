@@ -1,0 +1,33 @@
+{
+  "alexa" : 5827,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "ifttt.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : "https://ifttt.com/terms"
+    }
+  },
+  "icons" : { },
+  "id" : "ifttt",
+  "jdm" : {
+    "name" : "IFTTT",
+    "url" : "https://ifttt.com/settings/deactivate",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "IFTTT",
+  "pointIds" : [ "any-time-without-notice" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "ifttt.com",
+  "urls" : [ "ifttt.com" ]
+}

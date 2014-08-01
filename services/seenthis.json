@@ -1,0 +1,36 @@
+{
+  "alexa" : 129098,
+  "class" : "A",
+  "deepLinks" : [ ],
+  "fileName" : "seenthis.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "seenthis",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : {
+    "terms" : {
+      "name" : "Propriété intellectuelle",
+      "url" : "http://seenthis.net/fran%C3%A7ais/mentions/article/propri%C3%A9t%C3%A9-intellectuelle"
+    }
+  },
+  "name" : "SeenThis",
+  "pointIds" : [ "IPta_G2GTJk2", "kizrN7qb1Ck4", "IPta_G2GTJk" ],
+  "related" : [ "twitter", "status-net" ],
+  "tosback2" : {
+    "terms" : {
+      "name" : "Propriété intellectuelle",
+      "url" : "http://seenthis.net/fran%C3%A7ais/mentions/article/propri%C3%A9t%C3%A9-intellectuelle"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "A",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "seenthis.net",
+  "urls" : [ "seenthis.net" ]
+}

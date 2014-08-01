@@ -1,45 +1,29 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/Rt4zuPdx3qs/discussion",
-    "id":"Rt4zuPdx3qs",
-    "meta":{
-        "author":"ToS;DR by Unhosted",
-        "contributors":[
-            "Hugo Roy <hugo@unhosted.org>"
-        ],
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "article":"http://gadgetwise.blogs.nytimes.com/2011/05/26/if-twitpics-new-deal-troubles-you-here-are-some-other-options/",
-        "terms":"http://www.twitpic.com/terms.do"
-    },
-    "title":"Your content is for Twitpic and their partners",
-    "tosback2-data":{
-        "terms":{
-            "extracted":"You retain all ownership rights to Content uploaded to Twitpic. However, by submitting Content to Twitpic, you hereby grant Twitpic a worldwide, non-exclusive, royalty-free, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the Content in connection with the Service and Twitpic's (and its successors' and affiliates') business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats and through any media channels.",
-            "raw":"crawls/twitpic.com/Privacy-Policy/raw/twitpic.com/terms.do.html",
-            "time":"2012-05-14T05:27:44-07:00"
-        }
-    },
-    "tosdr":{
-        "binding":true,
-        "case":"they can license to third parties",
-        "point":"bad",
-        "score":85,
-        "tldr":"The copyright license goes beyond the requirement to operate the service and includes distribution on twitpic and by “affiliated partners” of twitpic such as media agencies."
-    },
-    "topics":[
-        {
-            "description":"Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-            "id":"copyright-scope",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Scope of the copyright license",
-            "parent":"ownership",
-            "subtitle":"Do you grant only the necessary rights?",
-            "title":"Scope of the copyright license",
-            "type":"topic"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/Rt4zuPdx3qs/discussion",
+  "id" : "Rt4zuPdx3qs",
+  "meta" : {
+    "author" : "ToS;DR by Unhosted",
+    "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : {
+    "article" : "http://gadgetwise.blogs.nytimes.com/2011/05/26/if-twitpics-new-deal-troubles-you-here-are-some-other-options/",
+    "terms" : "http://www.twitpic.com/terms.do"
+  },
+  "title" : "Your content is for Twitpic and their partners",
+  "topicIds" : [ "copyright-scope" ],
+  "tosback2-data" : {
+    "terms" : {
+      "extracted" : "You retain all ownership rights to Content uploaded to Twitpic. However, by submitting Content to Twitpic, you hereby grant Twitpic a worldwide, non-exclusive, royalty-free, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the Content in connection with the Service and Twitpic's (and its successors' and affiliates') business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats and through any media channels.",
+      "raw" : "crawls/twitpic.com/Privacy-Policy/raw/twitpic.com/terms.do.html",
+      "time" : "2012-05-14T05:27:44-07:00"
+    }
+  },
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "bad",
+    "score" : 85,
+    "tldr" : "The copyright license goes beyond the requirement to operate the service and includes distribution on twitpic and by “affiliated partners” of twitpic such as media agencies.",
+    "case" : "they can license to third parties"
+  }
 }

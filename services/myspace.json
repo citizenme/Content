@@ -1,0 +1,47 @@
+{
+  "alexa" : 186,
+  "class" : "",
+  "deepLinks" : [ ],
+  "eff_hasyourback" : {
+    "in-Congress" : 0,
+    "in-court" : 0,
+    "tell-you" : 0,
+    "transparent" : 0
+  },
+  "fileName" : "myspace.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "https://new.myspace.com/pages/privacy"
+    },
+    "terms" : {
+      "url" : "https://new.myspace.com/pages/terms"
+    }
+  },
+  "icons" : {
+    "icon-colour" : "/i/MySpace-icon-colour.png",
+    "icon-colour-2x" : "/i/MySpace-icon-colour@2x.png",
+    "icon-grey" : "/i/MySpace-icon-grey.png",
+    "icon-grey-2x" : "/i/MySpace-icon-grey@2x.png"
+  },
+  "id" : "myspace",
+  "jdm" : {
+    "name" : "MySpace",
+    "url" : "https://new.myspace.com/settings/profile",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "myspace",
+  "pointIds" : [ "eff-back-transparency-data", "eff-back-tell-user-no" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "myspace.com",
+  "urls" : [ "myspace.com" ]
+}

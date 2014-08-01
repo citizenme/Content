@@ -1,0 +1,27 @@
+{
+  "alexa" : 1836,
+  "deepLinks" : [ ],
+  "fileName" : "minecraft.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : "https://minecraft.net/terms"
+    }
+  },
+  "icons" : { },
+  "id" : "minecraft",
+  "jdm" : { },
+  "keywords" : [ ],
+  "name" : "Minecraft",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "https://minecraft.net/",
+  "urls" : [ "https://minecraft.net/" ]
+}

@@ -1,0 +1,29 @@
+{
+  "alexa" : 2520,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "bearshare.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : "www.bearshare.com/eula.shtml"
+    }
+  },
+  "icons" : { },
+  "id" : "bearshare",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "BearShare",
+  "pointIds" : [ "T98obrJsjJA-2" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "www.bearshare.com/",
+  "urls" : [ "www.bearshare.com/" ]
+}

@@ -1,35 +1,21 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/QLfqgcHN8N0/discussion",
-    "id":"QLfqgcHN8N0",
-    "meta":{
-        "author":"Ian McGowan",
-        "contributors":[
-            "Robin Monks <devlinks@gmail.com>"
-        ],
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "terms":"http://www.grammarly.com/terms"
-    },
-    "title":"Grammarly usage restrictions",
-    "tosdr":{
-        "binding":true,
-        "case":"your use is throttled",
-        "point":"bad",
-        "score":30,
-        "tldr":"Grammarly restricts your use to 100 documents/50,000 words within a 24-hr period and 300 documents/150,000 words per month."
-    },
-    "topics":[
-        {
-            "id":"guarantee",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Guarantee",
-            "subtitle":"Some services will guarantee you certain features, or explicitly reject any guarantee.",
-            "title":"Guarantee",
-            "type":"topic"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/QLfqgcHN8N0/discussion",
+  "id" : "QLfqgcHN8N0",
+  "meta" : {
+    "author" : "Ian McGowan",
+    "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : {
+    "terms" : "http://www.grammarly.com/terms"
+  },
+  "title" : "Grammarly usage restrictions",
+  "topicIds" : [ "guarantee" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "bad",
+    "score" : 30,
+    "tldr" : "Grammarly restricts your use to 100 documents/50,000 words within a 24-hr period and 300 documents/150,000 words per month.",
+    "case" : "your use is throttled"
+  }
 }

@@ -1,0 +1,24 @@
+{
+  "alexa" : 1000000,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "mykolab-com.json",
+  "freesoftware" : true,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "mykolab-com",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "MyKolab.com",
+  "pointIds" : [ "9ZMf5a9kXL0", "nSIRipxEjgA", "MH-wV1_yq-M", "KE-E1Yihw3A", "0xA8pXtfHHE", "9BhYL-QFjm0", "r7msSDkBDbA", "0-UT7XiN4tg", "PxTW7htonFw" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ "email", "cloud", "groupware", "calendar", "contacts" ],
+    "rated" : "A",
+    "related" : [ "google" ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ "mykolab.com" ]
+}

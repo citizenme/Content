@@ -1,0 +1,52 @@
+{
+  "alexa" : 453,
+  "class" : "E",
+  "deepLinks" : [ ],
+  "fileName" : "twitpic.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/twitpic-icon-colour.png",
+    "icon-colour-2x" : "/i/twitpic-icon-colour@2x.png",
+    "icon-grey" : "/i/twitpic-icon-grey.png",
+    "icon-grey-2x" : "/i/twitpic-icon-grey@2x.png"
+  },
+  "id" : "twitpic",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://twitpic.com/privacy.do"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "http://twitpic.com/terms.do"
+    }
+  },
+  "name" : "Twitpic",
+  "pointIds" : [ "dCfx1aMH1Tw", "V_RVXG7TKEA", "jF1B4WY0x7k", "4Zh8gx9IyDc", "b6ryqY9NdMw", "Rt4zuPdx3qs" ],
+  "related" : [ "identi-ca", "twitter", "flickr" ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://twitpic.com/privacy.do"
+    },
+    "sitename" : {
+      "name" : "twitpic.com"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "http://twitpic.com/terms.do"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "E",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "twitpic.com",
+  "urls" : [ "twitpic.com" ]
+}

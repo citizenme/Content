@@ -1,0 +1,29 @@
+{
+  "alexa" : 865310,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "diasp-org.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : ""
+    }
+  },
+  "icons" : { },
+  "id" : "diasp-org",
+  "jdm" : { },
+  "keywords" : [ ],
+  "name" : "Diasporg",
+  "parent" : "diaspora",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "diasp.org",
+  "urls" : [ "diasp.org" ]
+}

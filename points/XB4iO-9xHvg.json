@@ -1,33 +1,19 @@
-
 {
-    "discussion":"https://groups.google.com/d/msg/tosdr/-B4iO-9xHvg/0yoWGoEISrEJ",
-    "id":"XB4iO-9xHvg",
-    "meta":{
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "terms":"https://twitter.com/tos/previous/version_1"
-    },
-    "title":"Terms may be changed at any time, sometimes with very little advance notice",
-    "tosdr":{
-        "binding":true,
-        "case":"little involvement",
-        "point":"bad",
-        "score":35,
-        "tldr":"This service may change the terms at any time, but in the past notice has been given to users only hours ahead of the change being implemented. Notification is given via their site or in some cases, via an @Twitter update or email. Your continued use of the service is taken as acceptance of the new or changed terms."
-    },
-    "topics":[
-        {
-            "description":"The terms are a contract between two parties, and it should not be changed unilaterally without consultation of the other party. Services should listen to what their users say and care about, and give them a vote in each substantial change.",
-            "id":"changes-involvement",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"User Involvement in Changing Terms",
-            "parent":"changes",
-            "subtitle":"Are changes proposed as a request for feedback, or imposed unilaterally as a take-it-or-leave-it deal?",
-            "title":"User Involvement in Changing Terms",
-            "type":"topic"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/msg/tosdr/-B4iO-9xHvg/0yoWGoEISrEJ",
+  "id" : "XB4iO-9xHvg",
+  "meta" : {
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : {
+    "terms" : "https://twitter.com/tos/previous/version_1"
+  },
+  "title" : "Terms may be changed at any time, sometimes with very little advance notice",
+  "topicIds" : [ "changes-involvement" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "bad",
+    "score" : 35,
+    "tldr" : "This service may change the terms at any time, but in the past notice has been given to users only hours ahead of the change being implemented. Notification is given via their site or in some cases, via an @Twitter update or email. Your continued use of the service is taken as acceptance of the new or changed terms.",
+    "case" : "little involvement"
+  }
 }

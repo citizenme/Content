@@ -1,0 +1,29 @@
+{
+  "alexa" : 1000000,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "microsoft-store.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Microsoft-icon-colour.png",
+    "icon-colour-2x" : "/i/Microsoft-icon-colour@2x.png",
+    "icon-grey" : "/i/Microsoft-icon-grey.png",
+    "icon-grey-2x" : "/i/Microsoft-icon-grey@2x.png"
+  },
+  "id" : "microsoft-store",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Microsoft Store",
+  "pointIds" : [ "any-time-without-notice" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 1000000
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

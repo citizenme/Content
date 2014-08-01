@@ -1,0 +1,27 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "kippt.com.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "kippt.com",
+  "jdm" : {
+    "name" : "Kippt",
+    "url" : "https://kippt.com/accounts/delete/",
+    "difficulty" : "easy",
+    "notes" : "Click 'Account deletion page' at the bottom of the account settings page."
+  },
+  "keywords" : [ ],
+  "name" : "kippt.com",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

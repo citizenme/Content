@@ -1,0 +1,32 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "citizenme.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/citizenme-icon-colour.png",
+    "icon-colour-2x" : "/i/citizenme-icon-colour@2x.png",
+    "icon-grey" : "/i/citizenme-icon-grey.png",
+    "icon-grey-2x" : "/i/citizenme-icon-grey@2x.png"
+  },
+  "id" : "citizenme",
+  "jdm" : {
+    "name" : "citizenme",
+    "url" : "http://www.citizenme.com",
+    "difficulty" : "easy",
+    "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion."
+  },
+  "keywords" : [ ],
+  "name" : "citizenme",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

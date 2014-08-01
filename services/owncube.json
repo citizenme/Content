@@ -1,0 +1,47 @@
+{
+  "alexa" : 652362,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "owncube.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "owncube",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy",
+      "url" : "https://owncube.com/privacy.php"
+    },
+    "terms" : {
+      "name" : "Terms",
+      "url" : "https://owncube.com/terms.php"
+    }
+  },
+  "name" : "OwnCube",
+  "pointIds" : [ "any-time-without-notice", "naPvRf-l3VM", "QzpPtRmNxks" ],
+  "related" : [ ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy",
+      "url" : "https://owncube.com/privacy.php"
+    },
+    "sitename" : {
+      "name" : "owncube.com"
+    },
+    "terms" : {
+      "name" : "Terms",
+      "url" : "https://owncube.com/terms.php"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "owncube.com",
+  "urls" : [ "owncube.com" ]
+}

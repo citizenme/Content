@@ -1,0 +1,81 @@
+{
+  "alexa" : 1000000,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "spotify.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Spotify-icon-colour.png",
+    "icon-colour-2x" : "/i/Spotify-icon-colour@2x.png",
+    "icon-grey" : "/i/Spotify-icon-grey.png",
+    "icon-grey-2x" : "/i/Spotify-icon-grey@2x.png"
+  },
+  "id" : "spotify",
+  "jdm" : {
+    "name" : "Spotify",
+    "url" : "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact",
+    "difficulty" : "hard",
+    "notes" : "Contact Spotify’s customer services through their contact form and request for your account to be closed."
+  },
+  "keywords" : [ ],
+  "links" : {
+    "mobile" : {
+      "name" : "Terms and Conditions (Mobile)",
+      "url" : "https://www.spotify.com/se/legal/mobile-terms-and-conditions/"
+    },
+    "premium" : {
+      "name" : "Terms and Conditions (Premium)",
+      "url" : "https://www.spotify.com/se/legal/premium-code-terms-and-conditions/"
+    },
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://www.spotify.com/se/legal/privacy-policy"
+    },
+    "terms" : {
+      "name" : "Terms and Conditions of Use",
+      "url" : "https://www.spotify.com/se/legal/end-user-agreement/"
+    },
+    "unlimited" : {
+      "name" : "Terms and Conditions (Unlimited)",
+      "url" : "https://www.spotify.com/se/legal/unlimited-code-terms-and-conditions/"
+    }
+  },
+  "name" : "Spotify",
+  "pointIds" : [ "1i3hOEOUGKE", "gmHxO_NEbYY", "4MH1NGVKhkw", "U7B3ap8wM4s", "8UFz7duE0Aw", "EWDvg3nJjrg", "uixQPFWpk64", "NE5Y7fPVdwo", "Z6GIUGCugcw", "aB4Up1nYpKI", "2vAAIqFyMKc", "0_MR5Jg90Qc", "uPdU4F02XuU", "SsibwYhQI6M", "a0Fspx8pPAQ", "1OdZ8UFaOyM", "sK89ltXERXs", "Kuubl4Eaxd0", "RXRw6w-rc5o", "1yCvNNgmbgM" ],
+  "related" : [ "soundcloud" ],
+  "tosback2" : {
+    "mobile" : {
+      "name" : "Terms and Conditions (Mobile)",
+      "url" : "https://www.spotify.com/se/legal/mobile-terms-and-conditions/"
+    },
+    "premium" : {
+      "name" : "Terms and Conditions (Premium)",
+      "url" : "https://www.spotify.com/se/legal/premium-code-terms-and-conditions/"
+    },
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://www.spotify.com/se/legal/privacy-policy"
+    },
+    "sitename" : {
+      "name" : "spotify.com"
+    },
+    "terms" : {
+      "name" : "Terms and Conditions of Use",
+      "url" : "https://www.spotify.com/se/legal/end-user-agreement/"
+    },
+    "unlimited" : {
+      "name" : "Terms and Conditions (Unlimited)",
+      "url" : "https://www.spotify.com/se/legal/unlimited-code-terms-and-conditions/"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 1000000
+  },
+  "type" : "service",
+  "url" : "spotify.com",
+  "urls" : [ "spotify.com" ]
+}

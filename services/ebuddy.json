@@ -1,0 +1,32 @@
+{
+  "alexa" : 2867,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "ebuddy.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "http://www.ebuddy.com/privacy.html"
+    },
+    "terms" : {
+      "url" : "http://www.ebuddy.com/terms.html"
+    }
+  },
+  "icons" : { },
+  "id" : "ebuddy",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "eBuddy",
+  "pointIds" : [ "T98obrJsjJA-2" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "http://www.ebuddy.com/#msn",
+  "urls" : [ "http://www.ebuddy.com/#msn" ]
+}

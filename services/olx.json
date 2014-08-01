@@ -1,0 +1,24 @@
+{
+  "alexa" : 2660,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "olx.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "olx",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "OLX",
+  "pointIds" : [ "T98obrJsjJA-2" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "alexa" : 1066,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "zoosk.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "zoosk",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Zoosk",
+  "pointIds" : [ "T98obrJsjJA-2" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

@@ -1,0 +1,117 @@
+{
+  "alexa" : 2,
+  "class" : "C",
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://plus.google.com/u/0/settings"
+  }, {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "https://plus.google.com/u/0/me/about/edit/d"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://www.google.com/accounts/b/0/EditPasswd"
+  }, {
+    "linkid" : "changeUsername",
+    "description" : "Change Username",
+    "url" : "https://accounts.google.com/b/0/EditUserInfo"
+  }, {
+    "linkid" : "changeEmail",
+    "description" : "Change Email",
+    "url" : "https://www.google.com/accounts/b/0/EditUserInfo"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "https://www.google.com/settings/plus"
+  }, {
+    "linkid" : "deleteAccount",
+    "description" : "Delete Account",
+    "url" : "https://www.google.com/accounts/b/0/DeleteAccount"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "https://www.google.com/accounts/recovery"
+  }, {
+    "linkid" : "changeProfilePicture",
+    "description" : "Change Profile Picture",
+    "url" : "https://plus.google.com/u/0/me/about/edit/d"
+  }, {
+    "linkid" : "changeConnectedAccounts",
+    "description" : "Change Connected Accounts",
+    "url" : "https://profiles.google.com/connectedaccounts?authuser=0"
+  }, {
+    "linkid" : "changeThirdPartyPermissions",
+    "description" : "Change 3rd Party Permissions",
+    "url" : "https://plus.google.com/apps"
+  } ],
+  "fileName" : "google.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/googleplus-icon-colour.png",
+    "icon-colour-2x" : "/i/googleplus-icon-colour@2x.png",
+    "icon-grey" : "/i/googleplus-icon-grey.png",
+    "icon-grey-2x" : "/i/googleplus-icon-grey@2x.png"
+  },
+  "id" : "google",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "Google",
+    "url" : "https://www.google.com/accounts/Login",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ "search", "groups" ],
+  "links" : {
+    "definitions" : {
+      "name" : "Key terms",
+      "url" : "https://www.google.fr/intl/en/policies/privacy/key-terms/"
+    },
+    "faq" : {
+      "name" : "FAQ",
+      "url" : "https://www.google.fr/intl/en/policies/faq/"
+    },
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://www.google.com/intl/en/policies/privacy/"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://www.google.com/intl/en/policies/terms/"
+    }
+  },
+  "name" : "Google",
+  "pointIds" : [ "yCSzdR_gOW4", "JcGg9TPZ7V0", "2xvjZf1mgd0", "QZgR8faRWDU", "eff-back-transparency-data", "damOWTFaho0-1", "Vn7He54dnVI", "lU-QhFXMOcU", "HUL_4wIbNGY", "ji7uAaXXTN4", "eff-back-tell-user-no", "PD5ZWzgv2RI", "E58aPtzP3jk" ],
+  "related" : [ "yahoo", "duckduckgo" ],
+  "tosback2" : {
+    "definitions" : {
+      "name" : "Key terms",
+      "url" : "https://www.google.fr/intl/en/policies/privacy/key-terms/"
+    },
+    "faq" : {
+      "name" : "FAQ",
+      "url" : "https://www.google.fr/intl/en/policies/faq/"
+    },
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://www.google.com/intl/en/policies/privacy/"
+    },
+    "sitename" : {
+      "name" : "google.com"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://www.google.com/intl/en/policies/terms/"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "C",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "google.com",
+  "urls" : [ "google.com" ]
+}

@@ -1,0 +1,50 @@
+{
+  "alexa" : 7,
+  "class" : "",
+  "deepLinks" : [ ],
+  "eff_hasyourback" : {
+    "in-Congress" : 1,
+    "in-court" : 0,
+    "tell-you" : 0,
+    "transparent" : 0
+  },
+  "fileName" : "microsoft.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "agreement" : {
+      "url" : "http://windows.microsoft.com/en-us/windows-live/microsoft-services-agreement"
+    },
+    "privacy" : {
+      "url" : "http://www.microsoft.com/privacystatement/en-us/core/default.aspx"
+    },
+    "terms" : {
+      "url" : "http://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx"
+    }
+  },
+  "icons" : {
+    "icon-colour" : "/i/Microsoft-icon-colour.png",
+    "icon-colour-2x" : "/i/Microsoft-icon-colour@2x.png",
+    "icon-grey" : "/i/Microsoft-icon-grey.png",
+    "icon-grey-2x" : "/i/Microsoft-icon-grey@2x.png"
+  },
+  "id" : "microsoft",
+  "jdm" : {
+    "name" : "Microsoft Account",
+    "url" : "https://account.live.com/closeaccount.aspx",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Microsoft Services",
+  "pointIds" : [ "eff-back-transparency-data", "6Rb57dXnJVQ", "any-time-without-notice", "eff-back-tell-user-no" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "microsoft.com",
+  "urls" : [ "microsoft.com" ]
+}

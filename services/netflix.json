@@ -1,0 +1,35 @@
+{
+  "alexa" : 95,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "netflix.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : "https://signup.netflix.com/TermsOfUse"
+    }
+  },
+  "icons" : { },
+  "id" : "netflix",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "Netflix",
+    "url" : "https://support.netflix.com/en/node/407",
+    "difficulty" : "impossible",
+    "notes" : "Contact customer services. Even then they may not delete your account under the premise that you might want to rejoin and keep your history and recommendations."
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "netflix",
+  "pointIds" : [ "L5pl0Vn9lKY-10", "L5pl0Vn9lKY-1", "L5pl0Vn9lKY-2", "L5pl0Vn9lKY-11", "L5pl0Vn9lKY-3", "L5pl0Vn9lKY-4", "L5pl0Vn9lKY-5", "L5pl0Vn9lKY", "L5pl0Vn9lKY-6", "L5pl0Vn9lKY-7", "any-time-without-notice" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "https://signup.netflix.com/",
+  "urls" : [ "https://signup.netflix.com/" ]
+}

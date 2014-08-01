@@ -1,0 +1,42 @@
+{
+  "alexa" : 1249,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "evernote.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "http://evernote.com/legal/privacy.php"
+    },
+    "terms" : {
+      "url" : "http://evernote.com/legal/tos.php"
+    }
+  },
+  "icons" : {
+    "icon-colour" : "/i/Evernote-icon-colour.png",
+    "icon-colour-2x" : "/i/Evernote-icon-colour@2x.png",
+    "icon-grey" : "/i/Evernote-icon-grey.png",
+    "icon-grey-2x" : "/i/Evernote-icon-grey@2x.png"
+  },
+  "id" : "evernote",
+  "jdm" : {
+    "name" : "Evernote",
+    "url" : "https://www.evernote.com/Deactivate.action",
+    "difficulty" : "impossible",
+    "notes" : "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account."
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Evernote",
+  "pointIds" : [ "T98obrJsjJA-2" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "http://evernote.com/",
+  "urls" : [ "http://evernote.com/" ]
+}

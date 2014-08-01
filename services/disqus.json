@@ -1,0 +1,59 @@
+{
+  "alexa" : 1000000,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "disqus.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "disqus",
+  "jdm" : {
+    "name" : "Disqus",
+    "url" : "http://disqus.com/pages/dashboard/#account",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ "blog", "comments" ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://help.disqus.com/customer/portal/articles/466259-privacy-policy"
+    },
+    "terms" : {
+      "name" : "Terms and Policies",
+      "url" : "http://docs.disqus.com/kb/terms-and-policies/"
+    },
+    "terms-service" : {
+      "name" : "Terms of Service",
+      "url" : "http://help.disqus.com/customer/portal/articles/466260-terms-of-service"
+    }
+  },
+  "name" : "Disqus",
+  "pointIds" : [ "any-time-without-notice" ],
+  "related" : [ ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://help.disqus.com/customer/portal/articles/466259-privacy-policy"
+    },
+    "sitename" : {
+      "name" : "disqus.com"
+    },
+    "terms" : {
+      "name" : "Terms and Policies",
+      "url" : "http://docs.disqus.com/kb/terms-and-policies/"
+    },
+    "terms-service" : {
+      "name" : "Terms of Service",
+      "url" : "http://help.disqus.com/customer/portal/articles/466260-terms-of-service"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 1000000
+  },
+  "type" : "service",
+  "url" : "disqus.com",
+  "urls" : [ "disqus.com" ]
+}

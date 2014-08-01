@@ -1,0 +1,29 @@
+{
+  "alexa" : 8467,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "xfire.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "xfire",
+  "jdm" : {
+    "name" : "Xfire",
+    "url" : "http://www.xfire.com/faq#1",
+    "difficulty" : "impossible",
+    "notes" : "There is no way to delete your account, you can only make some information private and/or delete it."
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Xfire",
+  "pointIds" : [ "T98obrJsjJA-2" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

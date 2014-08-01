@@ -1,39 +1,21 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
-    "id":"rhykox7XUfs9",
-    "related-id":"rhykox7XUfs9",
-    "meta":{
-        "contributors":[
-            "Hugo Roy <hugo@unhosted.org>",
-            "Pants <palpants@gmail.com>",
-            "Michiel de Jong <michiel@unhosted.org>"
-        ],
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "subscriber agreement":"http://store.steampowered.com/subscriber_agreement/"
-    },
-    "title":"Notifications 30 days before changes.",
-    "tosdr":{
-        "binding":true,
-        "case":"user is notified a month or more in advance",
-        "point":"good",
-        "score":40,
-        "tldr":"Changes to the agreement are notified by email or within the program 30 days in advance."
-    },
-    "topics":[
-        {
-            "description":"Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
-            "id":"changes",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Notice of Changing Terms",
-            "parent":"changes",
-            "subtitle":"Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
-            "title":"Notice of Changing Terms",
-            "type":"topic"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+  "id" : "rhykox7XUfs9",
+  "meta" : {
+    "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "related-id" : "rhykox7XUfs9",
+  "source" : {
+    "subscriber agreement" : "http://store.steampowered.com/subscriber_agreement/"
+  },
+  "title" : "Notifications 30 days before changes.",
+  "topicIds" : [ "changes" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "good",
+    "score" : 40,
+    "tldr" : "Changes to the agreement are notified by email or within the program 30 days in advance.",
+    "case" : "user is notified a month or more in advance"
+  }
 }

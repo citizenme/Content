@@ -1,0 +1,65 @@
+{
+  "alexa" : 4,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "yahoo.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Yahoo-icon-colour.png",
+    "icon-colour-2x" : "/i/Yahoo-icon-colour@2x.png",
+    "icon-grey" : "/i/Yahoo-icon-grey.png",
+    "icon-grey-2x" : "/i/Yahoo-icon-grey@2x.png"
+  },
+  "id" : "yahoo",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "Yahoo!",
+    "url" : "https://edit.yahoo.com/config/delete_user",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ "search", "groups" ],
+  "links" : {
+    "guidelines" : {
+      "name" : "Community Guidelines",
+      "url" : "http://docs.yahoo.com/info/guidelines/community.html"
+    },
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://info.yahoo.com/privacy/us/yahoo/details.html"
+    },
+    "terms" : {
+      "name" : "Yahoo! Terms of Service",
+      "url" : "http://www.yahoo.com/r/ts"
+    }
+  },
+  "name" : "Yahoo!",
+  "pointIds" : [ "WEwv5V2M9zw", "q782XE2RUss", "WEwv5V2M9zw2", "any-time-without-notice", "eff-back-tell-user-no", "legal-name-registration", "eff-back-transparency-data-no" ],
+  "related" : [ "google" ],
+  "tosback2" : {
+    "guidelines" : {
+      "name" : "Community Guidelines",
+      "url" : "http://docs.yahoo.com/info/guidelines/community.html"
+    },
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "http://info.yahoo.com/privacy/us/yahoo/details.html"
+    },
+    "sitename" : {
+      "name" : "yahoo.com"
+    },
+    "terms" : {
+      "name" : "Yahoo! Terms of Service",
+      "url" : "http://www.yahoo.com/r/ts"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "yahoo.com",
+  "urls" : [ "yahoo.com" ]
+}

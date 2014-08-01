@@ -1,0 +1,26 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "airbnb.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "airbnb",
+  "jdm" : {
+    "name" : "Airbnb",
+    "url" : "https://www.airbnb.com/users/settings",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "name" : "airbnb",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

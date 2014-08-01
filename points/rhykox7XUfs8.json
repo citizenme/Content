@@ -1,37 +1,21 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
-    "id":"rhykox7XUfs8",
-    "related-id":"rhykox7XUfs8",
-    "meta":{
-        "contributors":[
-            "Hugo Roy <hugo@unhosted.org>",
-            "Pants <palpants@gmail.com>",
-            "Michiel de Jong <michiel@unhosted.org>"
-        ],
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "subscriber agreement":"http://store.steampowered.com/subscriber_agreement/"
-    },
-    "title":"Defend and indemnify Valve. Survives termination of the agreement.",
-    "tosdr":{
-        "binding":true,
-        "case":"defend, indemnify, hold harmless; survives termination",
-        "point":"bad",
-        "score":80,
-        "tldr":"You agree to defend, indemnify and hold harmless Valve, its licensors, and its and their affiliates from all liabilities, claims and expenses, including attorneys' fees, that arise from or in connection with breach of this Agreement or the use of Steam or any Subscription, ..."
-    },
-    "topics":[
-        {
-            "id":"governance",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Governance",
-            "subtitle":"Your relationship with the service and the community",
-            "title":"Governance",
-            "type":"category"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/rhykox7XUfs",
+  "id" : "rhykox7XUfs8",
+  "meta" : {
+    "contributors" : [ "Hugo Roy <hugo@unhosted.org>", "Pants <palpants@gmail.com>", "Michiel de Jong <michiel@unhosted.org>" ],
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "related-id" : "rhykox7XUfs8",
+  "source" : {
+    "subscriber agreement" : "http://store.steampowered.com/subscriber_agreement/"
+  },
+  "title" : "Defend and indemnify Valve. Survives termination of the agreement.",
+  "topicIds" : [ "governance" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "bad",
+    "score" : 80,
+    "tldr" : "You agree to defend, indemnify and hold harmless Valve, its licensors, and its and their affiliates from all liabilities, claims and expenses, including attorneys' fees, that arise from or in connection with breach of this Agreement or the use of Steam or any Subscription, ...",
+    "case" : "defend, indemnify, hold harmless; survives termination"
+  }
 }

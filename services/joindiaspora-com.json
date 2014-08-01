@@ -1,0 +1,29 @@
+{
+  "alexa" : 43519,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "joindiaspora-com.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : ""
+    }
+  },
+  "icons" : { },
+  "id" : "joindiaspora-com",
+  "jdm" : { },
+  "keywords" : [ ],
+  "name" : "JoinDiaspora.com",
+  "parent" : "diaspora",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "http://joindiaspora.com/",
+  "urls" : [ "http://joindiaspora.com/" ]
+}

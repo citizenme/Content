@@ -1,0 +1,24 @@
+{
+  "alexa" : 6089,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "informe.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "informe",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Informe",
+  "pointIds" : [ "any-time-without-notice" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

@@ -1,0 +1,65 @@
+{
+  "alexa" : 304,
+  "class" : "B",
+  "dataexport" : "true",
+  "deepLinks" : [ ],
+  "fileName" : "github.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/GitHub-icon-colour.png",
+    "icon-colour-2x" : "/i/GitHub-icon-colour@2x.png",
+    "icon-grey" : "/i/GitHub-icon-grey.png",
+    "icon-grey-2x" : "/i/GitHub-icon-grey@2x.png"
+  },
+  "id" : "github",
+  "jdm" : {
+    "name" : "GitHub",
+    "url" : "https://github.com/settings/admin",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "links" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://help.github.com/privacy-policy"
+    },
+    "security" : {
+      "name" : "Security",
+      "url" : "https://help.github.com/security/"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://github.com/site/terms"
+    }
+  },
+  "name" : "GitHub",
+  "pointIds" : [ "lOG7XeUi-3E", "hI5Too_uDVk", "2vIh4l7sTnk", "lXPKuQU0mPI", "ymh8uR_j51A", "EpPNnYXBW_wk", "9epXl7ZDb7c", "8LDE2ZPXRW4", "legal-name-registration", "gyMiAkV5ZG0" ],
+  "related" : [ "gitorious" ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Privacy Policy",
+      "url" : "https://help.github.com/privacy-policy"
+    },
+    "security" : {
+      "name" : "Security",
+      "url" : "https://help.github.com/security/"
+    },
+    "sitename" : {
+      "name" : "github.com"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "https://github.com/site/terms"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "B",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "github.com",
+  "urls" : [ "github.com" ]
+}

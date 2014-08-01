@@ -1,0 +1,28 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "ebay.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "ebay",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "eBay",
+    "url" : "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
+    "difficulty" : "easy",
+    "notes" : "A few survey questions will be asked prior to account deletion."
+  },
+  "keywords" : [ ],
+  "name" : "ebay",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

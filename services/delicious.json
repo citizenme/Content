@@ -1,0 +1,63 @@
+{
+  "alexa" : 514,
+  "class" : "D",
+  "deepLinks" : [ ],
+  "fileName" : "delicious.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "http://www.delicious.com/privacy"
+    },
+    "terms" : {
+      "url" : "http://www.delicious.com/terms"
+    }
+  },
+  "icons" : {
+    "icon-colour" : "/i/Delicious-icon-colour.png",
+    "icon-colour-2x" : "/i/Delicious-icon-colour@2x.png",
+    "icon-grey" : "/i/Delicious-icon-grey.png",
+    "icon-grey-2x" : "/i/Delicious-icon-grey@2x.png"
+  },
+  "id" : "delicious",
+  "jdm" : {
+    "name" : "Delicious",
+    "url" : "https://delicious.com/settings/deactivate",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "links" : {
+    "privacy" : {
+      "name" : "Delicious Privacy Policy",
+      "url" : "http://www.delicious.com/privacy"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "http://www.delicious.com/terms"
+    }
+  },
+  "name" : "Delicious",
+  "pointIds" : [ "t-INoE6fH98", "0oKZG_o_Zu0", "aXOIDbzevYE", "t-INoE6fH982", "LbwpukmRtgg", "lJGsikCSEJ8" ],
+  "related" : [ ],
+  "tosback2" : {
+    "privacy" : {
+      "name" : "Delicious Privacy Policy",
+      "url" : "http://www.delicious.com/privacy"
+    },
+    "sitename" : {
+      "name" : "delicious.com"
+    },
+    "terms" : {
+      "name" : "Terms of Service",
+      "url" : "http://www.delicious.com/terms"
+    }
+  },
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "D",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "delicious.com",
+  "urls" : [ "delicious.com" ]
+}

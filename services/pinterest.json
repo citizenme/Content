@@ -1,0 +1,73 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://pinterest.com/settings/"
+  }, {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "https://pinterest.com/settings/"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://pinterest.com/settings/"
+  }, {
+    "linkid" : "changeUsername",
+    "description" : "Change Username",
+    "url" : "https://pinterest.com/settings/"
+  }, {
+    "linkid" : "changeEmail",
+    "description" : "Change Email",
+    "url" : "https://pinterest.com/settings/"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "https://pinterest.com/prefs/"
+  }, {
+    "linkid" : "deleteAccount",
+    "description" : "Delete Account",
+    "url" : "https://pinterest.com/settings/"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "https://pinterest.com/login/?next=%2F"
+  }, {
+    "linkid" : "changeProfilePicture",
+    "description" : "Change Profile Picture",
+    "url" : "https://pinterest.com/settings/"
+  }, {
+    "linkid" : "changeConnectedAccounts",
+    "description" : "Change Connected Accounts",
+    "url" : "https://pinterest.com/settings/"
+  } ],
+  "fileName" : "pinterest.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Pinterest-icon-colour.png",
+    "icon-colour-2x" : "/i/Pinterest-icon-colour@2x.png",
+    "icon-grey" : "/i/Pinterest-icon-grey.png",
+    "icon-grey-2x" : "/i/Pinterest-icon-grey@2x.png"
+  },
+  "id" : "pinterest",
+  "jdm" : {
+    "meta" : "popular",
+    "name" : "Pinterest",
+    "url" : "https://pinterest.com/settings/",
+    "difficulty" : "impossible",
+    "notes" : "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted."
+  },
+  "keywords" : [ ],
+  "name" : "pinterest",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

@@ -1,0 +1,28 @@
+{
+  "alexa" : 6618,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "openstreetmap.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : ""
+    }
+  },
+  "icons" : { },
+  "id" : "openstreetmap",
+  "jdm" : { },
+  "keywords" : [ ],
+  "name" : "OpenStreetMap",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "openstreetmap.org",
+  "urls" : [ "openstreetmap.org" ]
+}

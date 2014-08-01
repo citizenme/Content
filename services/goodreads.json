@@ -1,0 +1,26 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "goodreads.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "goodreads",
+  "jdm" : {
+    "name" : "Goodreads",
+    "url" : "http://www.goodreads.com/user/destroy",
+    "difficulty" : "easy"
+  },
+  "keywords" : [ ],
+  "name" : "goodreads",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 1000000
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

@@ -1,0 +1,34 @@
+{
+  "alexa" : 1753,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "couchsurfing.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : "https://www.couchsurfing.org/terms.html?locale=en_US"
+    }
+  },
+  "icons" : { },
+  "id" : "couchsurfing",
+  "jdm" : {
+    "name" : "Couchsurfing",
+    "url" : "https://www.couchsurfing.org/delete_profile.html?delete=1",
+    "difficulty" : "impossible",
+    "notes" : "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'."
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "couchsurfing",
+  "pointIds" : [ "1wWcVuiCJ2Y", "ShwCMjNBd2o", "e8kGDv4CIrQ", "YkJpj170Qts", "any-time-without-notice", "dQV8notmhfI", "x9BDfg-SFqY", "rfLB9eDVNtk", "BmzBPGyHGW0", "izRoNcoGOww", "J3kmwLbA0rE", "5StVgew5VbE", "bYGefBK3R_I", "UMyT4RKXjv0", "oZ1VvxnWoeM", "wOhc-Lscy_0" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "https://www.couchsurfing.org/",
+  "urls" : [ "https://www.couchsurfing.org/" ]
+}

@@ -1,0 +1,29 @@
+{
+  "alexa" : 5167,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "whatsapp.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "whatsapp",
+  "jdm" : {
+    "name" : "WhatsApp",
+    "url" : "https://whatsapp.zendesk.com/entries/21119703-How-do-I-delete-my-account-",
+    "difficulty" : "medium",
+    "notes" : "From the app: Settings → Account → Delete your account."
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "WhatsApp",
+  "pointIds" : [ "any-time-without-notice" ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

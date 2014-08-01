@@ -1,34 +1,20 @@
-
 {
-    "discussion":"https://groups.google.com/forum/?fromgroups#!topic/tosdr/kizrN7qb1Ck",
-    "id":"kizrN7qb1Ck",
-    "related-id":"kizrN7qb1Ck",
-    "meta":{
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "reference":"http://www.facebook.com/legal/terms"
-    },
-    "title":"Very broad copyright license on your content",
-    "tosdr":{
-        "binding":true,
-        "case":"very broad",
-        "point":"bad",
-        "score":80,
-        "tldr":"The copyright licence is very broad. It includes the right for Facebook share your content with others. Depending on your Facebook Privacy and Application settings, this could apply to your photos and videos. Facebook's right to do this under the licence does not end when you stop using the service either, unless your content has been deleted by everyone else."
-    },
-    "topics":[
-        {
-            "description":"Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-            "id":"copyright-scope",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Scope of the copyright license",
-            "parent":"ownership",
-            "subtitle":"Do you grant only the necessary rights?",
-            "title":"Scope of the copyright license",
-            "type":"topic"
-        }
-    ]
+  "discussion" : "https://groups.google.com/forum/?fromgroups#!topic/tosdr/kizrN7qb1Ck",
+  "id" : "kizrN7qb1Ck",
+  "meta" : {
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "related-id" : "kizrN7qb1Ck",
+  "source" : {
+    "reference" : "http://www.facebook.com/legal/terms"
+  },
+  "title" : "Very broad copyright license on your content",
+  "topicIds" : [ "copyright-scope" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "bad",
+    "score" : 80,
+    "tldr" : "The copyright licence is very broad. It includes the right for Facebook share your content with others. Depending on your Facebook Privacy and Application settings, this could apply to your photos and videos. Facebook's right to do this under the licence does not end when you stop using the service either, unless your content has been deleted by everyone else.",
+    "case" : "very broad"
+  }
 }

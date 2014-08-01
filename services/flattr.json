@@ -1,0 +1,32 @@
+{
+  "alexa" : 22743,
+  "class" : "",
+  "deepLinks" : [ ],
+  "fileName" : "flattr.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "privacy" : {
+      "url" : "https://flattr.com/privacy"
+    },
+    "terms" : {
+      "url" : "https://flattr.com/terms"
+    }
+  },
+  "icons" : { },
+  "id" : "flattr",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Flattr",
+  "pointIds" : [ "any-time-with-notice", "aPGR2C_AkskJ" ],
+  "related" : [ "paypal" ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "url" : "flattr.com",
+  "urls" : [ "flattr.com" ]
+}

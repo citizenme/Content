@@ -1,0 +1,27 @@
+{
+  "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "etsy.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "etsy",
+  "jdm" : {
+    "name" : "Etsy",
+    "url" : "http://www.etsy.com/help/article/53",
+    "difficulty" : "hard",
+    "notes" : "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file."
+  },
+  "keywords" : [ ],
+  "name" : "etsy",
+  "pointIds" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ],
+    "alexa" : 0
+  },
+  "type" : "service",
+  "urls" : [ ]
+}

@@ -1,39 +1,17 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/CsxjRy5fqYQ/discussion",
-    "id":"CsxjRy5fqYQ",
-    "meta":{
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "title":"Submitting notices and counter notices for copyright infringement",
-    "tosdr":{
-        "binding":true,
-        "case":"help you deal with take-down notices",
-        "point":"good",
-        "score":20,
-        "tldr":"You can use the YouTube site to directly submit a take down notice if your copyright has been infringed. Similarly, the site supports the issuing of counter notices if these apply. See their copyright centre on the site for full details."
-    },
-    "topics":[
-        {
-            "id":"governance",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Governance",
-            "subtitle":"Your relationship with the service and the community",
-            "title":"Governance",
-            "type":"category"
-        },
-        {
-            "description":"Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
-            "id":"suspension",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Suspension and Censorship",
-            "subtitle":"Can they end your use of the service at any time?",
-            "title":"Suspension and Censorship",
-            "type":"category"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/CsxjRy5fqYQ/discussion",
+  "id" : "CsxjRy5fqYQ",
+  "meta" : {
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : { },
+  "title" : "Submitting notices and counter notices for copyright infringement",
+  "topicIds" : [ "suspension", "governance" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "good",
+    "score" : 20,
+    "tldr" : "You can use the YouTube site to directly submit a take down notice if your copyright has been infringed. Similarly, the site supports the issuing of counter notices if these apply. See their copyright centre on the site for full details.",
+    "case" : "help you deal with take-down notices"
+  }
 }

@@ -1,37 +1,22 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/J3kmwLbA0rE/discussion",
-    "id":"J3kmwLbA0rE",
-    "meta":{
-        "author":"ToS;DR project",
-        "contributors":[
-            "see mailing list discussion"
-        ],
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "faq":"",
-        "terms":""
-    },
-    "title":"You are not allowed to use a nick name",
-    "tosdr":{
-        "binding":true,
-        "case":"pseudonym not allowed (user-to-user trust is relevant for service)",
-        "point":"neutral",
-        "score":10,
-        "tldr":"you have to provide accurate, truthful, current and complete \ninformation when creating an account on CouchSurfing."
-    },
-    "topics":[
-        {
-            "description":"The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-            "id":"track",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Anonymity and Tracking",
-            "subtitle":"Are you being spied on?",
-            "title":"Anonymity and Tracking",
-            "type":"category"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/J3kmwLbA0rE/discussion",
+  "id" : "J3kmwLbA0rE",
+  "meta" : {
+    "author" : "ToS;DR project",
+    "contributors" : [ "see mailing list discussion" ],
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : {
+    "faq" : "",
+    "terms" : ""
+  },
+  "title" : "You are not allowed to use a nick name",
+  "topicIds" : [ "track" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "neutral",
+    "score" : 10,
+    "tldr" : "you have to provide accurate, truthful, current and complete \ninformation when creating an account on CouchSurfing.",
+    "case" : "pseudonym not allowed (user-to-user trust is relevant for service)"
+  }
 }

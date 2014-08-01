@@ -1,37 +1,21 @@
-
 {
-    "discussion":"https://groups.google.com/d/topic/tosdr/2vIh4l7sTnk/discussion",
-    "id":"2vIh4l7sTnk",
-    "meta":{
-        "author":"ToS;DR by Unhosted",
-        "contributors":[
-            "Hugo Roy <hugo@unhosted.org>"
-        ],
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "faq":"https://help.github.com/security"
-    },
-    "title":"Transparent security practices",
-    "tosdr":{
-        "binding":true,
-        "case":"info given about security practices",
-        "point":"good",
-        "score":15,
-        "tldr":"GitHub gives a detailed overview of their own security practices and their service providers' practices and obligations."
-    },
-    "topics":[
-        {
-            "category":"governance",
-            "description":"The level of information provided by the ‪service that is beneficial to the user.",
-            "id":"user-info",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"User information",
-            "subtitle":"Transparency and education",
-            "title":"User information",
-            "type":"topic"
-        }
-    ]
+  "discussion" : "https://groups.google.com/d/topic/tosdr/2vIh4l7sTnk/discussion",
+  "id" : "2vIh4l7sTnk",
+  "meta" : {
+    "author" : "ToS;DR by Unhosted",
+    "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : {
+    "faq" : "https://help.github.com/security"
+  },
+  "title" : "Transparent security practices",
+  "topicIds" : [ "user-info" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "good",
+    "score" : 15,
+    "tldr" : "GitHub gives a detailed overview of their own security practices and their service providers' practices and obligations.",
+    "case" : "info given about security practices"
+  }
 }

@@ -1,33 +1,20 @@
-
 {
-    "discussion":"https://groups.google.com/forum/#!topic/tosdr/X6_GxyBSVnE",
-    "id":"X6_GxyBSVnE",
-    "meta":{
-        "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source":{
-        "privacy":"https://twitter.com/privacy",
-        "do-not-track":"https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#"
-    },
-    "title":"Tracking data",
-    "tosdr":{
-        "binding":true,
-        "case":"tracking data deleted after 10 days and opt-out",
-        "point":"good",
-        "score":80,
-        "tldr":"Twitter begins deleting all tracking data it collects from you after 10 days. You can also opt-out of personalisation settings which track your website visits to tailor their service to you. To completely opt-out, enable the Do-Not-Track option in your browser settings."
-    },
-    "topics":[
-        {
-            "description":"The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-            "id":"track",
-            "meta":{
-                "license-for-this-file":"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-            },
-            "name":"Anonymity and Tracking",
-            "subtitle":"Are you being spied on?",
-            "title":"Anonymity and Tracking",
-            "type":"category"
-        }
-    ]
+  "discussion" : "https://groups.google.com/forum/#!topic/tosdr/X6_GxyBSVnE",
+  "id" : "X6_GxyBSVnE",
+  "meta" : {
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "source" : {
+    "privacy" : "https://twitter.com/privacy",
+    "do-not-track" : "https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#"
+  },
+  "title" : "Tracking data",
+  "topicIds" : [ "track" ],
+  "tosdr" : {
+    "binding" : "true",
+    "point" : "good",
+    "score" : 80,
+    "tldr" : "Twitter begins deleting all tracking data it collects from you after 10 days. You can also opt-out of personalisation settings which track your website visits to tailor their service to you. To completely opt-out, enable the Do-Not-Track option in your browser settings.",
+    "case" : "tracking data deleted after 10 days and opt-out"
+  }
 }
