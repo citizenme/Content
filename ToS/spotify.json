@@ -315,7 +315,7 @@
       "tldr" : "Spotify may transfer and process your data outside of your home country. This includes potentially a country in which you have fewer legal rights regarding your personal information."
     },
     "topics" : [ {
-      "id" : "personal information",
+      "id" : "personal-information",
       "name" : "Personal information",
       "subtitle" : "personal information",
       "title" : "Personal information",
@@ -490,7 +490,7 @@
       "tldr" : "Although Spotify states they are committed to data security, the also state that they cannot guarantee any success in that area."
     },
     "topics" : [ {
-      "id" : "personal information",
+      "id" : "personal-information",
       "name" : "Personal information",
       "subtitle" : "personal information",
       "title" : "Personal information",
