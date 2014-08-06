@@ -1,6 +1,6 @@
 {
   "category" : "governance",
-  "description" : "The level of information provided by the ‪service that is beneficial to the user.",
+  "description" : "The level of information provided by the service that is beneficial to the user.",
   "example" : { },
   "id" : "user-info",
   "meta" : {
