@@ -275,7 +275,59 @@
       "url" : "http://www.yahoo.com/r/ts"
     }
   },
-  "deepLinks" : [ ],
+  "deepLinks" : [ {
+    "linkid" : "settingsPage",
+    "description" : "Settings Page",
+    "url" : "https://edit.yahoo.com/mc2.0/eval_profile"
+  }, {
+    "linkid" : "changeBio",
+    "description" : "Change Bio",
+    "url" : "https://profile.yahoo.com/"
+  }, {
+    "linkid": "changeUsername",
+    "description": "Change Username",
+    "url": "https://edit.yahoo.com/identity/manage?show=a"
+  }, {
+    "linkid" : "changePassword",
+    "description" : "Change Password",
+    "url" : "https://edit.yahoo.com/config/change_pw"
+  }, {
+    "linkid" : "changeEmail",
+    "description" : "Change Email",
+    "url" : "https://edit.yahoo.com/config/edit_account"
+  }, {
+    "linkid" : "changeEmailSettings",
+    "description" : "Change Email Settings",
+    "url" : "https://edit.yahoo.com/config/edit_account"
+  }, {
+    "linkid" : "deleteAccount",
+    "description" : "Delete Account",
+    "url" : "https://edit.yahoo.com/config/delete_user"
+  }, {
+     "linkid": "changeMobileSettings",
+     "description": "Change Mobile Settings",
+     "url": "https://edit.yahoo.com/commchannel/manage"
+  }, {
+    "linkid" : "recoverPassword",
+    "description" : "Recover Password",
+    "url" : "https://edit.yahoo.com/forgotroot"
+  }, {
+    "linkid" : "changeProfilePicture",
+    "description" : "Change Profile Picture",
+    "url" : "https://profile.yahoo.com/"
+  }, {
+    "linkid": "changeDesign",
+    "description": "Change Design",
+    "url": "https://profile.yahoo.com/"
+  }, {
+    "linkid": "changeConnectedAccounts",
+    "description": "Change Connected Accounts",
+    "url": "https://api.login.yahoo.com/WSLogin/V1/unlink"
+  }, {
+    "linkid" : "changeThirdPartyPermissions",
+    "description" : "Change 3rd Party Permissions",
+    "url" : "https://api.login.yahoo.com/WSLogin/V1/unlink"
+  } ],
   "icons" : {
     "icon-colour" : "/i/Yahoo-icon-colour.png",
     "icon-colour-2x" : "/i/Yahoo-icon-colour@2x.png",
