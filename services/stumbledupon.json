@@ -46,7 +46,7 @@
     "icon-grey" : "/i/StumbledUpon-icon-grey.png",
     "icon-grey-2x" : "/i/StumbledUpon-icon-grey@2x.png"
   },
-  "id" : "StumbledUpon",
+  "id" : "stumbledupon",
   "jdm" : {
     "name" : "StumbledUpon",
     "url" : "http://help.stumbleupon.com/customer/portal/articles/665202-account-settings#article17",
