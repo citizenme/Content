@@ -351,7 +351,7 @@
     {
         "linkid": "changeThirdPartyPermissions",
         "description": "Change 3rd Party Permissions",
-        "url": "http://www.fb.com/settings/?tab=applications"
+        "url": "https://www.fb.com/settings/?tab=applications"
     }
   ]
 }
