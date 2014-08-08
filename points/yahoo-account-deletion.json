@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "yahoo-account-deletion",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Yahoo deletes your account after 90 days yet copied information in back-up storage may be kept for an undefined period of time after your deletion request.",
+  "topicIds" : [ "leave" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "bad",
+    "score" : 25,
+    "tldr" : "If you ask Yahoo to delete your account, in most cases your account will be deactivated and then deleted from their user registration database in approximately 90 days. If they have copied information to back-up storage it could remain there for an undefined period of time."
+  }
+}

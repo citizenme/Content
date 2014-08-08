@@ -68,6 +68,7 @@
     "difficulty" : "easy",
     "meta" : "popular",
     "name" : "Yahoo!",
+    "notes" : "",
     "url" : "https://edit.yahoo.com/config/delete_user"
   },
   "keywords" : [ "search", "groups" ],
@@ -86,6 +87,7 @@
     }
   },
   "name" : "Yahoo!",
+  "parent" : "",
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/WEwv5V2M9zw/Fevl-3Wq_BsJ",
     "id" : "WEwv5V2M9zw",
@@ -116,6 +118,38 @@
       "point" : "good",
       "score" : 80,
       "tldr" : "The copyright license granted to Yahoo for photos, graphics, audio and video is limited “solely for the purpose for which such Content was submitted or made available”. "
+    }
+  }, {
+    "discussion" : "",
+    "id" : "yahoo-cookies-and-web-beacons",
+    "meta" : {
+      "author" : "Greer Hahn",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "reason" : "",
+    "related-id" : "",
+    "set" : "",
+    "source" : { },
+    "title" : "Cookie and web beacon use",
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "example" : { },
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "",
+      "case" : "",
+      "point" : "bad",
+      "score" : 60,
+      "tldr" : "Yahoo sets and uses cookies on your computer. This gives Yahoo both identifiable (when you are signed in) and anonymous (when you are signed out) forms of information about you, your preferences and behaviour. You can choose to reject all cookies in your browser but this may prevent you from using Yahoo services that require you to sign in. To track you on other Yahoo Services’ sites and across the web, Yahoo may also use web beacons that act in a similar way to cookies and gather and contain information about your web browsing behaviour"
     }
   }, {
     "discussion" : "https://groups.google.com/d/msg/tosdr/WEwv5V2M9zw/Fevl-3Wq_BsJ",
@@ -208,6 +242,38 @@
       "point" : "bad",
       "score" : 70,
       "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms."
+    }
+  }, {
+    "discussion" : "",
+    "id" : "yahoo-third-party-cookies-and-web-beacons",
+    "meta" : {
+      "author" : "Greer Hahn",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "reason" : "",
+    "related-id" : "",
+    "set" : "",
+    "source" : { },
+    "title" : "Third party cookie and web beacon use",
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "example" : { },
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "",
+      "case" : "",
+      "point" : "bad",
+      "score" : 60,
+      "tldr" : "Yahoo lets its advertisers set and access their cookies and web beacons on your computer. These cookies and web beacons and their use are subject to their own privacy policies, not Yahoo’s privacy policy."
     }
   }, {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
@@ -306,6 +372,37 @@
       "point" : "bad",
       "score" : 30,
       "tldr" : "The service is not making clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+    }
+  }, {
+    "discussion" : "",
+    "id" : "yahoo-account-deletion",
+    "meta" : {
+      "author" : "Greer Hahn",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "reason" : "",
+    "related-id" : "",
+    "set" : "",
+    "source" : { },
+    "title" : "Yahoo deletes your account after 90 days yet copied information in back-up storage may be kept for an undefined period of time after your deletion request.",
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "example" : { },
+      "id" : "leave",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "",
+      "case" : "",
+      "point" : "bad",
+      "score" : 25,
+      "tldr" : "If you ask Yahoo to delete your account, in most cases your account will be deactivated and then deleted from their user registration database in approximately 90 days. If they have copied information to back-up storage it could remain there for an undefined period of time."
     }
   } ],
   "related" : [ "google" ],

@@ -68,6 +68,7 @@
     "difficulty" : "easy",
     "meta" : "popular",
     "name" : "Yahoo!",
+    "notes" : "",
     "url" : "https://edit.yahoo.com/config/delete_user"
   },
   "keywords" : [ "search", "groups" ],
@@ -86,7 +87,8 @@
     }
   },
   "name" : "Yahoo!",
-  "pointIds" : [ "WEwv5V2M9zw", "q782XE2RUss", "WEwv5V2M9zw2", "any-time-without-notice", "eff-back-tell-user-no", "legal-name-registration", "eff-back-transparency-data-no" ],
+  "parent" : "",
+  "pointIds" : [ "WEwv5V2M9zw", "yahoo-cookies-and-web-beacons", "WEwv5V2M9zw2", "q782XE2RUss", "any-time-without-notice", "yahoo-third-party-cookies-and-web-beacons", "eff-back-tell-user-no", "legal-name-registration", "eff-back-transparency-data-no", "yahoo-account-deletion" ],
   "points" : [ ],
   "related" : [ "google" ],
   "tosback2" : {
