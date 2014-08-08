@@ -92,7 +92,7 @@
       "case" : "you cannot share screenshots of your admin panel"
     },
     "topics" : [ {
-      "description" : "The level of information provided by the ‪service that is beneficial to the user.",
+      "description" : "The level of information provided by the service that is beneficial to the user.",
       "id" : "user-info",
       "name" : "User information",
       "subtitle" : "Transparency and education",
