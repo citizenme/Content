@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "flickr-jurisdiction-varies",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Jurisdiction varies",
+  "topicIds" : [ "governance" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "neutral",
+    "score" : 0,
+    "tldr" : "The jurisdiction and governing laws for Yahoo's Terms of Service (which Flickr relies on as a Yahoo company) varies for users globally. For example, UK users’ Terms of Service are governed by the Courts of Ireland (As Yahoo EMEA covering European countries has an Irish HQ); US users' Terms of Service are governed by the courts of Santa Clara, California, US. Similarly, there is no universal privacy policy for users – they vary depending on your location and the governing laws that apply. Users of Flickr Pro account have additional terms that are governed by the courts of Santa Clara, California, US."
+  }
+}

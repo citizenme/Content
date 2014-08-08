@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "yahoo-cookies-and-web-beacons",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Cookie and web beacon use",
+  "topicIds" : [ "cookies" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "bad",
+    "score" : 60,
+    "tldr" : "Yahoo sets and uses cookies on your computer. This gives Yahoo both identifiable (when you are signed in) and anonymous (when you are signed out) forms of information about you, your preferences and behaviour. You can choose to reject all cookies in your browser but this may prevent you from using Yahoo services that require you to sign in. To track you on other Yahoo Services’ sites and across the web, Yahoo may also use web beacons that act in a similar way to cookies and gather and contain information about your web browsing behaviour"
+  }
+}

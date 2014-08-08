@@ -2,52 +2,52 @@
   "alexa" : 56,
   "class" : "",
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "https://www.flickr.com/account/"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
+    "linkid" : "changeBio",
     "url" : "http://www.flickr.com/profile_edit.gne?from=personal"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://login.yahoo.com/config/login?.done=https%3A%2F%2Fedit.europe.yahoo.com%2Fconfig%2Fchange_pw%3F.scrumb%3D0%26.done%3D%26.confirm%3D%26.st%3D%26.spreg%3D"
   }, {
-    "linkid" : "changeUsername",
     "description" : "Change Username",
+    "linkid" : "changeUsername",
     "url" : "http://www.flickr.com/account/prefs/screenname/?from=personal"
   }, {
-    "linkid" : "changeEmail",
     "description" : "Change Email",
+    "linkid" : "changeEmail",
     "url" : "http://www.flickr.com/account/email/"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
     "url" : "http://www.flickr.com/account/email/"
   }, {
-    "linkid" : "deleteAccount",
     "description" : "Delete Account",
+    "linkid" : "deleteAccount",
     "url" : "http://www.flickr.com/profile_delete.gne"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
+    "linkid" : "recoverPassword",
     "url" : "https://edit.yahoo.com/forgotroot"
   }, {
-    "linkid" : "changeProfilePicture",
     "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
     "url" : "http://www.flickr.com/iconbuilder/?from=personal"
   }, {
-    "linkid" : "changeDesign",
     "description" : "Change Design",
+    "linkid" : "changeDesign",
     "url" : "http://www.flickr.com/account/prefs/layout/"
   }, {
-    "linkid" : "changeConnectedAccounts",
     "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
     "url" : "http://www.flickr.com/account/sharing/"
   }, {
-    "linkid" : "changeThirdPartyPermissions",
     "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
     "url" : "http://www.flickr.com/services/auth/list.gne?from=extend"
   } ],
   "fileName" : "flickr.json",
@@ -61,11 +61,11 @@
   },
   "id" : "flickr",
   "jdm" : {
+    "difficulty" : "easy",
     "meta" : "",
     "name" : "Flickr",
-    "url" : "http://www.flickr.com/profile_delete.gne",
-    "difficulty" : "easy",
-    "notes" : ""
+    "notes" : "",
+    "url" : "http://www.flickr.com/profile_delete.gne"
   },
   "keywords" : [ "photos", "pictures" ],
   "links" : {
@@ -80,7 +80,8 @@
   },
   "name" : "Flickr",
   "parent" : "yahoo",
-  "pointIds" : [ "q782XE2RUss1", "K1M7Vj1W1VM", "WEwv5V2M9zw3", "any-time-with-notice", "flickr-selective-sharing", "sZ6MVIwA-tE", "U11qApwNL2M" ],
+  "pointIds" : [ "yahoo-cookies-and-web-beacons", "q782XE2RUss1", "K1M7Vj1W1VM", "eff-back-transparency-data", "WEwv5V2M9zw3", "any-time-with-notice", "flickr-selective-sharing", "sZ6MVIwA-tE", "yahoo-third-party-cookies-and-web-beacons", "flickr-jurisdiction-varies", "eff-back-tell-user", "U11qApwNL2M" ],
+  "points" : [ ],
   "related" : [ "twitpic", "500px" ],
   "tosback2" : {
     "privacy" : {
@@ -96,10 +97,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "flickr.com",
