@@ -1,22 +1,22 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "icloud.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "icloud",
+  "jdm" : { },
   "keywords" : [ ],
   "name" : "icloud",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "icloud.json",
-  "jdm" : { },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

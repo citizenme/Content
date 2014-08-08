@@ -1,247 +1,76 @@
 {
   "alexa" : 4,
-  "freesoftware" : false,
-  "id" : "yahoo",
-  "keywords" : [ "search", "groups" ],
-  "name" : "Yahoo!",
-  "type" : "service",
-  "url" : "yahoo.com",
-  "urls" : [ "yahoo.com" ],
+  "class" : "",
+  "deepLinks" : [ {
+    "description" : "Settings Page",
+    "linkid" : "settingsPage",
+    "url" : "https://edit.yahoo.com/mc2.0/eval_profile"
+  }, {
+    "description" : "Change Bio",
+    "linkid" : "changeBio",
+    "url" : "https://profile.yahoo.com/"
+  }, {
+    "description" : "Change Username",
+    "linkid" : "changeUsername",
+    "url" : "https://edit.yahoo.com/identity/manage?show=a"
+  }, {
+    "description" : "Change Password",
+    "linkid" : "changePassword",
+    "url" : "https://edit.yahoo.com/config/change_pw"
+  }, {
+    "description" : "Change Email",
+    "linkid" : "changeEmail",
+    "url" : "https://edit.yahoo.com/config/edit_account"
+  }, {
+    "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
+    "url" : "https://edit.yahoo.com/config/edit_account"
+  }, {
+    "description" : "Delete Account",
+    "linkid" : "deleteAccount",
+    "url" : "https://edit.yahoo.com/config/delete_user"
+  }, {
+    "description" : "Change Mobile Settings",
+    "linkid" : "changeMobileSettings",
+    "url" : "https://edit.yahoo.com/commchannel/manage"
+  }, {
+    "description" : "Recover Password",
+    "linkid" : "recoverPassword",
+    "url" : "https://edit.yahoo.com/forgotroot"
+  }, {
+    "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
+    "url" : "https://profile.yahoo.com/"
+  }, {
+    "description" : "Change Design",
+    "linkid" : "changeDesign",
+    "url" : "https://profile.yahoo.com/"
+  }, {
+    "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
+    "url" : "https://api.login.yahoo.com/WSLogin/V1/unlink"
+  }, {
+    "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
+    "url" : "https://api.login.yahoo.com/WSLogin/V1/unlink"
+  } ],
   "fileName" : "yahoo.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/Yahoo-icon-colour.png",
+    "icon-colour-2x" : "/i/Yahoo-icon-colour@2x.png",
+    "icon-grey" : "/i/Yahoo-icon-grey.png",
+    "icon-grey-2x" : "/i/Yahoo-icon-grey@2x.png"
+  },
+  "id" : "yahoo",
   "jdm" : {
+    "difficulty" : "easy",
     "meta" : "popular",
     "name" : "Yahoo!",
-    "url" : "https://edit.yahoo.com/config/delete_user",
-    "difficulty" : "easy"
+    "url" : "https://edit.yahoo.com/config/delete_user"
   },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/WEwv5V2M9zw/Fevl-3Wq_BsJ",
-    "id" : "WEwv5V2M9zw",
-    "title" : "Yahoo's copyright license for photos, graphics, audio and video limited for purpose",
-    "source" : {
-      "terms" : "http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 80,
-      "tldr" : "The copyright license granted to Yahoo for photos, graphics, audio and video is limited “solely for the purpose for which such Content was submitted or made available”. ",
-      "case" : "limited for purpose of same service"
-    },
-    "topics" : [ {
-      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-      "id" : "copyright-scope",
-      "name" : "Scope of the copyright license",
-      "subtitle" : "Do you grant only the necessary rights?",
-      "title" : "Scope of the copyright license",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "ownership",
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "WEwv5V2M9zw"
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/WEwv5V2M9zw/Fevl-3Wq_BsJ",
-    "id" : "WEwv5V2M9zw2",
-    "title" : "Yahoo's copyright license for groups limited for purpose",
-    "source" : {
-      "terms" : "http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 80,
-      "tldr" : "The copyright license granted to Yahoo “With respect to Content you submit or make available for inclusion on publicly accessible areas of Yahoo! Groups, the license to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content on the Yahoo! Services solely for the purposes of providing and promoting the specific Yahoo! Group to which such Content was submitted or made available. This license exists only for as long as you elect to continue to include such Content on the Yahoo! Services and will terminate at the time you remove or Yahoo! removes such Content from the Yahoo! Services.” ",
-      "case" : "limited for purpose of same service"
-    },
-    "topics" : [ {
-      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-      "id" : "copyright-scope",
-      "name" : "Scope of the copyright license",
-      "subtitle" : "Do you grant only the necessary rights?",
-      "title" : "Scope of the copyright license",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "ownership",
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "WEwv5V2M9zw2"
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",
-    "id" : "any-time-without-notice",
-    "title" : "Terms may be changed at any time without advance notice",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 70,
-      "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms.",
-      "case" : "user needs to check tosback.org"
-    },
-    "topics" : [ {
-      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
-      "id" : "changes",
-      "name" : "Notice of Changing Terms",
-      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
-      "title" : "Notice of Changing Terms",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "changes",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "Hugo for “Terms of Service; Didn't Read”",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-tell-user-no",
-    "title" : "No promise to inform you about data requests from governments",
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it's unlikely you'd know about the request, you'd have no real opportunity to object to the request being made or carried out.",
-      "case" : "no promise to inform/notify"
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-transparency-data-no",
-    "title" : "No transparency on law enforcement requests",
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 30,
-      "tldr" : "The service is not making clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data.",
-      "case" : "no transparency"
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    }, {
-      "id" : "law-enforcement",
-      "name" : "Law enforcement and due process",
-      "subtitle" : "What are the law enforcement standards followed by the service?",
-      "title" : "Law enforcement and due process",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "law-gov",
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/I_8sVP8J8WY/discussion",
-    "id" : "legal-name-registration",
-    "title" : "You must provide your legal name upon registration",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 20,
-      "tldr" : "You agree to provide your full legal name when you register to the service. It does not prevent you from using a pseudonym.",
-      "case" : "pseudonym not allowed (not because of user-to-user trust)"
-    },
-    "topics" : [ {
-      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-      "id" : "track",
-      "name" : "Anonymity and Tracking",
-      "subtitle" : "Are you being spied on?",
-      "title" : "Anonymity and Tracking",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted: Hugo",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/q782XE2RUss/uv1Soto5YcMJ",
-    "id" : "q782XE2RUss",
-    "title" : "Your account can be suspended for several reasons",
-    "source" : {
-      "terms" : "http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "neutral",
-      "score" : 15,
-      "tldr" : "“Section 15: Termination … You agree that Yahoo! may, without prior notice, immediately terminate, limit your access to or suspend your Yahoo! account, any associated email address, and access to the Yahoo! Services. Cause for such termination, limitation of access or suspension shall include, but not be limited to, (a) breaches or violations of the TOS or other incorporated agreements or guidelines, (b)requests by law enforcement or other government agencies, (c) discontinuance or material modification to the Yahoo! Services (or any part thereof), (d) unexpected technical or security issues or problems, (e) extended periods of inactivity, (f) engagement by you in fraudulent or illegal activities, and/or (g) nonpayment of any fees owed by you in connection with the Yahoo! Services. Further, you agree that all terminations, limitations of access and suspensions for cause shall be made in Yahoo!'s sole discretion and that Yahoo! shall not be liable to you or any third party for any termination of your account, any associated email address, or access to the Yahoo! Services.”",
-      "case" : "they can suspend your account for several reasons"
-    },
-    "topics" : [ {
-      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
-      "id" : "suspension",
-      "name" : "Suspension and Censorship",
-      "subtitle" : "Can they end your use of the service at any time?",
-      "title" : "Suspension and Censorship",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  } ],
+  "keywords" : [ "search", "groups" ],
   "links" : {
     "guidelines" : {
       "name" : "Community Guidelines",
@@ -256,7 +85,229 @@
       "url" : "http://www.yahoo.com/r/ts"
     }
   },
-  "fulltos" : { },
+  "name" : "Yahoo!",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/WEwv5V2M9zw/Fevl-3Wq_BsJ",
+    "id" : "WEwv5V2M9zw",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "WEwv5V2M9zw",
+    "source" : {
+      "terms" : "http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html"
+    },
+    "title" : "Yahoo's copyright license for photos, graphics, audio and video limited for purpose",
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "example" : { },
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "limited for purpose of same service",
+      "point" : "good",
+      "score" : 80,
+      "tldr" : "The copyright license granted to Yahoo for photos, graphics, audio and video is limited “solely for the purpose for which such Content was submitted or made available”. "
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/WEwv5V2M9zw/Fevl-3Wq_BsJ",
+    "id" : "WEwv5V2M9zw2",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "WEwv5V2M9zw2",
+    "source" : {
+      "terms" : "http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html"
+    },
+    "title" : "Yahoo's copyright license for groups limited for purpose",
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "example" : { },
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "limited for purpose of same service",
+      "point" : "good",
+      "score" : 80,
+      "tldr" : "The copyright license granted to Yahoo “With respect to Content you submit or make available for inclusion on publicly accessible areas of Yahoo! Groups, the license to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content on the Yahoo! Services solely for the purposes of providing and promoting the specific Yahoo! Group to which such Content was submitted or made available. This license exists only for as long as you elect to continue to include such Content on the Yahoo! Services and will terminate at the time you remove or Yahoo! removes such Content from the Yahoo! Services.” "
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/q782XE2RUss/uv1Soto5YcMJ",
+    "id" : "q782XE2RUss",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html"
+    },
+    "title" : "Your account can be suspended for several reasons",
+    "topics" : [ {
+      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
+      "example" : { },
+      "id" : "suspension",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Suspension and Censorship",
+      "subtitle" : "Can they end your use of the service at any time?",
+      "title" : "Suspension and Censorship",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "they can suspend your account for several reasons",
+      "point" : "neutral",
+      "score" : 15,
+      "tldr" : "“Section 15: Termination … You agree that Yahoo! may, without prior notice, immediately terminate, limit your access to or suspend your Yahoo! account, any associated email address, and access to the Yahoo! Services. Cause for such termination, limitation of access or suspension shall include, but not be limited to, (a) breaches or violations of the TOS or other incorporated agreements or guidelines, (b)requests by law enforcement or other government agencies, (c) discontinuance or material modification to the Yahoo! Services (or any part thereof), (d) unexpected technical or security issues or problems, (e) extended periods of inactivity, (f) engagement by you in fraudulent or illegal activities, and/or (g) nonpayment of any fees owed by you in connection with the Yahoo! Services. Further, you agree that all terminations, limitations of access and suspensions for cause shall be made in Yahoo!'s sole discretion and that Yahoo! shall not be liable to you or any third party for any termination of your account, any associated email address, or access to the Yahoo! Services.”"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",
+    "id" : "any-time-without-notice",
+    "meta" : {
+      "author" : "Hugo for “Terms of Service; Didn't Read”",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Terms may be changed at any time without advance notice",
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "example" : { },
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "user needs to check tosback.org",
+      "point" : "bad",
+      "score" : 70,
+      "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-tell-user-no",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
+    },
+    "title" : "No promise to inform you about data requests from governments",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "no promise to inform/notify",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it’s unlikely you’d know about the request, you’d have no real opportunity to object to the request being made or carried out."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/I_8sVP8J8WY/discussion",
+    "id" : "legal-name-registration",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted: Hugo",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "You must provide your legal name upon registration",
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "example" : { },
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "pseudonym not allowed (not because of user-to-user trust)",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "You agree to provide your full legal name when you register to the service. It does not prevent you from using a pseudonym."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-transparency-data-no",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
+    },
+    "title" : "No transparency on law enforcement requests",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    }, {
+      "example" : { },
+      "id" : "law-enforcement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law enforcement and due process",
+      "parent" : "law-gov",
+      "subtitle" : "What are the law enforcement standards followed by the service?",
+      "title" : "Law enforcement and due process",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "no transparency",
+      "point" : "bad",
+      "score" : 30,
+      "tldr" : "The service is not making clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+    }
+  } ],
   "related" : [ "google" ],
   "tosback2" : {
     "guidelines" : {
@@ -275,64 +326,13 @@
       "url" : "http://www.yahoo.com/r/ts"
     }
   },
-  "deepLinks" : [ {
-    "linkid" : "settingsPage",
-    "description" : "Settings Page",
-    "url" : "https://edit.yahoo.com/mc2.0/eval_profile"
-  }, {
-    "linkid" : "changeBio",
-    "description" : "Change Bio",
-    "url" : "https://profile.yahoo.com/"
-  }, {
-    "linkid": "changeUsername",
-    "description": "Change Username",
-    "url": "https://edit.yahoo.com/identity/manage?show=a"
-  }, {
-    "linkid" : "changePassword",
-    "description" : "Change Password",
-    "url" : "https://edit.yahoo.com/config/change_pw"
-  }, {
-    "linkid" : "changeEmail",
-    "description" : "Change Email",
-    "url" : "https://edit.yahoo.com/config/edit_account"
-  }, {
-    "linkid" : "changeEmailSettings",
-    "description" : "Change Email Settings",
-    "url" : "https://edit.yahoo.com/config/edit_account"
-  }, {
-    "linkid" : "deleteAccount",
-    "description" : "Delete Account",
-    "url" : "https://edit.yahoo.com/config/delete_user"
-  }, {
-     "linkid": "changeMobileSettings",
-     "description": "Change Mobile Settings",
-     "url": "https://edit.yahoo.com/commchannel/manage"
-  }, {
-    "linkid" : "recoverPassword",
-    "description" : "Recover Password",
-    "url" : "https://edit.yahoo.com/forgotroot"
-  }, {
-    "linkid" : "changeProfilePicture",
-    "description" : "Change Profile Picture",
-    "url" : "https://profile.yahoo.com/"
-  }, {
-    "linkid": "changeDesign",
-    "description": "Change Design",
-    "url": "https://profile.yahoo.com/"
-  }, {
-    "linkid": "changeConnectedAccounts",
-    "description": "Change Connected Accounts",
-    "url": "https://api.login.yahoo.com/WSLogin/V1/unlink"
-  }, {
-    "linkid" : "changeThirdPartyPermissions",
-    "description" : "Change 3rd Party Permissions",
-    "url" : "https://api.login.yahoo.com/WSLogin/V1/unlink"
-  } ],
-  "icons" : {
-    "icon-colour" : "/i/Yahoo-icon-colour.png",
-    "icon-colour-2x" : "/i/Yahoo-icon-colour@2x.png",
-    "icon-grey" : "/i/Yahoo-icon-grey.png",
-    "icon-grey-2x" : "/i/Yahoo-icon-grey@2x.png"
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
   },
-  "class" : ""
+  "type" : "service",
+  "url" : "yahoo.com",
+  "urls" : [ "yahoo.com" ]
 }

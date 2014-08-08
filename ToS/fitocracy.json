@@ -1,26 +1,26 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "fitocracy.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "fitocracy",
+  "jdm" : {
+    "difficulty" : "easy",
+    "name" : "Fitocracy",
+    "url" : "https://www.fitocracy.com/account/deletion/"
+  },
   "keywords" : [ ],
   "name" : "fitocracy",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "fitocracy.json",
-  "jdm" : {
-    "name" : "Fitocracy",
-    "url" : "https://www.fitocracy.com/account/deletion/",
-    "difficulty" : "easy"
-  },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

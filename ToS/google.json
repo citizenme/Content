@@ -1,467 +1,68 @@
 {
   "alexa" : 2,
-  "freesoftware" : false,
-  "id" : "google",
-  "keywords" : [ "search", "groups" ],
-  "name" : "Google",
-  "type" : "service",
-  "url" : "google.com",
-  "urls" : [ "google.com" ],
+  "class" : "C",
+  "deepLinks" : [ {
+    "description" : "Settings Page",
+    "linkid" : "settingsPage",
+    "url" : "https://plus.google.com/u/0/settings"
+  }, {
+    "description" : "Change Bio",
+    "linkid" : "changeBio",
+    "url" : "https://plus.google.com/u/0/me/about/edit/d"
+  }, {
+    "description" : "Change Password",
+    "linkid" : "changePassword",
+    "url" : "https://www.google.com/accounts/b/0/EditPasswd"
+  }, {
+    "description" : "Change Username",
+    "linkid" : "changeUsername",
+    "url" : "https://accounts.google.com/b/0/EditUserInfo"
+  }, {
+    "description" : "Change Email",
+    "linkid" : "changeEmail",
+    "url" : "https://www.google.com/accounts/b/0/EditUserInfo"
+  }, {
+    "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
+    "url" : "https://www.google.com/settings/plus"
+  }, {
+    "description" : "Delete Account",
+    "linkid" : "deleteAccount",
+    "url" : "https://www.google.com/accounts/b/0/DeleteAccount"
+  }, {
+    "description" : "Recover Password",
+    "linkid" : "recoverPassword",
+    "url" : "https://www.google.com/accounts/recovery"
+  }, {
+    "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
+    "url" : "https://plus.google.com/u/0/me/about/edit/d"
+  }, {
+    "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
+    "url" : "https://profiles.google.com/connectedaccounts?authuser=0"
+  }, {
+    "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
+    "url" : "https://plus.google.com/apps"
+  } ],
   "fileName" : "google.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/googleplus-icon-colour.png",
+    "icon-colour-2x" : "/i/googleplus-icon-colour@2x.png",
+    "icon-grey" : "/i/googleplus-icon-grey.png",
+    "icon-grey-2x" : "/i/googleplus-icon-grey@2x.png"
+  },
+  "id" : "google",
   "jdm" : {
+    "difficulty" : "easy",
     "meta" : "popular",
     "name" : "Google",
-    "url" : "https://www.google.com/accounts/Login",
-    "difficulty" : "easy"
+    "url" : "https://www.google.com/accounts/Login"
   },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "C",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/2xvjZf1mgd0/discussion",
-    "id" : "2xvjZf1mgd0",
-    "title" : "Google retains rights on your content when you leave",
-    "source" : {
-      "terms" : "http://www.google.com/intl/en/policies/terms/"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 25,
-      "tldr" : "The copyright licence that you grant to Google on content you upload to their services continues even if you stop using the services. This licence applies to all Google services due to their universal terms across services. Otherwise you need to check each service for ways to remove content and for specific clauses that restrict the license in time.",
-      "case" : "your content stays licensed"
-    },
-    "topics" : [ {
-      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
-      "id" : "leave",
-      "name" : "Right to leave the service",
-      "subtitle" : "To avoid lock-in and stay in control",
-      "title" : "Right to leave the service",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/E58aPtzP3jk/discussion",
-    "id" : "E58aPtzP3jk",
-    "title" : "This service tracks you on other websites",
-    "set" : "set+service+and+topic",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 60,
-      "tldr" : "This service and their partners use cookies to track you even if you are not interacting with the service directly. Information gathered about you could include: date and time you visit the site; the web address or URL you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to the service at the same time, your user ID.",
-      "case" : "tracks you on other websites"
-    },
-    "topics" : [ {
-      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
-      "id" : "cookies",
-      "name" : "Cookies",
-      "subtitle" : "and related technologies",
-      "title" : "Cookies",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "track",
-      "example" : { }
-    }, {
-      "id" : "third",
-      "name" : "Third Parties",
-      "subtitle" : "",
-      "title" : "Third Parties",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : { }
-  }, {
-    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/HUL_4wIbNGY",
-    "id" : "HUL_4wIbNGY",
-    "title" : "Advance notice of changes",
-    "source" : {
-      "terms" : "http://groups.google.com/intl/en/policies/terms/"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 30,
-      "tldr" : "Ordinarily, Google posts changes to terms on their site or if they are significant, will notify you via email. Google won't implement changes sooner than 14 days after noticed was given or posted. They will not reduce your rights under their privacy policy without your explicit consent.",
-      "case" : "user is notified a week or more in advance"
-    },
-    "topics" : [ {
-      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
-      "id" : "changes",
-      "name" : "Notice of Changing Terms",
-      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
-      "title" : "Notice of Changing Terms",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "changes",
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/JcGg9TPZ7V0/discussion",
-    "id" : "JcGg9TPZ7V0",
-    "title" : "Jurisdiction in California",
-    "source" : {
-      "terms" : "http://groups.google.com/intl/en/policies/terms/"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "neutral",
-      "score" : 0,
-      "tldr" : "This terms of services agreement is governed by the laws of California, USA, excluding California's conflict of laws rules. This means if there's a dispute between you and Google about the terms of service, you have both already consented to personal jurisdiction in the federal or state courts of Santa Clara County, California.",
-      "case" : "court of law is in location X"
-    },
-    "topics" : [ {
-      "description" : "What is the jurisdiction, what laws govern the terms?",
-      "id" : "jurisdiction-law",
-      "name" : "Jurisdiction and governing laws",
-      "subtitle" : "Where can you sue, or be sued, for breaching of the rules?",
-      "title" : "Jurisdiction and governing laws",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { },
-      "category" : "governance"
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/PD5ZWzgv2RI/discussion",
-    "id" : "PD5ZWzgv2RI",
-    "title" : "You can export your information before a service is discontinued",
-    "source" : {
-      "terms" : "http://www.google.com/intl/en/policies/terms/"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 30,
-      "tldr" : "When a service is discontinued for all users, Google gives you reasonable advance notice so you have an opportunity to export your information from that service.",
-      "case" : "they provide a way to export your data"
-    },
-    "topics" : [ {
-      "description" : "The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is your content, your data: you can decide.",
-      "id" : "ownership",
-      "name" : "Ownership",
-      "subtitle" : "What happens with the content you generate on the service?",
-      "title" : "Ownership",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : {
-        "bad" : "We get a license beyond the requirements to operate the service, so your data may be used for purposes you do not intend. We will still attribute ownership to you.",
-        "blocker" : "We become the owners of your data.",
-        "good" : "You license us to use your data only for the purpose of operating this service."
-      }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR",
-      "contributors" : [ "Hugo Roy <hugo@tosdrd.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/QZgR8faRWDU/discussion",
-    "id" : "QZgR8faRWDU",
-    "title" : "Google can share your personal information with other parties",
-    "source" : {
-      "privacy" : "http://www.google.com/intl/en/policies/privacy/"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "Google can share your personal information with other parties. For sensitive information (medical, racial, ethnic, political, religious or sexuality) Google requires your \"opt-in\" consent. Google can also share or publish aggregated data that does not identify you.",
-      "case" : "third-party access without a warrant"
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    }, {
-      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-      "id" : "track",
-      "name" : "Anonymity and Tracking",
-      "subtitle" : "Are you being spied on?",
-      "title" : "Anonymity and Tracking",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    }, {
-      "id" : "third",
-      "name" : "Third Parties",
-      "subtitle" : "",
-      "title" : "Third Parties",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/Vn7He54dnVI/discussion",
-    "id" : "Vn7He54dnVI",
-    "title" : "Google can use your content for all their existing and future services",
-    "source" : {
-      "terms" : "http://groups.google.com/intl/en/policies/terms/"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 60,
-      "tldr" : "The content you post on a particular Google service can be used by Google on other services you may not be aware of, and even with future services that have not been created yet.",
-      "case" : "they can use your content for all their existing and future services"
-    },
-    "topics" : [ {
-      "description" : "The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is your content, your data: you can decide.",
-      "id" : "ownership",
-      "name" : "Ownership",
-      "subtitle" : "What happens with the content you generate on the service?",
-      "title" : "Ownership",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : {
-        "bad" : "We get a license beyond the requirements to operate the service, so your data may be used for purposes you do not intend. We will still attribute ownership to you.",
-        "blocker" : "We become the owners of your data.",
-        "good" : "You license us to use your data only for the purpose of operating this service."
-      }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/damOWTFaho0/discussion",
-    "id" : "damOWTFaho0-1",
-    "title" : "A public record of past terms of service policies",
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 10,
-      "tldr" : "The terms of service page on their site provides a link to their archive of all past policies so you can see how terms have changed with each update.",
-      "case" : "archives provided"
-    },
-    "topics" : [ {
-      "id" : "readability",
-      "name" : "Easy to read",
-      "subtitle" : "Are the terms easy to find and well written?",
-      "title" : "Easy to read",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { },
-      "category" : "governance"
-    } ],
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "damOWTFaho0"
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-tell-user-no",
-    "title" : "No promise to inform you about data requests from governments",
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it's unlikely you'd know about the request, you'd have no real opportunity to object to the request being made or carried out.",
-      "case" : "no promise to inform/notify"
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-transparency-data",
-    "title" : "Transparency on law enforcement requests",
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 30,
-      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data.",
-      "case" : "transparency"
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    }, {
-      "id" : "law-enforcement",
-      "name" : "Law enforcement and due process",
-      "subtitle" : "What are the law enforcement standards followed by the service?",
-      "title" : "Law enforcement and due process",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "law-gov",
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/ji7uAaXXTN4/discussion",
-    "id" : "ji7uAaXXTN4",
-    "title" : "Google may stop providing services to you at any time",
-    "source" : {
-      "terms" : "http://www.google.com/intl/en/policies/terms/"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 40,
-      "tldr" : "\"Google may stop providing services to you, or add or create new limits to services at any time.\" Google has no obligation to give you advance notice or to give a reason for that termination.",
-      "case" : "they may stop providing the service at any time"
-    },
-    "topics" : [ {
-      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
-      "id" : "suspension",
-      "name" : "Suspension and Censorship",
-      "subtitle" : "Can they end your use of the service at any time?",
-      "title" : "Suspension and Censorship",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR",
-      "contributors" : [ "Hugo Roy <hugo@tosdrd.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/lU-QhFXMOcU/discussion",
-    "id" : "lU-QhFXMOcU",
-    "title" : "A limited copyright license",
-    "source" : {
-      "terms" : "http://groups.google.com/intl/en/policies/terms/"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 40,
-      "tldr" : "The copyright license you grant Google is limited to the purpose of operating, promoting, and improving their services, and to develop new ones. It is not however limited by time - so if you leave the service, Google retains the rights to use your content for these purposes.",
-      "case" : "limited for purpose across broad platform"
-    },
-    "topics" : [ {
-      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-      "id" : "copyright-scope",
-      "name" : "Scope of the copyright license",
-      "subtitle" : "Do you grant only the necessary rights?",
-      "title" : "Scope of the copyright license",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "ownership",
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "lU-QhFXMOcU"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/yCSzdR_gOW4/discussion",
-    "id" : "yCSzdR_gOW4",
-    "title" : "Google keeps your information for an undefined period of time",
-    "source" : {
-      "terms" : "http://groups.google.com/intl/en/policies/privacy/"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 100,
-      "tldr" : "Google collects a lot of information about the services you use and how you use them, including searches, personally identifiable information and activity when you visit a website using a Google service (e.g. via search or an advertisement). Google does not disclose how long this information is kept on their servers.",
-      "case" : "logs are kept forever"
-    },
-    "topics" : [ {
-      "id" : "logs-length",
-      "name" : "Logs",
-      "subtitle" : "How long do they keep them?",
-      "title" : "Logs",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "track",
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  } ],
+  "keywords" : [ "search", "groups" ],
   "links" : {
     "definitions" : {
       "name" : "Key terms",
@@ -480,7 +81,449 @@
       "url" : "https://www.google.com/intl/en/policies/terms/"
     }
   },
-  "fulltos" : { },
+  "name" : "Google",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/yCSzdR_gOW4/discussion",
+    "id" : "yCSzdR_gOW4",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://groups.google.com/intl/en/policies/privacy/"
+    },
+    "title" : "Google keeps your information for an undefined period of time",
+    "topics" : [ {
+      "example" : { },
+      "id" : "logs-length",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Logs",
+      "parent" : "track",
+      "subtitle" : "How long do they keep them?",
+      "title" : "Logs",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "logs are kept forever",
+      "point" : "bad",
+      "score" : 100,
+      "tldr" : "Google collects a lot of information about the services you use and how you use them, including searches, personally identifiable information and activity when you visit a website using a Google service (e.g. via search or an advertisement). Google does not disclose how long this information is kept on their servers."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/2xvjZf1mgd0/discussion",
+    "id" : "2xvjZf1mgd0",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.google.com/intl/en/policies/terms/"
+    },
+    "title" : "Google retains rights on your content when you leave",
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "example" : { },
+      "id" : "leave",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "your content stays licensed",
+      "point" : "bad",
+      "score" : 25,
+      "tldr" : "The copyright licence that you grant to Google on content you upload to their services continues even if you stop using the services. This licence applies to all Google services due to their universal terms across services. Otherwise you need to check each service for ways to remove content and for specific clauses that restrict the license in time."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/JcGg9TPZ7V0/discussion",
+    "id" : "JcGg9TPZ7V0",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://groups.google.com/intl/en/policies/terms/"
+    },
+    "title" : "Jurisdiction in California",
+    "topics" : [ {
+      "category" : "governance",
+      "description" : "What is the jurisdiction, what laws govern the terms?",
+      "example" : { },
+      "id" : "jurisdiction-law",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Jurisdiction and governing laws",
+      "subtitle" : "Where can you sue, or be sued, for breaching of the rules?",
+      "title" : "Jurisdiction and governing laws",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "court of law is in location X",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "This terms of services agreement is governed by the laws of California, USA, excluding California's conflict of laws rules. This means if there's a dispute between you and Google about the terms of service, you have both already consented to personal jurisdiction in the federal or state courts of Santa Clara County, California."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/QZgR8faRWDU/discussion",
+    "id" : "QZgR8faRWDU",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "http://www.google.com/intl/en/policies/privacy/"
+    },
+    "title" : "Google can share your personal information with other parties",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    }, {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "example" : { },
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    }, {
+      "example" : { },
+      "id" : "third",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "third-party access without a warrant",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "Google can share your personal information with other parties. For sensitive information (medical, racial, ethnic, political, religious or sexuality) Google requires your \"opt-in\" consent. Google can also share or publish aggregated data that does not identify you."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-transparency-data",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
+    },
+    "title" : "Transparency on law enforcement requests",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    }, {
+      "example" : { },
+      "id" : "law-enforcement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law enforcement and due process",
+      "parent" : "law-gov",
+      "subtitle" : "What are the law enforcement standards followed by the service?",
+      "title" : "Law enforcement and due process",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "transparency",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/damOWTFaho0/discussion",
+    "id" : "damOWTFaho0-1",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "damOWTFaho0",
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "A public record of past terms of service policies",
+    "topics" : [ {
+      "category" : "governance",
+      "example" : { },
+      "id" : "readability",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Easy to read",
+      "subtitle" : "Are the terms easy to find and well written?",
+      "title" : "Easy to read",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "archives provided",
+      "point" : "good",
+      "score" : 10,
+      "tldr" : "The terms of service page on their site provides a link to their archive of all past policies so you can see how terms have changed with each update."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/Vn7He54dnVI/discussion",
+    "id" : "Vn7He54dnVI",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://groups.google.com/intl/en/policies/terms/"
+    },
+    "title" : "Google can use your content for all their existing and future services",
+    "topics" : [ {
+      "description" : "The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is your content, your data: you can decide.",
+      "example" : {
+        "bad" : "We get a license beyond the requirements to operate the service, so your data may be used for purposes you do not intend. We will still attribute ownership to you.",
+        "blocker" : "We become the owners of your data.",
+        "good" : "You license us to use your data only for the purpose of operating this service."
+      },
+      "id" : "ownership",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Ownership",
+      "subtitle" : "What happens with the content you generate on the service?",
+      "title" : "Ownership",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "they can use your content for all their existing and future services",
+      "point" : "bad",
+      "score" : 60,
+      "tldr" : "The content you post on a particular Google service can be used by Google on other services you may not be aware of, and even with future services that have not been created yet."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/HUL_4wIbNGY",
+    "id" : "HUL_4wIbNGY",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://groups.google.com/intl/en/policies/terms/"
+    },
+    "title" : "Advance notice of changes",
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "example" : { },
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "user is notified a week or more in advance",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "Ordinarily, Google posts changes to terms on their site or if they are significant, will notify you via email. Google won't implement changes sooner than 14 days after noticed was given or posted. They will not reduce your rights under their privacy policy without your explicit consent."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/lU-QhFXMOcU/discussion",
+    "id" : "lU-QhFXMOcU",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "lU-QhFXMOcU",
+    "source" : {
+      "terms" : "http://groups.google.com/intl/en/policies/terms/"
+    },
+    "title" : "A limited copyright license",
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "example" : { },
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "limited for purpose across broad platform",
+      "point" : "good",
+      "score" : 40,
+      "tldr" : "The copyright license you grant Google is limited to the purpose of operating, promoting, and improving their services, and to develop new ones. It is not however limited by time - so if you leave the service, Google retains the rights to use your content for these purposes."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-tell-user-no",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
+    },
+    "title" : "No promise to inform you about data requests from governments",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "no promise to inform/notify",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it’s unlikely you’d know about the request, you’d have no real opportunity to object to the request being made or carried out."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/ji7uAaXXTN4/discussion",
+    "id" : "ji7uAaXXTN4",
+    "meta" : {
+      "author" : "ToS;DR",
+      "contributors" : [ "Hugo Roy <hugo@tosdrd.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.google.com/intl/en/policies/terms/"
+    },
+    "title" : "Google may stop providing services to you at any time",
+    "topics" : [ {
+      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
+      "example" : { },
+      "id" : "suspension",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Suspension and Censorship",
+      "subtitle" : "Can they end your use of the service at any time?",
+      "title" : "Suspension and Censorship",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "they may stop providing the service at any time",
+      "point" : "bad",
+      "score" : 40,
+      "tldr" : "\"Google may stop providing services to you, or add or create new limits to services at any time.\" Google has no obligation to give you advance notice or to give a reason for that termination."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/PD5ZWzgv2RI/discussion",
+    "id" : "PD5ZWzgv2RI",
+    "meta" : {
+      "author" : "ToS;DR",
+      "contributors" : [ "Hugo Roy <hugo@tosdrd.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.google.com/intl/en/policies/terms/"
+    },
+    "title" : "You can export your information before a service is discontinued",
+    "topics" : [ {
+      "description" : "The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is your content, your data: you can decide.",
+      "example" : {
+        "bad" : "We get a license beyond the requirements to operate the service, so your data may be used for purposes you do not intend. We will still attribute ownership to you.",
+        "blocker" : "We become the owners of your data.",
+        "good" : "You license us to use your data only for the purpose of operating this service."
+      },
+      "id" : "ownership",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Ownership",
+      "subtitle" : "What happens with the content you generate on the service?",
+      "title" : "Ownership",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "they provide a way to export your data",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "When a service is discontinued for all users, Google gives you reasonable advance notice so you have an opportunity to export your information from that service."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/E58aPtzP3jk/discussion",
+    "id" : "E58aPtzP3jk",
+    "meta" : { },
+    "set" : "set+service+and+topic",
+    "source" : { },
+    "title" : "This service tracks you on other websites",
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "example" : { },
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    }, {
+      "example" : { },
+      "id" : "third",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "tracks you on other websites",
+      "point" : "bad",
+      "score" : 60,
+      "tldr" : "This service and their partners use cookies to track you even if you are not interacting with the service directly. Information gathered about you could include: date and time you visit the site; the web address or URL you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to the service at the same time, your user ID."
+    }
+  } ],
   "related" : [ "yahoo", "duckduckgo" ],
   "tosback2" : {
     "definitions" : {
@@ -503,56 +546,13 @@
       "url" : "https://www.google.com/intl/en/policies/terms/"
     }
   },
-  "deepLinks" : [ {
-    "linkid" : "settingsPage",
-    "description" : "Settings Page",
-    "url" : "https://plus.google.com/u/0/settings"
-  }, {
-    "linkid" : "changeBio",
-    "description" : "Change Bio",
-    "url" : "https://plus.google.com/u/0/me/about/edit/d"
-  }, {
-    "linkid" : "changePassword",
-    "description" : "Change Password",
-    "url" : "https://www.google.com/accounts/b/0/EditPasswd"
-  }, {
-    "linkid" : "changeUsername",
-    "description" : "Change Username",
-    "url" : "https://accounts.google.com/b/0/EditUserInfo"
-  }, {
-    "linkid" : "changeEmail",
-    "description" : "Change Email",
-    "url" : "https://www.google.com/accounts/b/0/EditUserInfo"
-  }, {
-    "linkid" : "changeEmailSettings",
-    "description" : "Change Email Settings",
-    "url" : "https://www.google.com/settings/plus"
-  }, {
-    "linkid" : "deleteAccount",
-    "description" : "Delete Account",
-    "url" : "https://www.google.com/accounts/b/0/DeleteAccount"
-  }, {
-    "linkid" : "recoverPassword",
-    "description" : "Recover Password",
-    "url" : "https://www.google.com/accounts/recovery"
-  }, {
-    "linkid" : "changeProfilePicture",
-    "description" : "Change Profile Picture",
-    "url" : "https://plus.google.com/u/0/me/about/edit/d"
-  }, {
-    "linkid" : "changeConnectedAccounts",
-    "description" : "Change Connected Accounts",
-    "url" : "https://profiles.google.com/connectedaccounts?authuser=0"
-  }, {
-    "linkid" : "changeThirdPartyPermissions",
-    "description" : "Change 3rd Party Permissions",
-    "url" : "https://plus.google.com/apps"
-  } ],
-  "icons" : {
-    "icon-colour" : "/i/googleplus-icon-colour.png",
-    "icon-colour-2x" : "/i/googleplus-icon-colour@2x.png",
-    "icon-grey" : "/i/googleplus-icon-grey.png",
-    "icon-grey-2x" : "/i/googleplus-icon-grey@2x.png"
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "C",
+    "related" : [ ]
   },
-  "class" : "C"
+  "type" : "service",
+  "url" : "google.com",
+  "urls" : [ "google.com" ]
 }

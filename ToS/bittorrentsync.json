@@ -1,22 +1,22 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "bittorrentsync.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "bittorrentsync",
+  "jdm" : { },
   "keywords" : [ ],
   "name" : "bittorrentsync",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "bittorrentsync.json",
-  "jdm" : { },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

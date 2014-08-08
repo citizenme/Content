@@ -1,32 +1,32 @@
 {
   "alexa" : 1000000,
-  "freesoftware" : false,
-  "id" : "citizenme",
-  "keywords" : [ ],
-  "name" : "citizenme",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "citizenme.json",
-  "jdm" : {
-    "name" : "citizenme",
-    "url" : "http://www.citizenme.com",
-    "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion.",
-    "difficulty" : "easy"
-  },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
   "deepLinks" : [ ],
+  "fileName" : "citizenme.json",
+  "freesoftware" : false,
+  "fulltos" : { },
   "icons" : {
     "icon-colour" : "/i/citizenme-icon-colour.png",
     "icon-colour-2x" : "/i/citizenme-icon-colour@2x.png",
     "icon-grey" : "/i/citizenme-icon-grey.png",
     "icon-grey-2x" : "/i/citizenme-icon-grey@2x.png"
-  }
+  },
+  "id" : "citizenme",
+  "jdm" : {
+    "difficulty" : "easy",
+    "name" : "citizenme",
+    "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion.",
+    "url" : "http://www.citizenme.com"
+  },
+  "keywords" : [ ],
+  "name" : "citizenme",
+  "points" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ]
 }

@@ -1,27 +1,27 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "kippt.com.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "kippt.com",
+  "jdm" : {
+    "difficulty" : "easy",
+    "name" : "Kippt",
+    "notes" : "Click 'Account deletion page' at the bottom of the account settings page.",
+    "url" : "https://kippt.com/accounts/delete/"
+  },
   "keywords" : [ ],
   "name" : "kippt.com",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "kippt.com.json",
-  "jdm" : {
-    "name" : "Kippt",
-    "url" : "https://kippt.com/accounts/delete/",
-    "difficulty" : "easy",
-    "notes" : "Click 'Account deletion page' at the bottom of the account settings page."
-  },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

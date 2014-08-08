@@ -1,29 +1,29 @@
 {
   "alexa" : 865310,
-  "freesoftware" : false,
-  "id" : "diasp-org",
-  "keywords" : [ ],
-  "name" : "Diasporg",
-  "type" : "service",
-  "url" : "diasp.org",
-  "urls" : [ "diasp.org" ],
+  "class" : "",
+  "deepLinks" : [ ],
   "fileName" : "diasp-org.json",
-  "jdm" : { },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ ],
+  "freesoftware" : false,
   "fulltos" : {
     "terms" : {
       "url" : ""
     }
   },
-  "related" : [ ],
-  "deepLinks" : [ ],
   "icons" : { },
+  "id" : "diasp-org",
+  "jdm" : { },
+  "keywords" : [ ],
+  "name" : "Diasporg",
   "parent" : "diaspora",
-  "class" : ""
+  "points" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "diasp.org",
+  "urls" : [ "diasp.org" ]
 }

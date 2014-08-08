@@ -1,27 +1,27 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "last.fm.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "last.fm",
+  "jdm" : {
+    "difficulty" : "easy",
+    "name" : "Last.fm",
+    "notes" : "May take up to 7 days to delete your data.",
+    "url" : "http://www.last.fm/settings/account"
+  },
   "keywords" : [ ],
   "name" : "last.fm",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "last.fm.json",
-  "jdm" : {
-    "name" : "Last.fm",
-    "url" : "http://www.last.fm/settings/account",
-    "difficulty" : "easy",
-    "notes" : "May take up to 7 days to delete your data."
-  },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

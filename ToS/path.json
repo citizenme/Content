@@ -1,68 +1,68 @@
 {
   "alexa" : 100,
-  "freesoftware" : false,
-  "id" : "path",
-  "keywords" : [ ],
-  "name" : "Path",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "path.json",
-  "jdm" : {
-    "name" : "Path",
-    "url" : "https://path.com",
-    "difficulty" : "medium",
-    "notes" : "You cannot delete your account from the website. Open the iOS/Android app, go to settings ? about ? disable account ? delete account."
-  },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "https://path.com/settings"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
+    "linkid" : "changeBio",
     "url" : "https://path.com/settings"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://path.com/settings"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
     "url" : "https://path.com/settings"
   }, {
-    "linkid" : "deleteAccount",
     "description" : "Delete Account",
+    "linkid" : "deleteAccount",
     "url" : "https://path.com/settings"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
+    "linkid" : "recoverPassword",
     "url" : "https://path.com/forgot-password"
   }, {
-    "linkid" : "changeProfilePicture",
     "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
     "url" : "https://path.com/settings"
   }, {
-    "linkid" : "changeDesign",
     "description" : "Change Design",
+    "linkid" : "changeDesign",
     "url" : "https://path.com/settings"
   }, {
-    "linkid" : "changeConnectedAccounts",
     "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
     "url" : "https://path.com/settings"
   } ],
+  "fileName" : "path.json",
+  "freesoftware" : false,
+  "fulltos" : { },
   "icons" : {
     "icon-colour" : "/i/Path-icon-colour.png",
     "icon-colour-2x" : "/i/Path-icon-colour@2x.png",
     "icon-grey" : "/i/Path-icon-grey.png",
     "icon-grey-2x" : "/i/Path-icon-grey@2x.png"
-  }
+  },
+  "id" : "path",
+  "jdm" : {
+    "difficulty" : "medium",
+    "name" : "Path",
+    "notes" : "You cannot delete your account from the website. Open the iOS/Android app, go to settings ? about ? disable account ? delete account.",
+    "url" : "https://path.com"
+  },
+  "keywords" : [ ],
+  "name" : "Path",
+  "points" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ]
 }

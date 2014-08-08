@@ -1,32 +1,32 @@
 {
   "alexa" : 1000000,
-  "freesoftware" : false,
-  "id" : "yelp",
-  "keywords" : [ ],
-  "name" : "Yelp",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "yelp.json",
-  "jdm" : {
-    "meta" : "popular",
-    "name" : "Yelp",
-    "url" : "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
-    "difficulty" : "easy"
-  },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
   "deepLinks" : [ ],
+  "fileName" : "yelp.json",
+  "freesoftware" : false,
+  "fulltos" : { },
   "icons" : {
     "icon-colour" : "/i/Yelp-icon-colour.png",
     "icon-colour-2x" : "/i/Yelp-icon-colour@2x.png",
     "icon-grey" : "/i/Yelp-icon-grey.png",
     "icon-grey-2x" : "/i/Yelp-icon-grey@2x.png"
-  }
+  },
+  "id" : "yelp",
+  "jdm" : {
+    "difficulty" : "easy",
+    "meta" : "popular",
+    "name" : "Yelp",
+    "url" : "http://www.yelp.co.uk/contact?topic=support&subtopic=close"
+  },
+  "keywords" : [ ],
+  "name" : "Yelp",
+  "points" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ]
 }

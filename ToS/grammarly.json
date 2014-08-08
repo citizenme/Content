@@ -1,212 +1,18 @@
 {
   "alexa" : 1000000,
-  "freesoftware" : false,
-  "id" : "grammarly",
-  "keywords" : [ ],
-  "name" : "Grammarly",
-  "type" : "service",
-  "url" : "grammarly.com",
-  "urls" : [ "grammarly.com" ],
+  "class" : "",
+  "deepLinks" : [ ],
   "fileName" : "grammarly.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "grammarly",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Grammarly",
-    "url" : "https://ed.grammarly.com/accounts/me",
-    "difficulty" : "easy"
+    "url" : "https://ed.grammarly.com/accounts/me"
   },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/0mK5OiQsnTk/discussion",
-    "id" : "0mK5OiQsnTk",
-    "title" : "No promise to inform about government requests",
-    "source" : {
-      "terms" : "http://www.grammarly.com/terms"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "Although Grammarly may disclose your personal information in light of a subpoena, or when they believe in good faith that it is necessary to protect their rights or yours, for example, they make no promise to inform users about such a request and/or disclosure.",
-      "case" : "no promise to inform/notify"
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "Ian McGowan",
-      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/4RAIq72Baxk/discussion",
-    "id" : "4RAIq72Baxk",
-    "title" : "Grammarly doesn't list pricing packages without signing up",
-    "source" : {
-      "terms" : "http://www.grammarly.com/terms"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 20,
-      "tldr" : "You must sign up for Grammarly's service in order to learn what the different pricing packages are. However, pricing packages as of 15 March 2012 are listed in a support document at: http://support.grammarly.com/entries/21138022-current-grammarly-subscription-plans.",
-      "case" : "no pricing info given before you sign up"
-    },
-    "topics" : [ {
-      "description" : "The level of information provided by the service that is beneficial to the user.",
-      "id" : "user-info",
-      "name" : "User information",
-      "subtitle" : "Transparency and education",
-      "title" : "User information",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { },
-      "category" : "governance"
-    } ],
-    "meta" : {
-      "author" : "Ian McGowan",
-      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/6tV-Tf0IAU8/discussion",
-    "id" : "6tV-Tf0IAU8",
-    "title" : "Grammarly does not notify users before being involved in a merger, sale, or acquisition",
-    "source" : {
-      "terms" : "http://privacy-policy.truste.com/verified-policy/www.grammarly.com"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 20,
-      "tldr" : "Grammarly does not inform users before being involved in a merger, sale, or acquisition. They do, however, notify users via email and post a notice on their site regarding any choices you may have regarding your personal information.",
-      "case" : "may sell your data in merger"
-    },
-    "topics" : [ {
-      "description" : "When you give your data to a company, you need to keep in mind that this company can get acquired by another company, with different policies. What happens in that case?",
-      "id" : "business-transfer",
-      "name" : "Business Transfers",
-      "subtitle" : "Is your data a business asset?",
-      "title" : "Business Transfers",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "third",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "Ian McGowan",
-      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/NodO6svScog/discussion",
-    "id" : "NodO6svScog",
-    "title" : "Grammarly uses third-party cookies and Google to show ads",
-    "source" : {
-      "terms" : "http://www.grammarly.com/terms"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "neutral",
-      "score" : 10,
-      "tldr" : "Grammarly uses Google Analytics and DoubleClick to track your browsing history and in turn provide targeted advertisements. They do, however, mention that you can opt out of Google Analytics for Display Advertisers and customized Google Display Network ads in the Ads Preferences Manager.",
-      "case" : "requires first-party cookies"
-    },
-    "topics" : [ {
-      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
-      "id" : "cookies",
-      "name" : "Cookies",
-      "subtitle" : "and related technologies",
-      "title" : "Cookies",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "track",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "Ian McGowan",
-      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/QLfqgcHN8N0/discussion",
-    "id" : "QLfqgcHN8N0",
-    "title" : "Grammarly usage restrictions",
-    "source" : {
-      "terms" : "http://www.grammarly.com/terms"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 30,
-      "tldr" : "Grammarly restricts your use to 100 documents/50,000 words within a 24-hr period and 300 documents/150,000 words per month.",
-      "case" : "your use is throttled"
-    },
-    "topics" : [ {
-      "id" : "guarantee",
-      "name" : "Guarantee",
-      "subtitle" : "Some services will guarantee you certain features, or explicitly reject any guarantee.",
-      "title" : "Guarantee",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "Ian McGowan",
-      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/V0TEGIyY-Mw/discussion",
-    "id" : "V0TEGIyY-Mw",
-    "title" : "Grammarly's liability is limited to the last 12 months of paid fees",
-    "source" : {
-      "terms" : "http://privacy-policy.truste.com/verified-policy/www.grammarly.com"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "neutral",
-      "score" : 10,
-      "tldr" : "Grammarly isn't liable in any event regarding the Site, Services, and/or Software for any amount in the aggregate in excess of fees you have actually paid to Grammarly during the 12 month period immediately before the event that gave rise to such liability.",
-      "case" : "liability limited to fees you paid"
-    },
-    "topics" : [ {
-      "id" : "governance",
-      "name" : "Governance",
-      "subtitle" : "Your relationship with the service and the community",
-      "title" : "Governance",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "Ian McGowan",
-      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  } ],
+  "keywords" : [ ],
   "links" : {
     "privacy" : {
       "name" : "Privacy Policy",
@@ -217,7 +23,195 @@
       "url" : "http://www.grammarly.com/terms"
     }
   },
-  "fulltos" : { },
+  "name" : "Grammarly",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/6tV-Tf0IAU8/discussion",
+    "id" : "6tV-Tf0IAU8",
+    "meta" : {
+      "author" : "Ian McGowan",
+      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://privacy-policy.truste.com/verified-policy/www.grammarly.com"
+    },
+    "title" : "Grammarly does not notify users before being involved in a merger, sale, or acquisition",
+    "topics" : [ {
+      "description" : "When you give your data to a company, you need to keep in mind that this company can get acquired by another company, with different policies. What happens in that case?",
+      "example" : { },
+      "id" : "business-transfer",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Business Transfers",
+      "parent" : "third",
+      "subtitle" : "Is your data a business asset?",
+      "title" : "Business Transfers",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "may sell your data in merger",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "Grammarly does not inform users before being involved in a merger, sale, or acquisition. They do, however, notify users via email and post a notice on their site regarding any choices you may have regarding your personal information."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/4RAIq72Baxk/discussion",
+    "id" : "4RAIq72Baxk",
+    "meta" : {
+      "author" : "Ian McGowan",
+      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.grammarly.com/terms"
+    },
+    "title" : "Grammarly doesn't list pricing packages without signing up",
+    "topics" : [ {
+      "category" : "governance",
+      "description" : "The level of information provided by the service that is beneficial to the user.",
+      "example" : { },
+      "id" : "user-info",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "User information",
+      "subtitle" : "Transparency and education",
+      "title" : "User information",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "no pricing info given before you sign up",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "You must sign up for Grammarly's service in order to learn what the different pricing packages are. However, pricing packages as of 15 March 2012 are listed in a support document at: http://support.grammarly.com/entries/21138022-current-grammarly-subscription-plans."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/QLfqgcHN8N0/discussion",
+    "id" : "QLfqgcHN8N0",
+    "meta" : {
+      "author" : "Ian McGowan",
+      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.grammarly.com/terms"
+    },
+    "title" : "Grammarly usage restrictions",
+    "topics" : [ {
+      "example" : { },
+      "id" : "guarantee",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Guarantee",
+      "subtitle" : "Some services will guarantee you certain features, or explicitly reject any guarantee.",
+      "title" : "Guarantee",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "your use is throttled",
+      "point" : "bad",
+      "score" : 30,
+      "tldr" : "Grammarly restricts your use to 100 documents/50,000 words within a 24-hr period and 300 documents/150,000 words per month."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/V0TEGIyY-Mw/discussion",
+    "id" : "V0TEGIyY-Mw",
+    "meta" : {
+      "author" : "Ian McGowan",
+      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://privacy-policy.truste.com/verified-policy/www.grammarly.com"
+    },
+    "title" : "Grammarly's liability is limited to the last 12 months of paid fees",
+    "topics" : [ {
+      "example" : { },
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "liability limited to fees you paid",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "Grammarly isn't liable in any event regarding the Site, Services, and/or Software for any amount in the aggregate in excess of fees you have actually paid to Grammarly during the 12 month period immediately before the event that gave rise to such liability."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/0mK5OiQsnTk/discussion",
+    "id" : "0mK5OiQsnTk",
+    "meta" : {
+      "author" : "Ian McGowan",
+      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.grammarly.com/terms"
+    },
+    "title" : "No promise to inform about government requests",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "no promise to inform/notify",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "Although Grammarly may disclose your personal information in light of a subpoena, or when they believe in good faith that it is necessary to protect their rights or yours, for example, they make no promise to inform users about such a request and/or disclosure."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/NodO6svScog/discussion",
+    "id" : "NodO6svScog",
+    "meta" : {
+      "author" : "Ian McGowan",
+      "contributors" : [ "Robin Monks <devlinks@gmail.com>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.grammarly.com/terms"
+    },
+    "title" : "Grammarly uses third-party cookies and Google to show ads",
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "example" : { },
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "requires first-party cookies",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "Grammarly uses Google Analytics and DoubleClick to track your browsing history and in turn provide targeted advertisements. They do, however, mention that you can opt out of Google Analytics for Display Advertisers and customized Google Display Network ads in the Ads Preferences Manager."
+    }
+  } ],
   "related" : [ ],
   "tosback2" : {
     "privacy" : {
@@ -232,7 +226,13 @@
       "url" : "http://www.grammarly.com/terms"
     }
   },
-  "deepLinks" : [ ],
-  "icons" : { },
-  "class" : ""
+  "tosdr" : {
+    "alexa" : 1000000,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "grammarly.com",
+  "urls" : [ "grammarly.com" ]
 }

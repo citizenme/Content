@@ -1,52 +1,14 @@
 {
   "alexa" : 1000000,
-  "freesoftware" : false,
-  "id" : "apple-icloud",
-  "keywords" : [ ],
-  "name" : "Apple iCloud",
-  "type" : "service",
-  "url" : "icloud.com",
-  "urls" : [ "icloud.com" ],
+  "class" : "",
+  "deepLinks" : [ ],
   "fileName" : "apple-icloud.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "apple-icloud",
   "jdm" : { },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/fWJwFKMGP24/discussion",
-    "id" : "fWJwFKMGP24",
-    "title" : "They can delete any of your data (files, music, messages, etc.) at any time and without notice",
-    "source" : {
-      "terms" : "https://www.apple.com/legal/icloud/en/terms.html"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "blocker",
-      "score" : 50,
-      "tldr" : "All the data that you have on iCloud can be removed or modified by Apple if they think it is inappropriate or “objectionable” to them. It can be done automatically with pre-screen, and without prior notice to you. Section: “Removal of Content” (content means all your data on iCloud, from files to software and messages): “Apple reserves the right at all times to determine whether Content is appropriate and in compliance with this Agreement, and may pre-screen, move, refuse, modify and/or remove Content at any time, without prior notice and in its sole discretion, if such Content is found to be in violation of this Agreement or is otherwise objectionable.”",
-      "case" : "they can delete specific files without prior notice and without a reason"
-    },
-    "topics" : [ {
-      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
-      "id" : "suspension",
-      "name" : "Suspension and Censorship",
-      "subtitle" : "Can they end your use of the service at any time?",
-      "title" : "Suspension and Censorship",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  } ],
+  "keywords" : [ ],
   "links" : {
     "privacy" : {
       "name" : "Privacy Policy",
@@ -57,7 +19,39 @@
       "url" : "http://www.apple.com/legal/icloud/en/terms.html"
     }
   },
-  "fulltos" : { },
+  "name" : "Apple iCloud",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/fWJwFKMGP24/discussion",
+    "id" : "fWJwFKMGP24",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "https://www.apple.com/legal/icloud/en/terms.html"
+    },
+    "title" : "They can delete any of your data (files, music, messages, etc.) at any time and without notice",
+    "topics" : [ {
+      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
+      "example" : { },
+      "id" : "suspension",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Suspension and Censorship",
+      "subtitle" : "Can they end your use of the service at any time?",
+      "title" : "Suspension and Censorship",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "they can delete specific files without prior notice and without a reason",
+      "point" : "blocker",
+      "score" : 50,
+      "tldr" : "All the data that you have on iCloud can be removed or modified by Apple if they think it is inappropriate or “objectionable” to them. It can be done automatically with pre-screen, and without prior notice to you. Section: “Removal of Content” (content means all your data on iCloud, from files to software and messages): “Apple reserves the right at all times to determine whether Content is appropriate and in compliance with this Agreement, and may pre-screen, move, refuse, modify and/or remove Content at any time, without prior notice and in its sole discretion, if such Content is found to be in violation of this Agreement or is otherwise objectionable.”"
+    }
+  } ],
   "related" : [ "dropbox", "apple" ],
   "tosback2" : {
     "privacy" : {
@@ -72,7 +66,13 @@
       "url" : "http://www.apple.com/legal/icloud/en/terms.html"
     }
   },
-  "deepLinks" : [ ],
-  "icons" : { },
-  "class" : ""
+  "tosdr" : {
+    "alexa" : 1000000,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "icloud.com",
+  "urls" : [ "icloud.com" ]
 }

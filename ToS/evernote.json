@@ -1,57 +1,9 @@
 {
   "alexa" : 1249,
-  "freesoftware" : false,
-  "id" : "evernote",
-  "keywords" : [ ],
-  "name" : "Evernote",
-  "type" : "service",
-  "url" : "http://evernote.com/",
-  "urls" : [ "http://evernote.com/" ],
+  "class" : "",
+  "deepLinks" : [ ],
   "fileName" : "evernote.json",
-  "jdm" : {
-    "name" : "Evernote",
-    "url" : "https://www.evernote.com/Deactivate.action",
-    "difficulty" : "impossible",
-    "notes" : "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account."
-  },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/T98obrJsjJA/w1Gp9SDABtkJ",
-    "id" : "T98obrJsjJA-2",
-    "title" : "You cannot delete your account",
-    "source" : {
-      "reference" : "http://www.accountkiller.com/en/Blacklist"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "blocker",
-      "score" : 70,
-      "tldr" : "It is impossible to delete your account from this service, according to the AccountKiller blacklist.",
-      "case" : "no right to leave the service"
-    },
-    "topics" : [ {
-      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
-      "id" : "leave",
-      "name" : "Right to leave the service",
-      "subtitle" : "To avoid lock-in and stay in control",
-      "title" : "Right to leave the service",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "account-killer-blacklist"
-  } ],
-  "links" : { },
+  "freesoftware" : false,
   "fulltos" : {
     "privacy" : {
       "url" : "http://evernote.com/legal/privacy.php"
@@ -60,13 +12,61 @@
       "url" : "http://evernote.com/legal/tos.php"
     }
   },
-  "related" : [ ],
-  "deepLinks" : [ ],
   "icons" : {
     "icon-colour" : "/i/Evernote-icon-colour.png",
     "icon-colour-2x" : "/i/Evernote-icon-colour@2x.png",
     "icon-grey" : "/i/Evernote-icon-grey.png",
     "icon-grey-2x" : "/i/Evernote-icon-grey@2x.png"
   },
-  "class" : ""
+  "id" : "evernote",
+  "jdm" : {
+    "difficulty" : "impossible",
+    "name" : "Evernote",
+    "notes" : "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account.",
+    "url" : "https://www.evernote.com/Deactivate.action"
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Evernote",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/T98obrJsjJA/w1Gp9SDABtkJ",
+    "id" : "T98obrJsjJA-2",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "account-killer-blacklist",
+    "source" : {
+      "reference" : "http://www.accountkiller.com/en/Blacklist"
+    },
+    "title" : "You cannot delete your account",
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "example" : { },
+      "id" : "leave",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "no right to leave the service",
+      "point" : "blocker",
+      "score" : 70,
+      "tldr" : "It is impossible to delete your account from this service, according to the AccountKiller blacklist."
+    }
+  } ],
+  "related" : [ ],
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "http://evernote.com/",
+  "urls" : [ "http://evernote.com/" ]
 }

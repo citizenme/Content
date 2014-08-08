@@ -1,24 +1,24 @@
 {
   "alexa" : 1000000,
-  "freesoftware" : false,
-  "id" : "facebook-connect",
-  "keywords" : [ ],
-  "name" : "Facebook Connect",
-  "type" : "software",
-  "urls" : [ ],
+  "deepLinks" : [ ],
   "fileName" : "facebook-connect.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "facebook-connect",
   "jdm" : { },
+  "keywords" : [ ],
+  "license" : "(proprietary)",
+  "name" : "Facebook Connect",
+  "parent" : "facebook",
+  "points" : [ ],
+  "related" : [ "mozilla-persona" ],
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ "mozilla-persona" ],
-  "deepLinks" : [ ],
-  "icons" : { },
-  "parent" : "facebook",
-  "license" : "(proprietary)"
+  "type" : "software",
+  "urls" : [ ]
 }

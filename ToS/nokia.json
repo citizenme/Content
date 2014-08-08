@@ -1,22 +1,22 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "nokia.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "nokia",
+  "jdm" : { },
   "keywords" : [ ],
   "name" : "nokia",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "nokia.json",
-  "jdm" : { },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

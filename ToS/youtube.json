@@ -1,282 +1,69 @@
 {
   "alexa" : 3,
-  "freesoftware" : false,
-  "id" : "youtube",
-  "keywords" : [ "videos", "video" ],
-  "name" : "YouTube",
-  "type" : "service",
-  "url" : "youtube.com",
-  "urls" : [ "youtube.com" ],
+  "class" : "D",
+  "deepLinks" : [ {
+    "description" : "Settings Page",
+    "linkid" : "settingsPage",
+    "url" : "https://www.youtube.com/account"
+  }, {
+    "description" : "Change Bio",
+    "linkid" : "changeBio",
+    "url" : "http://www.youtube.com/account_profile"
+  }, {
+    "description" : "Change Password",
+    "linkid" : "changePassword",
+    "url" : "https://accounts.google.com/b/0/EditPasswd"
+  }, {
+    "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
+    "url" : "http://www.youtube.com/account_notifications"
+  }, {
+    "description" : "Delete Account",
+    "linkid" : "deleteAccount",
+    "url" : "http://www.youtube.com/account_manage"
+  }, {
+    "description" : "Change Mobile Settings",
+    "linkid" : "changeMobileSettings",
+    "url" : "http://www.youtube.com/account_mobile_setup"
+  }, {
+    "description" : "Recover Password",
+    "linkid" : "recoverPassword",
+    "url" : "http://www.youtube.com/account_recovery"
+  }, {
+    "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
+    "url" : "http://www.youtube.com/account?feature=mhee"
+  }, {
+    "description" : "Change Design",
+    "linkid" : "changeDesign",
+    "url" : "http://www.youtube.com/channel_editor?action_editor=1&editor_tab=branding"
+  }, {
+    "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
+    "url" : "http://www.youtube.com/account_sharing"
+  }, {
+    "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
+    "url" : "http://www.youtube.com/account_sharing"
+  } ],
   "fileName" : "youtube.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/youtube-icon-colour.png",
+    "icon-colour-2x" : "/i/youtube-icon-colour@2x.png",
+    "icon-grey" : "/i/youtube-icon-grey.png",
+    "icon-grey-2x" : "/i/youtube-icon-grey@2x.png"
+  },
+  "id" : "youtube",
   "jdm" : {
+    "difficulty" : "impossible",
     "meta" : "popular",
     "name" : "YouTube",
-    "url" : "https://support.google.com/youtube/answer/55759",
-    "difficulty" : "impossible",
-    "notes" : "You can't delete your YouTube account without deleting your entire Google Account. But you can delete your channel."
+    "notes" : "You can't delete your YouTube account without deleting your entire Google Account. But you can delete your channel.",
+    "url" : "https://support.google.com/youtube/answer/55759"
   },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "D",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/1ZGIHsbyaFU/discussion",
-    "id" : "1ZGIHsbyaFU",
-    "title" : "Users are subject to Google's Privacy Policy",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "neutral",
-      "score" : 0,
-      "tldr" : "When you use YouTube, you are subject to Google's policies. To find out more, see Google's latest terms of service on this app or read the full privacy policy on the Google site.",
-      "case" : "your use is subject to a policies, guidelines, etc."
-    },
-    "topics" : [ {
-      "id" : "governance",
-      "name" : "Governance",
-      "subtitle" : "Your relationship with the service and the community",
-      "title" : "Governance",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/4738ex5PI1g/discussion",
-    "id" : "4738ex5PI1g",
-    "title" : "Your content can be removed without advance notice",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "blocker",
-      "score" : 50,
-      "tldr" : "If your content violates the terms (in You Tube's opinion) they have a right to delete it and even terminate your account, without notice. This applies to cases of copyright infringement but also content that is pornographic, obscene or excessively long.",
-      "case" : "they can delete specific files without prior notice and without a reason"
-    },
-    "topics" : [ {
-      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
-      "id" : "suspension",
-      "name" : "Suspension and Censorship",
-      "subtitle" : "Can they end your use of the service at any time?",
-      "title" : "Suspension and Censorship",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/4cB69IsKX_E/discussion",
-    "id" : "4cB69IsKX_E",
-    "title" : "Very broad copyright license on your content",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "The copyright licence is very broad. It includes the right for YouTube to share your content with others and to use in an unlimited way to promote the service in connection with its successors and affiliates (like Google). This licence is revoked when you delete your content but applies forever to textual content like comments.",
-      "case" : "broader than necessary"
-    },
-    "topics" : [ {
-      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-      "id" : "copyright-scope",
-      "name" : "Scope of the copyright license",
-      "subtitle" : "Do you grant only the necessary rights?",
-      "title" : "Scope of the copyright license",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "ownership",
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/CsxjRy5fqYQ/discussion",
-    "id" : "CsxjRy5fqYQ",
-    "title" : "Submitting notices and counter notices for copyright infringement",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 20,
-      "tldr" : "You can use the YouTube site to directly submit a take down notice if your copyright has been infringed. Similarly, the site supports the issuing of counter notices if these apply. See their copyright centre on the site for full details.",
-      "case" : "help you deal with take-down notices"
-    },
-    "topics" : [ {
-      "id" : "governance",
-      "name" : "Governance",
-      "subtitle" : "Your relationship with the service and the community",
-      "title" : "Governance",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    }, {
-      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
-      "id" : "suspension",
-      "name" : "Suspension and Censorship",
-      "subtitle" : "Can they end your use of the service at any time?",
-      "title" : "Suspension and Censorship",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/FeR7Kxzqii8/discussion",
-    "id" : "FeR7Kxzqii8",
-    "title" : "Jurisdiction varies",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "neutral",
-      "score" : 0,
-      "tldr" : "Ordinarily, UK YouTube users are bound by English law for any legal matter arising from the Terms of Service. However, YouTube retains a right to apply for urgent legal remedies in any jurisdiction. Also, YouTube shares a universal privacy policy with Google and this policy relates to Google's terms which are governed by California laws and jurisdiction.",
-      "case" : "court of law is in location X"
-    },
-    "topics" : [ {
-      "description" : "What is the jurisdiction, what laws govern the terms?",
-      "id" : "jurisdiction-law",
-      "name" : "Jurisdiction and governing laws",
-      "subtitle" : "Where can you sue, or be sued, for breaching of the rules?",
-      "title" : "Jurisdiction and governing laws",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { },
-      "category" : "governance"
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/G_ZNsOAjtY4/discussion",
-    "id" : "G_ZNsOAjtY4",
-    "title" : "You are solely responsible for your account and its content",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "neutral",
-      "score" : 10,
-      "tldr" : "You are solely responsible for your content and the consequences of its publication on YouTube together with all activity under your account. You are also solely responsible for keeping your account password secure. YouTube is not liable for any unauthorized use of your account, but you may be liable if this unauthorized use causes losses for YouTube or the others.",
-      "case" : "you are responsible for what you publish"
-    },
-    "topics" : [ {
-      "id" : "governance",
-      "name" : "Governance",
-      "subtitle" : "Your relationship with the service and the community",
-      "title" : "Governance",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",
-    "id" : "any-time-without-notice",
-    "title" : "Terms may be changed at any time without advance notice",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 70,
-      "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms.",
-      "case" : "user needs to check tosback.org"
-    },
-    "topics" : [ {
-      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
-      "id" : "changes",
-      "name" : "Notice of Changing Terms",
-      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
-      "title" : "Notice of Changing Terms",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "changes",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "Hugo for “Terms of Service; Didn't Read”",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/vE7JlPVIQiI/discussion",
-    "id" : "vE7JlPVIQiI",
-    "title" : "Deleted videos are not really deleted",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "blocker",
-      "score" : 30,
-      "tldr" : "“Youtube may retain, but not display, distribute or perform, services copies of your content that you have removed or deleted. ”",
-      "case" : "deleted content is not really deleted"
-    },
-    "topics" : [ {
-      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
-      "id" : "leave",
-      "name" : "Right to leave the service",
-      "subtitle" : "To avoid lock-in and stay in control",
-      "title" : "Right to leave the service",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/ylM1ZiLkk5I/discussion",
-    "id" : "ylM1ZiLkk5I",
-    "title" : "Reduction of legal period for cause of action",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "Any action against Youtube must begin within one year after the cause of action accrues. If not, the cause of the action is considered as permanently barred. ",
-      "case" : "reduction of legal period for cause of action"
-    },
-    "topics" : [ {
-      "id" : "governance",
-      "name" : "Governance",
-      "subtitle" : "Your relationship with the service and the community",
-      "title" : "Governance",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  } ],
+  "keywords" : [ "videos", "video" ],
   "links" : {
     "privacy" : {
       "name" : "Google Privacy Policy",
@@ -287,7 +74,264 @@
       "url" : "http://www.youtube.com/t/terms"
     }
   },
-  "fulltos" : { },
+  "name" : "YouTube",
+  "parent" : "google",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/CsxjRy5fqYQ/discussion",
+    "id" : "CsxjRy5fqYQ",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Submitting notices and counter notices for copyright infringement",
+    "topics" : [ {
+      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
+      "example" : { },
+      "id" : "suspension",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Suspension and Censorship",
+      "subtitle" : "Can they end your use of the service at any time?",
+      "title" : "Suspension and Censorship",
+      "type" : "category"
+    }, {
+      "example" : { },
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "help you deal with take-down notices",
+      "point" : "good",
+      "score" : 20,
+      "tldr" : "You can use the YouTube site to directly submit a take down notice if your copyright has been infringed. Similarly, the site supports the issuing of counter notices if these apply. See their copyright centre on the site for full details."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/vE7JlPVIQiI/discussion",
+    "id" : "vE7JlPVIQiI",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Deleted videos are not really deleted",
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "example" : { },
+      "id" : "leave",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "deleted content is not really deleted",
+      "point" : "blocker",
+      "score" : 30,
+      "tldr" : "“Youtube may retain, but not display, distribute or perform, services copies of your content that you have removed or deleted. ”"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/1ZGIHsbyaFU/discussion",
+    "id" : "1ZGIHsbyaFU",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Users are subject to Google's Privacy Policy",
+    "topics" : [ {
+      "example" : { },
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "your use is subject to a policies, guidelines, etc.",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "When you use YouTube, you are subject to Google's policies. To find out more, see Google's latest terms of service on this app or read the full privacy policy on the Google site."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/FeR7Kxzqii8/discussion",
+    "id" : "FeR7Kxzqii8",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Jurisdiction varies",
+    "topics" : [ {
+      "category" : "governance",
+      "description" : "What is the jurisdiction, what laws govern the terms?",
+      "example" : { },
+      "id" : "jurisdiction-law",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Jurisdiction and governing laws",
+      "subtitle" : "Where can you sue, or be sued, for breaching of the rules?",
+      "title" : "Jurisdiction and governing laws",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "court of law is in location X",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "Ordinarily, UK YouTube users are bound by English law for any legal matter arising from the Terms of Service. However, YouTube retains a right to apply for urgent legal remedies in any jurisdiction. Also, YouTube shares a universal privacy policy with Google and this policy relates to Google's terms which are governed by California laws and jurisdiction."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",
+    "id" : "any-time-without-notice",
+    "meta" : {
+      "author" : "Hugo for “Terms of Service; Didn't Read”",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Terms may be changed at any time without advance notice",
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "example" : { },
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "user needs to check tosback.org",
+      "point" : "bad",
+      "score" : 70,
+      "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/ylM1ZiLkk5I/discussion",
+    "id" : "ylM1ZiLkk5I",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Reduction of legal period for cause of action",
+    "topics" : [ {
+      "example" : { },
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "reduction of legal period for cause of action",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "Any action against Youtube must begin within one year after the cause of action accrues. If not, the cause of the action is considered as permanently barred. "
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/4738ex5PI1g/discussion",
+    "id" : "4738ex5PI1g",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Your content can be removed without advance notice",
+    "topics" : [ {
+      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
+      "example" : { },
+      "id" : "suspension",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Suspension and Censorship",
+      "subtitle" : "Can they end your use of the service at any time?",
+      "title" : "Suspension and Censorship",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "they can delete specific files without prior notice and without a reason",
+      "point" : "blocker",
+      "score" : 50,
+      "tldr" : "If your content violates the terms (in You Tube's opinion) they have a right to delete it and even terminate your account, without notice. This applies to cases of copyright infringement but also content that is pornographic, obscene or excessively long."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/4cB69IsKX_E/discussion",
+    "id" : "4cB69IsKX_E",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Very broad copyright license on your content",
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "example" : { },
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "broader than necessary",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "The copyright licence is very broad. It includes the right for YouTube to share your content with others and to use in an unlimited way to promote the service in connection with its successors and affiliates (like Google). This licence is revoked when you delete your content but applies forever to textual content like comments."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/G_ZNsOAjtY4/discussion",
+    "id" : "G_ZNsOAjtY4",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "You are solely responsible for your account and its content",
+    "topics" : [ {
+      "example" : { },
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "you are responsible for what you publish",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "You are solely responsible for your content and the consequences of its publication on YouTube together with all activity under your account. You are also solely responsible for keeping your account password secure. YouTube is not liable for any unauthorized use of your account, but you may be liable if this unauthorized use causes losses for YouTube or the others."
+    }
+  } ],
   "related" : [ "dailymotion", "vimeo" ],
   "tosback2" : {
     "privacy" : {
@@ -302,57 +346,13 @@
       "url" : "http://www.youtube.com/t/terms"
     }
   },
-  "deepLinks" : [ {
-    "linkid" : "settingsPage",
-    "description" : "Settings Page",
-    "url" : "https://www.youtube.com/account"
-  }, {
-    "linkid" : "changeBio",
-    "description" : "Change Bio",
-    "url" : "http://www.youtube.com/account_profile"
-  }, {
-    "linkid" : "changePassword",
-    "description" : "Change Password",
-    "url" : "https://accounts.google.com/b/0/EditPasswd"
-  }, {
-    "linkid" : "changeEmailSettings",
-    "description" : "Change Email Settings",
-    "url" : "http://www.youtube.com/account_notifications"
-  }, {
-    "linkid" : "deleteAccount",
-    "description" : "Delete Account",
-    "url" : "http://www.youtube.com/account_manage"
-  }, {
-    "linkid" : "changeMobileSettings",
-    "description" : "Change Mobile Settings",
-    "url" : "http://www.youtube.com/account_mobile_setup"
-  }, {
-    "linkid" : "recoverPassword",
-    "description" : "Recover Password",
-    "url" : "http://www.youtube.com/account_recovery"
-  }, {
-    "linkid" : "changeProfilePicture",
-    "description" : "Change Profile Picture",
-    "url" : "http://www.youtube.com/account?feature=mhee"
-  }, {
-    "linkid" : "changeDesign",
-    "description" : "Change Design",
-    "url" : "http://www.youtube.com/channel_editor?action_editor=1&editor_tab=branding"
-  }, {
-    "linkid" : "changeConnectedAccounts",
-    "description" : "Change Connected Accounts",
-    "url" : "http://www.youtube.com/account_sharing"
-  }, {
-    "linkid" : "changeThirdPartyPermissions",
-    "description" : "Change 3rd Party Permissions",
-    "url" : "http://www.youtube.com/account_sharing"
-  } ],
-  "icons" : {
-    "icon-colour" : "/i/youtube-icon-colour.png",
-    "icon-colour-2x" : "/i/youtube-icon-colour@2x.png",
-    "icon-grey" : "/i/youtube-icon-grey.png",
-    "icon-grey-2x" : "/i/youtube-icon-grey@2x.png"
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "D",
+    "related" : [ ]
   },
-  "parent" : "google",
-  "class" : "D"
+  "type" : "service",
+  "url" : "youtube.com",
+  "urls" : [ "youtube.com" ]
 }

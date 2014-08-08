@@ -1,104 +1,104 @@
 {
   "alexa" : 1203,
-  "freesoftware" : false,
-  "id" : "comcast",
-  "keywords" : [ ],
-  "name" : "Comcast",
-  "type" : "service",
-  "url" : "comcast.com",
-  "urls" : [ "comcast.com" ],
-  "fileName" : "comcast.json",
-  "jdm" : { },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-tell-user-no",
-    "title" : "No promise to inform you about data requests from governments",
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it's unlikely you'd know about the request, you'd have no real opportunity to object to the request being made or carried out.",
-      "case" : "no promise to inform/notify"
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-transparency-data",
-    "title" : "Transparency on law enforcement requests",
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 30,
-      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data.",
-      "case" : "transparency"
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    }, {
-      "id" : "law-enforcement",
-      "name" : "Law enforcement and due process",
-      "subtitle" : "What are the law enforcement standards followed by the service?",
-      "title" : "Law enforcement and due process",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "law-gov",
-      "example" : { }
-    } ],
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  } ],
-  "links" : { },
-  "fulltos" : {
-    "terms" : {
-      "url" : "http://www.comcast.com/corporate/legal/visitorAgreement.html"
-    }
-  },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { },
   "class" : "",
+  "deepLinks" : [ ],
   "eff_hasyourback" : {
     "in-Congress" : 0,
     "in-court" : 1,
     "tell-you" : 0,
     "transparent" : 0
-  }
+  },
+  "fileName" : "comcast.json",
+  "freesoftware" : false,
+  "fulltos" : {
+    "terms" : {
+      "url" : "http://www.comcast.com/corporate/legal/visitorAgreement.html"
+    }
+  },
+  "icons" : { },
+  "id" : "comcast",
+  "jdm" : { },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "Comcast",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-transparency-data",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
+    },
+    "title" : "Transparency on law enforcement requests",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    }, {
+      "example" : { },
+      "id" : "law-enforcement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law enforcement and due process",
+      "parent" : "law-gov",
+      "subtitle" : "What are the law enforcement standards followed by the service?",
+      "title" : "Law enforcement and due process",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "transparency",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-tell-user-no",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
+    },
+    "title" : "No promise to inform you about data requests from governments",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "no promise to inform/notify",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it’s unlikely you’d know about the request, you’d have no real opportunity to object to the request being made or carried out."
+    }
+  } ],
+  "related" : [ ],
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "comcast.com",
+  "urls" : [ "comcast.com" ]
 }

@@ -1,22 +1,22 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "quake.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "quake",
+  "jdm" : { },
   "keywords" : [ ],
   "name" : "quake",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "quake.json",
-  "jdm" : { },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

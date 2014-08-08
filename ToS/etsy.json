@@ -1,27 +1,27 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "etsy.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "etsy",
+  "jdm" : {
+    "difficulty" : "hard",
+    "name" : "Etsy",
+    "notes" : "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file.",
+    "url" : "http://www.etsy.com/help/article/53"
+  },
   "keywords" : [ ],
   "name" : "etsy",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "etsy.json",
-  "jdm" : {
-    "name" : "Etsy",
-    "url" : "http://www.etsy.com/help/article/53",
-    "difficulty" : "hard",
-    "notes" : "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file."
-  },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

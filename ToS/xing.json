@@ -1,55 +1,19 @@
 {
   "alexa" : 254,
-  "freesoftware" : false,
-  "id" : "xing",
-  "keywords" : [ "jobs", "professional" ],
-  "name" : "XING",
-  "type" : "service",
-  "url" : "xing.com",
-  "urls" : [ "xing.com" ],
+  "class" : "",
+  "deepLinks" : [ ],
   "fileName" : "xing.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "xing",
   "jdm" : {
-    "name" : "Xing",
-    "url" : "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185",
     "difficulty" : "easy",
-    "notes" : "Select 'delete my profile' at the bottom of the page."
+    "name" : "Xing",
+    "notes" : "Select 'delete my profile' at the bottom of the page.",
+    "url" : "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185"
   },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/J6F7dG8dqSo/discussion",
-    "id" : "no-pseudos-allowed",
-    "title" : "No pseudonym allowed",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 20,
-      "tldr" : "You must use your legal name publicly on this service. Using a pseudonym or a pen name is not allowed. This can negatively impact your freedom of expression, especially for those with certain professions, or who live in certain countries.",
-      "case" : "pseudonym not allowed (not because of user-to-user trust)"
-    },
-    "topics" : [ {
-      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-      "id" : "track",
-      "name" : "Anonymity and Tracking",
-      "subtitle" : "Are you being spied on?",
-      "title" : "Anonymity and Tracking",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted: Hugo",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  } ],
+  "keywords" : [ "jobs", "professional" ],
   "links" : {
     "privacy" : {
       "name" : "Privacy Policy",
@@ -60,7 +24,37 @@
       "url" : "http://www.xing.com/terms"
     }
   },
-  "fulltos" : { },
+  "name" : "XING",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/J6F7dG8dqSo/discussion",
+    "id" : "no-pseudos-allowed",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted: Hugo",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "No pseudonym allowed",
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "example" : { },
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "pseudonym not allowed (not because of user-to-user trust)",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "You must use your legal name publicly on this service. Using a pseudonym or a pen name is not allowed. This can negatively impact your freedom of expression, especially for those with certain professions, or who live in certain countries."
+    }
+  } ],
   "related" : [ "linkedin" ],
   "tosback2" : {
     "privacy" : {
@@ -75,7 +69,13 @@
       "url" : "http://www.xing.com/terms"
     }
   },
-  "deepLinks" : [ ],
-  "icons" : { },
-  "class" : ""
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "xing.com",
+  "urls" : [ "xing.com" ]
 }

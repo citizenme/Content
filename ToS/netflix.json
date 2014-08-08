@@ -1,432 +1,432 @@
 {
   "alexa" : 95,
-  "freesoftware" : false,
-  "id" : "netflix",
-  "keywords" : [ ],
-  "name" : "netflix",
-  "type" : "service",
-  "url" : "https://signup.netflix.com/",
-  "urls" : [ "https://signup.netflix.com/" ],
+  "class" : "",
+  "deepLinks" : [ ],
   "fileName" : "netflix.json",
-  "jdm" : {
-    "meta" : "popular",
-    "name" : "Netflix",
-    "url" : "https://support.netflix.com/en/node/407",
-    "difficulty" : "impossible",
-    "notes" : "Contact customer services. Even then they may not delete your account under the premise that you might want to rejoin and keep your history and recommendations."
-  },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY",
-    "title" : "Terms and privacy policy pages are organized and formatted well.",
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 10,
-      "tldr" : "Index at the top with links to #anchors down the page. The pages are long, but the index helps alleviate that a lot.",
-      "case" : "easy to read"
-    },
-    "topics" : [ {
-      "id" : "readability",
-      "name" : "Easy to read",
-      "subtitle" : "Are the terms easy to find and well written?",
-      "title" : "Easy to read",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { },
-      "category" : "governance"
-    } ],
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "L5pl0Vn9lKY"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY-1",
-    "title" : "Non-personal info can be disclosed in any way.",
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "neutral",
-      "score" : 10,
-      "tldr" : "Non-personal information is information that does not permit direct association with you. We may collect, use, transfer and disclose non-personal information for any purpose.\n...\nWe also provide analysis of our users in the aggregate or otherwise in anonymous form to prospective partners, advertisers and other third parties.",
-      "case" : "only aggregate data is given to third parties"
-    },
-    "topics" : [ {
-      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
-      "id" : "personal-data",
-      "name" : "Personal Data",
-      "subtitle" : "Can you control your privacy?",
-      "title" : "Personal Data",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "ownership",
-      "example" : { }
-    }, {
-      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-      "id" : "track",
-      "name" : "Anonymity and Tracking",
-      "subtitle" : "Are you being spied on?",
-      "title" : "Anonymity and Tracking",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "L5pl0Vn9lKY"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY-10",
-    "title" : "Netflix can terminate your account for any reason without notice.",
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "We reserve the right to terminate or restrict your use of our service, without notice, for any or no reason whatsoever.",
-      "case" : "they can delete your account without prior notice and without a reason"
-    },
-    "topics" : [ {
-      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
-      "id" : "suspension",
-      "name" : "Suspension and Censorship",
-      "subtitle" : "Can they end your use of the service at any time?",
-      "title" : "Suspension and Censorship",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "L5pl0Vn9lKY"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY-11",
-    "title" : "Lawsuit and class action waiver. Arbitration agreement. Survives termination of ToU agreement.",
-    "source" : {
-      "faq" : "",
-      "terms" : "FIXME"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "“You and Netflix agree that any dispute, claim or controversy arising out of or relating in any way to the Netflix service, including our website, user interfaces, these Terms of Use and this Arbitration Agreement, shall be determined by binding arbitration instead of in courts of general jurisdiction. Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, allows for more limited discovery than in court, and is subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. You agree that, by agreeing to these Terms of Use, the U.S. Federal Arbitration Act governs the interpretation and enforcement of this provision, and that you and Netflix are each waiving the right to a trial by jury or to participate in a class action. This arbitration provision shall survive termination of this Agreement and the termination of your Netflix membership.\nYOU AND NETFLIX AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.”",
-      "case" : "class action waiver"
-    },
-    "topics" : [ {
-      "id" : "waiver",
-      "name" : "Waiving your right",
-      "subtitle" : "What kind of rights do you give up on?",
-      "title" : "Waiving your right",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "governance",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "Michiel for the ToS;DR project",
-      "contributors" : [ "see mailing list discussion FIXME" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "L5pl0Vn9lKY"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY-2",
-    "title" : "Personal info is used for advertising.",
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 30,
-      "tldr" : "We keep track of your interactions with us and collect information related to you and your use of our service, including but not limited to your online activity, title selections, reviews and ratings, payment history and correspondence as well as Internet protocol addresses, device types, unique device data, such as device identifiers, operating systems, any instant watching of movies, TV shows and related activity. We use this information for such purposes as (list of stuff necessary for running the service).\n...\nFrom time to time, we may partner with companies whose products we believe will interest our members. In conjunction with these partners, we may send promotional announcements and/or serve web-based advertisements on their behalf, as permitted by law. You can go to the \"Manage mailing preferences\" link on the \"Your Account\" page and request that your name be excluded from marketing emails or postal mail.",
-      "case" : "targeted third-party advertising"
-    },
-    "topics" : [ {
-      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-      "id" : "track",
-      "name" : "Anonymity and Tracking",
-      "subtitle" : "Are you being spied on?",
-      "title" : "Anonymity and Tracking",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "L5pl0Vn9lKY"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY-3",
-    "title" : "Netflix reserve the right to disclose personal info, no notification.",
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "Netflix also reserves the right to disclose personal information if we reasonably believe that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process, or enforceable governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, or (d) protect against harm to the rights, property or safety of Netflix, its users or the public as required or permitted by law. In connection with any reorganization, restructuring, merger or sale, or other transferring of assets we reserve the right to transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our privacy policy.",
-      "case" : "no promise to inform/notify"
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    }, {
-      "id" : "law-enforcement",
-      "name" : "Law enforcement and due process",
-      "subtitle" : "What are the law enforcement standards followed by the service?",
-      "title" : "Law enforcement and due process",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "law-gov",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "L5pl0Vn9lKY"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY-4",
-    "title" : "Users can request access and deletion of personal info.",
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 50,
-      "tldr" : "With respect to your personal information, you can request access and that we correct or delete this personal information by emailing your request to pri...@netflix.com.",
-      "case" : "you can request access and deletion of personal data"
-    },
-    "topics" : [ {
-      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
-      "id" : "personal-data",
-      "name" : "Personal Data",
-      "subtitle" : "Can you control your privacy?",
-      "title" : "Personal Data",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "ownership",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "L5pl0Vn9lKY"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY-5",
-    "title" : "Cookies are required.",
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "neutral",
-      "score" : 10,
-      "tldr" : "This is probably more of a functional issue than a privacy issue.\nThe Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. If your browser is set to not accept any cookies, you will not be able to use the Netflix service or website.",
-      "case" : "requires first-party cookies"
-    },
-    "topics" : [ {
-      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
-      "id" : "cookies",
-      "name" : "Cookies",
-      "subtitle" : "and related technologies",
-      "title" : "Cookies",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "track",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "L5pl0Vn9lKY"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY-6",
-    "title" : "Netflix uses 3rd party advertisers that use tracking cookies to target ads.",
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 10,
-      "tldr" : "We use third-party advertising companies to serve ads. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies click here .",
-      "case" : "sets third-party cookies and/or ads"
-    },
-    "topics" : [ {
-      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
-      "id" : "cookies",
-      "name" : "Cookies",
-      "subtitle" : "and related technologies",
-      "title" : "Cookies",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "track",
-      "example" : { }
-    }, {
-      "id" : "third",
-      "name" : "Third Parties",
-      "subtitle" : "",
-      "title" : "Third Parties",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "L5pl0Vn9lKY"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
-    "id" : "L5pl0Vn9lKY-7",
-    "title" : "No liability is accepted for improper access to your personal information.",
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 30,
-      "tldr" : "Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your information and cannot assume liability for improper access to it.",
-      "case" : "no liability for unauthorized access"
-    },
-    "topics" : [ {
-      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
-      "id" : "personal-data",
-      "name" : "Personal Data",
-      "subtitle" : "Can you control your privacy?",
-      "title" : "Personal Data",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "ownership",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "L5pl0Vn9lKY"
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",
-    "id" : "any-time-without-notice",
-    "title" : "Terms may be changed at any time without advance notice",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 70,
-      "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms.",
-      "case" : "user needs to check tosback.org"
-    },
-    "topics" : [ {
-      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
-      "id" : "changes",
-      "name" : "Notice of Changing Terms",
-      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
-      "title" : "Notice of Changing Terms",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "changes",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "Hugo for “Terms of Service; Didn't Read”",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  } ],
-  "links" : { },
+  "freesoftware" : false,
   "fulltos" : {
     "terms" : {
       "url" : "https://signup.netflix.com/TermsOfUse"
     }
   },
-  "related" : [ ],
-  "deepLinks" : [ ],
   "icons" : { },
-  "class" : ""
+  "id" : "netflix",
+  "jdm" : {
+    "difficulty" : "impossible",
+    "meta" : "popular",
+    "name" : "Netflix",
+    "notes" : "Contact customer services. Even then they may not delete your account under the premise that you might want to rejoin and keep your history and recommendations.",
+    "url" : "https://support.netflix.com/en/node/407"
+  },
+  "keywords" : [ ],
+  "links" : { },
+  "name" : "netflix",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+    "id" : "L5pl0Vn9lKY-1",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "L5pl0Vn9lKY",
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Non-personal info can be disclosed in any way.",
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "example" : { },
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    }, {
+      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
+      "example" : { },
+      "id" : "personal-data",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Personal Data",
+      "parent" : "ownership",
+      "subtitle" : "Can you control your privacy?",
+      "title" : "Personal Data",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "only aggregate data is given to third parties",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "Non-personal information is information that does not permit direct association with you. We may collect, use, transfer and disclose non-personal information for any purpose.\n...\nWe also provide analysis of our users in the aggregate or otherwise in anonymous form to prospective partners, advertisers and other third parties."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+    "id" : "L5pl0Vn9lKY-10",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "L5pl0Vn9lKY",
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Netflix can terminate your account for any reason without notice.",
+    "topics" : [ {
+      "description" : "Your account and your data are on their servers, so they control them. Which guarantee do you have that lawful content and lawful activity will not be censored or suspended?",
+      "example" : { },
+      "id" : "suspension",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Suspension and Censorship",
+      "subtitle" : "Can they end your use of the service at any time?",
+      "title" : "Suspension and Censorship",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "they can delete your account without prior notice and without a reason",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "We reserve the right to terminate or restrict your use of our service, without notice, for any or no reason whatsoever."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+    "id" : "L5pl0Vn9lKY-11",
+    "meta" : {
+      "author" : "Michiel for the ToS;DR project",
+      "contributors" : [ "see mailing list discussion FIXME" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "L5pl0Vn9lKY",
+    "source" : {
+      "faq" : "",
+      "terms" : "FIXME"
+    },
+    "title" : "Lawsuit and class action waiver. Arbitration agreement. Survives termination of ToU agreement.",
+    "topics" : [ {
+      "example" : { },
+      "id" : "waiver",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Waiving your right",
+      "parent" : "governance",
+      "subtitle" : "What kind of rights do you give up on?",
+      "title" : "Waiving your right",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "class action waiver",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "“You and Netflix agree that any dispute, claim or controversy arising out of or relating in any way to the Netflix service, including our website, user interfaces, these Terms of Use and this Arbitration Agreement, shall be determined by binding arbitration instead of in courts of general jurisdiction. Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, allows for more limited discovery than in court, and is subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. You agree that, by agreeing to these Terms of Use, the U.S. Federal Arbitration Act governs the interpretation and enforcement of this provision, and that you and Netflix are each waiving the right to a trial by jury or to participate in a class action. This arbitration provision shall survive termination of this Agreement and the termination of your Netflix membership.\nYOU AND NETFLIX AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.”"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+    "id" : "L5pl0Vn9lKY-2",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "L5pl0Vn9lKY",
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Personal info is used for advertising.",
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "example" : { },
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "targeted third-party advertising",
+      "point" : "bad",
+      "score" : 30,
+      "tldr" : "We keep track of your interactions with us and collect information related to you and your use of our service, including but not limited to your online activity, title selections, reviews and ratings, payment history and correspondence as well as Internet protocol addresses, device types, unique device data, such as device identifiers, operating systems, any instant watching of movies, TV shows and related activity. We use this information for such purposes as (list of stuff necessary for running the service).\n...\nFrom time to time, we may partner with companies whose products we believe will interest our members. In conjunction with these partners, we may send promotional announcements and/or serve web-based advertisements on their behalf, as permitted by law. You can go to the \"Manage mailing preferences\" link on the \"Your Account\" page and request that your name be excluded from marketing emails or postal mail."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+    "id" : "L5pl0Vn9lKY-3",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "L5pl0Vn9lKY",
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Netflix reserve the right to disclose personal info, no notification.",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    }, {
+      "example" : { },
+      "id" : "law-enforcement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law enforcement and due process",
+      "parent" : "law-gov",
+      "subtitle" : "What are the law enforcement standards followed by the service?",
+      "title" : "Law enforcement and due process",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "no promise to inform/notify",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "Netflix also reserves the right to disclose personal information if we reasonably believe that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process, or enforceable governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, or (d) protect against harm to the rights, property or safety of Netflix, its users or the public as required or permitted by law. In connection with any reorganization, restructuring, merger or sale, or other transferring of assets we reserve the right to transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our privacy policy."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+    "id" : "L5pl0Vn9lKY-4",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "L5pl0Vn9lKY",
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Users can request access and deletion of personal info.",
+    "topics" : [ {
+      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
+      "example" : { },
+      "id" : "personal-data",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Personal Data",
+      "parent" : "ownership",
+      "subtitle" : "Can you control your privacy?",
+      "title" : "Personal Data",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "you can request access and deletion of personal data",
+      "point" : "good",
+      "score" : 50,
+      "tldr" : "With respect to your personal information, you can request access and that we correct or delete this personal information by emailing your request to pri...@netflix.com."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+    "id" : "L5pl0Vn9lKY",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "L5pl0Vn9lKY",
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Terms and privacy policy pages are organized and formatted well.",
+    "topics" : [ {
+      "category" : "governance",
+      "example" : { },
+      "id" : "readability",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Easy to read",
+      "subtitle" : "Are the terms easy to find and well written?",
+      "title" : "Easy to read",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "easy to read",
+      "point" : "good",
+      "score" : 10,
+      "tldr" : "Index at the top with links to #anchors down the page. The pages are long, but the index helps alleviate that a lot."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+    "id" : "L5pl0Vn9lKY-5",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "L5pl0Vn9lKY",
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Cookies are required.",
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "example" : { },
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "requires first-party cookies",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "This is probably more of a functional issue than a privacy issue.\nThe Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. If your browser is set to not accept any cookies, you will not be able to use the Netflix service or website."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+    "id" : "L5pl0Vn9lKY-6",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "L5pl0Vn9lKY",
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Netflix uses 3rd party advertisers that use tracking cookies to target ads.",
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "example" : { },
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    }, {
+      "example" : { },
+      "id" : "third",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "sets third-party cookies and/or ads",
+      "point" : "bad",
+      "score" : 10,
+      "tldr" : "We use third-party advertising companies to serve ads. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies click here ."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+    "id" : "L5pl0Vn9lKY-7",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "L5pl0Vn9lKY",
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "No liability is accepted for improper access to your personal information.",
+    "topics" : [ {
+      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
+      "example" : { },
+      "id" : "personal-data",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Personal Data",
+      "parent" : "ownership",
+      "subtitle" : "Can you control your privacy?",
+      "title" : "Personal Data",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "no liability for unauthorized access",
+      "point" : "bad",
+      "score" : 30,
+      "tldr" : "Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your information and cannot assume liability for improper access to it."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",
+    "id" : "any-time-without-notice",
+    "meta" : {
+      "author" : "Hugo for “Terms of Service; Didn't Read”",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Terms may be changed at any time without advance notice",
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "example" : { },
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "user needs to check tosback.org",
+      "point" : "bad",
+      "score" : 70,
+      "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms."
+    }
+  } ],
+  "related" : [ ],
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "https://signup.netflix.com/",
+  "urls" : [ "https://signup.netflix.com/" ]
 }

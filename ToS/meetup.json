@@ -1,67 +1,67 @@
 {
   "alexa" : 1000000,
-  "freesoftware" : false,
-  "id" : "meetup",
-  "keywords" : [ ],
-  "name" : "meetup",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "meetup.json",
-  "jdm" : {
-    "name" : "Meetup",
-    "url" : "http://www.meetup.com/account/remove/",
-    "difficulty" : "easy"
-  },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "http://www.meetup.com/account/"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
+    "linkid" : "changeBio",
     "url" : "http://www.meetup.com/account/bio/"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://secure.meetup.com/account/password"
   }, {
-    "linkid" : "changeEmail",
     "description" : "Change Email",
+    "linkid" : "changeEmail",
     "url" : "http://www.meetup.com/account/email/"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
     "url" : "http://www.meetup.com/account/comm/"
   }, {
-    "linkid" : "deleteAccount",
     "description" : "Delete Account",
+    "linkid" : "deleteAccount",
     "url" : "http://www.meetup.com/account/remove/"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
+    "linkid" : "recoverPassword",
     "url" : "http://www.meetup.com/account/forgot/"
   }, {
-    "linkid" : "changeProfilePicture",
     "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
     "url" : "http://www.meetup.com/account/"
   }, {
-    "linkid" : "changeThirdPartyPermissions",
     "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
     "url" : "http://www.meetup.com/account/oauth_apps/"
   } ],
+  "fileName" : "meetup.json",
+  "freesoftware" : false,
+  "fulltos" : { },
   "icons" : {
     "icon-colour" : "/i/meetup-icon-colour.png",
     "icon-colour-2x" : "/i/meetup-icon-colour@2x.png",
     "icon-grey" : "/i/meetup-icon-grey.png",
     "icon-grey-2x" : "/i/meetup-icon-grey@2x.png"
-  }
+  },
+  "id" : "meetup",
+  "jdm" : {
+    "difficulty" : "easy",
+    "name" : "Meetup",
+    "url" : "http://www.meetup.com/account/remove/"
+  },
+  "keywords" : [ ],
+  "name" : "meetup",
+  "points" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ]
 }

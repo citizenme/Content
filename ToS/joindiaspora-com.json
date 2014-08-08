@@ -1,29 +1,29 @@
 {
   "alexa" : 43519,
-  "freesoftware" : false,
-  "id" : "joindiaspora-com",
-  "keywords" : [ ],
-  "name" : "JoinDiaspora.com",
-  "type" : "service",
-  "url" : "http://joindiaspora.com/",
-  "urls" : [ "http://joindiaspora.com/" ],
+  "class" : "",
+  "deepLinks" : [ ],
   "fileName" : "joindiaspora-com.json",
-  "jdm" : { },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ ],
+  "freesoftware" : false,
   "fulltos" : {
     "terms" : {
       "url" : ""
     }
   },
-  "related" : [ ],
-  "deepLinks" : [ ],
   "icons" : { },
+  "id" : "joindiaspora-com",
+  "jdm" : { },
+  "keywords" : [ ],
+  "name" : "JoinDiaspora.com",
   "parent" : "diaspora",
-  "class" : ""
+  "points" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "http://joindiaspora.com/",
+  "urls" : [ "http://joindiaspora.com/" ]
 }

@@ -1,6 +1,77 @@
 {
   "alexa" : 1,
   "class" : "",
+  "deepLinks" : [ {
+    "description" : "Settings Page",
+    "linkid" : "settingsPage",
+    "url" : "https://www.fb.com/settings"
+  }, {
+    "description" : "Change Bio",
+    "linkid" : "changeBio",
+    "url" : "https://www.fb.com/editprofile.php"
+  }, {
+    "description" : "Change Password",
+    "linkid" : "changePassword",
+    "url" : "https://www.fb.com/settings?tab=account&t"
+  }, {
+    "description" : "Change Username",
+    "linkid" : "changeUsername",
+    "url" : "https://www.fb.com/settings?tab=account&section=username&view"
+  }, {
+    "description" : "Change Email",
+    "linkid" : "changeEmail",
+    "url" : "https://www.fb.com/settings?tab=account&section=email&view"
+  }, {
+    "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
+    "url" : "https://www.fb.com/settings?tab=notifications&section=through_email&view"
+  }, {
+    "description" : "Delete Account",
+    "linkid" : "deleteAccount",
+    "url" : "https://www.fb.com/help/contact.php?show_form=delete_account"
+  }, {
+    "description" : "Change Mobile Settings",
+    "linkid" : "changeMobileSettings",
+    "url" : "https://www.fb.com/settings?tab=mobile"
+  }, {
+    "description" : "Recover Password",
+    "linkid" : "recoverPassword",
+    "url" : "https://www.fb.com/recover.php"
+  }, {
+    "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
+    "url" : "https://www.fb.com/editprofile.php"
+  }, {
+    "description" : "Change Design",
+    "linkid" : "changeDesign",
+    "url" : "https://www.fb.com/editprofile.php"
+  }, {
+    "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
+    "url" : "https://www.fb.com/settings?tab=applications"
+  }, {
+    "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
+    "url" : "https://www.fb.com/settings/?tab=applications"
+  } ],
+  "fileName" : "facebook.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/facebook-icon-colour.png",
+    "icon-colour-2x" : "/i/facebook-icon-colour@2x.png",
+    "icon-grey" : "/i/facebook-icon-grey.png",
+    "icon-grey-2x" : "/i/facebook-icon-grey@2x.png"
+  },
+  "id" : "facebook",
+  "jdm" : {
+    "difficulty" : "medium",
+    "meta" : "popular",
+    "name" : "Facebook",
+    "notes" : "While you can delete your account easily, some of the data including messages, are there to stay forever, just as stated in the website's privacy policy.",
+    "url" : "https://www.facebook.com/help/delete_account?rdrhc"
+  },
+  "keywords" : [ "social network" ],
   "links" : {
     "privacy" : {
       "name" : "Data Use Policy",
@@ -11,17 +82,256 @@
       "url" : "http://www.facebook.com/legal/terms"
     }
   },
-  "freesoftware" : false,
-  "fulltos" : { },
-  "icons" : {
-    "icon-colour" : "/i/facebook-icon-colour.png",
-    "icon-colour-2x" : "/i/facebook-icon-colour@2x.png",
-    "icon-grey" : "/i/facebook-icon-grey.png",
-    "icon-grey-2x" : "/i/facebook-icon-grey@2x.png"
-  },
-  "id" : "facebook",
-  "keywords" : [ "social network" ],
   "name" : "Facebook",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/s98UR0Jx6Z4/discussion",
+    "id" : "s98UR0Jx6Z4",
+    "meta" : {
+      "author" : "ToS;DR project",
+      "contributors" : [ "see mailing list discussion" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "faq" : "",
+      "terms" : ""
+    },
+    "title" : "Facebook automatically shares your data with many other services",
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "example" : { },
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    }, {
+      "example" : { },
+      "id" : "third",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "many third parties are involved in operating the service",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "Facebook automatically shares your information with companies like Bing, Pandora, TripAdvisor, Yelp, Rotten Tomatoes, Clicker, Scribd, and Docs, unless you manually opt-out."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/J6F7dG8dqSo/discussion",
+    "id" : "no-pseudos-allowed",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted: Hugo",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "No pseudonym allowed",
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "example" : { },
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "pseudonym not allowed (not because of user-to-user trust)",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "You must use your legal name publicly on this service. Using a pseudonym or a pen name is not allowed. This can negatively impact your freedom of expression, especially for those with certain professions, or who live in certain countries."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-transparency-data",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
+    },
+    "title" : "Transparency on law enforcement requests",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    }, {
+      "example" : { },
+      "id" : "law-enforcement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law enforcement and due process",
+      "parent" : "law-gov",
+      "subtitle" : "What are the law enforcement standards followed by the service?",
+      "title" : "Law enforcement and due process",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "transparency",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/forum/?fromgroups#!topic/tosdr/kizrN7qb1Ck",
+    "id" : "kizrN7qb1Ck",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "kizrN7qb1Ck",
+    "source" : {
+      "reference" : "http://www.facebook.com/legal/terms"
+    },
+    "title" : "Very broad copyright license on your content",
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "example" : { },
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "very broad",
+      "point" : "bad",
+      "score" : 80,
+      "tldr" : "The copyright licence is very broad. It includes the right for Facebook share your content with others. Depending on your Facebook Privacy and Application settings, this could apply to your photos and videos. Facebook's right to do this under the licence does not end when you stop using the service either, unless your content has been deleted by everyone else."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-tell-user-no",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
+    },
+    "title" : "No promise to inform you about data requests from governments",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "no promise to inform/notify",
+      "point" : "bad",
+      "score" : 50,
+      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it’s unlikely you’d know about the request, you’d have no real opportunity to object to the request being made or carried out."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/E58aPtzP3jk/discussion",
+    "id" : "E58aPtzP3jk",
+    "meta" : { },
+    "set" : "set+service+and+topic",
+    "source" : { },
+    "title" : "This service tracks you on other websites",
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "example" : { },
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    }, {
+      "example" : { },
+      "id" : "third",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "tracks you on other websites",
+      "point" : "bad",
+      "score" : 60,
+      "tldr" : "This service and their partners use cookies to track you even if you are not interacting with the service directly. Information gathered about you could include: date and time you visit the site; the web address or URL you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to the service at the same time, your user ID."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/forum/?fromgroups#!topic/tosdr/VTlWfubfib4",
+    "id" : "VTlWfubfib4",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.facebook.com/legal/terms"
+    },
+    "title" : "You can give your feedback before changes",
+    "topics" : [ {
+      "description" : "The terms are a contract between two parties, and it should not be changed unilaterally without consultation of the other party. Services should listen to what their users say and care about, and give them a vote in each substantial change.",
+      "example" : { },
+      "id" : "changes-involvement",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "User Involvement in Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are changes proposed as a request for feedback, or imposed unilaterally as a take-it-or-leave-it deal?",
+      "title" : "User Involvement in Changing Terms",
+      "type" : "topic"
+    }, {
+      "example" : { },
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "user feedback is invited",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "Ordinarily, Facebook will provide 7 days' advance notice of changes by posting on the Facebook Site Governance Page. You can respond to changes by posting your comments, but there is no guarantee this will impact the proposed change."
+    }
+  } ],
   "related" : [ "diaspora" ],
   "tosback2" : {
     "privacy" : {
@@ -37,321 +347,12 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
-    "rated" : false,
+    "rated" : "false",
     "related" : [ ]
   },
   "type" : "service",
   "url" : "facebook.com",
-  "urls" : [ "facebook.com" ],
-  "fileName" : "facebook.json",
-  "jdm" : {
-    "meta" : "popular",
-    "name" : "Facebook",
-    "url" : "https://www.facebook.com/help/delete_account?rdrhc",
-    "difficulty": "medium",
-    "notes" : "While you can delete your account easily, some of the data including messages, are there to stay forever, just as stated in the website's privacy policy."
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/E58aPtzP3jk/discussion",
-    "id" : "E58aPtzP3jk",
-    "set" : "set+service+and+topic",
-    "title" : "This service tracks you on other websites",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "tracks you on other websites",
-      "point" : "bad",
-      "score" : 60,
-      "tldr" : "This service and their partners use cookies to track you even if you are not interacting with the service directly. Information gathered about you could include: date and time you visit the site; the web address or URL you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to the service at the same time, your user ID."
-    },
-    "topics" : [ {
-      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
-      "id" : "cookies",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Cookies",
-      "parent" : "track",
-      "subtitle" : "and related technologies",
-      "title" : "Cookies",
-      "type" : "topic"
-    }, {
-      "id" : "third",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Third Parties",
-      "subtitle" : "",
-      "title" : "Third Parties",
-      "type" : "category"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/forum/?fromgroups#!topic/tosdr/VTlWfubfib4",
-    "id" : "VTlWfubfib4",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "terms" : "http://www.facebook.com/legal/terms"
-    },
-    "title" : "You can give your feedback before changes",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "user feedback is invited",
-      "point" : "good",
-      "score" : 30,
-      "tldr" : "Ordinarily, Facebook will provide 7 days' advance notice of changes by posting on the Facebook Site Governance Page. You can respond to changes by posting your comments, but there is no guarantee this will impact the proposed change."
-    },
-    "topics" : [ {
-      "description" : "The terms are a contract between two parties, and it should not be changed unilaterally without consultation of the other party. Services should listen to what their users say and care about, and give them a vote in each substantial change.",
-      "id" : "changes-involvement",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "User Involvement in Changing Terms",
-      "parent" : "changes",
-      "subtitle" : "Are changes proposed as a request for feedback, or imposed unilaterally as a take-it-or-leave-it deal?",
-      "title" : "User Involvement in Changing Terms",
-      "type" : "topic"
-    }, {
-      "id" : "governance",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Governance",
-      "subtitle" : "Your relationship with the service and the community",
-      "title" : "Governance",
-      "type" : "category"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-tell-user-no",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
-    },
-    "title" : "No promise to inform you about data requests from governments",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "no promise to inform/notify",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it's unlikely you'd know about the request, you'd have no real opportunity to object to the request being made or carried out."
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-transparency-data",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "reference" : "https://www.eff.org/pages/who-has-your-back#transparency"
-    },
-    "title" : "Transparency on law enforcement requests",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "transparency",
-      "point" : "good",
-      "score" : 30,
-      "tldr" : "This service makes clear to their users what standards and rules law enforcement must follow when they seek access to sensitive user data."
-    },
-    "topics" : [ {
-      "description" : "",
-      "id" : "law-gov",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Law and government requests",
-      "subtitle" : "How do services deal with government requests?",
-      "title" : "Law and government requests",
-      "type" : "category"
-    }, {
-      "id" : "law-enforcement",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Law enforcement and due process",
-      "parent" : "law-gov",
-      "subtitle" : "What are the law enforcement standards followed by the service?",
-      "title" : "Law enforcement and due process",
-      "type" : "topic"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/forum/?fromgroups#!topic/tosdr/kizrN7qb1Ck",
-    "id" : "kizrN7qb1Ck",
-    "related-id" : "kizrN7qb1Ck",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "reference" : "http://www.facebook.com/legal/terms"
-    },
-    "title" : "Very broad copyright license on your content",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "very broad",
-      "point" : "bad",
-      "score" : 80,
-      "tldr" : "The copyright licence is very broad. It includes the right for Facebook share your content with others. Depending on your Facebook Privacy and Application settings, this could apply to your photos and videos. Facebook's right to do this under the licence does not end when you stop using the service either, unless your content has been deleted by everyone else."
-    },
-    "topics" : [ {
-      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-      "id" : "copyright-scope",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Scope of the copyright license",
-      "parent" : "ownership",
-      "subtitle" : "Do you grant only the necessary rights?",
-      "title" : "Scope of the copyright license",
-      "type" : "topic"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/J6F7dG8dqSo/discussion",
-    "id" : "no-pseudos-allowed",
-    "meta" : {
-      "author" : "ToS;DR by Unhosted: Hugo",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "title" : "No pseudonym allowed",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "pseudonym not allowed (not because of user-to-user trust)",
-      "point" : "bad",
-      "score" : 20,
-      "tldr" : "You must use your legal name publicly on this service. Using a pseudonym or a pen name is not allowed. This can negatively impact your freedom of expression, especially for those with certain professions, or who live in certain countries."
-    },
-    "topics" : [ {
-      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-      "id" : "track",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Anonymity and Tracking",
-      "subtitle" : "Are you being spied on?",
-      "title" : "Anonymity and Tracking",
-      "type" : "category"
-    } ]
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/s98UR0Jx6Z4/discussion",
-    "id" : "s98UR0Jx6Z4",
-    "meta" : {
-      "author" : "ToS;DR project",
-      "contributors" : [ "see mailing list discussion" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "faq" : "",
-      "terms" : ""
-    },
-    "title" : "Facebook automatically shares your data with many other services",
-    "tosdr" : {
-      "binding" : true,
-      "case" : "many third parties are involved in operating the service",
-      "point" : "bad",
-      "score" : 50,
-      "tldr" : "Facebook automatically shares your information with companies like Bing, Pandora, TripAdvisor, Yelp, Rotten Tomatoes, Clicker, Scribd, and Docs, unless you manually opt-out."
-    },
-    "topics" : [ {
-      "id" : "third",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Third Parties",
-      "subtitle" : "",
-      "title" : "Third Parties",
-      "type" : "category"
-    }, {
-      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-      "id" : "track",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Anonymity and Tracking",
-      "subtitle" : "Are you being spied on?",
-      "title" : "Anonymity and Tracking",
-      "type" : "category"
-    } ]
-  } ]
-, "deepLinks": [
-    {
-        "linkid": "settingsPage",
-        "description": "Settings Page",
-        "url": "https://www.fb.com/settings"
-    },
-    {
-        "linkid": "changeBio",
-        "description": "Change Bio",
-        "url": "https://www.fb.com/editprofile.php"
-    },
-    {
-        "linkid": "changePassword",
-        "description": "Change Password",
-        "url": "https://www.fb.com/settings?tab=account&t"
-    },
-    {
-        "linkid": "changeUsername",
-        "description": "Change Username",
-        "url": "https://www.fb.com/settings?tab=account&section=username&view"
-    },
-    {
-        "linkid": "changeEmail",
-        "description": "Change Email",
-        "url": "https://www.fb.com/settings?tab=account&section=email&view"
-    },
-    {
-        "linkid": "changeEmailSettings",
-        "description": "Change Email Settings",
-        "url": "https://www.fb.com/settings?tab=notifications&section=through_email&view"
-    },
-    {
-        "linkid": "deleteAccount",
-        "description": "Delete Account",
-        "url": "https://www.fb.com/help/contact.php?show_form=delete_account"
-    },
-    {
-        "linkid": "changeMobileSettings",
-        "description": "Change Mobile Settings",
-        "url": "https://www.fb.com/settings?tab=mobile"
-    },
-    {
-        "linkid": "recoverPassword",
-        "description": "Recover Password",
-        "url": "https://www.fb.com/recover.php"
-    },
-    {
-        "linkid": "changeProfilePicture",
-        "description": "Change Profile Picture",
-        "url": "https://www.fb.com/editprofile.php"
-    },
-    {
-        "linkid": "changeDesign",
-        "description": "Change Design",
-        "url": "https://www.fb.com/editprofile.php"
-    },
-    {
-        "linkid": "changeConnectedAccounts",
-        "description": "Change Connected Accounts",
-        "url": "https://www.fb.com/settings?tab=applications"
-    },
-    {
-        "linkid": "changeThirdPartyPermissions",
-        "description": "Change 3rd Party Permissions",
-        "url": "https://www.fb.com/settings/?tab=applications"
-    }
-  ]
+  "urls" : [ "facebook.com" ]
 }

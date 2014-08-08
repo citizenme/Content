@@ -1,31 +1,31 @@
 {
   "alexa" : 50985,
-  "freesoftware" : false,
-  "id" : "newsblur",
-  "keywords" : [ ],
-  "name" : "Newsblur",
-  "type" : "service",
-  "url" : "newsblur.com",
-  "urls" : [ "newsblur.com" ],
+  "deepLinks" : [ ],
   "fileName" : "newsblur.json",
-  "jdm" : {
-    "name" : "NewsBlur",
-    "url" : "https://www.newsblur.com/profile/delete_account",
-    "difficulty" : "easy"
-  },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ ],
+  "freesoftware" : false,
   "fulltos" : {
     "terms" : {
       "url" : "https://groups.google.com/forum/#!topic/tosdr/DRj4SuDbnP8"
     }
   },
+  "icons" : { },
+  "id" : "newsblur",
+  "jdm" : {
+    "difficulty" : "easy",
+    "name" : "NewsBlur",
+    "url" : "https://www.newsblur.com/profile/delete_account"
+  },
+  "keywords" : [ ],
+  "name" : "Newsblur",
+  "points" : [ ],
   "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "newsblur.com",
+  "urls" : [ "newsblur.com" ]
 }

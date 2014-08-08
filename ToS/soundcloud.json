@@ -1,345 +1,24 @@
 {
   "alexa" : 225,
-  "freesoftware" : false,
-  "id" : "soundcloud",
-  "keywords" : [ ],
-  "name" : "SoundCloud",
-  "type" : "service",
-  "url" : "soundcloud.com/",
-  "urls" : [ "soundcloud.com/" ],
+  "class" : "B",
+  "dataexport" : "true",
+  "deepLinks" : [ ],
   "fileName" : "soundcloud.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : {
+    "icon-colour" : "/i/SoundCloud-icon-colour.png",
+    "icon-colour-2x" : "/i/SoundCloud-icon-colour@2x.png",
+    "icon-grey" : "/i/SoundCloud-icon-grey.png",
+    "icon-grey-2x" : "/i/SoundCloud-icon-grey@2x.png"
+  },
+  "id" : "soundcloud",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Soundcloud",
-    "url" : "http://soundcloud.com/settings/account#delete-user",
-    "difficulty" : "easy"
+    "url" : "http://soundcloud.com/settings/account#delete-user"
   },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "B",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/-tqWw03UPoc/discussion",
-    "id" : "XtqWw03UPoc",
-    "title" : "6 weeks to review changes",
-    "source" : {
-      "terms" : "http://soundcloud.com/terms-of-use"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 40,
-      "tldr" : "When SoundCloud decides to modify the terms of service, they notify you by email. The changes will go in application after 6 weeks, leaving a reasonable amount of time for you to consider whether you agree to the changes.",
-      "case" : "user is notified a month or more in advance"
-    },
-    "topics" : [ {
-      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
-      "id" : "changes",
-      "name" : "Notice of Changing Terms",
-      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
-      "title" : "Notice of Changing Terms",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "changes",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/3f3dVPCa1GU/discussion",
-    "id" : "3f3dVPCa1GU",
-    "title" : "Collected personal data used for limited purposes",
-    "source" : {
-      "privacy" : "http://soundcloud.com/pages/privacy#information"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 60,
-      "tldr" : "SoundCloud collects data that you provide, but also automatically. Information collected about you is only used for a list of purposes which are reasonable. Your data is not shared with any third-party, except for the features you use.",
-      "case" : "your personal data is used for limited purposes"
-    },
-    "topics" : [ {
-      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
-      "id" : "personal-data",
-      "name" : "Personal Data",
-      "subtitle" : "Can you control your privacy?",
-      "title" : "Personal Data",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "ownership",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "3f3dVPCa1GU"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/3f3dVPCa1GU/discussion",
-    "id" : "3f3dVPCa1GU2",
-    "title" : "Personal information can be disclosed in case of business transfer or insolvency",
-    "source" : {
-      "privacy" : "http://soundcloud.com/pages/privacy#information"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 20,
-      "tldr" : "SoundCloud “We may disclose your personal information to any person or company that acquires all or substantially all of the assets or business of SoundCloud, or on a merger of our business, or in the event of our insolvency. ”",
-      "case" : "may sell your data in merger"
-    },
-    "topics" : [ {
-      "description" : "When you give your data to a company, you need to keep in mind that this company can get acquired by another company, with different policies. What happens in that case?",
-      "id" : "business-transfer",
-      "name" : "Business Transfers",
-      "subtitle" : "Is your data a business asset?",
-      "title" : "Business Transfers",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "third",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "related-id" : "3f3dVPCa1GU2"
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/_gI8wQ3PZ2M/discussion",
-    "id" : "XgI8wQ3PZ2M",
-    "title" : "You stay in control of your copyright",
-    "source" : {
-      "terms" : "http://soundcloud.com/terms-of-use#license"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 100,
-      "tldr" : "You only grant to SoundCloud the rights necessary to operate the services. You grant to the public the rights to listen and to share your tracks “within the parameters set by you” for each track. You can also publish easily your tracks under a Creative Commons license of your choice.",
-      "case" : "you have control over licensing options"
-    },
-    "topics" : [ {
-      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
-      "id" : "copyright-scope",
-      "name" : "Scope of the copyright license",
-      "subtitle" : "Do you grant only the necessary rights?",
-      "title" : "Scope of the copyright license",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "ownership",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "tosback2-data" : {
-      "terms" : {
-        "extracted" : "By uploading or posting Your Content to the Platform, you initiate an automated process to transcode any audio Content and direct SoundCloud to store Your Content on our servers, from where you may control and authorise the use, reproduction, transmission, distribution, public display, public performance, making available and other communication to the public of Your Content on the Platform and elsewhere using the Services. To the extent it is necessary in order for SoundCloud to provide you with any of the aforementioned hosting services, to undertake any of the tasks set forth in these Terms of Use and/or to enable your use of the Platform, you hereby grant such licences to SoundCloud on a limited, worldwide, non-exclusive, royalty-free and fully paid basis.By uploading Your Content to the Platform, you also grant a limited, worldwide, non-exclusive, royalty-free, fully paid up, licence to other users of the Platform, and to users of any other websites, apps and/or platforms to which Your Content has been shared or embedded using the Services (“Linked Services”), to use, copy, transmit or otherwise distribute, publicly display, publicly perform, prepare derivative works of, make available and otherwise communicate to the public Your Content within the parameters set by you using the Services. You can limit and restrict the availability of certain of Your Content to other users of the Platform, and to users of Linked Services, at any time using the settings on the sound page for each sound you upload, subject to the provisions of the Disclaimer section below.The licences granted in this section are granted separately with respect to each item of Your Content that you upload to the Platform. Licences with respect to audio Content, and any images or text within your account, will (subject to the following paragraph of these Terms of Use) terminate automatically when you remove such Content from your account. Licences with respect to comments or other contributions that you make on the Website will be perpetual and irrevocable, and will continue notwithstanding any termination of your account."
-      }
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/fmlKouXKUcc/discussion",
-    "id" : "fmlKouXKUcc",
-    "title" : "The terms are easy to read",
-    "source" : {
-      "terms" : "http://soundcloud.com/terms-of-use"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 10,
-      "tldr" : "SoundCloud provides an index describing what each section is about. Thus, you can easily identify which sections you care about and jump directly to these sections.",
-      "case" : "easy to read"
-    },
-    "topics" : [ {
-      "id" : "readability",
-      "name" : "Easy to read",
-      "subtitle" : "Are the terms easy to find and well written?",
-      "title" : "Easy to read",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { },
-      "category" : "governance"
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/gq1LW7l28qI/discussion",
-    "id" : "gq1LW7l28qI",
-    "title" : "You can terminate your account",
-    "source" : {
-      "terms" : "http://soundcloud.com/terms-of-use#termination"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 15,
-      "tldr" : "In order to terminate your agreement to the terms, you need to send a written notice to SoundCloud, Berlin. All your content and your activity will be “irretrievably deleted by SoundCloud, except to the extent that we are obliged or permitted to retain such content, data or information for a certain period of time in accordance with applicable laws and regulations and/or to protect our legitimate business interests”. You should back up your tracks yourself.",
-      "case" : "you can leave at any time"
-    },
-    "topics" : [ {
-      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
-      "id" : "leave",
-      "name" : "Right to leave the service",
-      "subtitle" : "To avoid lock-in and stay in control",
-      "title" : "Right to leave the service",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/n_DCnOwcIo0/discussion",
-    "id" : "n_DCnOwcIo0",
-    "title" : "Indemnification from claims related to your content or your account",
-    "source" : {
-      "terms" : "http://soundcloud.com/terms-of-use#indemnification"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 40,
-      "tldr" : "You agree to indemnify SoundCloud from all claims resulting from any third party for infringement of copyright or invastion of privacy related to your content or any activity related to your account. ",
-      "case" : "responsible and indemnify"
-    },
-    "topics" : [ {
-      "id" : "governance",
-      "name" : "Governance",
-      "subtitle" : "Your relationship with the service and the community",
-      "title" : "Governance",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/ps1ZppOOWmM/discussion",
-    "id" : "ps1ZppOOWmM",
-    "title" : "Jurisdiction in Germany",
-    "source" : {
-      "terms" : "http://soundcloud.com/terms-of-use#applicable_law"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "neutral",
-      "score" : 0,
-      "tldr" : "“this Agreement is subject to the laws of the Federal Republic of Germany, excluding the UN Convention on Contracts for the International Sale of Goods (CISG) and excluding the principles of conflict of laws (international private law); and you hereby agree, and SoundCloud agrees, to submit to the exclusive jurisdiction of the courts in Berlin, Germany for resolution of any dispute, action or proceeding arising in connection with this Agreement.”",
-      "case" : "court of law is in location X"
-    },
-    "topics" : [ {
-      "description" : "What is the jurisdiction, what laws govern the terms?",
-      "id" : "jurisdiction-law",
-      "name" : "Jurisdiction and governing laws",
-      "subtitle" : "Where can you sue, or be sued, for breaching of the rules?",
-      "title" : "Jurisdiction and governing laws",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { },
-      "category" : "governance"
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/Q1oDK4mAvuw/discussion",
-    "id" : "x2OybdCClW0",
-    "title" : "Pseudonyms allowed",
-    "source" : { },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "good",
-      "score" : 20,
-      "tldr" : "You do not have to provide your legal name (except for paid accounts for billing purposes) and you can use the service with a pseudonym.",
-      "case" : "pseudonyms allowed"
-    },
-    "topics" : [ {
-      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
-      "id" : "track",
-      "name" : "Anonymity and Tracking",
-      "subtitle" : "Are you being spied on?",
-      "title" : "Anonymity and Tracking",
-      "type" : "category",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/w8RMtGdRvdM/discussion",
-    "id" : "w8RMtGdRvdM",
-    "title" : "Use of cookies and third-party cookies (opt-out)",
-    "source" : {
-      "privacy" : "http://soundcloud.com/pages/privacy#cookies"
-    },
-    "tosdr" : {
-      "binding" : "true",
-      "point" : "bad",
-      "score" : 5,
-      "tldr" : "SoundCloud uses persistant cookies. They also have a limited set of third-party cookies: Google Analytics, Quantcast and ATInternet. Detailed information about how to opt-out is provided.",
-      "case" : "third-party cookies, but with opt-out instructions"
-    },
-    "topics" : [ {
-      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
-      "id" : "cookies",
-      "name" : "Cookies",
-      "subtitle" : "and related technologies",
-      "title" : "Cookies",
-      "type" : "topic",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "parent" : "track",
-      "example" : { }
-    } ],
-    "meta" : {
-      "author" : "ToS;DR by Unhosted",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    }
-  } ],
+  "keywords" : [ ],
   "links" : {
     "guidelines" : {
       "name" : "Community Guidelines",
@@ -354,7 +33,328 @@
       "url" : "https://pages.soundcloud.com/legal/terms-of-use.html"
     }
   },
-  "fulltos" : { },
+  "name" : "SoundCloud",
+  "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/gq1LW7l28qI/discussion",
+    "id" : "gq1LW7l28qI",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://soundcloud.com/terms-of-use#termination"
+    },
+    "title" : "You can terminate your account",
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "example" : { },
+      "id" : "leave",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "you can leave at any time",
+      "point" : "good",
+      "score" : 15,
+      "tldr" : "In order to terminate your agreement to the terms, you need to send a written notice to SoundCloud, Berlin. All your content and your activity will be “irretrievably deleted by SoundCloud, except to the extent that we are obliged or permitted to retain such content, data or information for a certain period of time in accordance with applicable laws and regulations and/or to protect our legitimate business interests”. You should back up your tracks yourself."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/fmlKouXKUcc/discussion",
+    "id" : "fmlKouXKUcc",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://soundcloud.com/terms-of-use"
+    },
+    "title" : "The terms are easy to read",
+    "topics" : [ {
+      "category" : "governance",
+      "example" : { },
+      "id" : "readability",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Easy to read",
+      "subtitle" : "Are the terms easy to find and well written?",
+      "title" : "Easy to read",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "easy to read",
+      "point" : "good",
+      "score" : 10,
+      "tldr" : "SoundCloud provides an index describing what each section is about. Thus, you can easily identify which sections you care about and jump directly to these sections."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/n_DCnOwcIo0/discussion",
+    "id" : "n_DCnOwcIo0",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://soundcloud.com/terms-of-use#indemnification"
+    },
+    "title" : "Indemnification from claims related to your content or your account",
+    "topics" : [ {
+      "example" : { },
+      "id" : "governance",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Governance",
+      "subtitle" : "Your relationship with the service and the community",
+      "title" : "Governance",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "responsible and indemnify",
+      "point" : "bad",
+      "score" : 40,
+      "tldr" : "You agree to indemnify SoundCloud from all claims resulting from any third party for infringement of copyright or invastion of privacy related to your content or any activity related to your account. "
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/3f3dVPCa1GU/discussion",
+    "id" : "3f3dVPCa1GU",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "3f3dVPCa1GU",
+    "source" : {
+      "privacy" : "http://soundcloud.com/pages/privacy#information"
+    },
+    "title" : "Collected personal data used for limited purposes",
+    "topics" : [ {
+      "description" : "Once a service has your personal data, how much control do you have over how it will be used and how long?",
+      "example" : { },
+      "id" : "personal-data",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Personal Data",
+      "parent" : "ownership",
+      "subtitle" : "Can you control your privacy?",
+      "title" : "Personal Data",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "your personal data is used for limited purposes",
+      "point" : "good",
+      "score" : 60,
+      "tldr" : "SoundCloud collects data that you provide, but also automatically. Information collected about you is only used for a list of purposes which are reasonable. Your data is not shared with any third-party, except for the features you use."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/_gI8wQ3PZ2M/discussion",
+    "id" : "XgI8wQ3PZ2M",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://soundcloud.com/terms-of-use#license"
+    },
+    "title" : "You stay in control of your copyright",
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "example" : { },
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    } ],
+    "tosback2-data" : {
+      "terms" : {
+        "extracted" : "By uploading or posting Your Content to the Platform, you initiate an automated process to transcode any audio Content and direct SoundCloud to store Your Content on our servers, from where you may control and authorise the use, reproduction, transmission, distribution, public display, public performance, making available and other communication to the public of Your Content on the Platform and elsewhere using the Services. To the extent it is necessary in order for SoundCloud to provide you with any of the aforementioned hosting services, to undertake any of the tasks set forth in these Terms of Use and/or to enable your use of the Platform, you hereby grant such licences to SoundCloud on a limited, worldwide, non-exclusive, royalty-free and fully paid basis.By uploading Your Content to the Platform, you also grant a limited, worldwide, non-exclusive, royalty-free, fully paid up, licence to other users of the Platform, and to users of any other websites, apps and/or platforms to which Your Content has been shared or embedded using the Services (“Linked Services”), to use, copy, transmit or otherwise distribute, publicly display, publicly perform, prepare derivative works of, make available and otherwise communicate to the public Your Content within the parameters set by you using the Services. You can limit and restrict the availability of certain of Your Content to other users of the Platform, and to users of Linked Services, at any time using the settings on the sound page for each sound you upload, subject to the provisions of the Disclaimer section below.The licences granted in this section are granted separately with respect to each item of Your Content that you upload to the Platform. Licences with respect to audio Content, and any images or text within your account, will (subject to the following paragraph of these Terms of Use) terminate automatically when you remove such Content from your account. Licences with respect to comments or other contributions that you make on the Website will be perpetual and irrevocable, and will continue notwithstanding any termination of your account."
+      }
+    },
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "you have control over licensing options",
+      "point" : "good",
+      "score" : 100,
+      "tldr" : "You only grant to SoundCloud the rights necessary to operate the services. You grant to the public the rights to listen and to share your tracks “within the parameters set by you” for each track. You can also publish easily your tracks under a Creative Commons license of your choice."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/3f3dVPCa1GU/discussion",
+    "id" : "3f3dVPCa1GU2",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "related-id" : "3f3dVPCa1GU2",
+    "source" : {
+      "privacy" : "http://soundcloud.com/pages/privacy#information"
+    },
+    "title" : "Personal information can be disclosed in case of business transfer or insolvency",
+    "topics" : [ {
+      "description" : "When you give your data to a company, you need to keep in mind that this company can get acquired by another company, with different policies. What happens in that case?",
+      "example" : { },
+      "id" : "business-transfer",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Business Transfers",
+      "parent" : "third",
+      "subtitle" : "Is your data a business asset?",
+      "title" : "Business Transfers",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "may sell your data in merger",
+      "point" : "bad",
+      "score" : 20,
+      "tldr" : "SoundCloud “We may disclose your personal information to any person or company that acquires all or substantially all of the assets or business of SoundCloud, or on a merger of our business, or in the event of our insolvency. ”"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/-tqWw03UPoc/discussion",
+    "id" : "XtqWw03UPoc",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://soundcloud.com/terms-of-use"
+    },
+    "title" : "6 weeks to review changes",
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "example" : { },
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "user is notified a month or more in advance",
+      "point" : "good",
+      "score" : 40,
+      "tldr" : "When SoundCloud decides to modify the terms of service, they notify you by email. The changes will go in application after 6 weeks, leaving a reasonable amount of time for you to consider whether you agree to the changes."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/w8RMtGdRvdM/discussion",
+    "id" : "w8RMtGdRvdM",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "privacy" : "http://soundcloud.com/pages/privacy#cookies"
+    },
+    "title" : "Use of cookies and third-party cookies (opt-out)",
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "example" : { },
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "third-party cookies, but with opt-out instructions",
+      "point" : "bad",
+      "score" : 5,
+      "tldr" : "SoundCloud uses persistant cookies. They also have a limited set of third-party cookies: Google Analytics, Quantcast and ATInternet. Detailed information about how to opt-out is provided."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/ps1ZppOOWmM/discussion",
+    "id" : "ps1ZppOOWmM",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://soundcloud.com/terms-of-use#applicable_law"
+    },
+    "title" : "Jurisdiction in Germany",
+    "topics" : [ {
+      "category" : "governance",
+      "description" : "What is the jurisdiction, what laws govern the terms?",
+      "example" : { },
+      "id" : "jurisdiction-law",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Jurisdiction and governing laws",
+      "subtitle" : "Where can you sue, or be sued, for breaching of the rules?",
+      "title" : "Jurisdiction and governing laws",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "court of law is in location X",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "“this Agreement is subject to the laws of the Federal Republic of Germany, excluding the UN Convention on Contracts for the International Sale of Goods (CISG) and excluding the principles of conflict of laws (international private law); and you hereby agree, and SoundCloud agrees, to submit to the exclusive jurisdiction of the courts in Berlin, Germany for resolution of any dispute, action or proceeding arising in connection with this Agreement.”"
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/Q1oDK4mAvuw/discussion",
+    "id" : "x2OybdCClW0",
+    "meta" : {
+      "author" : "ToS;DR by Unhosted",
+      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Pseudonyms allowed",
+    "topics" : [ {
+      "description" : "The terms sometimes describe the level of logging and the level of data collection and which kinds of data the service is processing. Anonymity or the right to use a pseudonym can be very important for freedom of expression (e.g. for people exercising a certain profession, or people living in authoritarian regimes).",
+      "example" : { },
+      "id" : "track",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Anonymity and Tracking",
+      "subtitle" : "Are you being spied on?",
+      "title" : "Anonymity and Tracking",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "pseudonyms allowed",
+      "point" : "good",
+      "score" : 20,
+      "tldr" : "You do not have to provide your legal name (except for paid accounts for billing purposes) and you can use the service with a pseudonym."
+    }
+  } ],
   "related" : [ "spotify" ],
   "tosback2" : {
     "guidelines" : {
@@ -373,13 +373,13 @@
       "url" : "https://pages.soundcloud.com/legal/terms-of-use.html"
     }
   },
-  "deepLinks" : [ ],
-  "icons" : {
-    "icon-colour" : "/i/SoundCloud-icon-colour.png",
-    "icon-colour-2x" : "/i/SoundCloud-icon-colour@2x.png",
-    "icon-grey" : "/i/SoundCloud-icon-grey.png",
-    "icon-grey-2x" : "/i/SoundCloud-icon-grey@2x.png"
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "B",
+    "related" : [ ]
   },
-  "dataexport" : "true",
-  "class" : "B"
+  "type" : "service",
+  "url" : "soundcloud.com/",
+  "urls" : [ "soundcloud.com/" ]
 }

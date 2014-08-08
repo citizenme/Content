@@ -1,22 +1,22 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "stackexchange.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "stackexchange",
+  "jdm" : { },
   "keywords" : [ ],
   "name" : "stackexchange",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "stackexchange.json",
-  "jdm" : { },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

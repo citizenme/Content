@@ -1,33 +1,33 @@
 {
   "alexa" : 39,
-  "freesoftware" : false,
-  "id" : "paypal",
-  "keywords" : [ ],
-  "name" : "PayPal",
-  "type" : "service",
-  "url" : "paypal.com",
-  "urls" : [ "paypal.com" ],
+  "class" : "",
+  "deepLinks" : [ ],
   "fileName" : "paypal.json",
-  "jdm" : {
-    "name" : "PayPal",
-    "url" : "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
-    "difficulty" : "easy",
-    "notes" : "Log in. Click 'Profile' near the top of the page. Click 'My settings'. Click 'Close Account' in the 'Account type' section and follow the steps listed."
-  },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ ],
+  "freesoftware" : false,
   "fulltos" : {
     "terms" : {
       "url" : ""
     }
   },
-  "related" : [ ],
-  "deepLinks" : [ ],
   "icons" : { },
-  "class" : ""
+  "id" : "paypal",
+  "jdm" : {
+    "difficulty" : "easy",
+    "name" : "PayPal",
+    "notes" : "Log in. Click 'Profile' near the top of the page. Click 'My settings'. Click 'Close Account' in the 'Account type' section and follow the steps listed.",
+    "url" : "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account"
+  },
+  "keywords" : [ ],
+  "name" : "PayPal",
+  "points" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "paypal.com",
+  "urls" : [ "paypal.com" ]
 }

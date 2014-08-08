@@ -1,26 +1,26 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "waze.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "waze",
+  "jdm" : {
+    "difficulty" : "easy",
+    "name" : "Waze",
+    "url" : "https://www.waze.com/dashboard/delete_account"
+  },
   "keywords" : [ ],
   "name" : "waze",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "waze.json",
-  "jdm" : {
-    "name" : "Waze",
-    "url" : "https://www.waze.com/dashboard/delete_account",
-    "difficulty" : "easy"
-  },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

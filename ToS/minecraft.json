@@ -1,27 +1,27 @@
 {
   "alexa" : 1836,
-  "freesoftware" : false,
-  "id" : "minecraft",
-  "keywords" : [ ],
-  "name" : "Minecraft",
-  "type" : "service",
-  "url" : "https://minecraft.net/",
-  "urls" : [ "https://minecraft.net/" ],
+  "deepLinks" : [ ],
   "fileName" : "minecraft.json",
-  "jdm" : { },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ ],
+  "freesoftware" : false,
   "fulltos" : {
     "terms" : {
       "url" : "https://minecraft.net/terms"
     }
   },
+  "icons" : { },
+  "id" : "minecraft",
+  "jdm" : { },
+  "keywords" : [ ],
+  "name" : "Minecraft",
+  "points" : [ ],
   "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "url" : "https://minecraft.net/",
+  "urls" : [ "https://minecraft.net/" ]
 }

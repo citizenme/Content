@@ -1,26 +1,26 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "goodreads.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "goodreads",
+  "jdm" : {
+    "difficulty" : "easy",
+    "name" : "Goodreads",
+    "url" : "http://www.goodreads.com/user/destroy"
+  },
   "keywords" : [ ],
   "name" : "goodreads",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "goodreads.json",
-  "jdm" : {
-    "name" : "Goodreads",
-    "url" : "http://www.goodreads.com/user/destroy",
-    "difficulty" : "easy"
-  },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

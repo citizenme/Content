@@ -1,22 +1,22 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "interparcel.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "interparcel",
+  "jdm" : { },
   "keywords" : [ ],
   "name" : "interparcel",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "interparcel.json",
-  "jdm" : { },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

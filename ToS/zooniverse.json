@@ -1,22 +1,22 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "zooniverse.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "zooniverse",
+  "jdm" : { },
   "keywords" : [ ],
   "name" : "zooniverse",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "zooniverse.json",
-  "jdm" : { },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

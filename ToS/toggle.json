@@ -1,22 +1,22 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "toggle.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "toggle",
+  "jdm" : { },
   "keywords" : [ ],
   "name" : "toggle",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "toggle.json",
-  "jdm" : { },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

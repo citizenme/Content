@@ -1,28 +1,28 @@
 {
   "alexa" : 1000000,
-  "freesoftware" : false,
-  "id" : "ebay",
-  "keywords" : [ ],
-  "name" : "ebay",
-  "type" : "service",
-  "urls" : [ ],
+  "deepLinks" : [ ],
   "fileName" : "ebay.json",
+  "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
+  "id" : "ebay",
   "jdm" : {
+    "difficulty" : "easy",
     "meta" : "popular",
     "name" : "eBay",
-    "url" : "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
-    "difficulty" : "easy",
-    "notes" : "A few survey questions will be asked prior to account deletion."
+    "notes" : "A few survey questions will be asked prior to account deletion.",
+    "url" : "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount"
   },
+  "keywords" : [ ],
+  "name" : "ebay",
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }

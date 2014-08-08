@@ -1,73 +1,73 @@
 {
   "alexa" : 1000000,
-  "freesoftware" : false,
-  "id" : "pinterest",
-  "keywords" : [ ],
-  "name" : "pinterest",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "pinterest.json",
-  "jdm" : {
-    "meta" : "popular",
-    "name" : "Pinterest",
-    "url" : "https://pinterest.com/settings/",
-    "difficulty" : "impossible",
-    "notes" : "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted."
-  },
-  "tosdr" : {
-    "keywords" : [ ],
-    "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
-  },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "https://pinterest.com/settings/"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
+    "linkid" : "changeBio",
     "url" : "https://pinterest.com/settings/"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://pinterest.com/settings/"
   }, {
-    "linkid" : "changeUsername",
     "description" : "Change Username",
+    "linkid" : "changeUsername",
     "url" : "https://pinterest.com/settings/"
   }, {
-    "linkid" : "changeEmail",
     "description" : "Change Email",
+    "linkid" : "changeEmail",
     "url" : "https://pinterest.com/settings/"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
     "url" : "https://pinterest.com/prefs/"
   }, {
-    "linkid" : "deleteAccount",
     "description" : "Delete Account",
+    "linkid" : "deleteAccount",
     "url" : "https://pinterest.com/settings/"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
+    "linkid" : "recoverPassword",
     "url" : "https://pinterest.com/login/?next=%2F"
   }, {
-    "linkid" : "changeProfilePicture",
     "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
     "url" : "https://pinterest.com/settings/"
   }, {
-    "linkid" : "changeConnectedAccounts",
     "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
     "url" : "https://pinterest.com/settings/"
   } ],
+  "fileName" : "pinterest.json",
+  "freesoftware" : false,
+  "fulltos" : { },
   "icons" : {
     "icon-colour" : "/i/Pinterest-icon-colour.png",
     "icon-colour-2x" : "/i/Pinterest-icon-colour@2x.png",
     "icon-grey" : "/i/Pinterest-icon-grey.png",
     "icon-grey-2x" : "/i/Pinterest-icon-grey@2x.png"
-  }
+  },
+  "id" : "pinterest",
+  "jdm" : {
+    "difficulty" : "impossible",
+    "meta" : "popular",
+    "name" : "Pinterest",
+    "notes" : "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted.",
+    "url" : "https://pinterest.com/settings/"
+  },
+  "keywords" : [ ],
+  "name" : "pinterest",
+  "points" : [ ],
+  "related" : [ ],
+  "tosdr" : {
+    "alexa" : 0,
+    "keywords" : [ ],
+    "rated" : "false",
+    "related" : [ ]
+  },
+  "type" : "service",
+  "urls" : [ ]
 }

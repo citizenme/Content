@@ -1,22 +1,22 @@
 {
   "alexa" : 1000000,
+  "deepLinks" : [ ],
+  "fileName" : "toodledo.json",
   "freesoftware" : false,
+  "fulltos" : { },
+  "icons" : { },
   "id" : "toodledo",
+  "jdm" : { },
   "keywords" : [ ],
   "name" : "toodledo",
-  "type" : "service",
-  "urls" : [ ],
-  "fileName" : "toodledo.json",
-  "jdm" : { },
+  "points" : [ ],
+  "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
-  "points" : [ ],
-  "fulltos" : { },
-  "related" : [ ],
-  "deepLinks" : [ ],
-  "icons" : { }
+  "type" : "service",
+  "urls" : [ ]
 }
