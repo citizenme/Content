@@ -1,40 +1,40 @@
 {
   "alexa" : 100,
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "https://www.stumbleupon.com/settings/profile"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
+    "linkid" : "changeBio",
     "url" : "https://www.stumbleupon.com/settings/profile"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://www.stumbleupon.com/settings/password"
   }, {
-    "linkid" : "changeUsername",
     "description" : "Change Username",
+    "linkid" : "changeUsername",
     "url" : "https://www.stumbleupon.com/settings/profile"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
     "url" : "https://www.stumbleupon.com/settings/privacy-emails"
   }, {
-    "linkid" : "changeMobileSettings",
     "description" : "Change Mobile Settings",
+    "linkid" : "changeMobileSettings",
     "url" : "https://www.stumbleupon.com/settings/profile"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
+    "linkid" : "recoverPassword",
     "url" : "http://www.stumbleupon.com/reset-password"
   }, {
-    "linkid" : "changeProfilePicture",
     "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
     "url" : "https://www.stumbleupon.com/settings/picture"
   }, {
-    "linkid" : "changeConnectedAccounts",
     "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
     "url" : "https://www.stumbleupon.com/settings/connections"
   } ],
   "fileName" : "stumbledupon.json",
@@ -48,20 +48,21 @@
   },
   "id" : "stumbledupon",
   "jdm" : {
-    "name" : "StumbledUpon",
-    "url" : "http://help.stumbleupon.com/customer/portal/articles/665202-account-settings#article17",
     "difficulty" : "medium",
-    "notes" : "Navigate to the account deletion page https://www.stumbleupon.com/settings/delete-account. Deletion takes 14 days after StumbledUpon receive request."
+    "name" : "StumbledUpon",
+    "notes" : "Navigate to the account deletion page https://www.stumbleupon.com/settings/delete-account. Deletion takes 14 days after StumbledUpon receive request.",
+    "url" : "http://help.stumbleupon.com/customer/portal/articles/665202-account-settings#article17"
   },
   "keywords" : [ ],
   "name" : "StumbledUpon",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

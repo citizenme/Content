@@ -1,40 +1,40 @@
 {
   "alexa" : 1000000,
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "http://www.meetup.com/account/"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
+    "linkid" : "changeBio",
     "url" : "http://www.meetup.com/account/bio/"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://secure.meetup.com/account/password"
   }, {
-    "linkid" : "changeEmail",
     "description" : "Change Email",
+    "linkid" : "changeEmail",
     "url" : "http://www.meetup.com/account/email/"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
     "url" : "http://www.meetup.com/account/comm/"
   }, {
-    "linkid" : "deleteAccount",
     "description" : "Delete Account",
+    "linkid" : "deleteAccount",
     "url" : "http://www.meetup.com/account/remove/"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
+    "linkid" : "recoverPassword",
     "url" : "http://www.meetup.com/account/forgot/"
   }, {
-    "linkid" : "changeProfilePicture",
     "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
     "url" : "http://www.meetup.com/account/"
   }, {
-    "linkid" : "changeThirdPartyPermissions",
     "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
     "url" : "http://www.meetup.com/account/oauth_apps/"
   } ],
   "fileName" : "meetup.json",
@@ -48,19 +48,20 @@
   },
   "id" : "meetup",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Meetup",
-    "url" : "http://www.meetup.com/account/remove/",
-    "difficulty" : "easy"
+    "url" : "http://www.meetup.com/account/remove/"
   },
   "keywords" : [ ],
   "name" : "meetup",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

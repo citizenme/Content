@@ -26,6 +26,7 @@
   },
   "name" : "Twitpic",
   "pointIds" : [ "dCfx1aMH1Tw", "V_RVXG7TKEA", "jF1B4WY0x7k", "4Zh8gx9IyDc", "b6ryqY9NdMw", "Rt4zuPdx3qs" ],
+  "points" : [ ],
   "related" : [ "identi-ca", "twitter", "flickr" ],
   "tosback2" : {
     "privacy" : {
@@ -41,10 +42,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "E",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "twitpic.com",

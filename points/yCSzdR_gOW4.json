@@ -9,11 +9,12 @@
   },
   "title" : "Google keeps your information for an undefined period of time",
   "topicIds" : [ "logs-length" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "logs are kept forever",
     "point" : "bad",
     "score" : 100,
-    "tldr" : "Google collects a lot of information about the services you use and how you use them, including searches, personally identifiable information and activity when you visit a website using a Google service (e.g. via search or an advertisement). Google does not disclose how long this information is kept on their servers.",
-    "case" : "logs are kept forever"
+    "tldr" : "Google collects a lot of information about the services you use and how you use them, including searches, personally identifiable information and activity when you visit a website using a Google service (e.g. via search or an advertisement). Google does not disclose how long this information is kept on their servers."
   }
 }

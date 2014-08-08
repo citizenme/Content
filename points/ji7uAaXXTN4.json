@@ -11,11 +11,12 @@
   },
   "title" : "Google may stop providing services to you at any time",
   "topicIds" : [ "suspension" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "they may stop providing the service at any time",
     "point" : "bad",
     "score" : 40,
-    "tldr" : "\"Google may stop providing services to you, or add or create new limits to services at any time.\" Google has no obligation to give you advance notice or to give a reason for that termination.",
-    "case" : "they may stop providing the service at any time"
+    "tldr" : "\"Google may stop providing services to you, or add or create new limits to services at any time.\" Google has no obligation to give you advance notice or to give a reason for that termination."
   }
 }

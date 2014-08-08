@@ -10,11 +10,12 @@
   },
   "title" : "Third party cookie use",
   "topicIds" : [ "cookies", "third" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "sets third-party cookies and/or ads",
     "point" : "bad",
     "score" : 10,
-    "tldr" : "Twitter uses third-party services like Google Analytics that may collect your information using cookies.",
-    "case" : "sets third-party cookies and/or ads"
+    "tldr" : "Twitter uses third-party services like Google Analytics that may collect your information using cookies."
   }
 }

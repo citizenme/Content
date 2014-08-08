@@ -7,19 +7,20 @@
   "icons" : { },
   "id" : "airbnb",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Airbnb",
-    "url" : "https://www.airbnb.com/users/settings",
-    "difficulty" : "easy"
+    "url" : "https://www.airbnb.com/users/settings"
   },
   "keywords" : [ ],
   "name" : "airbnb",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

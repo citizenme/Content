@@ -19,12 +19,13 @@
   "links" : { },
   "name" : "Hypster",
   "pointIds" : [ "account-killer-blacklist" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "http://hypster.com",

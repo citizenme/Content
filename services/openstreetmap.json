@@ -15,12 +15,13 @@
   "keywords" : [ ],
   "name" : "OpenStreetMap",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "openstreetmap.org",

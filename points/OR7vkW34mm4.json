@@ -9,11 +9,12 @@
   },
   "title" : "Transparency about cookies",
   "topicIds" : [ "cookies" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "requires first-party cookies",
     "point" : "neutral",
     "score" : 10,
-    "tldr" : "Twitter discloses their use of session cookies and persistent cookies. However much of the service, like searching or looking at public profiles or lists, does not rely on cookies to work. Acceptance of cookies can be controlled by you by adjusting your browser settings.",
-    "case" : "requires first-party cookies"
+    "tldr" : "Twitter discloses their use of session cookies and persistent cookies. However much of the service, like searching or looking at public profiles or lists, does not rely on cookies to work. Acceptance of cookies can be controlled by you by adjusting your browser settings."
   }
 }

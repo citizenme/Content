@@ -7,20 +7,21 @@
   "icons" : { },
   "id" : "last.fm",
   "jdm" : {
-    "name" : "Last.fm",
-    "url" : "http://www.last.fm/settings/account",
     "difficulty" : "easy",
-    "notes" : "May take up to 7 days to delete your data."
+    "name" : "Last.fm",
+    "notes" : "May take up to 7 days to delete your data.",
+    "url" : "http://www.last.fm/settings/account"
   },
   "keywords" : [ ],
   "name" : "last.fm",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

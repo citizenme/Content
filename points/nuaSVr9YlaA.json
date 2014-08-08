@@ -9,11 +9,12 @@
   },
   "title" : "They delete user logs after 2 weeks",
   "topicIds" : [ "logs-length" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "logs are deleted after two weeks",
     "point" : "good",
     "score" : 80,
-    "tldr" : "Sonic.net will not keep User logs longer than two weeks.",
-    "case" : "logs are deleted after two weeks"
+    "tldr" : "Sonic.net will not keep User logs longer than two weeks."
   }
 }

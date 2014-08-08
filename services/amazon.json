@@ -13,10 +13,10 @@
   },
   "id" : "amazon",
   "jdm" : {
-    "name" : "Amazon",
-    "url" : "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
     "difficulty" : "hard",
-    "notes" : "To close your account, contact Amazon by email (via this contact form) and request that your account be closed."
+    "name" : "Amazon",
+    "notes" : "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
+    "url" : "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a"
   },
   "keywords" : [ "shop", "commerce" ],
   "links" : {
@@ -35,6 +35,7 @@
   },
   "name" : "Amazon",
   "pointIds" : [ "OegfPmV8ugo", "1zhceRPv3nM", "any-time-without-notice", "eff-back-tell-user-no", "E58aPtzP3jk", "eff-back-transparency-data-no" ],
+  "points" : [ ],
   "related" : [ ],
   "tosback2" : {
     "privacy" : {
@@ -54,10 +55,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "amazon.com",

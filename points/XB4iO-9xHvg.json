@@ -9,11 +9,12 @@
   },
   "title" : "Terms may be changed at any time, sometimes with very little advance notice",
   "topicIds" : [ "changes-involvement" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "little involvement",
     "point" : "bad",
     "score" : 35,
-    "tldr" : "This service may change the terms at any time, but in the past notice has been given to users only hours ahead of the change being implemented. Notification is given via their site or in some cases, via an @Twitter update or email. Your continued use of the service is taken as acceptance of the new or changed terms.",
-    "case" : "little involvement"
+    "tldr" : "This service may change the terms at any time, but in the past notice has been given to users only hours ahead of the change being implemented. Notification is given via their site or in some cases, via an @Twitter update or email. Your continued use of the service is taken as acceptance of the new or changed terms."
   }
 }

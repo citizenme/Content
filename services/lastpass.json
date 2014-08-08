@@ -8,20 +8,21 @@
   "icons" : { },
   "id" : "lastpass",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "LastPass",
-    "url" : "https://lastpass.com/delete_account.php",
-    "difficulty" : "easy"
+    "url" : "https://lastpass.com/delete_account.php"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "lastpass",
   "pointIds" : [ "any-time-without-notice" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

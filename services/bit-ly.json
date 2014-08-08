@@ -12,21 +12,22 @@
   "icons" : { },
   "id" : "bit-ly",
   "jdm" : {
-    "name" : "bitly",
-    "url" : "http://support.bitly.com/knowledgebase/articles/105373-how-do-i-delete-my-account-",
     "difficulty" : "impossible",
-    "notes" : "The best you can do is archive all of your links. Go to the link you want to archive and click the 'x' in the upper right of the shortlink to archive the link. You can also make all of your shortlinks private."
+    "name" : "bitly",
+    "notes" : "The best you can do is archive all of your links. Go to the link you want to archive and click the 'x' in the upper right of the shortlink to archive the link. You can also make all of your shortlinks private.",
+    "url" : "http://support.bitly.com/knowledgebase/articles/105373-how-do-i-delete-my-account-"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "bitly",
   "pointIds" : [ "T98obrJsjJA-2" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "https://bitly.com/",

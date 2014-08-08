@@ -12,12 +12,13 @@
   "links" : { },
   "name" : "Rapidshare",
   "pointIds" : [ "DWrWnxYqe48", "Ytlp8YaeBr4", "CYxkhPROM0U", "T98obrJsjJA-2", "XBdGb47IMyM", "hlI-572bFho" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

@@ -2,24 +2,24 @@
   "alexa" : 107,
   "class" : "",
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "https://instagr.am/accounts/edit/"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
+    "linkid" : "changeBio",
     "url" : "https://instagr.am/accounts/edit/"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://instagr.am/accounts/password/change/"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
+    "linkid" : "recoverPassword",
     "url" : "https://instagr.am/accounts/password/reset/"
   }, {
-    "linkid" : "changeThirdPartyPermissions",
     "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
     "url" : "https://instagr.am/accounts/login/?next=/oauth/manage_access"
   } ],
   "fileName" : "instagram.json",
@@ -37,21 +37,22 @@
   },
   "id" : "instagram",
   "jdm" : {
+    "difficulty" : "easy",
     "meta" : "popular",
     "name" : "Instagram",
-    "url" : "https://instagram.com/accounts/remove/request",
-    "difficulty" : "easy"
+    "url" : "https://instagram.com/accounts/remove/request"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "Instagram",
   "pointIds" : [ "wy9QcF5zQII", "at-their-discretion-with-notice" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "instagram.com",

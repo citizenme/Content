@@ -2,48 +2,48 @@
   "alexa" : 3,
   "class" : "D",
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "https://www.youtube.com/account"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
+    "linkid" : "changeBio",
     "url" : "http://www.youtube.com/account_profile"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://accounts.google.com/b/0/EditPasswd"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
     "url" : "http://www.youtube.com/account_notifications"
   }, {
-    "linkid" : "deleteAccount",
     "description" : "Delete Account",
+    "linkid" : "deleteAccount",
     "url" : "http://www.youtube.com/account_manage"
   }, {
-    "linkid" : "changeMobileSettings",
     "description" : "Change Mobile Settings",
+    "linkid" : "changeMobileSettings",
     "url" : "http://www.youtube.com/account_mobile_setup"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
+    "linkid" : "recoverPassword",
     "url" : "http://www.youtube.com/account_recovery"
   }, {
-    "linkid" : "changeProfilePicture",
     "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
     "url" : "http://www.youtube.com/account?feature=mhee"
   }, {
-    "linkid" : "changeDesign",
     "description" : "Change Design",
+    "linkid" : "changeDesign",
     "url" : "http://www.youtube.com/channel_editor?action_editor=1&editor_tab=branding"
   }, {
-    "linkid" : "changeConnectedAccounts",
     "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
     "url" : "http://www.youtube.com/account_sharing"
   }, {
-    "linkid" : "changeThirdPartyPermissions",
     "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
     "url" : "http://www.youtube.com/account_sharing"
   } ],
   "fileName" : "youtube.json",
@@ -57,11 +57,11 @@
   },
   "id" : "youtube",
   "jdm" : {
+    "difficulty" : "impossible",
     "meta" : "popular",
     "name" : "YouTube",
-    "url" : "https://support.google.com/youtube/answer/55759",
-    "difficulty" : "impossible",
-    "notes" : "You can't delete your YouTube account without deleting your entire Google Account. But you can delete your channel."
+    "notes" : "You can't delete your YouTube account without deleting your entire Google Account. But you can delete your channel.",
+    "url" : "https://support.google.com/youtube/answer/55759"
   },
   "keywords" : [ "videos", "video" ],
   "links" : {
@@ -77,6 +77,7 @@
   "name" : "YouTube",
   "parent" : "google",
   "pointIds" : [ "CsxjRy5fqYQ", "vE7JlPVIQiI", "FeR7Kxzqii8", "1ZGIHsbyaFU", "any-time-without-notice", "ylM1ZiLkk5I", "4738ex5PI1g", "4cB69IsKX_E", "G_ZNsOAjtY4" ],
+  "points" : [ ],
   "related" : [ "dailymotion", "vimeo" ],
   "tosback2" : {
     "privacy" : {
@@ -92,10 +93,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "D",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "youtube.com",

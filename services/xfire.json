@@ -8,21 +8,22 @@
   "icons" : { },
   "id" : "xfire",
   "jdm" : {
-    "name" : "Xfire",
-    "url" : "http://www.xfire.com/faq#1",
     "difficulty" : "impossible",
-    "notes" : "There is no way to delete your account, you can only make some information private and/or delete it."
+    "name" : "Xfire",
+    "notes" : "There is no way to delete your account, you can only make some information private and/or delete it.",
+    "url" : "http://www.xfire.com/faq#1"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "Xfire",
   "pointIds" : [ "T98obrJsjJA-2" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

@@ -21,6 +21,7 @@
   },
   "name" : "Apple iCloud",
   "pointIds" : [ "fWJwFKMGP24" ],
+  "points" : [ ],
   "related" : [ "dropbox", "apple" ],
   "tosback2" : {
     "privacy" : {
@@ -36,10 +37,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "icloud.com",

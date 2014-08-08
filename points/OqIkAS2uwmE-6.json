@@ -13,11 +13,12 @@
   },
   "title" : "You can delete your content",
   "topicIds" : [ "ownership", "leave" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "you can delete your content",
     "point" : "good",
     "score" : 50,
-    "tldr" : "if you delete content, it is hidden from view immediately, and deleted entirely from their servers in max. 2 weeks. \"It is then gone forever.\"",
-    "case" : "you can delete your content"
+    "tldr" : "if you delete content, it is hidden from view immediately, and deleted entirely from their servers in max. 2 weeks. \"It is then gone forever.\""
   }
 }

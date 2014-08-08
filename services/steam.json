@@ -8,10 +8,10 @@
   "icons" : { },
   "id" : "steam",
   "jdm" : {
-    "name" : "Steam",
-    "url" : "https://support.steampowered.com/newticket.php",
     "difficulty" : "impossible",
-    "notes" : "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while."
+    "name" : "Steam",
+    "notes" : "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while.",
+    "url" : "https://support.steampowered.com/newticket.php"
   },
   "keywords" : [ ],
   "links" : {
@@ -26,6 +26,7 @@
   },
   "name" : "Steam",
   "pointIds" : [ "rhykox7XUfs4", "rhykox7XUfs6", "rhykox7XUfs11", "rhykox7XUfs12", "rhykox7XUfs2", "rhykox7XUfs15", "rhykox7XUfs16", "rhykox7XUfs8", "rhykox7XUfs10", "rhykox7XUfs9", "x2OybdCClW0", "eff-back-transparency-data-no" ],
+  "points" : [ ],
   "related" : [ ],
   "tosback2" : {
     "privacy" : {
@@ -41,10 +42,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "store.steampowered.com",

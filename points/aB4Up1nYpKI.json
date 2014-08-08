@@ -11,6 +11,7 @@
   },
   "title" : "Spotify doesn't guarantee data security",
   "topicIds" : [ "personal-information" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
     "point" : "neutral",

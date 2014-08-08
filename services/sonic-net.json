@@ -12,12 +12,13 @@
   "links" : { },
   "name" : "Sonic.net",
   "pointIds" : [ "eff-back-transparency-data", "nuaSVr9YlaA", "eff-back-tell-user" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "sonic.net",

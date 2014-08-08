@@ -7,11 +7,12 @@
   "source" : { },
   "title" : "Your content can be removed without advance notice",
   "topicIds" : [ "suspension" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "they can delete specific files without prior notice and without a reason",
     "point" : "blocker",
     "score" : 50,
-    "tldr" : "If your content violates the terms (in You Tube's opinion) they have a right to delete it and even terminate your account, without notice. This applies to cases of copyright infringement but also content that is pornographic, obscene or excessively long.",
-    "case" : "they can delete specific files without prior notice and without a reason"
+    "tldr" : "If your content violates the terms (in You Tube's opinion) they have a right to delete it and even terminate your account, without notice. This applies to cases of copyright infringement but also content that is pornographic, obscene or excessively long."
   }
 }

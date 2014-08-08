@@ -9,11 +9,12 @@
   "source" : { },
   "title" : "Terms may be changed at any time, but they will notify you in advance",
   "topicIds" : [ "changes" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "user is notified on the day",
     "point" : "neutral",
     "score" : 0,
-    "tldr" : "This service may change the terms at any time, but they will notify the user - typically via email or their apps. Your continued use of the service is taken as acceptance of the new or changed terms.",
-    "case" : "user is notified on the day"
+    "tldr" : "This service may change the terms at any time, but they will notify the user - typically via email or their apps. Your continued use of the service is taken as acceptance of the new or changed terms."
   }
 }

@@ -22,12 +22,13 @@
   "links" : { },
   "name" : "Comcast",
   "pointIds" : [ "eff-back-transparency-data", "eff-back-tell-user-no" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "comcast.com",

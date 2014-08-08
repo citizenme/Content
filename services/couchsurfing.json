@@ -12,21 +12,22 @@
   "icons" : { },
   "id" : "couchsurfing",
   "jdm" : {
-    "name" : "Couchsurfing",
-    "url" : "https://www.couchsurfing.org/delete_profile.html?delete=1",
     "difficulty" : "impossible",
-    "notes" : "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'."
+    "name" : "Couchsurfing",
+    "notes" : "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'.",
+    "url" : "https://www.couchsurfing.org/delete_profile.html?delete=1"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "couchsurfing",
   "pointIds" : [ "1wWcVuiCJ2Y", "ShwCMjNBd2o", "e8kGDv4CIrQ", "YkJpj170Qts", "any-time-without-notice", "dQV8notmhfI", "x9BDfg-SFqY", "rfLB9eDVNtk", "BmzBPGyHGW0", "izRoNcoGOww", "J3kmwLbA0rE", "5StVgew5VbE", "bYGefBK3R_I", "UMyT4RKXjv0", "oZ1VvxnWoeM", "wOhc-Lscy_0" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "https://www.couchsurfing.org/",

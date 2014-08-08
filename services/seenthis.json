@@ -17,6 +17,7 @@
   },
   "name" : "SeenThis",
   "pointIds" : [ "IPta_G2GTJk2", "kizrN7qb1Ck4", "IPta_G2GTJk" ],
+  "points" : [ ],
   "related" : [ "twitter", "status-net" ],
   "tosback2" : {
     "terms" : {
@@ -25,10 +26,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "A",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "seenthis.net",

@@ -12,20 +12,21 @@
   "icons" : { },
   "id" : "ifttt",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "IFTTT",
-    "url" : "https://ifttt.com/settings/deactivate",
-    "difficulty" : "easy"
+    "url" : "https://ifttt.com/settings/deactivate"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "IFTTT",
   "pointIds" : [ "any-time-without-notice" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "ifttt.com",

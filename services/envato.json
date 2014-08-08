@@ -12,12 +12,13 @@
   "links" : { },
   "name" : "envato",
   "pointIds" : [ "any-time-with-notice" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

@@ -7,21 +7,22 @@
   "icons" : { },
   "id" : "reddit",
   "jdm" : {
+    "difficulty" : "easy",
     "meta" : "popular",
     "name" : "Reddit",
-    "url" : "https://ssl.reddit.com/prefs/delete/",
-    "difficulty" : "easy",
-    "notes" : "Increase your productivity by over 5 times with this one trick they don't want you to know about!"
+    "notes" : "Increase your productivity by over 5 times with this one trick they don't want you to know about!",
+    "url" : "https://ssl.reddit.com/prefs/delete/"
   },
   "keywords" : [ ],
   "name" : "reddit",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

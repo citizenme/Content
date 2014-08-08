@@ -16,12 +16,13 @@
   "links" : { },
   "name" : "phpBB",
   "pointIds" : [ "T98obrJsjJA-2" ],
+  "points" : [ ],
   "related" : [ "vbulletin" ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "https://www.phpbb.com",

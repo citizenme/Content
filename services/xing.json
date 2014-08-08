@@ -8,10 +8,10 @@
   "icons" : { },
   "id" : "xing",
   "jdm" : {
-    "name" : "Xing",
-    "url" : "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185",
     "difficulty" : "easy",
-    "notes" : "Select 'delete my profile' at the bottom of the page."
+    "name" : "Xing",
+    "notes" : "Select 'delete my profile' at the bottom of the page.",
+    "url" : "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185"
   },
   "keywords" : [ "jobs", "professional" ],
   "links" : {
@@ -26,6 +26,7 @@
   },
   "name" : "XING",
   "pointIds" : [ "no-pseudos-allowed" ],
+  "points" : [ ],
   "related" : [ "linkedin" ],
   "tosback2" : {
     "privacy" : {
@@ -41,10 +42,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "xing.com",

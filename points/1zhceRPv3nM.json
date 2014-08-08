@@ -6,11 +6,12 @@
   "source" : { },
   "title" : "Amazon may sell user data as part of a business transfer",
   "topicIds" : [ "business-transfer", "personal-data" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "may sell your data in merger",
     "point" : "bad",
     "score" : 20,
-    "tldr" : "Amazon may sell user data as part of a business transfer",
-    "case" : "may sell your data in merger"
+    "tldr" : "Amazon may sell user data as part of a business transfer"
   }
 }

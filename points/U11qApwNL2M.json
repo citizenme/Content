@@ -9,11 +9,12 @@
   },
   "title" : "Users are subject to Yahoo!'s Terms of Service",
   "topicIds" : [ "governance" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "your use is subject to a policies, guidelines, etc.",
     "point" : "neutral",
     "score" : 0,
-    "tldr" : "“When you use Flickr, you are subject to the Yahoo! Terms of Service and Yahoo! Community Guidelines.” To find out about Yahoo!'s terms, please read the ToS;DR report.",
-    "case" : "your use is subject to a policies, guidelines, etc."
+    "tldr" : "“When you use Flickr, you are subject to the Yahoo! Terms of Service and Yahoo! Community Guidelines.” To find out about Yahoo!'s terms, please read the ToS;DR report."
   }
 }

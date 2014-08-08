@@ -11,12 +11,13 @@
   "license" : "agpl-3+",
   "name" : "Status.net instances",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ "facebook", "seenthis" ],
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
   "type" : "software",
   "url" : "//status.net",

@@ -22,12 +22,13 @@
   "links" : { },
   "name" : "AT&T",
   "pointIds" : [ "eff-back-tell-user-no", "eff-back-transparency-data-no" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "att.com",

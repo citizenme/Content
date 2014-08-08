@@ -7,20 +7,21 @@
   "icons" : { },
   "id" : "craigslist",
   "jdm" : {
-    "name" : "Craigslist",
-    "url" : "http://www.craigslist.org/about/help/user_accounts",
     "difficulty" : "hard",
-    "notes" : "Send an email to abuse@craigslist.org and request deletion."
+    "name" : "Craigslist",
+    "notes" : "Send an email to abuse@craigslist.org and request deletion.",
+    "url" : "http://www.craigslist.org/about/help/user_accounts"
   },
   "keywords" : [ ],
   "name" : "craigslist",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

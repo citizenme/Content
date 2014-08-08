@@ -8,9 +8,9 @@
   "icons" : { },
   "id" : "grammarly",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Grammarly",
-    "url" : "https://ed.grammarly.com/accounts/me",
-    "difficulty" : "easy"
+    "url" : "https://ed.grammarly.com/accounts/me"
   },
   "keywords" : [ ],
   "links" : {
@@ -25,6 +25,7 @@
   },
   "name" : "Grammarly",
   "pointIds" : [ "6tV-Tf0IAU8", "V0TEGIyY-Mw", "QLfqgcHN8N0", "4RAIq72Baxk", "NodO6svScog", "0mK5OiQsnTk" ],
+  "points" : [ ],
   "related" : [ ],
   "tosback2" : {
     "privacy" : {
@@ -40,10 +41,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "grammarly.com",

@@ -1,7 +1,59 @@
 {
   "alexa" : 4,
   "class" : "",
-  "deepLinks" : [ ],
+  "deepLinks" : [ {
+    "description" : "Settings Page",
+    "linkid" : "settingsPage",
+    "url" : "https://edit.yahoo.com/mc2.0/eval_profile"
+  }, {
+    "description" : "Change Bio",
+    "linkid" : "changeBio",
+    "url" : "https://profile.yahoo.com/"
+  }, {
+    "description" : "Change Username",
+    "linkid" : "changeUsername",
+    "url" : "https://edit.yahoo.com/identity/manage?show=a"
+  }, {
+    "description" : "Change Password",
+    "linkid" : "changePassword",
+    "url" : "https://edit.yahoo.com/config/change_pw"
+  }, {
+    "description" : "Change Email",
+    "linkid" : "changeEmail",
+    "url" : "https://edit.yahoo.com/config/edit_account"
+  }, {
+    "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
+    "url" : "https://edit.yahoo.com/config/edit_account"
+  }, {
+    "description" : "Delete Account",
+    "linkid" : "deleteAccount",
+    "url" : "https://edit.yahoo.com/config/delete_user"
+  }, {
+    "description" : "Change Mobile Settings",
+    "linkid" : "changeMobileSettings",
+    "url" : "https://edit.yahoo.com/commchannel/manage"
+  }, {
+    "description" : "Recover Password",
+    "linkid" : "recoverPassword",
+    "url" : "https://edit.yahoo.com/forgotroot"
+  }, {
+    "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
+    "url" : "https://profile.yahoo.com/"
+  }, {
+    "description" : "Change Design",
+    "linkid" : "changeDesign",
+    "url" : "https://profile.yahoo.com/"
+  }, {
+    "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
+    "url" : "https://api.login.yahoo.com/WSLogin/V1/unlink"
+  }, {
+    "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
+    "url" : "https://api.login.yahoo.com/WSLogin/V1/unlink"
+  } ],
   "fileName" : "yahoo.json",
   "freesoftware" : false,
   "fulltos" : { },
@@ -13,10 +65,10 @@
   },
   "id" : "yahoo",
   "jdm" : {
+    "difficulty" : "easy",
     "meta" : "popular",
     "name" : "Yahoo!",
-    "url" : "https://edit.yahoo.com/config/delete_user",
-    "difficulty" : "easy"
+    "url" : "https://edit.yahoo.com/config/delete_user"
   },
   "keywords" : [ "search", "groups" ],
   "links" : {
@@ -35,6 +87,7 @@
   },
   "name" : "Yahoo!",
   "pointIds" : [ "WEwv5V2M9zw", "q782XE2RUss", "WEwv5V2M9zw2", "any-time-without-notice", "eff-back-tell-user-no", "legal-name-registration", "eff-back-transparency-data-no" ],
+  "points" : [ ],
   "related" : [ "google" ],
   "tosback2" : {
     "guidelines" : {
@@ -54,10 +107,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "yahoo.com",

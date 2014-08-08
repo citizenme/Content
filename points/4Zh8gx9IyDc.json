@@ -11,6 +11,7 @@
   },
   "title" : "Twitpic takes credit for your content",
   "topicIds" : [ "ownership" ],
+  "topics" : [ ],
   "tosback2-data" : {
     "terms" : {
       "extracted" : "To publish another Twitpic user’s content for any commercial purpose or for distribution beyond the acceptable Twitter \"retweet\" which links back to the original user’s content page on Twitpic, whether online, in print publication, television, or any other format, you are required to obtain permission from Twitpic in advance of said usage and attribute credit to Twitpic as the source where you have obtained the content. ",
@@ -20,9 +21,9 @@
   },
   "tosdr" : {
     "binding" : "true",
+    "case" : "they take credit for your content",
     "point" : "blocker",
     "score" : 100,
-    "tldr" : "Twitpic has deals with partners to use your content without giving you credit. Twitpic's partners “are required to […] attribute credit to Twitpic as the source”.",
-    "case" : "they take credit for your content"
+    "tldr" : "Twitpic has deals with partners to use your content without giving you credit. Twitpic's partners “are required to […] attribute credit to Twitpic as the source”."
   }
 }

@@ -17,22 +17,23 @@
   },
   "id" : "wordpress-com",
   "jdm" : {
+    "difficulty" : "impossible",
     "meta" : "popular",
     "name" : "WordPress.com",
-    "url" : "http://en.support.wordpress.com/deleting-accounts/",
-    "difficulty" : "impossible",
-    "notes" : "\"WordPress.com accounts cannot be deleted.\" The best you can do is remove any identifying data from your account."
+    "notes" : "\"WordPress.com accounts cannot be deleted.\" The best you can do is remove any identifying data from your account.",
+    "url" : "http://en.support.wordpress.com/deleting-accounts/"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "Wordpress.com",
   "pointIds" : [ "kizrN7qb1Ck5", "eff-back-transparency-data", "any-time-without-notice", "eff-back-tell-user", "T98obrJsjJA-2" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "wordpress.com",

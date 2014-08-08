@@ -9,11 +9,12 @@
   },
   "title" : "Google retains rights on your content when you leave",
   "topicIds" : [ "leave" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "your content stays licensed",
     "point" : "bad",
     "score" : 25,
-    "tldr" : "The copyright licence that you grant to Google on content you upload to their services continues even if you stop using the services. This licence applies to all Google services due to their universal terms across services. Otherwise you need to check each service for ways to remove content and for specific clauses that restrict the license in time.",
-    "case" : "your content stays licensed"
+    "tldr" : "The copyright licence that you grant to Google on content you upload to their services continues even if you stop using the services. This licence applies to all Google services due to their universal terms across services. Otherwise you need to check each service for ways to remove content and for specific clauses that restrict the license in time."
   }
 }

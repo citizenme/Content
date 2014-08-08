@@ -11,11 +11,12 @@
   },
   "title" : "Jurisdiction in California",
   "topicIds" : [ "jurisdiction-law" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "court of law is in location X",
     "point" : "neutral",
     "score" : 0,
-    "tldr" : "This terms of services agreement is governed by the laws of California, USA, excluding California's conflict of laws rules. This means if there's a dispute between you and Google about the terms of service, you have both already consented to personal jurisdiction in the federal or state courts of Santa Clara County, California.",
-    "case" : "court of law is in location X"
+    "tldr" : "This terms of services agreement is governed by the laws of California, USA, excluding California's conflict of laws rules. This means if there's a dispute between you and Google about the terms of service, you have both already consented to personal jurisdiction in the federal or state courts of Santa Clara County, California."
   }
 }

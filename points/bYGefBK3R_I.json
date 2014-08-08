@@ -12,11 +12,12 @@
   },
   "title" : "Couchsurfing informs you about the fact that you can disable cookies",
   "topicIds" : [ "user-info", "cookies" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "third-party cookies, but with opt-out instructions",
     "point" : "bad",
     "score" : 5,
-    "tldr" : "\"Cookies \nMost web browsers are set to accept cookies by default. If you prefer, \nyou can usually choose to set your browser to remove or reject browser \ncookies; however, our Services may not function properly if you do \nso.\"",
-    "case" : "third-party cookies, but with opt-out instructions"
+    "tldr" : "\"Cookies \nMost web browsers are set to accept cookies by default. If you prefer, \nyou can usually choose to set your browser to remove or reject browser \ncookies; however, our Services may not function properly if you do \nso.\""
   }
 }

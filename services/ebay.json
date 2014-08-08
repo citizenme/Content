@@ -7,21 +7,22 @@
   "icons" : { },
   "id" : "ebay",
   "jdm" : {
+    "difficulty" : "easy",
     "meta" : "popular",
     "name" : "eBay",
-    "url" : "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
-    "difficulty" : "easy",
-    "notes" : "A few survey questions will be asked prior to account deletion."
+    "notes" : "A few survey questions will be asked prior to account deletion.",
+    "url" : "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount"
   },
   "keywords" : [ ],
   "name" : "ebay",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

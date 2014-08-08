@@ -12,12 +12,13 @@
   "links" : { },
   "name" : "World of Warcraft",
   "pointIds" : [ "T98obrJsjJA-2" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

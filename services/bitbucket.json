@@ -7,20 +7,21 @@
   "icons" : { },
   "id" : "bitbucket",
   "jdm" : {
-    "name" : "Bitbucket",
-    "url" : "https://bitbucket.org/account/",
     "difficulty" : "easy",
-    "notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped."
+    "name" : "Bitbucket",
+    "notes" : "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped.",
+    "url" : "https://bitbucket.org/account/"
   },
   "keywords" : [ ],
   "name" : "bitbucket",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

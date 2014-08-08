@@ -2,8 +2,8 @@
   "alexa" : 2095,
   "class" : "A",
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "https://duckduckgo.com/settings"
   } ],
   "fileName" : "duckduckgo.json",
@@ -26,6 +26,7 @@
   },
   "name" : "DuckDuckGo",
   "pointIds" : [ "g4RWiArs104" ],
+  "points" : [ ],
   "related" : [ "google" ],
   "tosback2" : {
     "privacy" : {
@@ -34,10 +35,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "A",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "duckduckgo.com",

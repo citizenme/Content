@@ -7,11 +7,12 @@
   "source" : { },
   "title" : "Users are subject to Google's Privacy Policy",
   "topicIds" : [ "governance" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "your use is subject to a policies, guidelines, etc.",
     "point" : "neutral",
     "score" : 0,
-    "tldr" : "When you use YouTube, you are subject to Google's policies. To find out more, see Google's latest terms of service on this app or read the full privacy policy on the Google site.",
-    "case" : "your use is subject to a policies, guidelines, etc."
+    "tldr" : "When you use YouTube, you are subject to Google's policies. To find out more, see Google's latest terms of service on this app or read the full privacy policy on the Google site."
   }
 }

@@ -7,11 +7,12 @@
   "source" : { },
   "title" : "Submitting notices and counter notices for copyright infringement",
   "topicIds" : [ "suspension", "governance" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "help you deal with take-down notices",
     "point" : "good",
     "score" : 20,
-    "tldr" : "You can use the YouTube site to directly submit a take down notice if your copyright has been infringed. Similarly, the site supports the issuing of counter notices if these apply. See their copyright centre on the site for full details.",
-    "case" : "help you deal with take-down notices"
+    "tldr" : "You can use the YouTube site to directly submit a take down notice if your copyright has been infringed. Similarly, the site supports the issuing of counter notices if these apply. See their copyright centre on the site for full details."
   }
 }

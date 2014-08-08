@@ -11,11 +11,12 @@
   },
   "title" : "Use of cookies and third-party cookies (opt-out)",
   "topicIds" : [ "cookies" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "third-party cookies, but with opt-out instructions",
     "point" : "bad",
     "score" : 5,
-    "tldr" : "SoundCloud uses persistant cookies. They also have a limited set of third-party cookies: Google Analytics, Quantcast and ATInternet. Detailed information about how to opt-out is provided.",
-    "case" : "third-party cookies, but with opt-out instructions"
+    "tldr" : "SoundCloud uses persistant cookies. They also have a limited set of third-party cookies: Google Analytics, Quantcast and ATInternet. Detailed information about how to opt-out is provided."
   }
 }

@@ -11,11 +11,12 @@
   },
   "title" : "GitHub will notify you before transferring your information in the event of a merger or acquisition",
   "topicIds" : [ "business-transfer" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "will notify before merger",
     "point" : "good",
     "score" : 20,
-    "tldr" : "“We transfer information about you if GitHub is acquired by or merged with another company. In this event, GitHub will notify you before information about you is transferred and becomes subject to a different privacy policy. ”",
-    "case" : "will notify before merger"
+    "tldr" : "“We transfer information about you if GitHub is acquired by or merged with another company. In this event, GitHub will notify you before information about you is transferred and becomes subject to a different privacy policy. ”"
   }
 }

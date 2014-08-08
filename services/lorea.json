@@ -10,12 +10,13 @@
   "keywords" : [ ],
   "name" : "lorea",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

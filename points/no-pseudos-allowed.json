@@ -9,11 +9,12 @@
   "source" : { },
   "title" : "No pseudonym allowed",
   "topicIds" : [ "track" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "pseudonym not allowed (not because of user-to-user trust)",
     "point" : "bad",
     "score" : 20,
-    "tldr" : "You must use your legal name publicly on this service. Using a pseudonym or a pen name is not allowed. This can negatively impact your freedom of expression, especially for those with certain professions, or who live in certain countries.",
-    "case" : "pseudonym not allowed (not because of user-to-user trust)"
+    "tldr" : "You must use your legal name publicly on this service. Using a pseudonym or a pen name is not allowed. This can negatively impact your freedom of expression, especially for those with certain professions, or who live in certain countries."
   }
 }

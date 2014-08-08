@@ -11,11 +11,12 @@
   },
   "title" : "Spotify can delete your account without telling you",
   "topicIds" : [ "suspension" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "they can delete your account without prior notice and without a reason",
     "point" : "bad",
     "score" : 50,
-    "tldr" : "Spotify can close your account without notice, without refund, for any or no reason.",
-    "case" : "they can delete your account without prior notice and without a reason"
+    "tldr" : "Spotify can close your account without notice, without refund, for any or no reason."
   }
 }

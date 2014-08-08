@@ -11,11 +11,12 @@
   },
   "title" : "You can export your information before a service is discontinued",
   "topicIds" : [ "ownership" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "they provide a way to export your data",
     "point" : "good",
     "score" : 30,
-    "tldr" : "When a service is discontinued for all users, Google gives you reasonable advance notice so you have an opportunity to export your information from that service.",
-    "case" : "they provide a way to export your data"
+    "tldr" : "When a service is discontinued for all users, Google gives you reasonable advance notice so you have an opportunity to export your information from that service."
   }
 }

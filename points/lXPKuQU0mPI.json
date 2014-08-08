@@ -11,11 +11,12 @@
   },
   "title" : "Choice of law: California",
   "topicIds" : [ "jurisdiction-law" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "court of law is in location X",
     "point" : "neutral",
     "score" : 0,
-    "tldr" : "“You agree that these Terms of Service and Your use of the Service are governed under California law.”",
-    "case" : "court of law is in location X"
+    "tldr" : "“You agree that these Terms of Service and Your use of the Service are governed under California law.”"
   }
 }

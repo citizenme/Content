@@ -12,20 +12,21 @@
   },
   "id" : "yelp",
   "jdm" : {
+    "difficulty" : "easy",
     "meta" : "popular",
     "name" : "Yelp",
-    "url" : "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
-    "difficulty" : "easy"
+    "url" : "http://www.yelp.co.uk/contact?topic=support&subtopic=close"
   },
   "keywords" : [ ],
   "name" : "Yelp",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

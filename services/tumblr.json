@@ -2,40 +2,40 @@
   "alexa" : 1000000,
   "class" : "",
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "https://www.tumblr.com/preferences"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://www.tumblr.com/preferences"
   }, {
-    "linkid" : "changeEmail",
     "description" : "Change Email",
+    "linkid" : "changeEmail",
     "url" : "https://www.tumblr.com/preferences"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
     "url" : "https://www.tumblr.com/preferences"
   }, {
-    "linkid" : "deleteAccount",
     "description" : "Delete Account",
+    "linkid" : "deleteAccount",
     "url" : "http://www.tumblr.com/account/delete"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
+    "linkid" : "recoverPassword",
     "url" : "https://www.tumblr.com/forgot_password"
   }, {
-    "linkid" : "changeDesign",
     "description" : "Change Design",
+    "linkid" : "changeDesign",
     "url" : "http://www.tumblr.com/customize"
   }, {
-    "linkid" : "changeConnectedAccounts",
     "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
     "url" : "https://www.tumblr.com/preferences"
   }, {
-    "linkid" : "changeThirdPartyPermissions",
     "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
     "url" : "https://www.tumblr.com/preferences"
   } ],
   "fileName" : "tumblr.json",
@@ -49,9 +49,9 @@
   },
   "id" : "tumblr",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Tumblr",
-    "url" : "http://www.tumblr.com/account/delete",
-    "difficulty" : "easy"
+    "url" : "http://www.tumblr.com/account/delete"
   },
   "keywords" : [ "blog" ],
   "links" : {
@@ -66,6 +66,7 @@
   },
   "name" : "Tumblr",
   "pointIds" : [ "eff-back-transparency-data", "any-time-with-notice", "eff-back-tell-user-no" ],
+  "points" : [ ],
   "related" : [ "wordpress-com", "facebook", "twitter" ],
   "tosback2" : {
     "privacy" : {
@@ -81,10 +82,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "tumblr.com",

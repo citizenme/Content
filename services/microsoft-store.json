@@ -17,12 +17,13 @@
   "links" : { },
   "name" : "Microsoft Store",
   "pointIds" : [ "any-time-without-notice" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

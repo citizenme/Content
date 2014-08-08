@@ -7,19 +7,20 @@
   "icons" : { },
   "id" : "waze",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Waze",
-    "url" : "https://www.waze.com/dashboard/delete_account",
-    "difficulty" : "easy"
+    "url" : "https://www.waze.com/dashboard/delete_account"
   },
   "keywords" : [ ],
   "name" : "waze",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

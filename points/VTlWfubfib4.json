@@ -9,11 +9,12 @@
   },
   "title" : "You can give your feedback before changes",
   "topicIds" : [ "changes-involvement", "governance" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "user feedback is invited",
     "point" : "good",
     "score" : 30,
-    "tldr" : "Ordinarily, Facebook will provide 7 days' advance notice of changes by posting on the Facebook Site Governance Page. You can respond to changes by posting your comments, but there is no guarantee this will impact the proposed change.",
-    "case" : "user feedback is invited"
+    "tldr" : "Ordinarily, Facebook will provide 7 days' advance notice of changes by posting on the Facebook Site Governance Page. You can respond to changes by posting your comments, but there is no guarantee this will impact the proposed change."
   }
 }

@@ -7,22 +7,23 @@
   "icons" : { },
   "id" : "mozilla-persona",
   "jdm" : {
-    "name" : "Mozilla Persona",
-    "url" : "https://login.persona.org/",
     "difficulty" : "easy",
-    "notes" : "\"Cancel your account\" link at the bottom of the page."
+    "name" : "Mozilla Persona",
+    "notes" : "\"Cancel your account\" link at the bottom of the page.",
+    "url" : "https://login.persona.org/"
   },
   "keywords" : [ ],
   "license" : "(proprietary)",
   "name" : "Facebook Connect",
   "parent" : "facebook",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ "facebook-connect" ],
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
   "type" : "software",
   "urls" : [ ]

@@ -13,11 +13,12 @@
   },
   "title" : "Users can request access and deletion of personal info.",
   "topicIds" : [ "personal-data" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "you can request access and deletion of personal data",
     "point" : "good",
     "score" : 50,
-    "tldr" : "With respect to your personal information, you can request access and that we correct or delete this personal information by emailing your request to pri...@netflix.com.",
-    "case" : "you can request access and deletion of personal data"
+    "tldr" : "With respect to your personal information, you can request access and that we correct or delete this personal information by emailing your request to pri...@netflix.com."
   }
 }

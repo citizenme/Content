@@ -10,11 +10,12 @@
   },
   "title" : "Limited copyright license to Wordpress.com including for promotion",
   "topicIds" : [ "copyright-scope" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "limited for purpose of same service",
     "point" : "good",
     "score" : 80,
-    "tldr" : "You grant a copyright license to Automattic's Wordpress.com “solely for the purpose of displaying, distributing and promoting your blog.”",
-    "case" : "limited for purpose of same service"
+    "tldr" : "You grant a copyright license to Automattic's Wordpress.com “solely for the purpose of displaying, distributing and promoting your blog.”"
   }
 }

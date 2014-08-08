@@ -19,12 +19,13 @@
   "links" : { },
   "name" : "Flattr",
   "pointIds" : [ "any-time-with-notice", "aPGR2C_AkskJ" ],
+  "points" : [ ],
   "related" : [ "paypal" ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "flattr.com",

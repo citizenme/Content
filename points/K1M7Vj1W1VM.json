@@ -9,11 +9,12 @@
   },
   "title" : "Flickr lets you choose a copyright license",
   "topicIds" : [ "copyright-scope", "user-choice" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "you can choose the copyright license",
     "point" : "good",
     "score" : 10,
-    "tldr" : "The copyright license granted to Yahoo for photos, graphics, audio and video is limited “solely for the purpose for which such Content was submitted or made available”. In addition, Flickr integrates a set of Creative Commons licenses you can choose from.",
-    "case" : "you can choose the copyright license"
+    "tldr" : "The copyright license granted to Yahoo for photos, graphics, audio and video is limited “solely for the purpose for which such Content was submitted or made available”. In addition, Flickr integrates a set of Creative Commons licenses you can choose from."
   }
 }

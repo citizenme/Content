@@ -14,9 +14,9 @@
   },
   "id" : "soundcloud",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Soundcloud",
-    "url" : "http://soundcloud.com/settings/account#delete-user",
-    "difficulty" : "easy"
+    "url" : "http://soundcloud.com/settings/account#delete-user"
   },
   "keywords" : [ ],
   "links" : {
@@ -35,6 +35,7 @@
   },
   "name" : "SoundCloud",
   "pointIds" : [ "gq1LW7l28qI", "fmlKouXKUcc", "n_DCnOwcIo0", "3f3dVPCa1GU", "XgI8wQ3PZ2M", "3f3dVPCa1GU2", "XtqWw03UPoc", "w8RMtGdRvdM", "x2OybdCClW0", "ps1ZppOOWmM" ],
+  "points" : [ ],
   "related" : [ "spotify" ],
   "tosback2" : {
     "guidelines" : {
@@ -54,10 +55,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "B",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "soundcloud.com/",

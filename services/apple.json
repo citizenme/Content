@@ -36,6 +36,7 @@
   },
   "name" : "Apple",
   "pointIds" : [ "any-time-without-notice", "eff-back-tell-user-no", "eff-back-transparency-data-no" ],
+  "points" : [ ],
   "related" : [ ],
   "tosback2" : {
     "legal-notice" : {
@@ -55,10 +56,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "apple.com",

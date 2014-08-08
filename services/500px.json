@@ -8,9 +8,9 @@
   "icons" : { },
   "id" : "500px",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "500px",
-    "url" : "https://500px.com/settings",
-    "difficulty" : "easy"
+    "url" : "https://500px.com/settings"
   },
   "keywords" : [ ],
   "links" : {
@@ -25,6 +25,7 @@
   },
   "name" : "500px",
   "pointIds" : [ "wYFqcvOn7XY3", "ozS1etNH7ZA", "wYFqcvOn7XY2", "wYFqcvOn7XY", "3uiIrLyj8Hw", "y7polYRKTN0", "any-time-with-notice", "X99SUnV7RUs", "x2OybdCClW0" ],
+  "points" : [ ],
   "related" : [ "flickr" ],
   "tosback2" : {
     "privacy" : {
@@ -40,10 +41,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "D",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "500px.com",

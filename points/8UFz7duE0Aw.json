@@ -11,11 +11,12 @@
   },
   "title" : "Spotify uses different agreements for special offers and community access",
   "topicIds" : [ "readability" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "separate policies for some parts of the service",
     "point" : "neutral",
     "score" : 0,
-    "tldr" : "Special offers and community access to customer service may use different agreements than the EULA. However, these agreements cannot contradict the EULA.",
-    "case" : "separate policies for some parts of the service"
+    "tldr" : "Special offers and community access to customer service may use different agreements than the EULA. However, these agreements cannot contradict the EULA."
   }
 }

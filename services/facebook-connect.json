@@ -12,12 +12,13 @@
   "name" : "Facebook Connect",
   "parent" : "facebook",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ "mozilla-persona" ],
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
   "type" : "software",
   "urls" : [ ]

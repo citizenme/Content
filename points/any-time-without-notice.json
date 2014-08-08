@@ -9,11 +9,12 @@
   "source" : { },
   "title" : "Terms may be changed at any time without advance notice",
   "topicIds" : [ "changes" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "user needs to check tosback.org",
     "point" : "bad",
     "score" : 70,
-    "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms.",
-    "case" : "user needs to check tosback.org"
+    "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms."
   }
 }

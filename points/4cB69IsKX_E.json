@@ -7,11 +7,12 @@
   "source" : { },
   "title" : "Very broad copyright license on your content",
   "topicIds" : [ "copyright-scope" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "broader than necessary",
     "point" : "bad",
     "score" : 50,
-    "tldr" : "The copyright licence is very broad. It includes the right for YouTube to share your content with others and to use in an unlimited way to promote the service in connection with its successors and affiliates (like Google). This licence is revoked when you delete your content but applies forever to textual content like comments.",
-    "case" : "broader than necessary"
+    "tldr" : "The copyright licence is very broad. It includes the right for YouTube to share your content with others and to use in an unlimited way to promote the service in connection with its successors and affiliates (like Google). This licence is revoked when you delete your content but applies forever to textual content like comments."
   }
 }

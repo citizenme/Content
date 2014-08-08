@@ -7,20 +7,21 @@
   "icons" : { },
   "id" : "coursera",
   "jdm" : {
-    "name" : "Coursera",
-    "url" : "https://www.coursera.org/about/contact",
     "difficulty" : "hard",
-    "notes" : "Contact support and request they delete your account."
+    "name" : "Coursera",
+    "notes" : "Contact support and request they delete your account.",
+    "url" : "https://www.coursera.org/about/contact"
   },
   "keywords" : [ ],
   "name" : "coursera",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

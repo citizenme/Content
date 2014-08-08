@@ -8,9 +8,9 @@
   "icons" : { },
   "id" : "disqus",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Disqus",
-    "url" : "http://disqus.com/pages/dashboard/#account",
-    "difficulty" : "easy"
+    "url" : "http://disqus.com/pages/dashboard/#account"
   },
   "keywords" : [ "blog", "comments" ],
   "links" : {
@@ -29,6 +29,7 @@
   },
   "name" : "Disqus",
   "pointIds" : [ "any-time-without-notice" ],
+  "points" : [ ],
   "related" : [ ],
   "tosback2" : {
     "privacy" : {
@@ -48,10 +49,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "disqus.com",

@@ -10,11 +10,12 @@
   },
   "title" : "Tracking data",
   "topicIds" : [ "track" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "tracking data deleted after 10 days and opt-out",
     "point" : "good",
     "score" : 80,
-    "tldr" : "Twitter begins deleting all tracking data it collects from you after 10 days. You can also opt-out of personalisation settings which track your website visits to tailor their service to you. To completely opt-out, enable the Do-Not-Track option in your browser settings.",
-    "case" : "tracking data deleted after 10 days and opt-out"
+    "tldr" : "Twitter begins deleting all tracking data it collects from you after 10 days. You can also opt-out of personalisation settings which track your website visits to tailor their service to you. To completely opt-out, enable the Do-Not-Track option in your browser settings."
   }
 }

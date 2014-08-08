@@ -12,11 +12,12 @@
   },
   "title" : "they can remove your account after complaints",
   "topicIds" : [ "suspension" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "they can suspend your account for several reasons",
     "point" : "neutral",
     "score" : 15,
-    "tldr" : "If we get \nabuse information concerning any files hosted on OwnCube, we will \ninform the corresponding user about it and give him/her the \nopportunity to remove the relevant data IMMEDIATELY. If the files are \nnot removed within ONE day, we claim the right to remove the user's \naccount.",
-    "case" : "they can suspend your account for several reasons"
+    "tldr" : "If we get \nabuse information concerning any files hosted on OwnCube, we will \ninform the corresponding user about it and give him/her the \nopportunity to remove the relevant data IMMEDIATELY. If the files are \nnot removed within ONE day, we claim the right to remove the user's \naccount."
   }
 }

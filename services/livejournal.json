@@ -7,20 +7,21 @@
   "icons" : { },
   "id" : "livejournal",
   "jdm" : {
-    "name" : "LiveJournal",
-    "url" : "http://www.livejournal.com/accountstatus.bml",
     "difficulty" : "medium",
-    "notes" : "Once you delete your journal you have 30 days to undelete it, in case you change your mind. After 30 days, the journal will be permanently deleted and there will be no way to recover it."
+    "name" : "LiveJournal",
+    "notes" : "Once you delete your journal you have 30 days to undelete it, in case you change your mind. After 30 days, the journal will be permanently deleted and there will be no way to recover it.",
+    "url" : "http://www.livejournal.com/accountstatus.bml"
   },
   "keywords" : [ ],
   "name" : "livejournal",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

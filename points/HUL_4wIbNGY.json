@@ -9,11 +9,12 @@
   },
   "title" : "Advance notice of changes",
   "topicIds" : [ "changes" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "user is notified a week or more in advance",
     "point" : "good",
     "score" : 30,
-    "tldr" : "Ordinarily, Google posts changes to terms on their site or if they are significant, will notify you via email. Google won't implement changes sooner than 14 days after noticed was given or posted. They will not reduce your rights under their privacy policy without your explicit consent.",
-    "case" : "user is notified a week or more in advance"
+    "tldr" : "Ordinarily, Google posts changes to terms on their site or if they are significant, will notify you via email. Google won't implement changes sooner than 14 days after noticed was given or posted. They will not reduce your rights under their privacy policy without your explicit consent."
   }
 }

@@ -16,12 +16,13 @@
   "name" : "JoinDiaspora.com",
   "parent" : "diaspora",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "http://joindiaspora.com/",

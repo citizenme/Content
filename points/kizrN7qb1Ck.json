@@ -10,11 +10,12 @@
   },
   "title" : "Very broad copyright license on your content",
   "topicIds" : [ "copyright-scope" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "very broad",
     "point" : "bad",
     "score" : 80,
-    "tldr" : "The copyright licence is very broad. It includes the right for Facebook share your content with others. Depending on your Facebook Privacy and Application settings, this could apply to your photos and videos. Facebook's right to do this under the licence does not end when you stop using the service either, unless your content has been deleted by everyone else.",
-    "case" : "very broad"
+    "tldr" : "The copyright licence is very broad. It includes the right for Facebook share your content with others. Depending on your Facebook Privacy and Application settings, this could apply to your photos and videos. Facebook's right to do this under the licence does not end when you stop using the service either, unless your content has been deleted by everyone else."
   }
 }

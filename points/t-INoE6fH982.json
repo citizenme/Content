@@ -10,11 +10,12 @@
   },
   "title" : "Delicious can license your content to third-parties",
   "topicIds" : [ "copyright-scope", "third" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "broad license including right to distribute through any media",
     "point" : "bad",
     "score" : 100,
-    "tldr" : "The scope of the copyright license granted to Delicious includes the rights to transfer and sublicense. This means your content can be licensed by Delicious to third-parties on their terms.",
-    "case" : "broad license including right to distribute through any media"
+    "tldr" : "The scope of the copyright license granted to Delicious includes the rights to transfer and sublicense. This means your content can be licensed by Delicious to third-parties on their terms."
   }
 }

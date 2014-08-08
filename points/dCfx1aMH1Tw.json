@@ -11,6 +11,7 @@
   },
   "title" : "Reduction of legal period for cause of action",
   "topicIds" : [ "governance" ],
+  "topics" : [ ],
   "tosback2-data" : {
     "terms" : {
       "extracted" : "Statute of Limitations: You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Service or the Terms of Service must be filed within one (1) year after such claim or cause of action arose or be forever barred. ",
@@ -20,9 +21,9 @@
   },
   "tosdr" : {
     "binding" : "true",
+    "case" : "reduction of legal period for cause of action",
     "point" : "bad",
     "score" : 50,
-    "tldr" : "You cannot sue Twitpic for something that has happened more than one year ago. ",
-    "case" : "reduction of legal period for cause of action"
+    "tldr" : "You cannot sue Twitpic for something that has happened more than one year ago. "
   }
 }

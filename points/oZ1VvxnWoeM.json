@@ -12,11 +12,12 @@
   },
   "title" : "Couchsurfing may retain your data after deactivation for legitimate business purposes",
   "topicIds" : [ "leave" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "your content stays licensed",
     "point" : "bad",
     "score" : 25,
-    "tldr" : "\"may retain certain information as required by law, for legitimate \nbusiness purposes and to protect member safety.\" They say they will hold data from already \nclosed accounts in order to help them combat fraud on the platform. ",
-    "case" : "your content stays licensed"
+    "tldr" : "\"may retain certain information as required by law, for legitimate \nbusiness purposes and to protect member safety.\" They say they will hold data from already \nclosed accounts in order to help them combat fraud on the platform. "
   }
 }

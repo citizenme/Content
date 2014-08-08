@@ -7,19 +7,20 @@
   "icons" : { },
   "id" : "goodreads",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Goodreads",
-    "url" : "http://www.goodreads.com/user/destroy",
-    "difficulty" : "easy"
+    "url" : "http://www.goodreads.com/user/destroy"
   },
   "keywords" : [ ],
   "name" : "goodreads",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

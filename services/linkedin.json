@@ -2,40 +2,40 @@
   "alexa" : 12,
   "class" : "",
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "https://www.linkedin.com/settings/"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
+    "linkid" : "changeBio",
     "url" : "https://www.linkedin.com/profile/edit"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://www.linkedin.com/uas/change-password"
   }, {
-    "linkid" : "changeEmail",
     "description" : "Change Email",
+    "linkid" : "changeEmail",
     "url" : "https://www.linkedin.com/settings/manage-email"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
     "url" : "https://www.linkedin.com/settings/?tab=email"
   }, {
-    "linkid" : "deleteAccount",
     "description" : "Delete Account",
+    "linkid" : "deleteAccount",
     "url" : "https://www.linkedin.com/secure/settings?closemyaccountstart"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
+    "linkid" : "recoverPassword",
     "url" : "https://www.linkedin.com/uas/request-password-reset"
   }, {
-    "linkid" : "changeProfilePicture",
     "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
     "url" : "https://www.linkedin.com/profile/edit-picture-info"
   }, {
-    "linkid" : "changeThirdPartyPermissions",
     "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
     "url" : "https://www.linkedin.com/secure/settings?userAgree="
   } ],
   "fileName" : "linkedin.json",
@@ -56,22 +56,23 @@
   },
   "id" : "linkedin",
   "jdm" : {
+    "difficulty" : "medium",
     "meta" : "popular",
     "name" : "LinkedIn",
-    "url" : "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
-    "difficulty" : "medium",
-    "notes" : "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it."
+    "notes" : "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it.",
+    "url" : "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account"
   },
   "keywords" : [ "jobs", "professional" ],
   "links" : { },
   "name" : "LinkedIn",
   "pointIds" : [ "eff-back-transparency-data", "eff-back-tell-user" ],
+  "points" : [ ],
   "related" : [ "xing" ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "linkedin.com/",

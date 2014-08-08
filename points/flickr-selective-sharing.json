@@ -4,6 +4,7 @@
   "source" : { },
   "title" : "Privacy Controls for selective sharing",
   "topicIds" : [ "privacy-controls" ],
+  "topics" : [ ],
   "tosdr" : {
     "point" : "good",
     "score" : 20,

@@ -21,6 +21,7 @@
   },
   "name" : "OwnCube",
   "pointIds" : [ "any-time-without-notice", "naPvRf-l3VM", "QzpPtRmNxks" ],
+  "points" : [ ],
   "related" : [ ],
   "tosback2" : {
     "privacy" : {
@@ -36,10 +37,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "owncube.com",

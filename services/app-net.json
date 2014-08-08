@@ -8,9 +8,9 @@
   "icons" : { },
   "id" : "app-net",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "App.net",
-    "url" : "https://account.app.net/settings/delete/",
-    "difficulty" : "easy"
+    "url" : "https://account.app.net/settings/delete/"
   },
   "keywords" : [ "tweet", "microblog" ],
   "links" : {
@@ -25,6 +25,7 @@
   },
   "name" : "App.net",
   "pointIds" : [ "I7i-2EM0GVY", "OqIkAS2uwmE-8", "OqIkAS2uwmE-11", "OqIkAS2uwmE-9", "6HDli9X01C8", "OqIkAS2uwmE-2", "OqIkAS2uwmE-1", "OqIkAS2uwmE-6", "zqgg8oLZ_no", "x2OybdCClW0", "OqIkAS2uwmE-4" ],
+  "points" : [ ],
   "related" : [ "twitter", "seenthis", "identi-ca" ],
   "tosback2" : {
     "privacy" : {
@@ -40,10 +41,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "app.net",

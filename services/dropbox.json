@@ -26,20 +26,21 @@
   },
   "id" : "dropbox",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Dropbox",
-    "url" : "https://www.dropbox.com/account/delete",
-    "difficulty" : "easy"
+    "url" : "https://www.dropbox.com/account/delete"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "Dropbox",
   "pointIds" : [ "td68YSswb-w", "eff-back-transparency-data", "any-time-with-notice", "eff-back-tell-user" ],
+  "points" : [ ],
   "related" : [ "spideroak" ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "dropbox.com",

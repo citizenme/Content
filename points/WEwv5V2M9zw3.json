@@ -10,11 +10,12 @@
   },
   "title" : "The copyright license is limited for certain types of content",
   "topicIds" : [ "copyright-scope" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "limited for purpose of same service",
     "point" : "good",
     "score" : 80,
-    "tldr" : "When you submit or make publicly available, photos, graphics, audio or video content, on Yahoo Services, you grant Yahoo a licence that is limited for the purpose for which such content was submitted or made available and (if you are a user from the EU for example, that content may also be used to promote Yahoo Services across their network.) In all instances, the licence ends with the removal of the content, either by you or Yahoo/Flickr. For other types of content in publically accessible areas of Flickr or Yahoo, these limitations don't apply and the broad licence for Yahoo to use it does not end with the removal of that content.",
-    "case" : "limited for purpose of same service"
+    "tldr" : "When you submit or make publicly available, photos, graphics, audio or video content, on Yahoo Services, you grant Yahoo a licence that is limited for the purpose for which such content was submitted or made available and (if you are a user from the EU for example, that content may also be used to promote Yahoo Services across their network.) In all instances, the licence ends with the removal of the content, either by you or Yahoo/Flickr. For other types of content in publically accessible areas of Flickr or Yahoo, these limitations don't apply and the broad licence for Yahoo to use it does not end with the removal of that content."
   }
 }

@@ -11,11 +11,12 @@
   },
   "title" : "Google can share your personal information with other parties",
   "topicIds" : [ "law-gov", "track", "third" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "third-party access without a warrant",
     "point" : "bad",
     "score" : 50,
-    "tldr" : "Google can share your personal information with other parties. For sensitive information (medical, racial, ethnic, political, religious or sexuality) Google requires your \"opt-in\" consent. Google can also share or publish aggregated data that does not identify you.",
-    "case" : "third-party access without a warrant"
+    "tldr" : "Google can share your personal information with other parties. For sensitive information (medical, racial, ethnic, political, religious or sexuality) Google requires your \"opt-in\" consent. Google can also share or publish aggregated data that does not identify you."
   }
 }

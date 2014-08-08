@@ -12,20 +12,21 @@
   },
   "id" : "citizenme",
   "jdm" : {
-    "name" : "citizenme",
-    "url" : "http://www.citizenme.com",
     "difficulty" : "easy",
-    "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion."
+    "name" : "citizenme",
+    "notes" : "Currently there is no concept of accounts and therefore no concerns about account deletion.",
+    "url" : "http://www.citizenme.com"
   },
   "keywords" : [ ],
   "name" : "citizenme",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

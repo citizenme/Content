@@ -11,11 +11,12 @@
   },
   "title" : "Spotify doesn't provide refunds",
   "topicIds" : [ "guarantee" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "no refund policy",
     "point" : "neutral",
     "score" : 50,
-    "tldr" : "Spotify does not offer refunds upon termination of their services, either by you or Spotify.",
-    "case" : "no refund policy"
+    "tldr" : "Spotify does not offer refunds upon termination of their services, either by you or Spotify."
   }
 }

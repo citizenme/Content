@@ -10,11 +10,12 @@
   },
   "title" : "Very broad copyright license on your content",
   "topicIds" : [ "copyright-scope" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "very broad",
     "point" : "bad",
     "score" : 80,
-    "tldr" : "The copyright licence is very broad. It includes the right for Twitter to share your tweets and any attached content like images or video with others on their terms, not yours.",
-    "case" : "very broad"
+    "tldr" : "The copyright licence is very broad. It includes the right for Twitter to share your tweets and any attached content like images or video with others on their terms, not yours."
   }
 }

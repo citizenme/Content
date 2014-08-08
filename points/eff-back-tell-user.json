@@ -9,11 +9,12 @@
   },
   "title" : "Promise to inform you about data requests from governments",
   "topicIds" : [ "law-gov" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "promise to inform/notify",
     "point" : "good",
     "score" : 50,
-    "tldr" : "This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable.",
-    "case" : "promise to inform/notify"
+    "tldr" : "This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable."
   }
 }

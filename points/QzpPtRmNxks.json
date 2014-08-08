@@ -12,11 +12,12 @@
   },
   "title" : "user data is not sold",
   "topicIds" : [ "personal-data" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "personal data is not sold",
     "point" : "good",
     "score" : 25,
-    "tldr" : "We do not sell, trade, or rent \nUsers personal identification information to others.",
-    "case" : "personal data is not sold"
+    "tldr" : "We do not sell, trade, or rent \nUsers personal identification information to others."
   }
 }

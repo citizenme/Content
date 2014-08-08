@@ -7,20 +7,21 @@
   "icons" : { },
   "id" : "deviantart",
   "jdm" : {
-    "name" : "DeviantArt",
-    "url" : "https://www.deviantart.com/settings/deactivation",
     "difficulty" : "easy",
-    "notes" : "All your data is ereased immediately. Accounts can be reactivated within 30 days. After that, Accounts can't be reactivated."
+    "name" : "DeviantArt",
+    "notes" : "All your data is ereased immediately. Accounts can be reactivated within 30 days. After that, Accounts can't be reactivated.",
+    "url" : "https://www.deviantart.com/settings/deactivation"
   },
   "keywords" : [ ],
   "name" : "deviantart",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

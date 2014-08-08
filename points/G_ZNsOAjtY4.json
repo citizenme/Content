@@ -7,11 +7,12 @@
   "source" : { },
   "title" : "You are solely responsible for your account and its content",
   "topicIds" : [ "governance" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "you are responsible for what you publish",
     "point" : "neutral",
     "score" : 10,
-    "tldr" : "You are solely responsible for your content and the consequences of its publication on YouTube together with all activity under your account. You are also solely responsible for keeping your account password secure. YouTube is not liable for any unauthorized use of your account, but you may be liable if this unauthorized use causes losses for YouTube or the others.",
-    "case" : "you are responsible for what you publish"
+    "tldr" : "You are solely responsible for your content and the consequences of its publication on YouTube together with all activity under your account. You are also solely responsible for keeping your account password secure. YouTube is not liable for any unauthorized use of your account, but you may be liable if this unauthorized use causes losses for YouTube or the others."
   }
 }

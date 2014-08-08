@@ -13,11 +13,12 @@
   },
   "title" : "A public record of past terms of service policies",
   "topicIds" : [ "readability" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "archives provided",
     "point" : "good",
     "score" : 10,
-    "tldr" : "The terms of service page on their site provides a link to their archive of all past policies so you can see how terms have changed with each update.",
-    "case" : "archives provided"
+    "tldr" : "The terms of service page on their site provides a link to their archive of all past policies so you can see how terms have changed with each update."
   }
 }

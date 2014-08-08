@@ -3,52 +3,52 @@
   "class" : "",
   "dataexport" : "false",
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "https://twitter.com/settings/profile"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
+    "linkid" : "changeBio",
     "url" : "https://twitter.com/settings/profile"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://twitter.com/settings/password"
   }, {
-    "linkid" : "changeUsername",
     "description" : "Change Username",
+    "linkid" : "changeUsername",
     "url" : "https://twitter.com/settings/account"
   }, {
-    "linkid" : "changeEmail",
     "description" : "Change Email",
+    "linkid" : "changeEmail",
     "url" : "https://twitter.com/settings/account"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
     "url" : "https://twitter.com/settings/notifications"
   }, {
-    "linkid" : "deleteAccount",
     "description" : "Delete Account",
+    "linkid" : "deleteAccount",
     "url" : "https://twitter.com/settings/account"
   }, {
-    "linkid" : "changeMobileSettings",
     "description" : "Change Mobile Settings",
+    "linkid" : "changeMobileSettings",
     "url" : "https://twitter.com/settings/devices"
   }, {
-    "linkid" : "changeProfilePicture",
     "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
     "url" : "https://twitter.com/settings/profile"
   }, {
-    "linkid" : "changeDesign",
     "description" : "Change Design",
+    "linkid" : "changeDesign",
     "url" : "https://twitter.com/settings/design"
   }, {
-    "linkid" : "changeConnectedAccounts",
     "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
     "url" : "https://twitter.com/settings/profile"
   }, {
-    "linkid" : "changeThirdPartyPermissions",
     "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
     "url" : "https://twitter.com/settings/applications"
   } ],
   "fileName" : "twitter.json",
@@ -62,11 +62,11 @@
   },
   "id" : "twitter",
   "jdm" : {
+    "difficulty" : "easy",
     "meta" : "popular",
     "name" : "Twitter",
-    "url" : "https://twitter.com/settings/accounts/confirm_deactivation",
-    "difficulty" : "easy",
-    "notes" : "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. More details"
+    "notes" : "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. More details",
+    "url" : "https://twitter.com/settings/accounts/confirm_deactivation"
   },
   "keywords" : [ ],
   "links" : {
@@ -81,6 +81,7 @@
   },
   "name" : "twitter",
   "pointIds" : [ "damOWTFaho0", "X6_GxyBSVnE", "eff-back-transparency-data", "OR7vkW34mm4", "e0F4cavaJ4Q", "aXOIDbzevYE-1", "tmXfQIGPTvs", "eff-back-tell-user", "XB4iO-9xHvg" ],
+  "points" : [ ],
   "related" : [ "identi-ca", "seenthis" ],
   "tosback2" : {
     "privacy" : {
@@ -96,10 +97,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "twitter.com",

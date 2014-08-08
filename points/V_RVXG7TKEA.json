@@ -11,6 +11,7 @@
   },
   "title" : "Jurisdiction in Delaware",
   "topicIds" : [ "jurisdiction-law" ],
+  "topics" : [ ],
   "tosback2-data" : {
     "terms" : {
       "extracted" : "The Terms of Service and the relationship between you and Twitpic shall be governed by the laws of the State of Delaware without regard to its conflict of law provisions. You and Twitpic agree to submit to the personal and exclusive jurisdiction of the courts located within Dover, Delaware",
@@ -20,9 +21,9 @@
   },
   "tosdr" : {
     "binding" : "true",
+    "case" : "court of law is in location X",
     "point" : "neutral",
     "score" : 0,
-    "tldr" : "Courts located within Dover, Delaware have exclusive jurisdiction and shall apply the laws of the State of Delaware without regard to its conflict of law provisions.",
-    "case" : "court of law is in location X"
+    "tldr" : "Courts located within Dover, Delaware have exclusive jurisdiction and shall apply the laws of the State of Delaware without regard to its conflict of law provisions."
   }
 }

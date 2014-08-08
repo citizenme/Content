@@ -13,11 +13,11 @@
   },
   "id" : "skype",
   "jdm" : {
+    "difficulty" : "hard",
     "meta" : "popular",
     "name" : "Skype",
-    "url" : "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
-    "difficulty" : "hard",
-    "notes" : "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account, and your signup email address."
+    "notes" : "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account, and your signup email address.",
+    "url" : "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account"
   },
   "keywords" : [ ],
   "links" : {
@@ -80,6 +80,7 @@
   },
   "name" : "Skype",
   "pointIds" : [ "any-time-without-notice", "eff-back-tell-user-no", "T98obrJsjJA-2" ],
+  "points" : [ ],
   "related" : [ ],
   "tosback2" : {
     "business" : {
@@ -143,10 +144,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "skype.com",

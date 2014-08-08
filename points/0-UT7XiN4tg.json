@@ -9,6 +9,7 @@
   },
   "title" : "No tracking cookies and web analytics opt-out",
   "topicIds" : [ "cookies", "third" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
     "point" : "good",

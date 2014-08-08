@@ -11,11 +11,12 @@
   },
   "title" : "Your personal information is not shared with third parties for marketing purposes",
   "topicIds" : [ "personal-data", "third" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "personal data is not sold",
     "point" : "good",
     "score" : 25,
-    "tldr" : "No “Personally identifiable information” is shared with third parties for marketing purposes.",
-    "case" : "personal data is not sold"
+    "tldr" : "No “Personally identifiable information” is shared with third parties for marketing purposes."
   }
 }

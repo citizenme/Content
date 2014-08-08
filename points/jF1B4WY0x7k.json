@@ -11,6 +11,7 @@
   },
   "title" : "You indemnify Twitpic from any claim related to your content",
   "topicIds" : [ "governance" ],
+  "topics" : [ ],
   "tosback2-data" : {
     "terms" : {
       "extracted" : "You agree to indemnify and hold Twitpic, its officers and employees exempt from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of Content you submit, transmit, post or otherwise make available through Twitpic. ",
@@ -20,9 +21,9 @@
   },
   "tosdr" : {
     "binding" : "true",
+    "case" : "responsible and indemnify",
     "point" : "bad",
     "score" : 40,
-    "tldr" : "You agree to indemnify Twitpic and its employees from any claim made by any third party related to your content. That includes paying reasonable attorneys' fees.",
-    "case" : "responsible and indemnify"
+    "tldr" : "You agree to indemnify Twitpic and its employees from any claim made by any third party related to your content. That includes paying reasonable attorneys' fees."
   }
 }

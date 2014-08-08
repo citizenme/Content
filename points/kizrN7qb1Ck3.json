@@ -10,11 +10,12 @@
   },
   "title" : "Content published under a free license",
   "topicIds" : [ "copyright-scope" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "you publish under a free license, not a bilateral one",
     "point" : "good",
     "score" : 90,
-    "tldr" : "“you grant all readers the right to use, re-use, modify and/or re-distribute the Content under the terms of the Creative Commons Attribution 3.0.”",
-    "case" : "you publish under a free license, not a bilateral one"
+    "tldr" : "“you grant all readers the right to use, re-use, modify and/or re-distribute the Content under the terms of the Creative Commons Attribution 3.0.”"
   }
 }

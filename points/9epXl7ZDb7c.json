@@ -11,11 +11,12 @@
   },
   "title" : "Changes can happen any time, sometimes without notice",
   "topicIds" : [ "changes" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "user needs to check tosback.org",
     "point" : "bad",
     "score" : 70,
-    "tldr" : "“GitHub reserves the right to update and change the Terms of Service from time to time without notice.” Fortunately, the privacy policy benefits from a special clause: changes to the privacy policy will be notified to you, but there is no delay.",
-    "case" : "user needs to check tosback.org"
+    "tldr" : "“GitHub reserves the right to update and change the Terms of Service from time to time without notice.” Fortunately, the privacy policy benefits from a special clause: changes to the privacy policy will be notified to you, but there is no delay."
   }
 }

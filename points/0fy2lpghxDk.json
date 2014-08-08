@@ -12,11 +12,12 @@
   },
   "title" : "You must use your real name to register",
   "topicIds" : [ "track" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "no pseudonym allowed (relevant for billing)",
     "point" : "neutral",
     "score" : 0,
-    "tldr" : "When registering for Cloudant and creating your username and password, you must provide true, accurate, current, and complete information. This includes a real name.",
-    "case" : "no pseudonym allowed (relevant for billing)"
+    "tldr" : "When registering for Cloudant and creating your username and password, you must provide true, accurate, current, and complete information. This includes a real name."
   }
 }

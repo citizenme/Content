@@ -2,57 +2,57 @@
   "alexa" : 1,
   "class" : "",
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
-    "url" : "https://www.facebook.com/settings"
+    "linkid" : "settingsPage",
+    "url" : "https://www.fb.com/settings"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
-    "url" : "http://www.facebook.com/editprofile.php"
+    "linkid" : "changeBio",
+    "url" : "https://www.fb.com/editprofile.php"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
-    "url" : "https://www.facebook.com/settings?tab=account&t"
+    "linkid" : "changePassword",
+    "url" : "https://www.fb.com/settings?tab=account&t"
   }, {
-    "linkid" : "changeUsername",
     "description" : "Change Username",
-    "url" : "https://www.facebook.com/settings?tab=account&t"
+    "linkid" : "changeUsername",
+    "url" : "https://www.fb.com/settings?tab=account&section=username&view"
   }, {
-    "linkid" : "changeEmail",
     "description" : "Change Email",
-    "url" : "https://www.facebook.com/settings?tab=account&t"
+    "linkid" : "changeEmail",
+    "url" : "https://www.fb.com/settings?tab=account&section=email&view"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
-    "url" : "http://www.facebook.com/settings?tab=notifications&section=Facebook&t"
+    "linkid" : "changeEmailSettings",
+    "url" : "https://www.fb.com/settings?tab=notifications&section=through_email&view"
   }, {
-    "linkid" : "deleteAccount",
     "description" : "Delete Account",
-    "url" : "http://www.facebook.com/help/contact.php?show_form=delete_account"
+    "linkid" : "deleteAccount",
+    "url" : "https://www.fb.com/help/contact.php?show_form=delete_account"
   }, {
-    "linkid" : "changeMobileSettings",
     "description" : "Change Mobile Settings",
-    "url" : "https://www.facebook.com/settings?tab=mobile"
+    "linkid" : "changeMobileSettings",
+    "url" : "https://www.fb.com/settings?tab=mobile"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
-    "url" : "https://www.facebook.com/recover.php"
+    "linkid" : "recoverPassword",
+    "url" : "https://www.fb.com/recover.php"
   }, {
-    "linkid" : "changeProfilePicture",
     "description" : "Change Profile Picture",
-    "url" : "http://www.facebook.com/editprofile.php"
+    "linkid" : "changeProfilePicture",
+    "url" : "https://www.fb.com/editprofile.php"
   }, {
-    "linkid" : "changeDesign",
     "description" : "Change Design",
-    "url" : "http://www.facebook.com/editprofile.php"
+    "linkid" : "changeDesign",
+    "url" : "https://www.fb.com/editprofile.php"
   }, {
-    "linkid" : "changeConnectedAccounts",
     "description" : "Change Connected Accounts",
-    "url" : "https://www.facebook.com/settings?tab=account&t"
+    "linkid" : "changeConnectedAccounts",
+    "url" : "https://www.fb.com/settings?tab=applications"
   }, {
-    "linkid" : "changeThirdPartyPermissions",
     "description" : "Change 3rd Party Permissions",
-    "url" : "http://www.facebook.com/settings/?tab=applications"
+    "linkid" : "changeThirdPartyPermissions",
+    "url" : "https://www.fb.com/settings/?tab=applications"
   } ],
   "fileName" : "facebook.json",
   "freesoftware" : false,
@@ -65,11 +65,11 @@
   },
   "id" : "facebook",
   "jdm" : {
+    "difficulty" : "medium",
     "meta" : "popular",
     "name" : "Facebook",
-    "url" : "https://www.facebook.com/help/delete_account?rdrhc",
-    "difficulty" : "medium",
-    "notes" : "While you can delete your account easily, some of the data including messages, are there to stay forever, just as stated in the website's privacy policy."
+    "notes" : "While you can delete your account easily, some of the data including messages, are there to stay forever, just as stated in the website's privacy policy.",
+    "url" : "https://www.facebook.com/help/delete_account?rdrhc"
   },
   "keywords" : [ "social network" ],
   "links" : {
@@ -84,6 +84,7 @@
   },
   "name" : "Facebook",
   "pointIds" : [ "s98UR0Jx6Z4", "no-pseudos-allowed", "eff-back-transparency-data", "kizrN7qb1Ck", "eff-back-tell-user-no", "E58aPtzP3jk", "VTlWfubfib4" ],
+  "points" : [ ],
   "related" : [ "diaspora" ],
   "tosback2" : {
     "privacy" : {
@@ -99,10 +100,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "facebook.com",

@@ -20,12 +20,13 @@
   "name" : "identi.ca",
   "parent" : "status-net",
   "pointIds" : [ "kizrN7qb1Ck3" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "identi.ca",

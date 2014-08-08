@@ -12,11 +12,12 @@
   },
   "title" : "Personal information can be disclosed in case of business transfer or insolvency",
   "topicIds" : [ "business-transfer" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "may sell your data in merger",
     "point" : "bad",
     "score" : 20,
-    "tldr" : "SoundCloud “We may disclose your personal information to any person or company that acquires all or substantially all of the assets or business of SoundCloud, or on a merger of our business, or in the event of our insolvency. ”",
-    "case" : "may sell your data in merger"
+    "tldr" : "SoundCloud “We may disclose your personal information to any person or company that acquires all or substantially all of the assets or business of SoundCloud, or on a merger of our business, or in the event of our insolvency. ”"
   }
 }

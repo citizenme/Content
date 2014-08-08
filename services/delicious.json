@@ -20,9 +20,9 @@
   },
   "id" : "delicious",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Delicious",
-    "url" : "https://delicious.com/settings/deactivate",
-    "difficulty" : "easy"
+    "url" : "https://delicious.com/settings/deactivate"
   },
   "keywords" : [ ],
   "links" : {
@@ -37,6 +37,7 @@
   },
   "name" : "Delicious",
   "pointIds" : [ "t-INoE6fH98", "0oKZG_o_Zu0", "aXOIDbzevYE", "t-INoE6fH982", "LbwpukmRtgg", "lJGsikCSEJ8" ],
+  "points" : [ ],
   "related" : [ ],
   "tosback2" : {
     "privacy" : {
@@ -52,10 +53,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "D",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "delicious.com",

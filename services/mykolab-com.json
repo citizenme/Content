@@ -12,12 +12,13 @@
   "links" : { },
   "name" : "MyKolab.com",
   "pointIds" : [ "9ZMf5a9kXL0", "nSIRipxEjgA", "MH-wV1_yq-M", "KE-E1Yihw3A", "0xA8pXtfHHE", "9BhYL-QFjm0", "r7msSDkBDbA", "0-UT7XiN4tg", "PxTW7htonFw" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ "email", "cloud", "groupware", "calendar", "contacts" ],
     "rated" : "A",
-    "related" : [ "google" ],
-    "alexa" : 0
+    "related" : [ "google" ]
   },
   "type" : "service",
   "urls" : [ "mykolab.com" ]

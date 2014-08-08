@@ -13,11 +13,12 @@
   },
   "title" : "Court of law is California",
   "topicIds" : [ "jurisdiction-law" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "court of law is in location X",
     "point" : "neutral",
     "score" : 0,
-    "tldr" : "Court of law is California.",
-    "case" : "court of law is in location X"
+    "tldr" : "Court of law is California."
   }
 }

@@ -9,11 +9,12 @@
   "source" : { },
   "title" : "Pseudonyms allowed",
   "topicIds" : [ "track" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "pseudonyms allowed",
     "point" : "good",
     "score" : 20,
-    "tldr" : "You do not have to provide your legal name (except for paid accounts for billing purposes) and you can use the service with a pseudonym.",
-    "case" : "pseudonyms allowed"
+    "tldr" : "You do not have to provide your legal name (except for paid accounts for billing purposes) and you can use the service with a pseudonym."
   }
 }

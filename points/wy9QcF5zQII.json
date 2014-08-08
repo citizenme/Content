@@ -9,11 +9,12 @@
   },
   "title" : "Very broad copyright license on your content",
   "topicIds" : [ "copyright-scope" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "very broad",
     "point" : "bad",
     "score" : 80,
-    "tldr" : "The copyright licence is very broad. It includes the right for Instagram to share your images and video content with others, including their affiliates, like Facebook.",
-    "case" : "very broad"
+    "tldr" : "The copyright licence is very broad. It includes the right for Instagram to share your images and video content with others, including their affiliates, like Facebook."
   }
 }

@@ -7,19 +7,20 @@
   "icons" : { },
   "id" : "fitocracy",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Fitocracy",
-    "url" : "https://www.fitocracy.com/account/deletion/",
-    "difficulty" : "easy"
+    "url" : "https://www.fitocracy.com/account/deletion/"
   },
   "keywords" : [ ],
   "name" : "fitocracy",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]

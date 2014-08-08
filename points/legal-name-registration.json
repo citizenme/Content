@@ -9,11 +9,12 @@
   "source" : { },
   "title" : "You must provide your legal name upon registration",
   "topicIds" : [ "track" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "pseudonym not allowed (not because of user-to-user trust)",
     "point" : "bad",
     "score" : 20,
-    "tldr" : "You agree to provide your full legal name when you register to the service. It does not prevent you from using a pseudonym.",
-    "case" : "pseudonym not allowed (not because of user-to-user trust)"
+    "tldr" : "You agree to provide your full legal name when you register to the service. It does not prevent you from using a pseudonym."
   }
 }

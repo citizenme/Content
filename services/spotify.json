@@ -13,10 +13,10 @@
   },
   "id" : "spotify",
   "jdm" : {
-    "name" : "Spotify",
-    "url" : "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact",
     "difficulty" : "hard",
-    "notes" : "Contact Spotify’s customer services through their contact form and request for your account to be closed."
+    "name" : "Spotify",
+    "notes" : "Contact Spotify’s customer services through their contact form and request for your account to be closed.",
+    "url" : "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact"
   },
   "keywords" : [ ],
   "links" : {
@@ -43,6 +43,7 @@
   },
   "name" : "Spotify",
   "pointIds" : [ "1i3hOEOUGKE", "gmHxO_NEbYY", "4MH1NGVKhkw", "U7B3ap8wM4s", "8UFz7duE0Aw", "EWDvg3nJjrg", "uixQPFWpk64", "NE5Y7fPVdwo", "Z6GIUGCugcw", "aB4Up1nYpKI", "2vAAIqFyMKc", "0_MR5Jg90Qc", "uPdU4F02XuU", "SsibwYhQI6M", "a0Fspx8pPAQ", "1OdZ8UFaOyM", "sK89ltXERXs", "Kuubl4Eaxd0", "RXRw6w-rc5o", "1yCvNNgmbgM" ],
+  "points" : [ ],
   "related" : [ "soundcloud" ],
   "tosback2" : {
     "mobile" : {
@@ -70,10 +71,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 1000000,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 1000000
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "spotify.com",

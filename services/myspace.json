@@ -26,20 +26,21 @@
   },
   "id" : "myspace",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "MySpace",
-    "url" : "https://new.myspace.com/settings/profile",
-    "difficulty" : "easy"
+    "url" : "https://new.myspace.com/settings/profile"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "myspace",
   "pointIds" : [ "eff-back-transparency-data", "eff-back-tell-user-no" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "myspace.com",

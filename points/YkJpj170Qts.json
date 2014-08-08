@@ -12,11 +12,12 @@
   },
   "title" : "You should follow the community guidelines",
   "topicIds" : [ "governance" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "your use is subject to a policies, guidelines, etc.",
     "point" : "neutral",
     "score" : 0,
-    "tldr" : "The community guidelines are here: \nhttp://www.couchsurfing.org/guidelines \nyou agree to follow them.",
-    "case" : "your use is subject to a policies, guidelines, etc."
+    "tldr" : "The community guidelines are here: \nhttp://www.couchsurfing.org/guidelines \nyou agree to follow them."
   }
 }

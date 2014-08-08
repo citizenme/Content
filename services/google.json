@@ -2,48 +2,48 @@
   "alexa" : 2,
   "class" : "C",
   "deepLinks" : [ {
-    "linkid" : "settingsPage",
     "description" : "Settings Page",
+    "linkid" : "settingsPage",
     "url" : "https://plus.google.com/u/0/settings"
   }, {
-    "linkid" : "changeBio",
     "description" : "Change Bio",
+    "linkid" : "changeBio",
     "url" : "https://plus.google.com/u/0/me/about/edit/d"
   }, {
-    "linkid" : "changePassword",
     "description" : "Change Password",
+    "linkid" : "changePassword",
     "url" : "https://www.google.com/accounts/b/0/EditPasswd"
   }, {
-    "linkid" : "changeUsername",
     "description" : "Change Username",
+    "linkid" : "changeUsername",
     "url" : "https://accounts.google.com/b/0/EditUserInfo"
   }, {
-    "linkid" : "changeEmail",
     "description" : "Change Email",
+    "linkid" : "changeEmail",
     "url" : "https://www.google.com/accounts/b/0/EditUserInfo"
   }, {
-    "linkid" : "changeEmailSettings",
     "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
     "url" : "https://www.google.com/settings/plus"
   }, {
-    "linkid" : "deleteAccount",
     "description" : "Delete Account",
+    "linkid" : "deleteAccount",
     "url" : "https://www.google.com/accounts/b/0/DeleteAccount"
   }, {
-    "linkid" : "recoverPassword",
     "description" : "Recover Password",
+    "linkid" : "recoverPassword",
     "url" : "https://www.google.com/accounts/recovery"
   }, {
-    "linkid" : "changeProfilePicture",
     "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
     "url" : "https://plus.google.com/u/0/me/about/edit/d"
   }, {
-    "linkid" : "changeConnectedAccounts",
     "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
     "url" : "https://profiles.google.com/connectedaccounts?authuser=0"
   }, {
-    "linkid" : "changeThirdPartyPermissions",
     "description" : "Change 3rd Party Permissions",
+    "linkid" : "changeThirdPartyPermissions",
     "url" : "https://plus.google.com/apps"
   } ],
   "fileName" : "google.json",
@@ -57,10 +57,10 @@
   },
   "id" : "google",
   "jdm" : {
+    "difficulty" : "easy",
     "meta" : "popular",
     "name" : "Google",
-    "url" : "https://www.google.com/accounts/Login",
-    "difficulty" : "easy"
+    "url" : "https://www.google.com/accounts/Login"
   },
   "keywords" : [ "search", "groups" ],
   "links" : {
@@ -83,6 +83,7 @@
   },
   "name" : "Google",
   "pointIds" : [ "yCSzdR_gOW4", "JcGg9TPZ7V0", "2xvjZf1mgd0", "QZgR8faRWDU", "eff-back-transparency-data", "damOWTFaho0-1", "Vn7He54dnVI", "lU-QhFXMOcU", "HUL_4wIbNGY", "ji7uAaXXTN4", "eff-back-tell-user-no", "PD5ZWzgv2RI", "E58aPtzP3jk" ],
+  "points" : [ ],
   "related" : [ "yahoo", "duckduckgo" ],
   "tosback2" : {
     "definitions" : {
@@ -106,10 +107,10 @@
     }
   },
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "C",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "google.com",

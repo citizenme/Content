@@ -11,6 +11,7 @@
   },
   "title" : "Deleted images are not really deleted",
   "topicIds" : [ "leave" ],
+  "topics" : [ ],
   "tosback2-data" : {
     "terms" : {
       "extracted" : "Deleted images are only accessed in the event of a legal issue",
@@ -20,9 +21,9 @@
   },
   "tosdr" : {
     "binding" : "true",
+    "case" : "deleted content is not really deleted",
     "point" : "blocker",
     "score" : 30,
-    "tldr" : "“Deleted images are only accessed in the event of a legal issue.”",
-    "case" : "deleted content is not really deleted"
+    "tldr" : "“Deleted images are only accessed in the event of a legal issue.”"
   }
 }

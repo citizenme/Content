@@ -10,11 +10,12 @@
   },
   "title" : "Twitter deletes data after 30 days. It keeps rights on your content.",
   "topicIds" : [ "leave" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "your content stays licensed",
     "point" : "bad",
     "score" : 25,
-    "tldr" : "If you deactivate your account or your account is closed, Twitter retains all the rights on your content due to their very broad copyright licence which applies even after termination of the service. However, after 30 days Twitter begins to delete your data.",
-    "case" : "your content stays licensed"
+    "tldr" : "If you deactivate your account or your account is closed, Twitter retains all the rights on your content due to their very broad copyright licence which applies even after termination of the service. However, after 30 days Twitter begins to delete your data."
   }
 }

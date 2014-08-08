@@ -7,11 +7,12 @@
   "source" : { },
   "title" : "Jurisdiction varies",
   "topicIds" : [ "jurisdiction-law" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "court of law is in location X",
     "point" : "neutral",
     "score" : 0,
-    "tldr" : "Ordinarily, UK YouTube users are bound by English law for any legal matter arising from the Terms of Service. However, YouTube retains a right to apply for urgent legal remedies in any jurisdiction. Also, YouTube shares a universal privacy policy with Google and this policy relates to Google's terms which are governed by California laws and jurisdiction.",
-    "case" : "court of law is in location X"
+    "tldr" : "Ordinarily, UK YouTube users are bound by English law for any legal matter arising from the Terms of Service. However, YouTube retains a right to apply for urgent legal remedies in any jurisdiction. Also, YouTube shares a universal privacy policy with Google and this policy relates to Google's terms which are governed by California laws and jurisdiction."
   }
 }

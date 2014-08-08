@@ -13,11 +13,12 @@
   },
   "title" : "App.net's terms are simple and easy to follow",
   "topicIds" : [ "readability" ],
+  "topics" : [ ],
   "tosdr" : {
     "binding" : "true",
+    "case" : "easy to read",
     "point" : "good",
     "score" : 10,
-    "tldr" : "Terms are simple, not too long, and easy to follow.",
-    "case" : "easy to read"
+    "tldr" : "Terms are simple, not too long, and easy to follow."
   }
 }

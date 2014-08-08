@@ -29,20 +29,21 @@
   },
   "id" : "microsoft",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "Microsoft Account",
-    "url" : "https://account.live.com/closeaccount.aspx",
-    "difficulty" : "easy"
+    "url" : "https://account.live.com/closeaccount.aspx"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "Microsoft Services",
   "pointIds" : [ "eff-back-transparency-data", "6Rb57dXnJVQ", "any-time-without-notice", "eff-back-tell-user-no" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "microsoft.com",

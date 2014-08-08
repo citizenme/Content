@@ -11,19 +11,20 @@
   "icons" : { },
   "id" : "newsblur",
   "jdm" : {
+    "difficulty" : "easy",
     "name" : "NewsBlur",
-    "url" : "https://www.newsblur.com/profile/delete_account",
-    "difficulty" : "easy"
+    "url" : "https://www.newsblur.com/profile/delete_account"
   },
   "keywords" : [ ],
   "name" : "Newsblur",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "newsblur.com",

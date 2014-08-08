@@ -15,21 +15,22 @@
   "icons" : { },
   "id" : "gravatar",
   "jdm" : {
-    "name" : "Gravatar",
-    "url" : "http://gravatar.com",
     "difficulty" : "impossible",
-    "notes" : "You can't delete your Gravatar Account without deleting your entire WordPress Account."
+    "name" : "Gravatar",
+    "notes" : "You can't delete your Gravatar Account without deleting your entire WordPress Account.",
+    "url" : "http://gravatar.com"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "Gravatar",
   "pointIds" : [ "T98obrJsjJA", "Kj5tyqxJkz4" ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "url" : "gravatar.com",

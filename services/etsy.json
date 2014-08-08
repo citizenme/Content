@@ -7,20 +7,21 @@
   "icons" : { },
   "id" : "etsy",
   "jdm" : {
-    "name" : "Etsy",
-    "url" : "http://www.etsy.com/help/article/53",
     "difficulty" : "hard",
-    "notes" : "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file."
+    "name" : "Etsy",
+    "notes" : "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file.",
+    "url" : "http://www.etsy.com/help/article/53"
   },
   "keywords" : [ ],
   "name" : "etsy",
   "pointIds" : [ ],
+  "points" : [ ],
   "related" : [ ],
   "tosdr" : {
+    "alexa" : 0,
     "keywords" : [ ],
     "rated" : "false",
-    "related" : [ ],
-    "alexa" : 0
+    "related" : [ ]
   },
   "type" : "service",
   "urls" : [ ]
