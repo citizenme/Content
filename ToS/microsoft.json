@@ -1,7 +1,55 @@
 {
   "alexa" : 7,
   "class" : "",
-  "deepLinks" : [ ],
+  "deepLinks" : [ {
+    "description" : "Settings Page",
+    "linkid" : "settingsPage",
+    "url" : "https://account.live.com/summarypage.aspx"
+  }, {
+    "description" : "Change Bio",
+    "linkid" : "changeBio",
+    "url" : "https://profile.live.com/"
+  }, {
+    "description" : "Change Password",
+    "linkid" : "changePassword",
+    "url" : "https://account.live.com/password/Change"
+  }, {
+    "description" : "Change Username",
+    "linkid" : "changeUsername",
+    "url" : "https://account.live.com/SummaryPage.aspx"
+  }, {
+    "description" : "Change Email",
+    "linkid" : "changeEmail",
+    "url" : "https://account.live.com/names/Manage"
+  }, {
+    "description" : "Change Email Settings",
+    "linkid" : "changeEmailSettings",
+    "url" : "https://account.live.com/names/Manage"
+  }, {
+    "description" : "Close Account",
+    "linkid" : "deleteAccount",
+    "url" : "https://account.live.com/closeaccount.aspx"
+  }, {
+    "description" : "Reset Password",
+    "linkid" : "recoverPassword",
+    "url" : "https://account.live.com/resetpassword.aspx"
+  }, {
+    "description" : "Change Profile Picture",
+    "linkid" : "changeProfilePicture",
+    "url" : "https://profile.live.com/"
+  }, {
+    "description" : "Change Design",
+    "linkid" : "changeDesign",
+    "url" : "https://profile.live.com/"
+  }, {
+    "description" : "Change Connected Accounts",
+    "linkid" : "changeConnectedAccounts",
+    "url" : "https://account.live.com/consent/Manage"
+  }, {
+    "description" : "Change Apps & Services Permissions",
+    "linkid" : "changeThirdPartyPermissions",
+    "url" : "https://account.live.com/consent/Manage"
+  } ],
   "eff_hasyourback" : {
     "in-Congress" : 1,
     "in-court" : 0,
@@ -30,12 +78,15 @@
   "id" : "microsoft",
   "jdm" : {
     "difficulty" : "easy",
+    "meta" : "",
     "name" : "Microsoft Account",
+    "notes" : "",
     "url" : "https://account.live.com/closeaccount.aspx"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "Microsoft Services",
+  "parent" : "",
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-transparency-data",
@@ -177,5 +228,5 @@
   },
   "type" : "service",
   "url" : "microsoft.com",
-  "urls" : [ "microsoft.com" ]
+  "urls" : [ "microsoft.com", "live.com" ]
 }
