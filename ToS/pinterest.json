@@ -23,7 +23,7 @@
   }, {
     "description" : "Change Email Settings",
     "linkid" : "changeEmailSettings",
-    "url" : "https://pinterest.com/prefs/"
+    "url" : "https://www.pinterest.com/settings/#emailNotifications"
   }, {
     "description" : "Delete Account",
     "linkid" : "deleteAccount",
