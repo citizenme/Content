@@ -8,7 +8,7 @@
   }, {
     "description" : "Change Bio",
     "linkid" : "changeBio",
-    "url" : "http://www.youtube.com/account_profile"
+    "url" : "https://www.youtube.com/account"
   }, {
     "description" : "Change Password",
     "linkid" : "changePassword",
@@ -16,35 +16,35 @@
   }, {
     "description" : "Change Email Settings",
     "linkid" : "changeEmailSettings",
-    "url" : "http://www.youtube.com/account_notifications"
+    "url" : "https://www.youtube.com/account_notifications"
   }, {
     "description" : "Delete Account",
     "linkid" : "deleteAccount",
-    "url" : "http://www.youtube.com/account_manage"
+    "url" : "https://www.youtube.com/account_advanced"
   }, {
     "description" : "Change Mobile Settings",
     "linkid" : "changeMobileSettings",
-    "url" : "http://www.youtube.com/account_mobile_setup"
+    "url" : "https://www.youtube.com/account"
   }, {
     "description" : "Recover Password",
     "linkid" : "recoverPassword",
-    "url" : "http://www.youtube.com/account_recovery"
+    "url" : "https://www.youtube.com/account_recovery"
   }, {
     "description" : "Change Profile Picture",
     "linkid" : "changeProfilePicture",
-    "url" : "http://www.youtube.com/account?feature=mhee"
+    "url" : "https://www.youtube.com/user"
   }, {
     "description" : "Change Design",
     "linkid" : "changeDesign",
-    "url" : "http://www.youtube.com/channel_editor?action_editor=1&editor_tab=branding"
+    "url" : "https://www.youtube.com/user"
   }, {
     "description" : "Change Connected Accounts",
     "linkid" : "changeConnectedAccounts",
-    "url" : "http://www.youtube.com/account_sharing"
+    "url" : "https://www.youtube.com/account_sharing"
   }, {
     "description" : "Change 3rd Party Permissions",
     "linkid" : "changeThirdPartyPermissions",
-    "url" : "http://www.youtube.com/account_sharing"
+    "url" : "https://www.youtube.com/account_sharing"
   } ],
   "fileName" : "youtube.json",
   "freesoftware" : false,
