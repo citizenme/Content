@@ -30,14 +30,6 @@
     "linkid" : "recoverPassword",
     "url" : "https://www.youtube.com/account_recovery"
   }, {
-    "description" : "Change Profile Picture",
-    "linkid" : "changeProfilePicture",
-    "url" : "https://www.youtube.com/user"
-  }, {
-    "description" : "Change Design",
-    "linkid" : "changeDesign",
-    "url" : "https://www.youtube.com/user"
-  }, {
     "description" : "Change Connected Accounts",
     "linkid" : "changeConnectedAccounts",
     "url" : "https://www.youtube.com/account_sharing"
