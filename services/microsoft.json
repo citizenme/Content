@@ -87,7 +87,7 @@
   "links" : { },
   "name" : "Microsoft Services",
   "parent" : "",
-  "pointIds" : [ "eff-back-transparency-data", "6Rb57dXnJVQ", "any-time-without-notice", "eff-back-tell-user-no" ],
+  "pointIds" : [ "at-their-discretion-with-notice", "Microsoft-jurisdiction-varies", "Microsoft-cookies-and-web-beacons", "eff-back-transparency-data", "damOWTFaho0-2", "6Rb57dXnJVQ", "Microsoft-third-party-cookies-and-web-beacons", "Microsoft-broad-copyright-license", "Microsoft-content-deletion", "eff-back-tell-user" ],
   "points" : [ ],
   "related" : [ ],
   "tosdr" : {

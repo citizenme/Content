@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "Microsoft-content-deletion",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA\r\n"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Microsoft responds to deletion requests within 30 days",
+  "topicIds" : [ ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "neutral",
+    "score" : 0,
+    "tldr" : "Whilst your account and personal information may be deleted within 30 days, the length of time Microsoft retains your content varies. Outlook emails are retained for about 60 days. An inactive Outlook account content is retained for one year."
+  }
+}

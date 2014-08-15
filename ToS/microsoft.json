@@ -88,6 +88,108 @@
   "name" : "Microsoft Services",
   "parent" : "",
   "points" : [ {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/zWoT_ZWAEM8/discussion",
+    "id" : "at-their-discretion-with-notice",
+    "meta" : {
+      "author" : "Hugo for “Terms of Service; Didn't Read”",
+      "contributors" : [ "Hugo Roy <hugo@tosdr.org>" ],
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : { },
+    "title" : "Terms may be changed at any time, but they will notify you in advance",
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "example" : { },
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "user is notified a week or more in advance",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "This service may change the terms at any time, but they will notify the user in advance - typically via email or by posting proposed changes on their site. Your continued use of the service is taken as acceptance of the new or changed terms."
+    }
+  }, {
+    "discussion" : "",
+    "id" : "Microsoft-jurisdiction-varies",
+    "meta" : {
+      "author" : "Greer Hahn",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "reason" : "",
+    "related-id" : "",
+    "set" : "",
+    "source" : { },
+    "title" : "Jurisdiction varies",
+    "topics" : [ ],
+    "tosdr" : {
+      "binding" : "",
+      "case" : "",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "Any disputes about free services like MSN and Bing are governed by the laws of Washington State, USA. Certain paid for services like ad-free Outlook or Office Services are governed by the laws of the country in which those services are used. "
+    }
+  }, {
+    "discussion" : "",
+    "id" : "Microsoft-cookies-and-web-beacons",
+    "meta" : {
+      "author" : "Greer Hahn",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+    },
+    "reason" : "",
+    "related-id" : "",
+    "set" : "",
+    "source" : { },
+    "title" : "Cookie and web beacon use",
+    "topics" : [ {
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
+      "example" : { },
+      "id" : "cookies",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "",
+      "case" : "",
+      "point" : "bad",
+      "score" : 60,
+      "tldr" : "Microsoft sites use cookies on your computer. This gives Microsoft various forms of information about you, your preferences and behaviour. You can choose to reject all cookies in your browser but this may prevent you from using Microsoft services that require you to sign in. To track you on other Microsoft sites and across the web, Microsoft may also use web beacons that act in a similar way to cookies and gather and contain information about your web browsing behaviour."
+    }
+  }, {
+    "discussion" : "",
+    "id" : "damOWTFaho0-2",
+    "meta" : {
+      "author" : "Greer Hahn",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+    },
+    "reason" : "",
+    "related-id" : "damOWTFaho0",
+    "set" : "",
+    "source" : { },
+    "title" : "A public record of the previous terms of service policy",
+    "topics" : [ ],
+    "tosdr" : {
+      "binding" : "",
+      "case" : "",
+      "point" : "neutral",
+      "score" : 10,
+      "tldr" : "The terms of service page provides a copy of the previous version of the terms (but not a full archive of all past policies) so you can see how terms have changed since the last update."
+    }
+  }, {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-transparency-data",
     "meta" : {
@@ -135,6 +237,9 @@
       "contributors" : [ "see mailing list discussion FIXME" ],
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
+    "reason" : "",
+    "related-id" : "",
+    "set" : "",
     "source" : {
       "faq" : "",
       "terms" : "http://email.microsoft.com/Key-9850701.C.DZTp.G.KK.JT4c15"
@@ -157,48 +262,127 @@
       "case" : "class action waiver",
       "point" : "bad",
       "score" : 50,
-      "tldr" : "a binding arbitration clause and class action waiver that affects how disputes with Microsoft will be resolved in the United States. This clause governs many of Microsoft's online services - including your Microsoft account and many of their online products and services for consumers, such as Hotmail, SkyDrive, Bing, MSN, Office.com, Windows Live Messenger, Windows Photo Gallery, Windows Movie Maker, Windows Mail Desktop, and Windows Writer."
+      "tldr" : "A binding arbitration clause and class action waiver that affects how disputes with Microsoft will be resolved in the United States. This clause governs many of Microsoft's online services - including your Microsoft account and many of their online products and services for consumers, such as Hotmail, SkyDrive, Bing, MSN, Office.com, Windows Live Messenger, Windows Photo Gallery, Windows Movie Maker, Windows Mail Desktop, and Windows Writer."
     }
   }, {
-    "discussion" : "https://groups.google.com/d/msg/tosdr/lb50aLuegoQ/Vko5nZqx4M8J",
-    "id" : "any-time-without-notice",
+    "discussion" : "",
+    "id" : "Microsoft-third-party-cookies-and-web-beacons",
     "meta" : {
-      "author" : "Hugo for “Terms of Service; Didn't Read”",
-      "contributors" : [ "Hugo Roy <hugo@unhosted.org>" ],
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      "author" : "Greer Hahn",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
     },
+    "reason" : "",
+    "related-id" : "",
+    "set" : "",
     "source" : { },
-    "title" : "Terms may be changed at any time without advance notice",
+    "title" : "Third party cookie and web beacon use",
     "topics" : [ {
-      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "description" : "Cookies are files stored locally in your web browser containing identifiable information.",
       "example" : { },
-      "id" : "changes",
+      "id" : "cookies",
       "meta" : {
         "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
       },
-      "name" : "Notice of Changing Terms",
-      "parent" : "changes",
-      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
-      "title" : "Notice of Changing Terms",
+      "name" : "Cookies",
+      "parent" : "track",
+      "subtitle" : "and related technologies",
+      "title" : "Cookies",
       "type" : "topic"
     } ],
     "tosdr" : {
-      "binding" : "true",
-      "case" : "user needs to check tosback.org",
+      "binding" : "",
+      "case" : "",
       "point" : "bad",
-      "score" : 70,
-      "tldr" : "The service can change the terms of service at any time, even without notification to the user. New or updated terms are posted on their site but your continued use of the service is taken as acceptance of the new or changed terms."
+      "score" : 60,
+      "tldr" : "Microsoft lets its affiliates, vendors and third-party service providers set and access their cookies and web beacons on your computer. This means information about you can be shared with them. "
+    }
+  }, {
+    "discussion" : "",
+    "id" : "Microsoft-content-deletion",
+    "meta" : {
+      "author" : "Greer Hahn",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA\r\n"
+    },
+    "reason" : "",
+    "related-id" : "",
+    "set" : "",
+    "source" : { },
+    "title" : "Microsoft responds to deletion requests within 30 days",
+    "topics" : [ ],
+    "tosdr" : {
+      "binding" : "",
+      "case" : "",
+      "point" : "neutral",
+      "score" : 0,
+      "tldr" : "Whilst your account and personal information may be deleted within 30 days, the length of time Microsoft retains your content varies. Outlook emails are retained for about 60 days. An inactive Outlook account content is retained for one year."
+    }
+  }, {
+    "discussion" : "",
+    "id" : "Microsoft-broad-copyright-license",
+    "meta" : {
+      "author" : "Greer Hahn",
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA\r\n"
+    },
+    "reason" : "",
+    "related-id" : "",
+    "set" : "",
+    "source" : { },
+    "title" : "Broad copyright license on your content and data",
+    "topics" : [ {
+      "description" : "Copyright law gives you control over how your content (texts, photos, videos, etc.) can be used, by whom they can be distributed, modified, etc. Sometimes, online services need your permission to perform certain tasks with your content. That's why they ask you to grant them a copyright license. But sometimes, the copyright license is so broad, that your content can be exploited by others without asking you.",
+      "example" : { },
+      "id" : "copyright-scope",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Scope of the copyright license",
+      "parent" : "ownership",
+      "subtitle" : "Do you grant only the necessary rights?",
+      "title" : "Scope of the copyright license",
+      "type" : "topic"
+    }, {
+      "description" : "The content and the data you generate on services online is usually subject to copyright law. When your data are collected by services, they can be considered personal data.  It means that it is your content, your data: you can decide.",
+      "example" : {
+        "bad" : "We get a license beyond the requirements to operate the service, so your data may be used for purposes you do not intend. We will still attribute ownership to you.",
+        "blocker" : "We become the owners of your data.",
+        "good" : "You license us to use your data only for the purpose of operating this service."
+      },
+      "id" : "ownership",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Ownership",
+      "subtitle" : "What happens with the content you generate on the service?",
+      "title" : "Ownership",
+      "type" : "category"
+    }, {
+      "example" : { },
+      "id" : "third",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Third Parties",
+      "subtitle" : "",
+      "title" : "Third Parties",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "",
+      "case" : "",
+      "point" : "bad",
+      "score" : 0,
+      "tldr" : "You retain ownership of your data but by agreeing to Microsoft's terms you give them the right to use your content 'as necessary'. They state they do not use your documents, photos or other personal files to target advertising to you. However, they do use personal information, behavioural information, meta data and supplemented data from third parties (all of which they have a right to share with their affiliates and vendors.)"
     }
   }, {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-tell-user-no",
+    "id" : "eff-back-tell-user",
     "meta" : {
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
     "source" : {
       "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
     },
-    "title" : "No promise to inform you about data requests from governments",
+    "title" : "Promise to inform you about data requests from governments",
     "topics" : [ {
       "description" : "",
       "example" : { },
@@ -213,10 +397,10 @@
     } ],
     "tosdr" : {
       "binding" : "true",
-      "case" : "no promise to inform/notify",
-      "point" : "bad",
+      "case" : "promise to inform/notify",
+      "point" : "good",
       "score" : 50,
-      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it’s unlikely you’d know about the request, you’d have no real opportunity to object to the request being made or carried out."
+      "tldr" : "This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable."
     }
   } ],
   "related" : [ ],

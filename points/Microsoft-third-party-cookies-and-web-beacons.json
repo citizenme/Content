@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "Microsoft-third-party-cookies-and-web-beacons",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Third party cookie and web beacon use",
+  "topicIds" : [ "cookies" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "bad",
+    "score" : 60,
+    "tldr" : "Microsoft lets its affiliates, vendors and third-party service providers set and access their cookies and web beacons on your computer. This means information about you can be shared with them. "
+  }
+}

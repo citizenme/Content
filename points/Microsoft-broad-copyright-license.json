@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "Microsoft-broad-copyright-license",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA\r\n"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Broad copyright license on your content and data",
+  "topicIds" : [ "copyright-scope", "ownership", "third" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "bad",
+    "score" : 0,
+    "tldr" : "You retain ownership of your data but by agreeing to Microsoft's terms you give them the right to use your content 'as necessary'. They state they do not use your documents, photos or other personal files to target advertising to you. However, they do use personal information, behavioural information, meta data and supplemented data from third parties (all of which they have a right to share with their affiliates and vendors.)"
+  }
+}
