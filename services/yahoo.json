@@ -88,7 +88,7 @@
   },
   "name" : "Yahoo!",
   "parent" : "",
-  "pointIds" : [ "WEwv5V2M9zw", "yahoo-cookies-and-web-beacons", "WEwv5V2M9zw2", "q782XE2RUss", "eff-back-transparency-data", "any-time-without-notice", "yahoo-third-party-cookies-and-web-beacons", "eff-back-tell-user", "legal-name-registration", "yahoo-account-deletion" ],
+  "pointIds" : [ "yahoo-cookies-and-web-beacons", "yahoo-account-cancellation", "eff-back-transparency-data", "yahoo-jurisdiction-varies", "WEwv5V2M9zw3", "yahoo-account-deletion", "any-time-with-notice", "yahoo-third-party-cookies-and-web-beacons", "eff-back-tell-user", "legal-name-registration" ],
   "points" : [ ],
   "related" : [ "google" ],
   "tosback2" : {

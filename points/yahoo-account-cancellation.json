@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "yahoo-account-cancellation",
+  "meta" : {
+    "author" : "",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "q782XE2RUss1",
+  "set" : "",
+  "source" : { },
+  "title" : "Your account could be cancelled without notice",
+  "topicIds" : [ "guarantee" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "neutral",
+    "score" : 15,
+    "tldr" : "Yahoo retains the right to cancel or limit your account at any time without notice to you in certain circumstances such as your failure to comply with terms of service, an extended period of inactivity, to comply with law enforcement or even for technical reasons. This could include deletion of your content or other information associated with or contained within your account."
+  }
+}

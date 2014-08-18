@@ -80,7 +80,7 @@
   },
   "name" : "Flickr",
   "parent" : "yahoo",
-  "pointIds" : [ "yahoo-cookies-and-web-beacons", "K1M7Vj1W1VM", "q782XE2RUss1", "eff-back-transparency-data", "WEwv5V2M9zw3", "flickr-selective-sharing", "any-time-with-notice", "sZ6MVIwA-tE", "yahoo-third-party-cookies-and-web-beacons", "eff-back-tell-user", "flickr-jurisdiction-varies", "U11qApwNL2M", "yahoo-account-deletion" ],
+  "pointIds" : [ "K1M7Vj1W1VM", "eff-back-transparency-data", "WEwv5V2M9zw3", "any-time-with-notice", "flickr-selective-sharing", "yahoo-third-party-cookies-and-web-beacons", "eff-back-tell-user", "yahoo-account-cancellation", "yahoo-cookies-and-web-beacons", "sZ6MVIwA-tE", "flickr-jurisdiction-varies", "U11qApwNL2M", "yahoo-account-deletion" ],
   "points" : [ ],
   "related" : [ "twitpic", "500px" ],
   "tosback2" : {
