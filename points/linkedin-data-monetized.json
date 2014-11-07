@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "linkedin-data-monetized",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Selective data used to monetize the service",
+  "topicIds" : [ ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "true",
+    "case" : "",
+    "point" : "neutral",
+    "score" : 0,
+    "tldr" : "Whilst LinkedIn makes an express promise not to sell or rent your personal information (for example, your profile), the data you generate by using the service (every post, connection, interaction, group you join and so on) provides LinkedIn with a mass of other valuable data. They leverage this data to sell their paid for and other premium subscriptions to companies, recruiters and so on. The licence you grant them when you sign up allows them to use the data in this way."
+  }
+}

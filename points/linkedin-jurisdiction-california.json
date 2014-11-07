@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "linkedin-jurisdiction-california",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Jurisdiction in California",
+  "topicIds" : [ "jurisdiction-law" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "true",
+    "case" : "",
+    "point" : "neutral",
+    "score" : 0,
+    "tldr" : "Any disputes regarding the service or the terms are governed by the laws of the State of California and the Santa Clara Courts. You agree to submit to personal jurisdiction of these courts in a legal dispute."
+  }
+}

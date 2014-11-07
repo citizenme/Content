@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "linkedin-content-deletion",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Personal information will generally be deleted within 30 days",
+  "topicIds" : [ "leave" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "neutral",
+    "score" : 0,
+    "tldr" : "Whilst your account and personal information may be deleted within 30 days, LinkedIn can retain your personal information if they deem it 'reasonably necessary' to comply with legal, regulatory, fraud, dispute or abuse matters."
+  }
+}

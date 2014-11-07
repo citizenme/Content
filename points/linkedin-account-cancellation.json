@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "linkedin-account-cancellation",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Your account could be cancelled without notice",
+  "topicIds" : [ "guarantee" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "neutral",
+    "score" : 15,
+    "tldr" : "In certain circumstances, such as your failure to comply with the terms of service, your account could be cancelled, or your use of the service limited, without notice to you."
+  }
+}

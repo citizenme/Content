@@ -65,7 +65,8 @@
   "keywords" : [ "jobs", "professional" ],
   "links" : { },
   "name" : "LinkedIn",
-  "pointIds" : [ "eff-back-transparency-data", "eff-back-tell-user" ],
+  "parent" : "",
+  "pointIds" : [ "linkedin-data-use", "linkedin-data-monetized", "linkedin-third-party-cookies-and-web-beacons", "no-pseudos-allowed", "eff-back-transparency-data", "linkedin-cookies-and-web-beacons", "linkedin-account-cancellation", "any-time-with-notice", "linkedin-content-deletion", "eff-back-tell-user", "linkedin-limited-copyright-license" ],
   "points" : [ ],
   "related" : [ "xing" ],
   "tosdr" : {

@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "linkedin-limited-copyright-license",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Limited copyright license",
+  "topicIds" : [ "copyright-scope" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "true",
+    "case" : "",
+    "point" : "good",
+    "score" : 80,
+    "tldr" : "The copyright license you grant is limited by time i.e. it ends when you delete your content or account. However, it allows LinkedIn to use, copy, modify, distribute, publish, and process your information and content for as long as you use the service or have an account, without any further notice or compensation to you. "
+  }
+}

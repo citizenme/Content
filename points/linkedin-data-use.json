@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "linkedin-data-use",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Data use on other services",
+  "topicIds" : [ "ownership" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "true",
+    "case" : "",
+    "point" : "neutral",
+    "score" : 0,
+    "tldr" : "Your LinkedIn profile may be used to target suggestions on other platforms owned by LinkedIn - like SlideShare."
+  }
+}
