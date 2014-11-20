@@ -50,7 +50,9 @@
   "id" : "tumblr",
   "jdm" : {
     "difficulty" : "easy",
+    "meta" : "",
     "name" : "Tumblr",
+    "notes" : "",
     "url" : "http://www.tumblr.com/account/delete"
   },
   "keywords" : [ "blog" ],
@@ -65,6 +67,7 @@
     }
   },
   "name" : "Tumblr",
+  "parent" : "",
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
     "id" : "eff-back-transparency-data",
@@ -137,14 +140,14 @@
     }
   }, {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
-    "id" : "eff-back-tell-user-no",
+    "id" : "eff-back-tell-user",
     "meta" : {
       "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
     },
     "source" : {
       "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
     },
-    "title" : "No promise to inform you about data requests from governments",
+    "title" : "Promise to inform you about data requests from governments",
     "topics" : [ {
       "description" : "",
       "example" : { },
@@ -159,10 +162,10 @@
     } ],
     "tosdr" : {
       "binding" : "true",
-      "case" : "no promise to inform/notify",
-      "point" : "bad",
+      "case" : "promise to inform/notify",
+      "point" : "good",
       "score" : 50,
-      "tldr" : "The service has made no promise to inform users a government request for their data has been made. As it’s unlikely you’d know about the request, you’d have no real opportunity to object to the request being made or carried out."
+      "tldr" : "This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable."
     }
   } ],
   "related" : [ "wordpress-com", "facebook", "twitter" ],
