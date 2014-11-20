@@ -83,7 +83,8 @@
     }
   },
   "name" : "Facebook",
-  "pointIds" : [ "s98UR0Jx6Z4", "no-pseudos-allowed", "eff-back-transparency-data", "kizrN7qb1Ck", "eff-back-tell-user-no", "E58aPtzP3jk", "VTlWfubfib4" ],
+  "parent" : "",
+  "pointIds" : [ "s98UR0Jx6Z4", "no-pseudos-allowed", "eff-back-transparency-data", "kizrN7qb1Ck", "eff-back-tell-user", "E58aPtzP3jk", "VTlWfubfib4" ],
   "points" : [ ],
   "related" : [ "diaspora" ],
   "tosback2" : {
