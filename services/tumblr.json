@@ -50,7 +50,9 @@
   "id" : "tumblr",
   "jdm" : {
     "difficulty" : "easy",
+    "meta" : "",
     "name" : "Tumblr",
+    "notes" : "",
     "url" : "http://www.tumblr.com/account/delete"
   },
   "keywords" : [ "blog" ],
@@ -65,7 +67,8 @@
     }
   },
   "name" : "Tumblr",
-  "pointIds" : [ "eff-back-transparency-data", "any-time-with-notice", "eff-back-tell-user-no" ],
+  "parent" : "",
+  "pointIds" : [ "eff-back-transparency-data", "any-time-with-notice", "eff-back-tell-user" ],
   "points" : [ ],
   "related" : [ "wordpress-com", "facebook", "twitter" ],
   "tosback2" : {

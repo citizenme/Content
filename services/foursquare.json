@@ -56,14 +56,17 @@
   },
   "id" : "foursquare",
   "jdm" : {
+    "difficulty" : "",
     "meta" : "popular",
     "name" : "Foursquare",
+    "notes" : "",
     "url" : "https://foursquare.com/delete_me"
   },
   "keywords" : [ ],
   "links" : { },
   "name" : "Foursquare",
-  "pointIds" : [ "eff-back-transparency-data", "eff-back-tell-user" ],
+  "parent" : "",
+  "pointIds" : [ "eff-back-tell-user", "eff-back-transparency-data-no" ],
   "points" : [ ],
   "related" : [ ],
   "tosdr" : {

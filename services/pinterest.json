@@ -1,5 +1,6 @@
 {
   "alexa" : 1000000,
+  "class" : "",
   "deepLinks" : [ {
     "description" : "Settings Page",
     "linkid" : "settingsPage",
@@ -60,7 +61,8 @@
   },
   "keywords" : [ ],
   "name" : "pinterest",
-  "pointIds" : [ ],
+  "parent" : "",
+  "pointIds" : [ "eff-back-transparency-data", "eff-back-tell-user" ],
   "points" : [ ],
   "related" : [ ],
   "tosdr" : {
@@ -70,5 +72,6 @@
     "related" : [ ]
   },
   "type" : "service",
+  "url" : "",
   "urls" : [ ]
 }
