@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "skype-data-retention",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Data retention varies",
+  "topicIds" : [ "leave" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "bad",
+    "score" : 50,
+    "tldr" : "Skype generally retains instant, voice and video messages between 30 and 90 days. However they have the flexibility to keep your data for an undetermined amount of time if they need it to comply with legal requests. Their perpetual license terms mean they have a right to use your data even after you delete your account.   "
+  }
+}

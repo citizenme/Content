@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "skype-broad-copyright-license",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Broad copyright on your content and data",
+  "topicIds" : [ "copyright-scope" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "bad",
+    "score" : 50,
+    "tldr" : "The licence you grant Skype when you accept their terms is very broad and covers your personal information and meta data. Terms suggest the licence does not apply to your content yet their privacy policy reserves the right to access, disclose and preserve personal data, including private content (instant messages, voicemails, stored messages or file transfers) at their discretion."
+  }
+}

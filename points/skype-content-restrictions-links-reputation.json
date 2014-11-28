@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "skype-content-restrictions-links-reputation",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Content restrictions using links to Skype sites",
+  "topicIds" : [ "governance" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "bad",
+    "score" : 50,
+    "tldr" : "You are allowed to link to Skype sites on websites you own (for example your blog) but you will breach the terms of use and risk your account being terminated if content on that site damages Skype's reputation. This could infringe on the ability to write a bad review for example without risking your account.      "
+  }
+}

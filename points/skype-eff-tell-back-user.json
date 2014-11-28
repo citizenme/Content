@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "skype-eff-tell-back-user",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "eff-back-tell-user",
+  "set" : "",
+  "source" : { },
+  "title" : "Promise to inform you about data requests from governments",
+  "topicIds" : [ "law-gov" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "good",
+    "score" : 50,
+    "tldr" : "This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable. This is covered by the Microsoft terms for all their free consumer services and applies to Skype users. Skype requests are included in Microsoft's transparency reports."
+  }
+}

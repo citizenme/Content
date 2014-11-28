@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "skype-class-action-waiver",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "6Rb57dXnJVQ",
+  "set" : "",
+  "source" : { },
+  "title" : "Lawsuit and class action waiver",
+  "topicIds" : [ "waiver" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "bad",
+    "score" : 50,
+    "tldr" : "Terms include a binding arbitration clause and class action waiver that affects how disputes with Skype will be resolved in the USA. This clause is shared with Microsoft under their terms of service and is common to their many associated companies such as Hotmail, Bing, MSN etc. Microsoft  purchased Skype in 2011. This expressly applies for USA users and although the clause has been removed from the terms for non-USA users, references to it still exist. "
+  }
+}

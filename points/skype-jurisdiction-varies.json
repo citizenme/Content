@@ -1,0 +1,22 @@
+{
+  "discussion" : "",
+  "id" : "skype-jurisdiction-varies",
+  "meta" : {
+    "author" : "Greer Hahn",
+    "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA"
+  },
+  "reason" : "",
+  "related-id" : "",
+  "set" : "",
+  "source" : { },
+  "title" : "Jurisdiction varies",
+  "topicIds" : [ "jurisdiction-law" ],
+  "topics" : [ ],
+  "tosdr" : {
+    "binding" : "",
+    "case" : "",
+    "point" : "neutral",
+    "score" : 0,
+    "tldr" : "Any disputes about the terms are governed by the state of Washington and the courts of King County, Washington for USA users. For non-USA users, the terms are governed by the laws and courts of Luxembourg."
+  }
+}

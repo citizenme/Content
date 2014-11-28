@@ -79,7 +79,8 @@
     }
   },
   "name" : "Skype",
-  "pointIds" : [ "any-time-without-notice", "eff-back-tell-user-no", "T98obrJsjJA-2" ],
+  "parent" : "",
+  "pointIds" : [ "skype-account-cancellation", "skype-data-retention", "skype-content-restrictions-links-reputation", "skype-eff-tell-back-user", "skype-third-party-cookies-and-web-beacons", "skype-class-action-waiver", "skype-jurisdiction-varies", "any-time-without-notice", "skype-broad-copyright-license", "skype-cookies-and-web-beacons", "skype-implied-consent-friends-data", "skype-eff-back-transparency-data" ],
   "points" : [ ],
   "related" : [ ],
   "tosback2" : {
