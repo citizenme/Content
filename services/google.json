@@ -84,7 +84,7 @@
   },
   "name" : "Google",
   "parent" : "",
-  "pointIds" : [ "yCSzdR_gOW4", "2xvjZf1mgd0", "JcGg9TPZ7V0", "QZgR8faRWDU", "eff-back-transparency-data", "damOWTFaho0-1", "Vn7He54dnVI", "HUL_4wIbNGY", "lU-QhFXMOcU", "ji7uAaXXTN4", "PD5ZWzgv2RI", "E58aPtzP3jk" ],
+  "pointIds" : [ "yCSzdR_gOW4", "JcGg9TPZ7V0", "2xvjZf1mgd0", "QZgR8faRWDU", "eff-back-transparency-data", "damOWTFaho0-1", "Vn7He54dnVI", "lU-QhFXMOcU", "HUL_4wIbNGY", "ji7uAaXXTN4", "eff-back-tell-user", "PD5ZWzgv2RI", "E58aPtzP3jk" ],
   "points" : [ ],
   "related" : [ "yahoo", "duckduckgo" ],
   "tosback2" : {

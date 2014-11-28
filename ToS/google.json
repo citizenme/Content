@@ -114,35 +114,6 @@
       "tldr" : "Google collects a lot of information about the services you use and how you use them, including searches, personally identifiable information and activity when you visit a website using a Google service (e.g. via search or an advertisement). Google does not disclose how long this information is kept on their servers."
     }
   }, {
-    "discussion" : "https://groups.google.com/d/topic/tosdr/2xvjZf1mgd0/discussion",
-    "id" : "2xvjZf1mgd0",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "terms" : "http://www.google.com/intl/en/policies/terms/"
-    },
-    "title" : "Google retains rights on your content when you leave",
-    "topics" : [ {
-      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
-      "example" : { },
-      "id" : "leave",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Right to leave the service",
-      "subtitle" : "To avoid lock-in and stay in control",
-      "title" : "Right to leave the service",
-      "type" : "category"
-    } ],
-    "tosdr" : {
-      "binding" : "true",
-      "case" : "your content stays licensed",
-      "point" : "bad",
-      "score" : 25,
-      "tldr" : "The copyright licence that you grant to Google on content you upload to their services continues even if you stop using the services. This licence applies to all Google services due to their universal terms across services. Otherwise you need to check each service for ways to remove content and for specific clauses that restrict the license in time."
-    }
-  }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/JcGg9TPZ7V0/discussion",
     "id" : "JcGg9TPZ7V0",
     "meta" : {
@@ -173,6 +144,35 @@
       "point" : "neutral",
       "score" : 0,
       "tldr" : "This terms of services agreement is governed by the laws of California, USA, excluding California's conflict of laws rules. This means if there's a dispute between you and Google about the terms of service, you have both already consented to personal jurisdiction in the federal or state courts of Santa Clara County, California."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/topic/tosdr/2xvjZf1mgd0/discussion",
+    "id" : "2xvjZf1mgd0",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://www.google.com/intl/en/policies/terms/"
+    },
+    "title" : "Google retains rights on your content when you leave",
+    "topics" : [ {
+      "description" : "Once you subscribe to the service, will you have the right to leave it and remove your data?",
+      "example" : { },
+      "id" : "leave",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Right to leave the service",
+      "subtitle" : "To avoid lock-in and stay in control",
+      "title" : "Right to leave the service",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "your content stays licensed",
+      "point" : "bad",
+      "score" : 25,
+      "tldr" : "The copyright licence that you grant to Google on content you upload to their services continues even if you stop using the services. This licence applies to all Google services due to their universal terms across services. Otherwise you need to check each service for ways to remove content and for specific clauses that restrict the license in time."
     }
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/QZgR8faRWDU/discussion",
@@ -333,36 +333,6 @@
       "tldr" : "The content you post on a particular Google service can be used by Google on other services you may not be aware of, and even with future services that have not been created yet."
     }
   }, {
-    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/HUL_4wIbNGY",
-    "id" : "HUL_4wIbNGY",
-    "meta" : {
-      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-    },
-    "source" : {
-      "terms" : "http://groups.google.com/intl/en/policies/terms/"
-    },
-    "title" : "Advance notice of changes",
-    "topics" : [ {
-      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
-      "example" : { },
-      "id" : "changes",
-      "meta" : {
-        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
-      },
-      "name" : "Notice of Changing Terms",
-      "parent" : "changes",
-      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
-      "title" : "Notice of Changing Terms",
-      "type" : "topic"
-    } ],
-    "tosdr" : {
-      "binding" : "true",
-      "case" : "user is notified a week or more in advance",
-      "point" : "good",
-      "score" : 30,
-      "tldr" : "Ordinarily, Google posts changes to terms on their site or if they are significant, will notify you via email. Google won't implement changes sooner than 14 days after noticed was given or posted. They will not reduce your rights under their privacy policy without your explicit consent."
-    }
-  }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/lU-QhFXMOcU/discussion",
     "id" : "lU-QhFXMOcU",
     "meta" : {
@@ -394,6 +364,36 @@
       "tldr" : "The copyright license you grant Google is limited to the purpose of operating, promoting, and improving their services, and to develop new ones. It is not however limited by time - so if you leave the service, Google retains the rights to use your content for these purposes."
     }
   }, {
+    "discussion" : "https://groups.google.com/forum/#!topic/tosdr/HUL_4wIbNGY",
+    "id" : "HUL_4wIbNGY",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "terms" : "http://groups.google.com/intl/en/policies/terms/"
+    },
+    "title" : "Advance notice of changes",
+    "topics" : [ {
+      "description" : "Services need to evolve. But it is important that updating the service does not break the consentment with the user. Updates and changes to terms of service and privacy policy need to be properly noticed to users and to sollicit their agreement again.",
+      "example" : { },
+      "id" : "changes",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Notice of Changing Terms",
+      "parent" : "changes",
+      "subtitle" : "Are users notified when terms change? Are they given enough time to find out what changed and discuss this with each other before deciding whether to continue to use the service under the new terms?",
+      "title" : "Notice of Changing Terms",
+      "type" : "topic"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "user is notified a week or more in advance",
+      "point" : "good",
+      "score" : 30,
+      "tldr" : "Ordinarily, Google posts changes to terms on their site or if they are significant, will notify you via email. Google won't implement changes sooner than 14 days after noticed was given or posted. They will not reduce your rights under their privacy policy without your explicit consent."
+    }
+  }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/ji7uAaXXTN4/discussion",
     "id" : "ji7uAaXXTN4",
     "meta" : {
@@ -423,6 +423,35 @@
       "point" : "bad",
       "score" : 40,
       "tldr" : "\"Google may stop providing services to you, or add or create new limits to services at any time.\" Google has no obligation to give you advance notice or to give a reason for that termination."
+    }
+  }, {
+    "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
+    "id" : "eff-back-tell-user",
+    "meta" : {
+      "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+    },
+    "source" : {
+      "reference" : "https://www.eff.org/pages/who-has-your-back#promising-to-inform"
+    },
+    "title" : "Promise to inform you about data requests from governments",
+    "topics" : [ {
+      "description" : "",
+      "example" : { },
+      "id" : "law-gov",
+      "meta" : {
+        "license-for-this-file" : "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA"
+      },
+      "name" : "Law and government requests",
+      "subtitle" : "How do services deal with government requests?",
+      "title" : "Law and government requests",
+      "type" : "category"
+    } ],
+    "tosdr" : {
+      "binding" : "true",
+      "case" : "promise to inform/notify",
+      "point" : "good",
+      "score" : 50,
+      "tldr" : "This service informs users when their data is sought by the government, unless prohibited by law. With this knowledge, you have an opportunity to involve yourself if you think the request is unreasonable."
     }
   }, {
     "discussion" : "https://groups.google.com/d/topic/tosdr/PD5ZWzgv2RI/discussion",
